@@ -17,17 +17,46 @@ Container management automates the provisioning, operation and life cycle manage
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2025/container-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2025/container-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2025/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2025/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2025/container-management.png" loading="lazy" />
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Red Hat](/vendors/red-hat.md)                         |
+| `Leader`        | [SUSE](/vendors/suse.md)                               |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [Huawei](/vendors/huawei.md)                           |
+| `Niche Player`  | [Kubermatic](/vendors/kubermatic.md)                   |
+| `Challenger`    | [Mirantis](/vendors/mirantis.md)                       |
+| `Challenger`    | [Nutanix](/vendors/nutanix.md)                         |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
+| `Challenger`    | [Broadcom (VMWare)](/vendors/broadcom.md)              |
+| `Challenger`    | [Canonical](/vendors/canonical.md)                     |
+| `Challenger`    | [Spectro Cloud](/vendors/spectro-cloud.md)             |
 
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2024/container-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2024/container-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2024/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2024/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2024/container-management.png" loading="lazy" />
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Red Hat](/vendors/red-hat.md)                         |
+| `Leader`        | [SUSE](/vendors/suse.md)                               |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [Broadcom (VMWare)](vendors/broadcom.md)               |
+| `Niche Player`  | [Canonical](/vendors/canonical.md)                     |
+| `Challenger`    | [Huawei](/vendors/huawei.md)                           |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
+| `Challenger`    | [Mirantis](/vendors/mirantis.md)                       |

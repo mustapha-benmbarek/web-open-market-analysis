@@ -18,8 +18,19 @@ Traditional activities regarding data acquisition, data quality, feature enginee
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2024/cloud-ai-developer-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2024/cloud-ai-developer-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2024/cloud-ai-developer-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2024/cloud-ai-developer-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2024/cloud-ai-developer-services.png" loading="lazy" />
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                           |
+| `Visionary`     | [OpenAI](/vendors/openai.md)                           |
+| `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| `Niche Player`  | [Oracle](/vendors/oracle.md)                           |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |

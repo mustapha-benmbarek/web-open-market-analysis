@@ -24,17 +24,40 @@ Many CMP vendors complement their software with optional services, such as conte
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2025/content-marketing-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2025/content-marketing-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2025/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2025/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2025/content-marketing-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Optimizely](/vendors/optimizely.md) |
+| `Leader`        | [Storyteq](/vendors/storyteq.md)     |
+| `Leader`        | [Sprinklr](/vendors/sprinklr.md)     |
+| `Leader`        | [Hubspot](/vendors/hubspot.md)       |
+| `Leader`        | [Adobe](/vendors/adobe.md)           |
+| `Visionary`     | [Sitecore](/vendors/sitecore.md)     |
+| `Niche Player`  | [CoSchedule](/vendors/coschedule.md) |
+| `Niche Player`  | [Contently](/vendors/contently.md)   |
+| `Niche Player`  | [Upland](/vendors/upland.md)         |
+| `Challenger`    | [Lytho](/vendors/lytho.md)           |
+| `Challenger`    | [Skyword](/vendors/skyword.md)       |
 
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2024/content-marketing-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2024/content-marketing-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2024/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2024/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2024/content-marketing-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Optimizely](/vendors/optimizely.md) |
+| `Leader`        | [Storyteq](/vendors/storyteq.md)     |
+| `Leader`        | [Sprinklr](/vendors/sprinklr.md)     |
+| `Leader`        | [Skyword](/vendors/skyword.md)       |
+| `Leader`        | [Sitecore](/vendors/sitecore.md)     |
+| `Niche Player`  | [Contently](/vendors/contently.md)   |
+| `Niche Player`  | [CoSchedule](/vendors/coschedule.md) |
+| `Niche Player`  | [Upland](/vendors/upland.md)         |
+| `Challenger`    | [Adobe](/vendors/adobe.md)           |
+| `Challenger`    | [Acquia](/vendors/acquia.md)         |

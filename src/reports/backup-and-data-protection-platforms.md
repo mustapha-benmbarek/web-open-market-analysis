@@ -28,17 +28,45 @@ Data insights and access capabilities enable vendor solutions to present data to
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2025/backup-and-data-protection-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2025/backup-and-data-protection-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2025/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2025/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2025/backup-and-data-protection-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)                         |
+| `Leader`        | [Commvault](/vendors/commvault.md)                 |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
+| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
+| `Leader`        | [Druva](/vendors/druva.md)                         |
+| `Visionary`     | [IBM](/vendors/ibm.md)                             |
+| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
+| `Niche Player`  | [Unitrends](/vendors/unitrends.md)                 |
+| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                 |
+| `Niche Player`  | [Opentext](/vendors/opentext.md)                   |
+| `Challenger`    | [Huawei](/vendors/huawei.md)                       |
 
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2024/backup-and-data-protection-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2024/backup-and-data-protection-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2024/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2024/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2024/backup-and-data-protection-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)                         |
+| `Leader`        | [Commvault](/vendors/commvault.md)                 |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
+| `Leader`        | [Veritas](/vendors/veritas.md)                     |
+| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
+| `Visionary`     | [Druva](/vendors/druva.md)                         |
+| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
+| `Visionary`     | [IBM](/vendors/ibm.md)                             |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
+| `Niche Player`  | [Unitrends](/vendors/unitrends.md)                 |
+| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                 |
+| `Niche Player`  | [Opentext](/vendors/opentext.md)                   |

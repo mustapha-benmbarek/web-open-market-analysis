@@ -21,26 +21,57 @@ For more than 20 years, visual-exploration-based dashboards and reports have bee
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2025/analytics-and-business-intelligence-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2025/analytics-and-business-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2025/analytics-and-business-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                   |
-| --------------- | ------------------------------- |
-| `Leaders`       | [Microsoft](/vendors/microsoft) |
-| `Leaders`       | [Microsoft](/vendors/microsoft) |
-| `Challengers`   | [Microsoft](/vendors/microsoft) |
-| `Challengers`   | [Microsoft](/vendors/microsoft) |
-| `Niche Players` | [Microsoft](/vendors/microsoft) |
-| `Niche Players` | [Microsoft](/vendors/microsoft) |
-| `Visionaries`   | [Microsoft](/vendors/microsoft) |
-| `Visionaries`   | [Microsoft](/vendors/microsoft) |
-
-<img src="2025/analytics-and-business-intelligence-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Salesforce (Tableau)](/vendors/salesforce.md)         |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Qlik](/vendors/qlik.md)                               |
+| `Leader`        | [ThoughtSpot](/vendors/thoughtspot.md)                 |
+| `Leader`        | [Oracle](/vendors/oracle.md)                           |
+| `Visionary`     | [Strategy](/vendors/strategy.md)                       |
+| `Visionary`     | [SAP](/vendors/sap.md)                                 |
+| `Visionary`     | [Pyramid Analytics](/vendors/pyramid-analytics.md)     |
+| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [SAS](/vendors/sas.md)                                 |
+| `Visionary`     | [Tellius](/vendors/tellius.md)                         |
+| `Niche Player`  | [Sigma](/vendors/sigma.md)                             |
+| `Niche Player`  | [Zoho](/vendors/zoho.md)                               |
+| `Niche Player`  | [Sisense](/vendors/sisense.md)                         |
+| `Niche Player`  | [Incorta](/vendors/incorta.md)                         |
+| `Niche Player`  | [GoodData](/vendors/gooddata.md)                       |
+| `Challenger`    | [Domo](/vendors/domo.md)                               |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
 
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="2024/analytics-and-business-intelligence-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2024/analytics-and-business-intelligence-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="2024/analytics-and-business-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2024/analytics-and-business-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-<img src="2024/analytics-and-business-intelligence-platforms.png" loading="lazy" />
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Salesforce (Tableau)](/vendors/salesforce.md)         |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Qlik](/vendors/qlik.md)                               |
+| `Leader`        | [ThoughtSpot](/vendors/thoughtspot.md)                 |
+| `Leader`        | [Oracle](/vendors/oracle.md)                           |
+| `Visionary`     | [SAP](/vendors/sap.md)                                 |
+| `Visionary`     | [Pyramid Analytics](/vendors/pyramid-analytics.md)     |
+| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [Spotfire](/vendors/spotfire.md)                       |
+| `Visionary`     | [SAS](/vendors/sas.md)                                 |
+| `Visionary`     | [Tellius](/vendors/tellius.md)                         |
+| `Niche Player`  | [Incorta](/vendors/incorta.md)                         |
+| `Niche Player`  | [Zoho](/vendors/zoho.md)                               |
+| `Niche Player`  | [Sisense](/vendors/sisense.md)                         |
+| `Niche Player`  | [GoodData](/vendors/gooddata.md)                       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Challenger`    | [Domo](/vendors/domo.md)                               |
+| `Challenger`    | [MicroStrategy](/vendors/microstrategy.md)             |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |

@@ -5,6 +5,7 @@ import metas from "lume/plugins/metas.ts";
 
 const site = lume({
   src: "./src",
+  prettyUrls: false,
 });
 
 site.use(theme());
