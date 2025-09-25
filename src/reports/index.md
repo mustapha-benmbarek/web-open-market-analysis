@@ -5,12 +5,14 @@ order: 2
 
 # Magic Quadrant
 
-Magic Quadrant and Critical Capabilities planned research
-Gartner Magic Quadrant research methodology provides a graphical competitive positioning of four types of technology providers in fast-growing markets: Leaders, Visionaries, Niche Players and Challengers. As companion research, Gartner Critical Capabilities notes provide deeper insight into the capability and suitability of providers’ IT products and services based on specific or customized use cases.
+Gartner’s Magic Quadrant reports provide a snapshot of how technology providers are positioned in fast-moving markets, grouping them as Leaders, Challengers, Visionaries, or Niche Players. These reports are released throughout the year, with new publications added to [Gartner’s official research calendar](https://www.gartner.com/en/research/magic-quadrant) as they’re scheduled.
 
-The following list of markets, dates and research documents is updated throughout the year with the latest planned Magic Quadrant and Critical Capabilities research notes. View upcoming research on the Publication Calendar.
+Below is a collection of Magic Quadrant reports, spanning from 2024 to the latest available updates.
+The reports are organized alphabetically, and you can also use the search bar to quickly find specific topics or keywords.
 
-The reports have been organized by alphabetic order. You can also search direclty with key words through the search bar.
+> <span style="color:#BF4040; font-size:0.9em; margin-top:10px;">
+>  <u>Important</u>: This content is maintained on a best-effort, but some reports may not be included.
+> </span>
 
 ### 0-9
 
