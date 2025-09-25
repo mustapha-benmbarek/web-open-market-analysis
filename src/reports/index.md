@@ -3,7 +3,7 @@ title: Market Reports
 order: 2
 ---
 
-# Market Research
+# Magic Quadrant
 
 Magic Quadrant and Critical Capabilities planned research
 Gartner Magic Quadrant research methodology provides a graphical competitive positioning of four types of technology providers in fast-growing markets: Leaders, Visionaries, Niche Players and Challengers. As companion research, Gartner Critical Capabilities notes provide deeper insight into the capability and suitability of providers’ IT products and services based on specific or customized use cases.

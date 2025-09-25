@@ -12,4 +12,5 @@ site.use(theme());
 site.use(ogimages());
 site.use(metas());
 
+site.add("/images", "/images/.");
 export default site;

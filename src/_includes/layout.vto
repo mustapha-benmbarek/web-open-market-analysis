@@ -126,18 +126,7 @@
           )?.children
         }}
 
-        {{ if children }}
-          <nav class="body-children">
-            {{ for child of children }}
-              {{ if child.data.url }}
-                <a href="{{ child.data.url }}">{{
-                  child.data.title || child.data.basename
-                }}</a>
-              {{ /if }}
-            {{ /for }}
-          </nav>
-        {{ /if }}
-
+    
         {{ if it.footnotes?.length }}
           <aside role="note" class="footnotes">
             <dl>

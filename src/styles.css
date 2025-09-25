@@ -140,25 +140,45 @@ main {
 .body-nav {
   grid-area: nav;
 }
+
 .body-children {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1em;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5em;
   margin-top: 4em;
+}
 
-  a {
-    color: var(--color-text);
-    border: solid 1px var(--color-line);
-    text-decoration: none;
-    padding: 1em 1.5em;
-    font: var(--font-ui-bold);
-    border-radius: var(--border-radius);
+.body-children .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: var(--color-text);
+  border: 1px solid var(--color-line);
+  text-decoration: none;
+  padding: 1.5em;
+  font: var(--font-ui);
+  border-radius: var(--border-radius);
+  background-color: var(--color-bg);
+  transition: all 0.3s ease;
+  min-height: 150px;
+}
 
-    &:hover {
-      color: var(--color-base);
-      background-color: var(--color-highlight);
-    }
-  }
+.body-children .card h3 {
+  margin: 0 0 0.5em 0;
+  font: var(--font-ui-bold);
+}
+
+.body-children .card p {
+  margin: 0;
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.body-children .card:hover {
+  color: var(--color-base);
+  background-color: var(--color-highlight);
+  border-color: var(--color-base);
+  transform: translateY(-3px);
 }
 
 /* Alignment fix */

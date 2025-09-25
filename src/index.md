@@ -1,28 +1,22 @@
 ---
-title: Openbase
-id: index
+title: Home
 ---
 
-# Getting Started
+# Welcome
 
-## Magic Quadrant and Critical Capabilities planned research
+Openbase is your go-to platform for in-depth **technology market analysis**. We provide clear, structured insights into the latest trends, tools, and solutions shaping the IT landscape.
 
-Gartner Magic Quadrant research methodology provides a graphical competitive positioning of four types of technology providers in fast-growing markets: Leaders, Visionaries, Niche Players and Challengers. As companion research, Gartner Critical Capabilities notes provide deeper insight into the capability and suitability of providers’ IT products and services based on specific or customized use cases.
+For IT professionals—especially **solution architects, cloud architects, and enterprise architects**— understanding the technology market is essential. Making informed decisions requires knowing not only which technologies are emerging, but also which are maturing, gaining adoption, or losing relevance. Openbase helps professionals **stay ahead of the curve**, evaluate solutions critically, and align technology choices with business objectives.
 
-The following list of markets, dates and research documents is updated throughout the year with the latest planned
-Magic Quadrant and Critical Capabilities research notes. View upcoming research on the Publication Calendar.
+Explore Openbase to gain a **competitive edge**, make smarter architecture decisions, and navigate the fast-evolving world of technology with confidence.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+<nav class="body-children">
+  <a href="/vendors/index.md" class="card">
+    <h3>Market Vendors</h3>
+    <p>Explore vendor-focused insights like Magic Quadrants for individual vendors, highlighting strengths, weaknesses, and strategic direction.</p>
+  </a>
+  <a href="/reports/index.md" class="card">
+    <h3>Market Reports</h3>
+    <p>Access up-to-date market research reports, including Magic Quadrant and Critical Capabilities, updated annually per market segment.</p>
+  </a>
+</nav>

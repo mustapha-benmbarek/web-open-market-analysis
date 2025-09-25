@@ -1,8 +1,11 @@
 <nav class="menu-container" id="menu-container">
   {{> const page = search.page("url=/") }}
 
-      <a class="menu-highlight" href="/">Openbase</a>
+<a class="menu-highlight" href="/">
+  <img class="logo-light" src="{{ "/images/logo.png" |> url }}" alt="Openbase" height="80%">
+  <img class="logo-dark" src="{{ "/images/logo-dark.png" |> url }}" alt="Openbase" height="80%">
 
+</a>
 
   {{ if alternates?.length > 1 }}
     <ul class="menu-languages">
