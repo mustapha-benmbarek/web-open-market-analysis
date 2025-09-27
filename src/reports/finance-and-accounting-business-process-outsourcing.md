@@ -25,9 +25,49 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/finance-and-accounting-business-process-outsourcing.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Accenture](/vendors/accenture.md)         |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)           |
+| `Leader`        | [Genpact](/vendors/genpact.md)             |
+| `Leader`        | [Infosys](/vendors/infosys.md)             |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)         |
+| `Leader`        | [EXL](/vendors/exl.md)                     |
+| `Leader`        | [IBM](/vendors/ibm.md)                     |
+| `Leader`        | [Wipro](/vendors/wipro.md)                 |
+| `Leader`        | [WNS](/vendors/wns.md)                     |
+| `Visionary`     | [Cognizant](/vendors/cognizant.md)         |
+| `Niche Player`  | [HCLTech](/vendors/hcltech.md)             |
+| `Niche Player`  | [Datamatics](/vendors/datamatics.md)       |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md) |
+| `Niche Player`  | [Conduent](/vendors/conduent.md)           |
+| `Visionary`     | [TCS](/vendors/tcs.md)                     |
+| `Visionary`     | [Sutherland](/vendors/sutherland.md)       |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/finance-and-accounting-business-process-outsourcing.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/finance-and-accounting-business-process-outsourcing.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Accenture](/vendors/accenture.md)                   |
+| `Leader`        | [Infosys](/vendors/infosys.md)                       |
+| `Leader`        | [EXL](/vendors/exl.md)                               |
+| `Leader`        | [Genpact](/vendors/genpact.md)                       |
+| `Leader`        | [IBM](/vendors/ibm.md)                               |
+| `Leader`        | [WNS](/vendors/wns.md)                               |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)                   |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)                     |
+| `Leader`        | [Wipro](/vendors/wipro.md)                           |
+| `Leader`        | [TCS](/vendors/tcs.md)                               |
+| `Visionary`     | [Cognizant](/vendors/cognizant.md)                   |
+| `Niche Player`  | [HCLTech](/vendors/hcltech.md)                       |
+| `Niche Player`  | [Sutherland](/vendors/sutherland.md)                 |
+| `Niche Player`  | [Datamatics](/vendors/datamatics.md)                 |
+| `Niche Player`  | [CES](/vendors/ces.md)                               |
+| `Niche Player`  | [Conduent](/vendors/conduent.md)                     |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)           |
+| `Niche Player`  | [Exela Technologies](/vendors/exela-technologies.md) |

@@ -31,9 +31,40 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/enterprise-low-code-application-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`        | [OutSystems](/vendors/outsystems.md)   |
+| `Leader`        | [Mendix](/vendors/mendix.md)           |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`        | [ServiceNow](/vendors/servicenow.md)   |
+| `Leader`        | [Appian](/vendors/appian.md)           |
+| `Visionary`     | [Pegasystems](/vendors/pegasystems.md) |
+| `Visionary`     | [SAP](/vendors/sap.md)                 |
+| `Niche Player`  | [Creatio](/vendors/creatio.md)         |
+| `Niche Player`  | [Retool](/vendors/retool.md)           |
+| `Challenger`    | [Oracle](/vendors/oracle.md)           |
+| `Challenger`    | [Zoho](/vendors/zoho.md)               |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/enterprise-low-code-application-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/enterprise-low-code-application-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Mendix](/vendors/mendix.md)           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`        | [OutSystems](/vendors/outsystems.md)   |
+| `Leader`        | [Appian](/vendors/appian.md)           |
+| `Leader`        | [ServiceNow](/vendors/servicenow.md)   |
+| `Leader`        | [Pegasystems](/vendors/pegasystems.md) |
+| `Visionary`     | [Retool](/vendors/retool.md)           |
+| `Visionary`     | [SAP](/vendors/sap.md)                 |
+| `Niche Player`  | [Creatio](/vendors/creatio.md)         |
+| `Niche Player`  | [Newgen](/vendors/newgen.md)           |
+| `Challenger`    | [Oracle](/vendors/oracle.md)           |
+| `Challenger`    | [Salesforce](/vendors/salesforce.md)   |
+| `Challenger`    | [Zoho](/vendors/zoho.md)               |

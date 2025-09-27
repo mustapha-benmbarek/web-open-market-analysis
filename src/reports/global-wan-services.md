@@ -23,9 +23,36 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/global-wan-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)         |
+| `Leader`        | [AT&T](/vendors/at&t.md)                               |
+| `Leader`        | [BT](/vendors/bt.md)                                   |
+| `Leader`        | [Verizon](/vendors/verizon.md)                         |
+| `Leader`        | [NTT](/vendors/ntt.md)                                 |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                       |
+| `Leader`        | [Tata Communications](/vendors/tata-communications.md) |
+| `Niche Player`  | [GTT Communications](/vendors/gtt-communications.md)   |
+| `Challenger`    | [Colt](/vendors/colt.md)                               |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/global-wan-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/global-wan-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                    |
+| --------------- | ---------------------------------------------------------------- |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)                   |
+| `Leader`        | [AT&T](/vendors/at&t.md)                                         |
+| `Leader`        | [Tata Communications](/vendors/tata-communications.md)           |
+| `Leader`        | [BT](/vendors/bt.md)                                             |
+| `Leader`        | [NTT](/vendors/ntt.md)                                           |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                                 |
+| `Leader`        | [Verizon](/vendors/verizon.md)                                   |
+| `Niche Player`  | [GTT Communications](/vendors/gtt-communications.md)             |
+| `Niche Player`  | [RIEDEL Networks](/vendors/riedel-networks.md)                   |
+| `Challenger`    | [Colt Technology Services](/vendors/colt-technology-services.md) |
+| `Challenger`    | [Deutsche Telekom](/vendors/deutsche-telekom.md)                 |
+| `Challenger`    | [Comcast Business](/vendors/comcast-business.md)                 |

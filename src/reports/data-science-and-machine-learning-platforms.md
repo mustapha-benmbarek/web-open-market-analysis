@@ -6,7 +6,6 @@ hide_menu: true
 
 # Data Science and Machine Learning Platforms
 
-Magic Quadrant for Data Science and Machine LearningPlatforms
 Data science and machine learning platforms provide software to build, customize and deploy AI models using various techniques. Data science, machine learning and AI leaders need to select platforms with awareness of AI agents enabling autonomous and interactive workflows and applications.
 
 ## Market Definition
