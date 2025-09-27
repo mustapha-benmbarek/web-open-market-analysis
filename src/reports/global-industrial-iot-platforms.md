@@ -6,7 +6,19 @@ hide_menu: true
 
 # Global Industrial IoT Platforms
 
+Global IIoT platforms have expanded their capabilities to enable industrial automation, industrial data management, smart operations and sustainability use cases. These platforms have matured to deliver value-added capabilities to CIOs from integrated IT/OT systems.
+
 ## Market Definition
+
+The global industrial IoT platform delivers multiple integrations to industrial OT assets and other asset-intensive enterprises’ industrial data sources to aggregate, curate and deliver contextualized insights that enable intelligent applications and dashboards through an edge-to-cloud architecture.
+
+The global industrial Internet of Things (IIoT) platform market exists because of the core capabilities of integrated middleware software that support a multivendor marketplace of intelligent applications to facilitate and automate asset management decision making. IIoT platforms also provide operational visibility and control for plants, infrastructure and equipment. Common use cases are augmentation of industrial automation, remote operations, sustainability and energy management, global scalability, IT/operational technology (OT) convergence, and product servitization of industrial products.
+
+The IIoT platform monitors IoT endpoints and event streams, supports and/or translates a variety of manufacturer and industry proprietary protocols, analyzes data in the platform, at the edge and in the cloud, integrates and engages IT and OT systems in data sharing and consumption, enables application development and deployment and can enrich and supplement OT functions for improved asset management life cycle strategies and processes. In some emerging use cases, the IIoT platform may obviate some OT functions.
+
+The IIoT platform, in concert with the IoT edge and through enterprise IT-OT integration, prepares asset-intensive industries to become digital businesses by enhancing and connecting their core business with external business partners.
+
+The IIoT platform may be consumed as software or cloud services, as a technology suite, or as an open and general-purpose application platform, or in combination with analytics, application enablement, data management, device management, integration, and security functional capabilities. It is engineered to include the requirements of safety and mission criticality associated with industrial assets and their operating environments.
 
 ## Report 2025
 

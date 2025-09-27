@@ -1,6 +1,6 @@
 ---
 title: Market Vendors
-order: 1
+order: 2
 ---
 
 # Market Vendors

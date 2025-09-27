@@ -11,12 +11,12 @@ For IT professionals—especially **solution architects, cloud architects, and e
 Explore Openbase to gain a **competitive edge**, make smarter architecture decisions, and navigate the fast-evolving world of technology with confidence.
 
 <nav class="body-children">
-  <a href="/vendors/index.md" class="card">
-    <h3>Market Vendors</h3>
-    <p>Explore vendor-focused insights like Magic Quadrants for individual vendors, highlighting strengths, weaknesses, and strategic direction.</p>
-  </a>
   <a href="/reports/index.md" class="card">
     <h3>Market Reports</h3>
     <p>Access up-to-date market research reports, including Magic Quadrant and Critical Capabilities, updated annually per market segment.</p>
+  </a>
+  <a href="/vendors/index.md" class="card">
+    <h3>Market Vendors</h3>
+    <p>Explore vendor-focused insights like Magic Quadrants for individual vendors, highlighting strengths, weaknesses, and strategic direction.</p>
   </a>
 </nav>

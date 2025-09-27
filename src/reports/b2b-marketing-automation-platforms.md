@@ -6,7 +6,19 @@ hide_menu: true
 
 # B2B Marketing Automation Platforms
 
+B2B marketing automation platforms enable marketing teams to manage demand generation programs and orchestrate customer engagement. CMOs can leverage this research to assess market maturity and AI innovations and to identify optimal vendors for strategic growth.
+
 ## Market Definition
+
+Gartner defines B2B marketing automation platforms (B2B MAPs) as software applications that support demand generation processes at scale. B2B MAPs help marketers capture and qualify leads and accounts, orchestrate marketing-driven engagement across the full customer journey, and use analytics to optimize and measure performance.
+
+B2B MAPs enable marketers to automate a wide range of activities intended to drive new customer acquisition, retention and growth. To support the pursuit of new commercial opportunities (from current or prospective customers), marketers use B2B MAPs to generate, prioritize, and manage leads and account buying groups across the revenue life cycle. This includes the distribution of marketing-generated and qualified leads to sales teams for further pursuit.
+
+Also, B2B MAPs are used to orchestrate and measure multichannel customer engagement campaigns and programs. B2B MAPs enable marketers to design and activate some communication channels natively — most notably, email and web landing pages — and orchestrate customer engagement through other channels via integrations with other tools/platforms.
+
+Lastly, marketers use B2B MAPs as a tool for collecting, analyzing and reporting performance analytics. Performance analytics enable both tactical measurement, such as marketing channel engagement metrics, and strategic measurement, such as the attribution of marketing activities to commercial outcomes.
+
+B2B MAPs are optimized for B2B marketing use cases. They may also be applicable to B2Corganizations selling high-consideration products with lead management needs or B2B2Cmodels.
 
 ## Report 2025
 

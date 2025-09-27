@@ -6,7 +6,13 @@ hide_menu: true
 
 # Sales Force Automation Platforms
 
+AI integrations are becoming increasingly widespread, with SFA vendors intensifying their focus on generative AI and expanding into agentic AI use cases. Sales operations leaders can use this research to better evaluate vendor solutions and make more informed purchasing decisions.
+
 ## Market Definition
+
+Sales force automation (SFA) platforms are AI-enhanced tools that streamline sales tasks, helping teams manage buyer interactions across various channels. By using AI, these platforms optimize sales activities with advanced analytics and actionable insights, improving contact, pipeline and opportunity management. AI features like machine learning and natural language processing enable platforms to predict customer needs, personalize strategies and guide sellers through complex processes. AI-driven tools aid in forecasting and decision making, allowing teams to anticipate market trends and customer behaviors. SFA platforms enhance the user experience for sellers, ensuring scalability and facilitating seamless buyer-seller interactions and shared customer experiences, and providing leaders with visibility.
+
+SFA is a foundational sales platform implemented to automate and augment an organization’s core sales processes while utilizing AI and advanced analytics. It enhances the seller’s ability to engage with customers on all interaction touchpoints and devices. It not only optimizes sales-relevant tasks but also provides actionable next best actions for improved sales contact, pipeline and opportunity management.
 
 ## Report 2025
 

@@ -1,6 +1,6 @@
 ---
 title: Market Reports
-order: 2
+order: 1
 ---
 
 # Magic Quadrant
@@ -37,7 +37,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### B
 
-- B2B Marketing Automation Platforms
+- [B2B Marketing Automation Platforms](b2b-marketing-automation-platforms.md)
 - [Backup and Data Protection Platforms](backup-and-data-protection-platforms.md)
 - Banking Payment Hub Platforms
 - Business Orchestration and Automation Technologies
@@ -64,8 +64,8 @@ The reports are organized alphabetically, and you can also use the search bar to
 - Core Banking Systems
 - CPS Protection Platforms
 - CRM Customer Engagement Center
-- CSP 5G Core Network Infrastructure Solutions
-- CSP 5G RAN Infrastructure Solutions
+- [CSP 5G Core Network Infrastructure Solutions](csp-5g-core-network-infrastructure-solutions.md)
+- [CSP 5G RAN Infrastructure Solutions](csp-5g-ran-infrastructure-solutions.md)
 - Custom Software Development Services
 - Customer Data Platforms
 - Customer Success Management Platforms
@@ -79,7 +79,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Data Science and Machine Learning Platforms](data-science-and-machine-learning-platforms.md)
 - Decision Intelligence Platforms
 - [Desktop as a Service](desktop-as-a-service.md)
-- DevOps Platforms
+- [DevOps Platforms](devops-platforms.md)
 - Digital Asset Management Platforms
 - Digital Commerce
 - Digital Communications Governance and Archiving Solutions
