@@ -33,9 +33,52 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/observability-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Dynatrace](/vendors/dynatrace.md)                     |
+| `Leader`        | [Datadog](/vendors/datadog.md)                         |
+| `Leader`        | [Grafana Labs](/vendors/grafana-labs.md)               |
+| `Leader`        | [New Relic](/vendors/new-relic.md)                     |
+| `Leader`        | [Elastic](/vendors/elastic.md)                         |
+| `Leader`        | [Splunk](/vendors/splunk.md)                           |
+| `Leader`        | [IBM](/vendors/ibm.md)                                 |
+| `Leader`        | [Chronosphere](/vendors/chronosphere.md)               |
+| `Visionary`     | [Honeycomb](/vendors/honeycomb.md)                     |
+| `Visionary`     | [Coralogix](/vendors/coralogix.md)                     |
+| `Visionary`     | [ScienceLogic](/vendors/sciencelogic.md)               |
+| `Visionary`     | [Apica](/vendors/apica.md)                             |
+| `Niche Player`  | [Sumo Logic](/vendors/sumo-logic.md)                   |
+| `Niche Player`  | [BMC Helix](/vendors/bmc-helix.md)                     |
+| `Niche Player`  | [ITRS](/vendors/itrs.md)                               |
+| `Niche Player`  | [SolarWinds](/vendors/solarwinds.md)                   |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
+| `Challenger`    | [LogicMonitor](/vendors/logicmonitor.md)               |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/observability-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/observability-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Dynatrace](/vendors/dynatrace.md)                     |
+| `Leader`        | [Datadog](/vendors/datadog.md)                         |
+| `Leader`        | [New Relic](/vendors/new-relic.md)                     |
+| `Leader`        | [Grafana Labs](/vendors/grafana-labs.md)               |
+| `Leader`        | [Splunk](/vendors/splunk.md)                           |
+| `Leader`        | [Chronosphere](/vendors/chronosphere.md)               |
+| `Leader`        | [Elastic](/vendors/elastic.md)                         |
+| `Visionary`     | [Honeycomb](/vendors/honeycomb.md)                     |
+| `Visionary`     | [LogicMonitor](/vendors/logicmonitor.md)               |
+| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
+| `Visionary`     | [Logz.io](/vendors/logz.io.md)                         |
+| `Niche Player`  | [Oracle](/vendors/oracle.md)                           |
+| `Niche Player`  | [BMC](/vendors/bmc.md)                                 |
+| `Niche Player`  | [Sumo Logic](/vendors/sumo-logic.md)                   |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
