@@ -18,7 +18,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - 4G and 5G Private Mobile Network Services
 
-<h3>A</h3>
+### A
 
 - Access Management
 - Account-Based Marketing Platforms
@@ -94,22 +94,22 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### E
 
-- Email Security
-- Endpoint Management Tools
+- [Email Security](email-security.md)
+- [Endpoint Management Tools](endpoint-management-tools.md)
 - [Endpoint Protection Platforms](endpoint-protection-platforms.md)
-- Enterprise Architecture Tools
+- [Enterprise Architecture Tools](enterprise-architecture-tools.md)
 - [Enterprise Low-Code Application Platforms](enterprise-low-code-application-platforms.md)
-- Enterprise Storage Platforms
+- [Enterprise Storage Platforms](enterprise-storage-platforms.md)
 - [Enterprise Wired and Wireless LAN Infrastructure](enterprise-wired-and-wireless-lan-infrastructure.md)
-- Event Marketing and Management Platforms
-- Exposure Assessment Platforms
+- [Event Marketing and Management Platforms](event-marketing-and-management-platforms.md)
+- [Exposure Assessment Platforms](exposure-assessment-platforms.md)
 
 ### F
 
 - [Finance and Accounting Business Process Outsourcing](finance-and-accounting-business-process-outsourcing.md)
-- Finance Transformation Strategy Consulting
-- Financial Close and Consolidation Solutions
-- Financial Planning Software
+- [Finance Transformation Strategy Consulting](finance-transformation-strategy-consulting.md)
+- [Financial Close and Consolidation Solutions](financial-close-and-consolidation-solutions.md)
+- [Financial Planning Software](financial-planning-software.md)
 
 ### G
 
@@ -119,69 +119,69 @@ The reports are organized alphabetically, and you can also use the search bar to
 ### H
 
 - [HCM Suites for 1,000+ Employee Enterprises](hcm-suites-for-1,000+-employee-enterprises.md)
-- Higher Education Student Information System Software as a Service
-- Hybrid Mesh Firewall
-- Identity Verification
+- [Higher Education Student Information System Software as a Service](higher-education-student-information-system-software-as-a-service.md)
+- [Hybrid Mesh Firewall](hybrid-mesh-firewall.md)
+- [Identity Verification](identity-verification.md)
 
 ### I
 
-- Indoor Location Services
-- Integration Platform as a Service
-- Intranet Packaged Solutions
+- [Indoor Location Services](indoor-location-services.md)
+- [Integration Platform as a Service](integration-platform-as-a-service.md)
+- [Intranet Packaged Solutions](intranet-packaged-solutions.md)
 
 ### M
 
-- Managed IoT Connectivity Services
-- Managed Network Services
-- Marketing Mix Modeling Solutions
-- Marketing Work Management Platforms
-- Multichannel Marketing Hubs
+- [Managed IoT Connectivity Services](managed-iot-connectivity-services.md)
+- [Managed Network Services](managed-network-services.md)
+- [Marketing Mix Modeling Solutions](marketing-mix-modeling-solutions.md)
+- [Marketing Work Management Platforms](marketing-work-management-platforms.md)
+- [Multichannel Marketing Hubs](multichannel-marketing-hubs.md)
 
 ### N
 
-- Network Detection and Response
+- [Network Detection and Response](metwork-detection-and-response.md)
 
 ### O
 
 - [Observability Platforms](observability-platforms.md)
-- Outsourced Digital Workplace Services
+- [Outsourced Digital Workplace Services](outsourced-digital-workplace-services.md)
 
 ### P
 
-- Personalization Engines
-- Privileged Access Management
-- Process Mining Platforms
-- Public Cloud IT Transformation Services
+- [Personalization Engines](personalization-engines.md)
+- [Privileged Access Management](privileged-access-management.md)
+- [Process Mining Platforms](process-mining-platforms.md)
+- [Public Cloud IT Transformation Services](public-cloud-it-transformation-services.md)
 
 ### R
 
-- Real-Time Transportation Visibility Platforms
-- Recurring Billing Applications
-- Robotic Process Automation
+- [Real-Time Transportation Visibility Platforms](real-time-transportation-visibility-platforms.md)
+- [Recurring Billing Applications](recurring-billing-applications.md)
+- [Robotic Process Automation](robotic-process-automation.md)
 
 ### S
 
-- SaaS Management Platforms
-- SaaS P&C Insurance Core Platforms, North America
+- [SaaS Management Platforms](saas-management-platforms.md)
+- [SaaS P&C Insurance Core Platforms, North America](saas-p&c-insurance-core-platforms-north-america.md)
 - [Sales Force Automation Platforms](sales-force-automation-platforms.md)
-- SASE Platforms
-- Search and Product Discovery
-- Security Information and Event Management
-- Security Service Edge
-- Service Integration and Management Services
-- Service Orchestration and Automation Platforms
-- Software Asset Management Managed Services
-- Source-to-Pay Suites
-- Strategic Cloud Platform Services
-- Strategic Portfolio Management
-- Supplier Risk Management Solutions
-- Supply Chain Planning Solutions
+- [SASE Platforms](sase-platforms.md)
+- [Search and Product Discovery](search-and-product-discovery.md)
+- [Security Information and Event Management](security-information-and-event-management.md)
+- [Security Service Edge](security-service-edge.md)
+- [Service Integration and Management Services](service-integration-and-management-services.md)
+- [Service Orchestration and Automation Platforms](service-orchestration-and-automation-platforms.md)
+- [Software Asset Management Managed Services](software-asset-management-managed-services.md)
+- [Source-to-Pay Suites](source-to-pay-suites.md)
+- [Strategic Cloud Platform Services](strategic-cloud-platform-services.md)
+- [Strategic Portfolio Management](strategic-portfolio-management.md)
+- [Supplier Risk Management Solutions](supplier-risk-management-solutions.md)
+- [Supply Chain Planning Solutions](supply-chain-planning-solutions.md)
 
 ### T
 
-- Talent Acquisition (Recruiting) Suites
-- Third-Party Logistics
-- Transportation Management Systems
+- [Talent Acquisition (Recruiting) Suites](talent-acquisition-suites.md)
+- [Third-Party Logistics](third-party-logistics.md)
+- [Transportation Management Systems](transportation-management-systems.md)
 
 ### U
 
@@ -189,8 +189,8 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### V
 
-- Voice of the Customer Platforms
+- [Voice of the Customer Platforms](voice-of-the-customer-platforms)
 
 ### W
 
-- Warehouse Management Systems
+- [Warehouse Management Systems](warehouse-management-systems.md)
