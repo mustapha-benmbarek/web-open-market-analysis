@@ -21,9 +21,40 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/csp-5g-ran-infrastructure-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Ericsson](/vendors/ericsson.md)                   |
+| `Leader`        | [Huawei](/vendors/huawei.md)                       |
+| `Leader`        | [Nokia](/vendors/nokia.md)                         |
+| `Visionary`     | [ZTE](/vendors/zte.md)                             |
+| `Visionary`     | [Samsung](/vendors/samsung.md)                     |
+| `Niche Player`  | [Mavenir](/vendors/mavenir.md)                     |
+| `Niche Player`  | [NEC](/vendors/nec.md)                             |
+| `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)                     |
+| `Niche Player`  | [CICT Mobile](/vendors/cict-mobile.md)             |
+| `Niche Player`  | [Rakuten Symphony](/vendors/rakuten-symphony.md)   |
+| `Niche Player`  | [Viettel High Tech](/vendors/viettel-high-tech.md) |
+| `Niche Player`  | [MTI](/vendors/mti.md)                             |
+| `Niche Player`  | [Comba Telecom](/vendors/comba-telecom.md)         |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/csp-5g-ran-infrastructure-solutions.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/csp-5g-ran-infrastructure-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [Ericsson](/vendors/ericsson.md)                 |
+| `Leader`        | [Huawei](/vendors/huawei.md)                     |
+| `Leader`        | [Nokia](/vendors/nokia.md)                       |
+| `Visionary`     | [ZTE](/vendors/zte.md)                           |
+| `Visionary`     | [Samsung](/vendors/samsung.md)                   |
+| `Visionary`     | [Mavenir](/vendors/mavenir.md)                   |
+| `Niche Player`  | [NEC](/vendors/nec.md)                           |
+| `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)                   |
+| `Niche Player`  | [CICT Mobile](/vendors/cict-mobile.md)           |
+| `Niche Player`  | [Rakuten Symphony](/vendors/rakuten-symphony.md) |
+| `Niche Player`  | [Comba Telecom](/vendors/comba-telecom.md)       |
+| `Niche Player`  | [MTI](/vendors/mti.md)                           |
