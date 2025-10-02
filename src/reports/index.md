@@ -16,81 +16,82 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### 0-9
 
-- 4G and 5G Private Mobile Network Services
+- [4G and 5G Private Mobile Network Services](4g-and-5g-private-mobile-network-services.md)
 
 ### A
 
-- Access Management
-- Account-Based Marketing Platforms
-- Accounts Payable Applications
-- Adaptive Project Management and Reporting
-- AI Application Development Platforms
-- AI Applications in IT Service Management
+- [Access Management](access-management.md)
+- [Account-Based Marketing Platforms](account-based-marketing-platforms.md)
+- [Accounts Payable Applications](accounts-payable-applications.md)
+- [Adaptive Project Management and Reporting](adaptive-project-management-and-reporting.md)
+- [AI Application Development Platforms](ai-application-development-platforms.md)
+- [AI Applications in IT Service Management](ai-applications-in-it-service-management.md)
 - [AI Code Assistants](ai-code-assistants.md)
-- AI in CSP Customer and Business Operations
-- AI-Augmented Software Testing Tools
-- AI-Enabled Design and Engineering Software
+- [AI in CSP Customer and Business Operations](ai-in-csp-customer-and-business-operations.md)
+- [AI-Augmented Software Testing Tools](ai-augmented-software-testing-tools.md)
+- [AI-Enabled Design and Engineering Software](ai-enabled-design-and-engineering-software.md)
 - [Analytics and Business Intelligence Platforms](analytics-and-business-intelligence-platforms.md)
-- API Management
-- Application Security Testing
-- Augmented Data Quality Solutions
+- [API Management](api-management.md)
+- [Application Security Testing](application-security-testing.md)
+- [Augmented Data Quality Solutions](augmented-data-quality-solutions.md)
 
 ### B
 
 - [B2B Marketing Automation Platforms](b2b-marketing-automation-platforms.md)
 - [Backup and Data Protection Platforms](backup-and-data-protection-platforms.md)
-- Banking Payment Hub Platforms
-- Business Orchestration and Automation Technologies
+- [Banking Payment Hub Platforms](banking-payment-hub-platforms.md)
+- [Business Orchestration and Automation Technologies](business-orchestration-and-automation-technologies.md)
 
 ### C
 
-- Clinical Communication and Collaboration
+- [Clinical Communication and Collaboration](clinical-communication-and-collaboration.md)
 - [Cloud AI Developer Services](cloud-ai-developer-services.md)
-- Cloud Based ERP for U.S. Local Government
-- Cloud Database Management Systems
-- Cloud ERP for Product-Centric Enterprises
-- Cloud ERP for Service-Centric Enterprises
-- Cloud ERP Services
+- [Cloud Based ERP for U.S. Local Government](cloud-based-erp-for-u.s.-local-government.md)
+- [Cloud Database Management Systems](cloud-database-management-systems.md)
+- [Cloud ERP for Product-Centric Enterprises](cloud-erp-for-product-centric-enterprises.md)
+- [Cloud ERP for Service-Centric Enterprises](cloud-erp-for-service-centric-enterprises.md)
+- [Cloud ERP Services](cloud-erp-services.md)
 - [Cloud Financial Management Tools](cloud-financial-management-tools.md)
-- Cloud-Native Application Platforms
-- Collaborative Work Management
+- [Cloud-Native Application Platforms](cloud-native-application-platforms.md)
+- [Collaborative Work Management](collaborative-work-management.md)
 - [Communications Platform as a Service](communications-platform-as-a-service.md)
-- Configure, Price and Quote Applications
+- [Configure, Price and Quote Applications](configure,-price-and-quote-applications.md)
 - [Contact Center as a Service](contact-center-as-a-service.md)
 - [Container Management](container-management.md)
 - [Content Marketing Platforms](content-marketing-platforms.md)
-- Contract Life Cycle Management
-- Conversational AI Platforms
-- Core Banking Systems
-- CPS Protection Platforms
-- CRM Customer Engagement Center
+- [Contract Life Cycle Management](contract-life-cycle-management.md)
+- [Conversational AI Platforms](conversational-ai-platforms.md)
+- [Core Banking Systems](core-banking-systems.md)
+- [CPS Protection Platforms](cps-protection-platforms.md)
+- [CRM Customer Engagement Center](crm-customer-engagement-center.md)
 - [CSP 5G Core Network Infrastructure Solutions](csp-5g-core-network-infrastructure-solutions.md)
 - [CSP 5G RAN Infrastructure Solutions](csp-5g-ran-infrastructure-solutions.md)
-- Custom Software Development Services
-- Customer Data Platforms
-- Customer Success Management Platforms
+- [Custom Software Development Services](custom-software-development-services.md)
+- [Customer Data Platforms](customer-data-platforms.md)
+- [Customer Success Management Platforms](customer-success-management-platforms.md)
 
 ### D
 
-- Data and Analytics Governance Platforms
-- Data Center Outsourcing Services
-- Data Center Switching
-- Data Integration Tools
+- [Data and Analytics Governance Platforms](data-and-analytics-governance-platforms.md)
+- [Data Center Outsourcing Services](data-center-outsourcing-services.md)
+- [Data Center Switching](data-center-switching.md)
+- [Data Integration Tools](data-integration-tools.md)
 - [Data Science and Machine Learning Platforms](data-science-and-machine-learning-platforms.md)
-- Decision Intelligence Platforms
+- [Decision Intelligence Platforms](decision-intelligence-platforms.md)
 - [Desktop as a Service](desktop-as-a-service.md)
 - [DevOps Platforms](devops-platforms.md)
-- Digital Asset Management Platforms
-- Digital Commerce
-- Digital Communications Governance and Archiving Solutions
-- Digital Employee Experience Management Tools
-- Digital Experience Monitoring
+
+- [Digital Asset Management Platforms](digital-asset-management-platforms.md)
+- [Digital Commerce](digital-commerce.md)
+- [Digital Communications Governance and Archiving Solutions](digital-communications-governance-and-archiving-solutions.md)
+- [Digital Employee Experience Management Tools](digital-employee-experience-management-tools.md)
+- [Digital Experience Monitoring](digital-experience-monitoring.md)
 - [Digital Experience Platforms](digital-experience-platforms.md)
-- Digital Experience Services
-- Digital Technology and Business Consulting Services
+- [Digital Experience Services](digital-experience-services.md)
+- [Digital Technology and Business Consulting Services](digital-technology-and-business-consulting-services.md)
 - [Distributed Hybrid Infrastructure](distributed-hybrid-infrastructure.md)
-- Distributed Order Management
-- Document Management
+- [Distributed Order Management](distributed-order-management.md)
+- [Document Management](document-management.md)
 
 ### E
 
