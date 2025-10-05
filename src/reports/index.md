@@ -80,7 +80,6 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Decision Intelligence Platforms](decision-intelligence-platforms.md)
 - [Desktop as a Service](desktop-as-a-service.md)
 - [DevOps Platforms](devops-platforms.md)
-
 - [Digital Asset Management Platforms](digital-asset-management-platforms.md)
 - [Digital Commerce](digital-commerce.md)
 - [Digital Communications Governance and Archiving Solutions](digital-communications-governance-and-archiving-solutions.md)
