@@ -1,7 +1,6 @@
 ---
 title: Recurring Billing Applications
 description: Magic Quadrant for Recurring Billing Applications
-order: 3
 hide_menu: true
 ---
 

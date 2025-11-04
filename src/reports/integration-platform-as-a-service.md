@@ -1,7 +1,6 @@
 ---
 title: Integration Platform as a Service
 description: Magic Quadrant for Integration Platform as a Service
-order: 3
 hide_menu: true
 ---
 

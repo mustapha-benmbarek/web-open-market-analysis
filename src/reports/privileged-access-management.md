@@ -1,7 +1,6 @@
 ---
 title: Privileged Access Management
 description: Magic Quadrant for Privileged Access Management
-order: 3
 hide_menu: true
 ---
 

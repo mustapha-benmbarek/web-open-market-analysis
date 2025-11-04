@@ -1,7 +1,6 @@
 ---
 title: Enterprise Architecture Tools
 description: Magic Quadrant for Enterprise Architecture Tools
-order: 3
 hide_menu: true
 ---
 

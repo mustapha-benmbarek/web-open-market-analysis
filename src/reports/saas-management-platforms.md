@@ -1,7 +1,6 @@
 ---
 title: SaaS Management Platforms
 description: Magic Quadrant for SaaS Management Platforms
-order: 3
 hide_menu: true
 ---
 

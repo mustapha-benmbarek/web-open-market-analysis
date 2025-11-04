@@ -1,7 +1,6 @@
 ---
 title: Strategic Cloud Platform Services
 description: Magic Quadrant for Strategic Cloud Platform Services
-order: 3
 hide_menu: true
 ---
 

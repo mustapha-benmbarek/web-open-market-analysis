@@ -1,7 +1,6 @@
 ---
 title: Search and Product Discovery
 description: Magic Quadrant for Search and Product Discovery
-order: 3
 hide_menu: true
 ---
 

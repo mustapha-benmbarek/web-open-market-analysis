@@ -1,7 +1,6 @@
 ---
 title: Personalization Engines
 description: Magic Quadrant for Personalization Engines
-order: 3
 hide_menu: true
 ---
 

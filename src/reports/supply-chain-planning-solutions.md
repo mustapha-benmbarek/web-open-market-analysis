@@ -1,7 +1,6 @@
 ---
 title: Supply Chain Planning Solutions
 description: Magic Quadrant for Supply Chain Planning Solutions
-order: 3
 hide_menu: true
 ---
 

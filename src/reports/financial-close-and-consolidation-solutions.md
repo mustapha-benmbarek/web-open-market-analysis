@@ -1,7 +1,6 @@
 ---
 title: Financial Close and Consolidation Solutions
 description: Magic Quadrant for Financial Close and Consolidation Solutions
-order: 3
 hide_menu: true
 ---
 

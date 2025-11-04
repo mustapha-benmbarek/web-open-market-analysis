@@ -1,7 +1,6 @@
 ---
 title: Application Security Testing
 description: Magic Quadrant for Application Security Testing
-order: 3
 hide_menu: true
 ---
 

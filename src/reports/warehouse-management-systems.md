@@ -1,7 +1,6 @@
 ---
 title: Warehouse Management Systems
 description: Magic Quadrant for Warehouse Management Systems
-order: 3
 hide_menu: true
 ---
 

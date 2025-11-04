@@ -1,7 +1,6 @@
 ---
 title: Strategic Portfolio Management
 description: Magic Quadrant for Strategic Portfolio Management
-order: 3
 hide_menu: true
 ---
 

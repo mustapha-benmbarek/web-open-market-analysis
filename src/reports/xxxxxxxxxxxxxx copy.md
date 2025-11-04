@@ -1,7 +1,6 @@
 ---
 title: XXXXXXXXXXXXXXXXXXXXX
 description: Magic Quadrant for XXXXXXXXXXXXXXXXXXXXX
-order: 3
 hide_menu: true
 ---
 

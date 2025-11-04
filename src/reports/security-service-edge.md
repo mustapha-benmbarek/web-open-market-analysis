@@ -1,7 +1,6 @@
 ---
 title: Security Service Edge
 description: Magic Quadrant for Security Service Edge
-order: 3
 hide_menu: true
 ---
 

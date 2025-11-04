@@ -1,7 +1,6 @@
 ---
 title: AI-Augmented Software Testing Tools
 description: Magic Quadrant for AI-Augmented Software Testing Tools
-order: 3
 hide_menu: true
 ---
 

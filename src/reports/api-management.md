@@ -1,7 +1,6 @@
 ---
 title: API Management
 description: Magic Quadrant for API Management
-order: 3
 hide_menu: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Intranet Packaged Solutions
 description: Magic Quadrant for Intranet Packaged Solutions
-order: 3
 hide_menu: true
 ---
 

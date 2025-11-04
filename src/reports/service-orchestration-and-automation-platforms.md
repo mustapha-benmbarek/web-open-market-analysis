@@ -1,7 +1,6 @@
 ---
 title: Service Orchestration and Automation Platforms
 description: Magic Quadrant for Service Orchestration and Automation Platforms
-order: 3
 hide_menu: true
 ---
 

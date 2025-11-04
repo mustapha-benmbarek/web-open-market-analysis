@@ -1,7 +1,6 @@
 ---
 title: Security Information and Event Management
 description: Magic Quadrant for Security Information and Event Management
-order: 3
 hide_menu: true
 ---
 

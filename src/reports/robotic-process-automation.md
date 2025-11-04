@@ -1,7 +1,6 @@
 ---
 title: Robotic Process Automation
 description: Magic Quadrant for Robotic Process Automation
-order: 3
 hide_menu: true
 ---
 
