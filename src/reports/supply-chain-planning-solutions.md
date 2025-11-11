@@ -29,9 +29,55 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/supply-chain-planning-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                            |
+| --------------- | -------------------------------------------------------- |
+| `Leader`        | [OMP](/vendors/omp.md)                                   |
+| `Leader`        | [Kinaxis](/vendors/kinaxis.md)                           |
+| `Leader`        | [Oracle](/vendors/oracle.md)                             |
+| `Leader`        | [RELEX Solutions](/vendors/relex-solutions.md)           |
+| `Leader`        | [o9 Solutions](/vendors/o9-solutions.md)                 |
+| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                   |
+| `Visionary`     | [Dassault Systemes](/vendors/dassault-systemes.md)       |
+| `Visionary`     | [ICRON](/vendors/icron.md)                               |
+| `Niche Player`  | [Coupa](/vendors/coupa.md)                               |
+| `Niche Player`  | [Slimstock](/vendors/slimstock.md)                       |
+| `Niche Player`  | [e2open](/vendors/e2open.md)                             |
+| `Niche Player`  | [QAD](/vendors/qad.md)                                   |
+| `Niche Player`  | [Manhattan Associates](/vendors/manhattan-associates.md) |
+| `Niche Player`  | [ToolsGroup](/vendors/toolsgroup.md)                     |
+| `Niche Player`  | [Board International](/vendors/board-international.md)   |
+| `Challenger`    | [John Galt Solutions](/vendors/john-galt-solutions.md)   |
+| `Challenger`    | [SAP](/vendors/sap.md)                                   |
+| `Challenger`    | [Logility](/vendors/logility.md)                         |
+| `Challenger`    | [Arkieva](/vendors/arkieva.md)                           |
+| `Challenger`    | [Anaplan](/vendors/anaplan.md)                           |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/supply-chain-planning-solutions.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/supply-chain-planning-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Kinaxis](/vendors/kinaxis.md)                         |
+| `Leader`        | [Oracle](/vendors/oracle.md)                           |
+| `Leader`        | [OMP](/vendors/omp.md)                                 |
+| `Leader`        | [Logility](/vendors/logility.md)                       |
+| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                 |
+| `Visionary`     | [o9 Solutions](/vendors/o9-solutions.md)               |
+| `Visionary`     | [GAINSystems](/vendors/gainsystems.md)                 |
+| `Visionary`     | [e2open](/vendors/e2open.md)                           |
+| `Visionary`     | [Dassault Systemes](/vendors/dassault-systemes.md)     |
+| `Niche Player`  | [Coupa](/vendors/coupa.md)                             |
+| `Niche Player`  | [Adexa](/vendors/adexa.md)                             |
+| `Niche Player`  | [Slimstock](/vendors/slimstock.md)                     |
+| `Niche Player`  | [Blue Ridge](/vendors/blue-ridge.md)                   |
+| `Niche Player`  | [AIMMS](/vendors/aimms.md)                             |
+| `Niche Player`  | [ToolsGroup](/vendors/toolsgroup.md)                   |
+| `Challenger`    | [John Galt Solutions](/vendors/john-galt-solutions.md) |
+| `Challenger`    | [SAP](/vendors/sap.md)                                 |
+| `Challenger`    | [RELEX Solutions](/vendors/relex-solutions.md)         |
+| `Challenger`    | [Arkieva](/vendors/arkieva.md)                         |
+| `Challenger`    | [Anaplan](/vendors/anaplan.md)                         |
