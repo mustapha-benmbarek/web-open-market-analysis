@@ -21,9 +21,52 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/warehouse-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                                              |
+| --------------- | -------------------------------------------------------------------------- |
+| `Leader`        | [Manhattan Associates](/vendors/manhattan-associates.md)                   |
+| `Leader`        | [Infios (Korber)](</vendors/infios-(korber).md>)                           |
+| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                                     |
+| `Leader`        | [SAP](/vendors/sap.md)                                                     |
+| `Leader`        | [Oracle](/vendors/oracle.md)                                               |
+| `Leader`        | [Infor](/vendors/infor.md)                                                 |
+| `Visionary`     | [Reply](/vendors/reply.md)                                                 |
+| `Visionary`     | [Softeon](/vendors/softeon.md)                                             |
+| `Niche Player`  | [Made4net](/vendors/made4net.md)                                           |
+| `Niche Player`  | [Generix Group](/vendors/generix-group.md)                                 |
+| `Niche Player`  | [Synergy Logistics](/vendors/synergy-logistics.md)                         |
+| `Niche Player`  | [Mantis](/vendors/mantis.md)                                               |
+| `Niche Player`  | [Dematic](/vendors/dematic.md)                                             |
+| `Niche Player`  | [Vinculum](/vendors/vinculum.md)                                           |
+| `Challenger`    | [Ehrhardt Partner Group (EPG)](</vendors/ehrhardt-partner-group-(epg).md>) |
+| `Challenger`    | [Tecsys](/vendors/tecsys.md)                                               |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                                         |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/warehouse-management-systems.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/warehouse-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                              |
+| --------------- | -------------------------------------------------------------------------- |
+| `Leader`        | [Manhattan Associates](/vendors/manhattan-associates.md)                   |
+| `Leader`        | [Korber](/vendors/korber.md)                                               |
+| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                                     |
+| `Leader`        | [SAP](/vendors/sap.md)                                                     |
+| `Leader`        | [Oracle](/vendors/oracle.md)                                               |
+| `Leader`        | [Infor](/vendors/infor.md)                                                 |
+| `Visionary`     | [Reply](/vendors/reply.md)                                                 |
+| `Visionary`     | [Softeon](/vendors/softeon.md)                                             |
+| `Niche Player`  | [Made4net](/vendors/made4net.md)                                           |
+| `Niche Player`  | [Mecalux](/vendors/mecalux.md)                                             |
+| `Niche Player`  | [Generix Group](/vendors/generix-group.md)                                 |
+| `Niche Player`  | [Mantis](/vendors/mantis.md)                                               |
+| `Niche Player`  | [Synergy Logistics](/vendors/synergy-logistics.md)                         |
+| `Niche Player`  | [Dematic](/vendors/dematic.md)                                             |
+| `Niche Player`  | [Deposco](/vendors/deposco.md)                                             |
+| `Niche Player`  | [Vinculum](/vendors/vinculum.md)                                           |
+| `Challenger`    | [Ehrhardt Partner Group (EPG)](</vendors/ehrhardt-partner-group-(epg).md>) |
+| `Challenger`    | [Tecsys](/vendors/tecsys.md)                                               |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                                         |
+| `Challenger`    | [SSI SCHAEFER](/vendors/ssi-schaefer.md)                                   |
