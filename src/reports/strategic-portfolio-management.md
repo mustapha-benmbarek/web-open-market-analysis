@@ -39,9 +39,34 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/strategic-portfolio-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                              |
+| --------------- | ---------------------------------------------------------- |
+| `Leader`        | [Planview](/vendors/planview.md)                           |
+| `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
+| `Leader`        | [Bizzdesign (Alfabet)](</vendors/bizzdesign-(alfabet).md>) |
+| `Niche Player`  | [Shibumi](/vendors/shibumi.md)                             |
+| `Niche Player`  | [Uppwise](/vendors/uppwise.md)                             |
+| `Niche Player`  | [Cora Systems](/vendors/cora-systems.md)                   |
+| `Challenger`    | [North Highland](/vendors/north-highland.md)               |
+| `Challenger`    | [Planisware](/vendors/planisware.md)                       |
+| `Challenger`    | [EOS Software](/vendors/eos-software.md)                   |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/strategic-portfolio-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/strategic-portfolio-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                    |
+| --------------- | ---------------------------------------------------------------- |
+| `Leader`        | [Software AG](/vendors/software-ag.md)                           |
+| `Leader`        | [Planview](/vendors/planview.md)                                 |
+| `Leader`        | [Broadcom](/vendors/broadcom.md)                                 |
+| `Niche Player`  | [Shibumi](/vendors/shibumi.md)                                   |
+| `Niche Player`  | [Wellspring (Sopheon)](</vendors/wellspring-(sopheon).md>)       |
+| `Niche Player`  | [Uppwise](/vendors/uppwise.md)                                   |
+| `Niche Player`  | [Cora Systems](/vendors/cora-systems.md)                         |
+| `Challenger`    | [North Highland (UMT360)](</vendors/north-highland-(umt360).md>) |
+| `Challenger`    | [Planisware](/vendors/planisware.md)                             |
+| `Challenger`    | [EOS Software](/vendors/eos-software.md)                         |
