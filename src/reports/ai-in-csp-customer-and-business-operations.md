@@ -25,11 +25,11 @@ and view the magic quadrant graphic
 | --------------- | ------------------------------------------------------------ |
 | `Leader`        | [Amdocs](/vendors/amdocs.md)                                 |
 | `Leader`        | [AsiaInfo](/vendors/asiainfo.md)                             |
-| `Leader`        | [Tecnotree](/vendors/tecnotree.md)                           |
-| `Leader`        | [Whale Cloud Technology](/vendors/whale-cloud-technology.md) |
+| `Visionary`     | [Tecnotree](/vendors/tecnotree.md)                           |
+| `Visionary`     | [Whale Cloud Technology](/vendors/whale-cloud-technology.md) |
 | `Niche Player`  | [Comviva](/vendors/comviva.md)                               |
-| `Niche Player`  | [Cerillion](/vendors/cerillion.md)                           |
 | `Niche Player`  | [Etiya](/vendors/etiya.md)                                   |
+| `Niche Player`  | [Cerillion](/vendors/cerillion.md)                           |
 | `Niche Player`  | [Inspur](/vendors/inspur.md)                                 |
 | `Niche Player`  | [Beyond Now](/vendors/beyond-now.md)                         |
 | `Niche Player`  | [Flytxt](/vendors/flytxt.md)                                 |

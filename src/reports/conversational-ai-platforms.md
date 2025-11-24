@@ -16,6 +16,8 @@ CAIPs are used to create, deploy and manage AI-driven conversational interfaces.
 
 CAIPs empower businesses to centralize and democratize the development and management of multiple, diverse CAI initiatives, leading to more cohesive and efficient operations. The blend of capabilities provided by CAIPs is distinctive compared to those offered by other CAI solutions, such as targeted extensions for CAI found in other enterprise applications (e.g., CRM systems, contact center platforms) or stand-alone GenAI-native apps. In comparison, CAIPs are a better fit for strategic and scalable enterprise-grade CAI adoption.
 
+Typical use cases for CAIPs are: **Customer interaction automation, Employee assistance, Sales and marketing automation, Enterprise-wide conversational AI agents**.
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
