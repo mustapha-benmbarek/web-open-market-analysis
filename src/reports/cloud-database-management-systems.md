@@ -39,3 +39,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 <a href="/docs/2024/cloud-database-management-systems.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/cloud-database-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Oracle](/vendors/oracle.md)                           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Databricks](/vendors/databricks.md)                   |
+| `Leader`        | [MongoDB](/vendors/mongodb.md)                         |
+| `Leader`        | [Snowflake](/vendors/snowflake.md)                     |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [SAP](/vendors/sap.md)                                 |
+| `Visionary`     | [Teradata](/vendors/teradata.md)                       |
+| `Visionary`     | [Cloudera](/vendors/cloudera.md)                       |
+| `Visionary`     | [Neo4j](/vendors/neo4j.md)                             |
+| `Niche Player`  | [SingleStore](/vendors/singlestore.md)                 |
+| `Niche Player`  | [Couchbase](/vendors/couchbase.md)                     |
+| `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md)           |
+| `Niche Player`  | [EDB](/vendors/edb.md)                                 |
+| `Challenger`    | [InterSystems](/vendors/intersystems.md)               |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)               |

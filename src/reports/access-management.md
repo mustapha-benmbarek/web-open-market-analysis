@@ -27,3 +27,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 <a href="/docs/2024/access-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/access-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`        | [Okta](/vendors/okta.md)                   |
+| `Leader`        | [Ping Identity](/vendors/ping-identity.md) |
+| `Leader`        | [IBM](/vendors/ibm.md)                     |
+| `Visionary`     | [Thales](/vendors/thales.md)               |
+| `Niche Player`  | [OpenText](/vendors/opentext.md)           |
+| `Niche Player`  | [One Identity](/vendors/one-identity.md)   |
+| `Niche Player`  | [RSA](/vendors/rsa.md)                     |
+| `Challenger`    | [CyberArk](/vendors/cyberark.md)           |
+| `Challenger`    | [Entrust](/vendors/entrust.md)             |
