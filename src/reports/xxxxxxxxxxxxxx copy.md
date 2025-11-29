@@ -1,10 +1,10 @@
 ---
-title: Financial Close and Consolidation Solutions
-description: Magic Quadrant for Financial Close and Consolidation Solutions
+title: XXXXXXXXXXXXXXXXXXXXXXXX
+description: Magic Quadrant for XXXXXXXXXXXXXXXXXXXX
 hide_menu: true
 ---
 
-# Financial Close and Consolidation Solutions
+# XXXXXXXXXXXXXX
 
 ## Market Definition
 
