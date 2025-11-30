@@ -22,3 +22,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 <a href="/docs/2025/network-detection-and-response.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2025/network-detection-and-response.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Vectra AI](/vendors/vectra-ai.md)             |
+| `Leader`        | [Darktrace](/vendors/darktrace.md)             |
+| `Leader`        | [ExtraHop](/vendors/extrahop.md)               |
+| `Leader`        | [Corelight](/vendors/corelight.md)             |
+| `Visionary`     | [Gatewatcher](/vendors/gatewatcher.md)         |
+| `Niche Player`  | [NetWitness](/vendors/netwitness.md)           |
+| `Niche Player`  | [Trend Micro](/vendors/trend-micro.md)         |
+| `Niche Player`  | [ThreatBook](/vendors/threatbook.md)           |
+| `Niche Player`  | [Arista Networks](/vendors/arista-networks.md) |
+| `Niche Player`  | [Trellix](/vendors/trellix.md)                 |
+| `Challenger`    | [Stellar Cyber](/vendors/stellar-cyber.md)     |

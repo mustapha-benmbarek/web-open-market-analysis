@@ -55,7 +55,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Cloud-Native Application Platforms](cloud-native-application-platforms.md)
 - [Collaborative Work Management](collaborative-work-management.md)
 - [Communications Platform as a Service](communications-platform-as-a-service.md)
-- [Configure, Price and Quote Applications](configure,-price-and-quote-applications.md)
+- [Configure, Price and Quote Applications](configure-price-and-quote-applications.md)
 - [Contact Center as a Service](contact-center-as-a-service.md)
 - [Container Management](container-management.md)
 - [Content Marketing Platforms](content-marketing-platforms.md)
@@ -139,7 +139,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### N
 
-- [Network Detection and Response](metwork-detection-and-response.md)
+- [Network Detection and Response](network-detection-and-response.md)
 
 ### O
 

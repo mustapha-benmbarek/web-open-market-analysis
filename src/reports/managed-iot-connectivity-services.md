@@ -22,3 +22,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 <a href="/docs/2025/managed-iot-connectivity-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2025/managed-iot-connectivity-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                             |
+| `Leader`        | [AT&T](/vendors/at&t.md)                                     |
+| `Leader`        | [Verizon](/vendors/verizon.md)                               |
+| `Leader`        | [Telefonica](/vendors/telefonica.md)                         |
+| `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom-group.md) |
+| `Leader`        | [Telenor Group](/vendors/telenor-group.md)                   |
+| `Leader`        | [Wireless Logic](/vendors/wireless-logic.md)                 |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)               |
+| `Visionary`     | [Telit Cinterion](/vendors/telit-cinterion.md)               |
+| `Visionary`     | [NTT](/vendors/ntt.md)                                       |
+| `Visionary`     | [1NCE](/vendors/1nce.md)                                     |
+| `Visionary`     | [KORE](/vendors/kore.md)                                     |
+| `Niche Player`  | [Tele2 IoT](/vendors/tele2-iot.md)                           |
+| `Challenger`    | [Itron](/vendors/itron.md)                                   |
+| `Challenger`    | [Cubic Telecom](/vendors/cubic-telecom.md)                   |

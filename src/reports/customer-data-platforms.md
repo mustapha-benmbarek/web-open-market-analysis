@@ -25,9 +25,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/customer-data-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-## Report 2024
-
-Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="/docs/2024/XXXXXXXXXXXXXXXXXXXXX.pdf" target="_blank" rel="noopener noreferrer">here</a>
-and view the magic quadrant graphic
-<a href="/docs/2024/XXXXXXXXXXXXXXXXXXXXX.png" target="_blank" rel="noopener noreferrer">here</a>.
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`        | [Tealium](/vendors/tealium.md)                 |
+| `Visionary`     | [Adobe](/vendors/adobe.md)                     |
+| `Niche Player`  | [ActionIQ](/vendors/actioniq.md)               |
+| `Niche Player`  | [Twilio](/vendors/twilio.md)                   |
+| `Niche Player`  | [Redpoint Global](/vendors/redpoint-global.md) |
+| `Niche Player`  | [BlueConic](/vendors/blueconic.md)             |
+| `Niche Player`  | [mParticle](/vendors/mparticle.md)             |
+| `Niche Player`  | [Amperity](/vendors/amperity.md)               |
+| `Niche Player`  | [Zeta Global](/vendors/zeta-global.md)         |
+| `Challenger`    | [Treasure Data](/vendors/treasure-data.md)     |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                   |
