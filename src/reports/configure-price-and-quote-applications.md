@@ -6,7 +6,13 @@ hide_menu: true
 
 # Configure, Price and Quote Applications
 
+The configure, price and quote (CPQ) applications market continues to evolve toward omnichannel solutions that support selling all types of goods and services. This Magic Quadrant evaluates 15 configure, price and quote applications to help buyers find the best one for their needs.
+
 ## Market Definition
+
+Gartner defines configure, price and quote (CPQ) applications as software that enables sales organizations to automate and optimize the creation of quotes and capture of orders.
+
+A CPQ application is a sales tool that captures the new goods and services a customer wants to buy or the changes a customer wants to make to existing goods and services. While generally focused on assisted sales channels, CPQ capabilities such as product configuration and pricing must be shared with the self-service commerce channel. The new purchases and changes must be priced, and a binding contract must be formed with the customer before sending an order to downstream fulfilment systems.
 
 ## Report 2025
 
