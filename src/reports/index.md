@@ -119,7 +119,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 ### H
 
 - [HCM Suites for 1,000+ Employee Enterprises](hcm-suites-for-1,000+-employee-enterprises.md)
-- [Higher Education Student Information System Software as a Service](higher-education-student-information-system-software-as-a-service.md)
+- [Higher Education Student Information System Software as a Service](higher-education-student-information-system-saas.md)
 - [Hybrid Mesh Firewall](hybrid-mesh-firewall.md)
 - [Identity Verification](identity-verification.md)
 
