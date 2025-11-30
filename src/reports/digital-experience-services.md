@@ -33,6 +33,26 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-experience-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)                 |
+| `Leader`        | [Accenture](/vendors/accenture.md)               |
+| `Leader`        | [Publicis Sapient](/vendors/publicis-sapient.md) |
+| `Leader`        | [Dentsu](/vendors/dentsu.md)                     |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)               |
+| `Visionary`     | [WPP](/vendors/wpp.md)                           |
+| `Visionary`     | [EPAM](/vendors/epam.md)                         |
+| `Visionary`     | [Valtech](/vendors/valtech.md)                   |
+| `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
+| `Niche Player`  | [TCS](/vendors/tcs.md)                           |
+| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)                 |
+| `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
+| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
+| `Niche Player`  | [Virtusa](/vendors/virtusa.md)                   |
+| `Challenger`    | [HCLTech](/vendors/hcltech.md)                   |
+| `Challenger`    | [IBM](/vendors/ibm.md)                           |
+| `Challenger`    | [Infosys](/vendors/infosys.md)                   |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report

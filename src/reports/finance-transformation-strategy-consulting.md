@@ -33,6 +33,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/finance-transformation-strategy-consulting.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                                  |
+| --------------- | -------------------------------------------------------------- |
+| `Leader`        | [EY](/vendors/ey.md)                                           |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)                               |
+| `Leader`        | [KPMG](/vendors/kpmg.md)                                       |
+| `Leader`        | [Accenture](/vendors/accenture.md)                             |
+| `Leader`        | [McKinsey & Company](/vendors/mckinsey-&-company.md)           |
+| `Leader`        | [Bain & Company](/vendors/bain-&-company.md)                   |
+| `Leader`        | [Boston Consulting Group](/vendors/boston-consulting-group.md) |
+| `Leader`        | [IBM](/vendors/ibm.md)                                         |
+| `Leader`        | [PwC](/vendors/pwc.md)                                         |
+| `Visionary`     | [Capgemini](/vendors/capgemini.md)                             |
+| `Niche Player`  | [Oliver Wyman](/vendors/oliver-wyman.md)                       |
+| `Niche Player`  | [Grant Thornton Advisors](/vendors/grant-thornton-advisors.md) |
+| `Niche Player`  | [Highspring](/vendors/highspring.md)                           |
+| `Challenger`    | [BearingPoint](/vendors/bearingpoint.md)                       |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report

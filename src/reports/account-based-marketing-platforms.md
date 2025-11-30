@@ -29,6 +29,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/account-based-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [6sense](/vendors/6sense.md)               |
+| `Leader`        | [Demandbase](/vendors/demandbase.md)       |
+| `Leader`        | [ZoomInfo](/vendors/zoominfo.md)           |
+| `Visionary`     | [Madison Logic](/vendors/madison-logic.md) |
+| `Niche Player`  | [N.Rich](/vendors/n.rich.md)               |
+| `Niche Player`  | [NextRoll](/vendors/nextroll.md)           |
+| `Niche Player`  | [Expandi Group](/vendors/expandi-group.md) |
+| `Challenger`    | [Propensity](/vendors/propensity.md)       |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report

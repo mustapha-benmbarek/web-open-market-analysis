@@ -27,6 +27,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/marketing-mix-modeling-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                              |
+| --------------- | ---------------------------------------------------------- |
+| `Leader`        | [Analytic Partners](/vendors/analytic-partners.md)         |
+| `Leader`        | [Ipsos MMA](/vendors/ipsos-mma.md)                         |
+| `Leader`        | [TransUnion](/vendors/transunion.md)                       |
+| `Visionary`     | [Ekimetrics](/vendors/ekimetrics.md)                       |
+| `Visionary`     | [Kantar](/vendors/kantar.md)                               |
+| `Niche Player`  | [OptiMine](/vendors/optimine.md)                           |
+| `Niche Player`  | [Circana](/vendors/circana.md)                             |
+| `Niche Player`  | [Fractal](/vendors/fractal.md)                             |
+| `Niche Player`  | [C5i](/vendors/c5i.md)                                     |
+| `Niche Player`  | [Keen Decision Systems](/vendors/keen-decision-systems.md) |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
