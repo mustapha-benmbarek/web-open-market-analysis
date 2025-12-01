@@ -48,6 +48,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Cloud AI Developer Services](cloud-ai-developer-services.md)
 - [Cloud Based ERP for U.S. Local Government](cloud-based-erp-for-us-local-government.md)
 - [Cloud Database Management Systems](cloud-database-management-systems.md)
+- [Cloud ERP Finance](cloud-erp-finance.md)
 - [Cloud ERP for Product-Centric Enterprises](cloud-erp-for-product-centric-enterprises.md)
 - [Cloud ERP for Service-Centric Enterprises](cloud-erp-for-service-centric-enterprises.md)
 - [Cloud ERP Services](cloud-erp-services.md)
@@ -135,6 +136,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Managed Network Services](managed-network-services.md)
 - [Marketing Mix Modeling Solutions](marketing-mix-modeling-solutions.md)
 - [Marketing Work Management Platforms](marketing-work-management-platforms.md)
+- [Metadata Management Solutions](metadata-management-solutions.md)
 - [Multichannel Marketing Hubs](multichannel-marketing-hubs.md)
 
 ### N
