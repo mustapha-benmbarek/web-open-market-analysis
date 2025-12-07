@@ -111,6 +111,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Finance Transformation Strategy Consulting](finance-transformation-strategy-consulting.md)
 - [Financial Close and Consolidation Solutions](financial-close-and-consolidation-solutions.md)
 - [Financial Planning Software](financial-planning-software.md)
+- [Fourth-Party Logistics](fourth-party-logistics.md)
 
 ### G
 
