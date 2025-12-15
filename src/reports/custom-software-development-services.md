@@ -27,9 +27,55 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/custom-software-development-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                                                      |
+| --------------- | ------------------------------------------------------------------ |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)                                   |
+| `Leader`        | [Accenture](/vendors/accenture.md)                                 |
+| `Leader`        | [IBM](/vendors/ibm.md)                                             |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)                                 |
+| `Leader`        | [Infosys](/vendors/infosys.md)                                     |
+| `Leader`        | [Cognizant](/vendors/cognizant.md)                                 |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)                                     |
+| `Leader`        | [EPAM](/vendors/epam.md)                                           |
+| `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md)                           |
+| `Niche Player`  | [GlobalLogic](/vendors/globallogic.md)                             |
+| `Niche Player`  | [SoftServe](/vendors/softserve.md)                                 |
+| `Niche Player`  | [Coforge](/vendors/coforge.md)                                     |
+| `Niche Player`  | [Endava](/vendors/endava.md)                                       |
+| `Niche Player`  | [Virtusa](/vendors/virtusa.md)                                     |
+| `Challenger`    | [Tata Consultancy Services](/vendors/tata-consultancy-services.md) |
+| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)                                   |
+| `Challenger`    | [Wipro](/vendors/wipro.md)                                         |
+| `Challenger`    | [Globant](/vendors/globant.md)                                     |
+| `Challenger`    | [Softtek](/vendors/softtek.md)                                     |
+| `Challenger`    | [Persistent Systems](/vendors/persistent-systems.md)               |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/custom-software-development-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/custom-software-development-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)             |
+| `Leader`        | [Accenture](/vendors/accenture.md)           |
+| `Leader`        | [TCS](/vendors/tcs.md)                       |
+| `Leader`        | [IBM](/vendors/ibm.md)                       |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
+| `Leader`        | [EPAM](/vendors/epam.md)                     |
+| `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md)     |
+| `Niche Player`  | [Persistent](/vendors/persistent.md)         |
+| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md) |
+| `Niche Player`  | [Endava](/vendors/endava.md)                 |
+| `Niche Player`  | [Softtek](/vendors/softtek.md)               |
+| `Niche Player`  | [Hexaware](/vendors/hexaware.md)             |
+| `Niche Player`  | [Virtusa](/vendors/virtusa.md)               |
+| `Niche Player`  | [Encora](/vendors/encora.md)                 |
+| `Challenger`    | [Infosys](/vendors/infosys.md)               |
+| `Challenger`    | [Cognizant](/vendors/cognizant.md)           |
+| `Challenger`    | [Globant](/vendors/globant.md)               |
+| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)             |
+| `Challenger`    | [SoftServe](/vendors/softserve.md)           |
+| `Challenger`    | [Wipro](/vendors/wipro.md)                   |
