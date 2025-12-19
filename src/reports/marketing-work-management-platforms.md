@@ -33,9 +33,32 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/marketing-work-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Aprimo](/vendors/aprimo.md)         |
+| `Leader`        | [monday.com](/vendors/monday.com.md) |
+| `Leader`        | [Atlassian](/vendors/atlassian.md)   |
+| `Niche Player`  | [Smartsheet](/vendors/smartsheet.md) |
+| `Challenger`    | [Asana](/vendors/asana.md)           |
+| `Challenger`    | [Adobe](/vendors/adobe.md)           |
+| `Challenger`    | [ClickUp](/vendors/clickup.md)       |
+| `Challenger`    | [Wrike](/vendors/wrike.md)           |
+
 ## Report 2024
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
 <a href="/docs/2024/marketing-work-management-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
 <a href="/docs/2024/marketing-work-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Aprimo](/vendors/aprimo.md)         |
+| `Leader`        | [monday.com](/vendors/monday.com.md) |
+| `Leader`        | [Atlassian](/vendors/atlassian.md)   |
+| `Niche Player`  | [Smartsheet](/vendors/smartsheet.md) |
+| `Niche Player`  | [Asana](/vendors/asana.md)           |
+| `Niche Player`  | [Airtable](/vendors/airtable.md)     |
+| `Challenger`    | [ClickUp](/vendors/clickup.md)       |
+| `Challenger`    | [Wrike](/vendors/wrike.md)           |
+| `Challenger`    | [Adobe](/vendors/adobe.md)           |
