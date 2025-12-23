@@ -160,6 +160,8 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - [Real-Time Transportation Visibility Platforms](real-time-transportation-visibility-platforms.md)
 - [Recurring Billing Applications](recurring-billing-applications.md)
+- [Revenue Action Orchestration](revenue-action-orchestration.md)
+- [Revenue Enablement Platforms](revenue-enablement-platforms.md)
 - [Robotic Process Automation](robotic-process-automation.md)
 
 ### S
