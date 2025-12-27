@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Informatica](/vendors/informatica.md)                           |
 | `Leader`        | [Alation](/vendors/alation.md)                                   |
 | `Leader`        | [Atlan](/vendors/atlan.md)                                       |
-| `Leader`        | [Ab Initio Software](/vendors/ab-initio-software.md)             |
+| `Leader`        | [Ab Initio Software](/vendors/ab-initio.md)                      |
 | `Visionary`     | [ServiceNow (data.world)](</vendors/servicenow-(data.world).md>) |
 | `Visionary`     | [Coalesce](/vendors/coalesce.md)                                 |
 | `Visionary`     | [Alex Solutions](/vendors/alex-solutions.md)                     |

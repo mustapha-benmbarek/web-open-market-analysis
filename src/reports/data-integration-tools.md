@@ -67,7 +67,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
 | `Leader`        | [Oracle](/vendors/oracle.md)                           |
 | `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Ab Initio Software](/vendors/ab-initio-software.md)   |
+| `Leader`        | [Ab Initio Software](/vendors/ab-initio.md)            |
 | `Leader`        | [Google](/vendors/google.md)                           |
 | `Leader`        | [Qlik](/vendors/qlik.md)                               |
 | `Leader`        | [IBM](/vendors/ibm.md)                                 |

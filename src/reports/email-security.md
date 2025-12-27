@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Proofpoint](/vendors/proofpoint.md)                               |
 | `Leader`        | [Trend Micro](/vendors/trend-micro.md)                             |
 | `Leader`        | [Check Point](/vendors/check-point.md)                             |
-| `Leader`        | [Abnormal](/vendors/abnormal.md)                                   |
+| `Leader`        | [Abnormal](/vendors/abnormal-ai.md)                                |
 | `Leader`        | [Mimecast](/vendors/mimecast.md)                                   |
 | `Leader`        | [Egress, a KnowBe4 company](/vendors/egress,-a-knowbe4-company.md) |
 | `Visionary`     | [IRONSCALES](/vendors/ironscales.md)                               |

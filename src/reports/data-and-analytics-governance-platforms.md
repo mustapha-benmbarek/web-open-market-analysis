@@ -35,7 +35,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [DataGalaxy](/vendors/datagalaxy.md)                         |
 | `Niche Player`  | [erwin by Quest](/vendors/erwin-by-quest.md)                 |
 | `Niche Player`  | [OvalEdge](/vendors/ovaledge.md)                             |
-| `Niche Player`  | [Ab Initio Software](/vendors/ab-initio-software.md)         |
+| `Niche Player`  | [Ab Initio Software](/vendors/ab-initio.md)                  |
 | `Niche Player`  | [Solidatus](/vendors/solidatus.md)                           |
 | `Niche Player`  | [Anjana Data](/vendors/anjana-data.md)                       |
 | `Niche Player`  | [Global Data Excellence](/vendors/global-data-excellence.md) |

@@ -36,7 +36,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [DSV](/vendors/dsv.md)                                                       |
 | `Niche Player`  | [Argus Logistics](/vendors/argus-logistics.md)                               |
 | `Challenger`    | [Martin-Brower](/vendors/martin-brower.md)                                   |
-| `Challenger`    | [A.P. Moller-Maersk](/vendors/a.p.-moller-maersk.md)                         |
+| `Challenger`    | [A.P. Moller-Maersk](/vendors/maersk.md)                                     |
 | `Challenger`    | [Unilog](/vendors/unilog.md)                                                 |
 | `Challenger`    | [UPS Supply Chain Solutions](/vendors/ups-supply-chain-solutions.md)         |
 | `Challenger`    | [HAVI](/vendors/havi.md)                                                     |
