@@ -46,17 +46,18 @@ This section provides an organized index of product or service based providers c
 - [Airtable](/vendors/airtable.md)
 - [Aisera](/vendors/aisera.md)
 - [Akumina](/vendors/akumina.md)
+- [Alation](/vendors/alation.md)
+- [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md)
+
+- [Alchemer](/vendors/alchemer.md)
+- [Alex Solutions](/vendors/alex-solutions.md)
+- [Algolia](/vendors/algolia.md)
+
+- [Algonomy](/vendors/algonomy.md)
+- [Alibaba Cloud](/vendors/alibaba-cloud.md)
 
 ### PENDING
 
-Alation
-Alcatel-Lucent Enterprise
-Alcatel-Lucent Enterprise (ALE)
-Alchemer
-Alex Solutions
-Algolia
-Algonomy
-Alibaba Cloud
 Allego
 Allied Telesis
 Almaden
