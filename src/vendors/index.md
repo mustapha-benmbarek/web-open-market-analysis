@@ -48,18 +48,17 @@ This section provides an organized index of product or service based providers c
 - [Akumina](/vendors/akumina.md)
 - [Alation](/vendors/alation.md)
 - [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md)
-
 - [Alchemer](/vendors/alchemer.md)
 - [Alex Solutions](/vendors/alex-solutions.md)
 - [Algolia](/vendors/algolia.md)
-
 - [Algonomy](/vendors/algonomy.md)
 - [Alibaba Cloud](/vendors/alibaba-cloud.md)
 
+- [Allego](/vendors/allego.md)
+- [Allied Telesis](/vendors/allied-telesis.md)
+
 ### PENDING
 
-Allego
-Allied Telesis
 Almaden
 Alpega
 Altair
