@@ -38,16 +38,17 @@ This section provides an organized index of product or service based providers c
 - [Act-On Software](/vendors/act-on-software.md)
 - [Adexa](/vendors/adexa.md)
 - [Adobe](/vendors/adobe.md)
+- [ADP](/vendors/adp.md)
+- [Agiloft](/vendors/agiloft.md)
+- [AIMMS](/vendors/aimms.md)
+- [Airbase](/vendors/airbase.md)
+- [Airship](/vendors/airship.md)
+- [Airtable](/vendors/airtable.md)
+- [Aisera](/vendors/aisera.md)
+- [Akumina](/vendors/akumina.md)
 
 ### PENDING
 
-ADP
-Agiloft
-Airbase
-Airship
-Airtable
-Aisera
-Akumina
 Alation
 Alcatel-Lucent Enterprise
 Alcatel-Lucent Enterprise (ALE)
