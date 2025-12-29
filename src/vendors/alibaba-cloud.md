@@ -20,7 +20,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025)                       |
 | `Leader`        | [Container Management](/reports/container-management.md#report-2025)                                                   |
 | `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)     |
-| `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)     |
 | `Challenger`    | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2025)                                                   |
 | `Niche Player`  | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                         |
 | `Challenger`    | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                         |
@@ -36,7 +35,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Container Management](/reports/container-management.md#report-2024)                                                   |
 | `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
 | `Challenger`    | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                                       |
-| `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
 | `Niche Player`  | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                   |
 | `Niche Player`  | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                         |
 | `Challenger`    | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |

@@ -53,16 +53,15 @@ This section provides an organized index of product or service based providers c
 - [Algolia](/vendors/algolia.md)
 - [Algonomy](/vendors/algonomy.md)
 - [Alibaba Cloud](/vendors/alibaba-cloud.md)
-
 - [Allego](/vendors/allego.md)
 - [Allied Telesis](/vendors/allied-telesis.md)
+- [Almaden](/vendors/almaden.md)
+- [Alpega](/vendors/alpega.md)
+- [Altair](/vendors/altair.md)
+- [Alteryx](/vendors/alteryx.md)
 
 ### PENDING
 
-Almaden
-Alpega
-Altair
-Alteryx
 Amazon
 Amazon Web Services
 Ambra Solutions
