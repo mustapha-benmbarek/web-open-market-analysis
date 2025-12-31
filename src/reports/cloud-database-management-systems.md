@@ -33,28 +33,28 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-database-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Google](/vendors/google.md)                           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [Databricks](/vendors/databricks.md)                   |
-| `Leader`        | [Snowflake](/vendors/snowflake.md)                     |
-| `Leader`        | [MongoDB](/vendors/mongodb.md)                         |
-| `Leader`        | [IBM](/vendors/ibm.md)                                 |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Visionary`     | [SAP](/vendors/sap.md)                                 |
-| `Visionary`     | [Cloudera](/vendors/cloudera.md)                       |
-| `Visionary`     | [Teradata](/vendors/teradata.md)                       |
-| `Niche Player`  | [Couchbase](/vendors/couchbase.md)                     |
-| `Niche Player`  | [SingleStore](/vendors/singlestore.md)                 |
-| `Niche Player`  | [EDB](/vendors/edb.md)                                 |
-| `Niche Player`  | [Redis](/vendors/redis.md)                             |
-| `Niche Player`  | [Neo4j](/vendors/neo4j.md)                             |
-| `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md)           |
-| `Challenger`    | [InterSystems](/vendors/intersystems.md)               |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)    |
+| `Leader`        | [Google](/vendors/google.md)                 |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)           |
+| `Leader`        | [Oracle](/vendors/oracle.md)                 |
+| `Leader`        | [Databricks](/vendors/databricks.md)         |
+| `Leader`        | [Snowflake](/vendors/snowflake.md)           |
+| `Leader`        | [MongoDB](/vendors/mongodb.md)               |
+| `Leader`        | [IBM](/vendors/ibm.md)                       |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)   |
+| `Visionary`     | [SAP](/vendors/sap.md)                       |
+| `Visionary`     | [Cloudera](/vendors/cloudera.md)             |
+| `Visionary`     | [Teradata](/vendors/teradata.md)             |
+| `Niche Player`  | [Couchbase](/vendors/couchbase.md)           |
+| `Niche Player`  | [SingleStore](/vendors/singlestore.md)       |
+| `Niche Player`  | [EDB](/vendors/edb.md)                       |
+| `Niche Player`  | [Redis](/vendors/redis.md)                   |
+| `Niche Player`  | [Neo4j](/vendors/neo4j.md)                   |
+| `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md) |
+| `Challenger`    | [InterSystems](/vendors/intersystems.md)     |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)     |
 
 ## Report 2024
 
@@ -63,25 +63,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/cloud-database-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Google](/vendors/google.md)                           |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Databricks](/vendors/databricks.md)                   |
-| `Leader`        | [MongoDB](/vendors/mongodb.md)                         |
-| `Leader`        | [Snowflake](/vendors/snowflake.md)                     |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Leader`        | [IBM](/vendors/ibm.md)                                 |
-| `Visionary`     | [SAP](/vendors/sap.md)                                 |
-| `Visionary`     | [Teradata](/vendors/teradata.md)                       |
-| `Visionary`     | [Cloudera](/vendors/cloudera.md)                       |
-| `Visionary`     | [Redis](/vendors/redis.md)                             |
-| `Visionary`     | [Neo4j](/vendors/neo4j.md)                             |
-| `Niche Player`  | [SingleStore](/vendors/singlestore.md)                 |
-| `Niche Player`  | [Couchbase](/vendors/couchbase.md)                     |
-| `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md)           |
-| `Niche Player`  | [EDB](/vendors/edb.md)                                 |
-| `Challenger`    | [InterSystems](/vendors/intersystems.md)               |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)    |
+| `Leader`        | [Google](/vendors/google.md)                 |
+| `Leader`        | [Oracle](/vendors/oracle.md)                 |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)           |
+| `Leader`        | [Databricks](/vendors/databricks.md)         |
+| `Leader`        | [MongoDB](/vendors/mongodb.md)               |
+| `Leader`        | [Snowflake](/vendors/snowflake.md)           |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)   |
+| `Leader`        | [IBM](/vendors/ibm.md)                       |
+| `Visionary`     | [SAP](/vendors/sap.md)                       |
+| `Visionary`     | [Teradata](/vendors/teradata.md)             |
+| `Visionary`     | [Cloudera](/vendors/cloudera.md)             |
+| `Visionary`     | [Redis](/vendors/redis.md)                   |
+| `Visionary`     | [Neo4j](/vendors/neo4j.md)                   |
+| `Niche Player`  | [SingleStore](/vendors/singlestore.md)       |
+| `Niche Player`  | [Couchbase](/vendors/couchbase.md)           |
+| `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md) |
+| `Niche Player`  | [EDB](/vendors/edb.md)                       |
+| `Challenger`    | [InterSystems](/vendors/intersystems.md)     |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)     |

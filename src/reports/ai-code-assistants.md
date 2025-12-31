@@ -45,17 +45,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/ai-code-assistants.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [GitHub](/vendors/github.md)                           |
-| `Leader`        | [GitLab](/vendors/gitlab.md)                           |
-| `Leader`        | [Google Cloud](/vendors/google-cloud.md)               |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Visionary`     | [Sourcegraph](/vendors/sourcegraph.md)                 |
-| `Niche Player`  | [Tabnine](/vendors/tabnine.md)                         |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
-| `Niche Player`  | [CodiumAI](/vendors/codiumai.md)                       |
-| `Niche Player`  | [Refact.ai](/vendors/refact.ai.md)                     |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Challenger`    | [Codeium](/vendors/codeium.md)                         |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [GitHub](/vendors/github.md)               |
+| `Leader`        | [GitLab](/vendors/gitlab.md)               |
+| `Leader`        | [Google Cloud](/vendors/google-cloud.md)   |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
+| `Visionary`     | [Sourcegraph](/vendors/sourcegraph.md)     |
+| `Niche Player`  | [Tabnine](/vendors/tabnine.md)             |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Niche Player`  | [CodiumAI](/vendors/codiumai.md)           |
+| `Niche Player`  | [Refact.ai](/vendors/refact.ai.md)         |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Challenger`    | [Codeium](/vendors/codeium.md)             |
+| `Challenger`    | [IBM](/vendors/ibm.md)                     |

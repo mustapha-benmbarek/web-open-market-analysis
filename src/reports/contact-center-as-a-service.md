@@ -23,17 +23,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/contact-center-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [NICE](/vendors/nice.md)                               |
-| `Leader`        | [Genesys](/vendors/genesys.md)                         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Five9](/vendors/five9.md)                             |
-| `Leader`        | [Talkdesk](/vendors/talkdesk.md)                       |
-| `Niche Player`  | [Cisco](/vendors/cisco.md)                             |
-| `Niche Player`  | [Vonage](/vendors/vonage.md)                           |
-| `Niche Player`  | [Zoom](/vendors/zoom.md)                               |
-| `Challenger`    | [Content Guru](/vendors/content-guru.md)               |
+| Market Status   | Market Vendor                             |
+| --------------- | ----------------------------------------- |
+| `Leader`        | [NICE](/vendors/nice.md)                  |
+| `Leader`        | [Genesys](/vendors/genesys.md)            |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md) |
+| `Leader`        | [Five9](/vendors/five9.md)                |
+| `Leader`        | [Talkdesk](/vendors/talkdesk.md)          |
+| `Niche Player`  | [Cisco](/vendors/cisco.md)                |
+| `Niche Player`  | [Vonage](/vendors/vonage.md)              |
+| `Niche Player`  | [Zoom](/vendors/zoom.md)                  |
+| `Challenger`    | [Content Guru](/vendors/content-guru.md)  |
 
 ## Report 2024
 
@@ -42,14 +42,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/contact-center-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Genesys](/vendors/genesys.md)                         |
-| `Leader`        | [NICE](/vendors/nice.md)                               |
-| `Leader`        | [Five9](/vendors/five9.md)                             |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Visionary`     | [Talkdesk](/vendors/talkdesk.md)                       |
-| `Niche Player`  | [Content Guru](/vendors/content-guru.md)               |
-| `Niche Player`  | [8x8](/vendors/8x8.md)                                 |
-| `Niche Player`  | [Vonage](/vendors/vonage.md)                           |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                             |
+| Market Status   | Market Vendor                             |
+| --------------- | ----------------------------------------- |
+| `Leader`        | [Genesys](/vendors/genesys.md)            |
+| `Leader`        | [NICE](/vendors/nice.md)                  |
+| `Leader`        | [Five9](/vendors/five9.md)                |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md) |
+| `Visionary`     | [Talkdesk](/vendors/talkdesk.md)          |
+| `Niche Player`  | [Content Guru](/vendors/content-guru.md)  |
+| `Niche Player`  | [8x8](/vendors/8x8.md)                    |
+| `Niche Player`  | [Vonage](/vendors/vonage.md)              |
+| `Challenger`    | [Cisco](/vendors/cisco.md)                |

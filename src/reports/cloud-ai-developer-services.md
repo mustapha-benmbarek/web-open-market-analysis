@@ -22,15 +22,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/cloud-ai-developer-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Google](/vendors/google.md)                           |
-| `Leader`        | [IBM](/vendors/ibm.md)                                 |
-| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                           |
-| `Visionary`     | [OpenAI](/vendors/openai.md)                           |
-| `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)               |
-| `Niche Player`  | [Oracle](/vendors/oracle.md)                           |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`        | [Google](/vendors/google.md)               |
+| `Leader`        | [IBM](/vendors/ibm.md)                     |
+| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)               |
+| `Visionary`     | [OpenAI](/vendors/openai.md)               |
+| `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)   |
+| `Niche Player`  | [Oracle](/vendors/oracle.md)               |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |

@@ -59,11 +59,10 @@ This section provides an organized index of product or service based providers c
 - [Alpega](/vendors/alpega.md)
 - [Altair](/vendors/altair.md)
 - [Alteryx](/vendors/alteryx.md)
+- [Amazon](/vendors/amazon.md)
 
 ### PENDING
 
-Amazon
-Amazon Web Services
 Ambra Solutions
 Amdocs
 Amperity

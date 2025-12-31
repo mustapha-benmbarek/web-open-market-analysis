@@ -44,7 +44,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Frends](/vendors/frends.md)                                 |
 | `Challenger`    | [Salesforce (MuleSoft)](</vendors/salesforce-(mulesoft).md>) |
 | `Challenger`    | [Oracle](/vendors/oracle.md)                                 |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md)       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)                    |
 | `Challenger`    | [IBM](/vendors/ibm.md)                                       |
 
 ## Report 2024
@@ -72,4 +72,4 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Huawei](/vendors/huawei.md)                                 |
 | `Niche Player`  | [TIBCO Software](/vendors/tibco-software.md)                 |
 | `Niche Player`  | [Frends](/vendors/frends.md)                                 |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md)       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)                    |

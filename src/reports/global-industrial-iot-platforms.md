@@ -27,24 +27,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/global-industrial-iot-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [ABB](/vendors/abb.md)                                 |
-| `Leader`        | [Siemens](/vendors/siemens.md)                         |
-| `Leader`        | [Cumulocity](/vendors/cumulocity.md)                   |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Univers](/vendors/univers.md)                         |
-| `Visionary`     | [iROOTECH](/vendors/irootech.md)                       |
-| `Visionary`     | [AVEVA](/vendors/aveva.md)                             |
-| `Niche Player`  | [XCMG HANYUN](/vendors/xcmg-hanyun.md)                 |
-| `Niche Player`  | [Losant](/vendors/losant.md)                           |
-| `Niche Player`  | [Exosite](/vendors/exosite.md)                         |
-| `Niche Player`  | [Davra](/vendors/davra.md)                             |
-| `Niche Player`  | [Cognite](/vendors/cognite.md)                         |
-| `Challenger`    | [Litmus](/vendors/litmus.md)                           |
-| `Challenger`    | [PTC](/vendors/ptc.md)                                 |
-| `Challenger`    | [Braincube](/vendors/braincube.md)                     |
+| Market Status   | Market Vendor                             |
+| --------------- | ----------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)        |
+| `Leader`        | [ABB](/vendors/abb.md)                    |
+| `Leader`        | [Siemens](/vendors/siemens.md)            |
+| `Leader`        | [Cumulocity](/vendors/cumulocity.md)      |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md) |
+| `Leader`        | [Univers](/vendors/univers.md)            |
+| `Visionary`     | [iROOTECH](/vendors/irootech.md)          |
+| `Visionary`     | [AVEVA](/vendors/aveva.md)                |
+| `Niche Player`  | [XCMG HANYUN](/vendors/xcmg-hanyun.md)    |
+| `Niche Player`  | [Losant](/vendors/losant.md)              |
+| `Niche Player`  | [Exosite](/vendors/exosite.md)            |
+| `Niche Player`  | [Davra](/vendors/davra.md)                |
+| `Niche Player`  | [Cognite](/vendors/cognite.md)            |
+| `Challenger`    | [Litmus](/vendors/litmus.md)              |
+| `Challenger`    | [PTC](/vendors/ptc.md)                    |
+| `Challenger`    | [Braincube](/vendors/braincube.md)        |
 
 ## Report 2024
 
@@ -55,7 +55,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                          |
 | --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)              |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
 | `Leader`        | [Software AG](/vendors/software-ag.md)                 |
 | `Visionary`     | [PTC](/vendors/ptc.md)                                 |

@@ -38,7 +38,7 @@ and view the magic quadrant graphic
 | `Challenger`    | [WSO2](/vendors/wso2.md)                                     |
 | `Challenger`    | [Microsoft](/vendors/microsoft.md)                           |
 | `Challenger`    | [SAP](/vendors/sap.md)                                       |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md)       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)                    |
 | `Challenger`    | [Sensedia](/vendors/sensedia.md)                             |
 
 ## Report 2024
@@ -64,6 +64,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Boomi](/vendors/boomi.md)                                   |
 | `Niche Player`  | [Sensedia](/vendors/sensedia.md)                             |
 | `Challenger`    | [Microsoft](/vendors/microsoft.md)                           |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md)       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)                    |
 | `Challenger`    | [SAP](/vendors/sap.md)                                       |
 | `Challenger`    | [Tyk](/vendors/tyk.md)                                       |

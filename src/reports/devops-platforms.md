@@ -57,16 +57,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/devops-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [GitLab](/vendors/gitlab.md)                           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Atlassian](/vendors/atlassian.md)                     |
-| `Leader`        | [Harness](/vendors/harness.md)                         |
-| `Visionary`     | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Niche Player`  | [Buildkite](/vendors/buildkite.md)                     |
-| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)                     |
-| `Challenger`    | [JFrog](/vendors/jfrog.md)                             |
-| `Challenger`    | [CircleCI](/vendors/circleci.md)                       |
-| `Challenger`    | [CloudBees](/vendors/cloudbees.md)                     |
-| `Challenger`    | [Red Hat](/vendors/red-hat.md)                         |
+| Market Status   | Market Vendor                             |
+| --------------- | ----------------------------------------- |
+| `Leader`        | [GitLab](/vendors/gitlab.md)              |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)        |
+| `Leader`        | [Atlassian](/vendors/atlassian.md)        |
+| `Leader`        | [Harness](/vendors/harness.md)            |
+| `Visionary`     | [Amazon Web Services](/vendors/amazon.md) |
+| `Niche Player`  | [Buildkite](/vendors/buildkite.md)        |
+| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)        |
+| `Challenger`    | [JFrog](/vendors/jfrog.md)                |
+| `Challenger`    | [CircleCI](/vendors/circleci.md)          |
+| `Challenger`    | [CloudBees](/vendors/cloudbees.md)        |
+| `Challenger`    | [Red Hat](/vendors/red-hat.md)            |

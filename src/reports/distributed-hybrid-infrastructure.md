@@ -23,18 +23,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/distributed-hybrid-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Broadcom (VMWare)](</vendors/broadcom-(vmware).md>)   |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Nutanix](/vendors/nutanix.md)                         |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Visionary`     | [Google](/vendors/google.md)                           |
-| `Niche Player`  | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Niche Player`  | [Huawei](/vendors/huawei.md)                           |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)            |
+| `Leader`        | [Broadcom (VMWare)](</vendors/broadcom-(vmware).md>) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                   |
+| `Leader`        | [Nutanix](/vendors/nutanix.md)                       |
+| `Leader`        | [Oracle](/vendors/oracle.md)                         |
+| `Visionary`     | [Google](/vendors/google.md)                         |
+| `Niche Player`  | [Alibaba Cloud](/vendors/alibaba-cloud.md)           |
+| `Niche Player`  | [Huawei](/vendors/huawei.md)                         |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)           |
+| `Challenger`    | [IBM](/vendors/ibm.md)                               |
 
 ## Report 2024
 
@@ -43,14 +43,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/distributed-hybrid-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Nutanix](/vendors/nutanix.md)                         |
-| `Leader`        | [Broadcom (VMWare)](</vendors/broadcom-(vmware).md>)   |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
-| `Niche Player`  | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Niche Player`  | [Huawei](/vendors/huawei.md)                           |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                   |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)            |
+| `Leader`        | [Nutanix](/vendors/nutanix.md)                       |
+| `Leader`        | [Broadcom (VMWare)](</vendors/broadcom-(vmware).md>) |
+| `Leader`        | [Oracle](/vendors/oracle.md)                         |
+| `Visionary`     | [IBM](/vendors/ibm.md)                               |
+| `Niche Player`  | [Alibaba Cloud](/vendors/alibaba-cloud.md)           |
+| `Niche Player`  | [Huawei](/vendors/huawei.md)                         |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)           |

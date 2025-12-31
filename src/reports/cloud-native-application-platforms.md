@@ -33,7 +33,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                            |
 | --------------- | -------------------------------------------------------- |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md)   |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                       |
 | `Leader`        | [Google](/vendors/google.md)                             |
 | `Leader`        | [Red Hat](/vendors/red-hat.md)                           |

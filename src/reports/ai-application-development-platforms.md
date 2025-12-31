@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                                                                |
 | --------------- | ---------------------------------------------------------------------------- |
 | `Leader`        | [Google](/vendors/google.md)                                                 |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md)                       |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                                    |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                                           |
 | `Leader`        | [IBM](/vendors/ibm.md)                                                       |
 | `Visionary`     | [OpenAI](/vendors/openai.md)                                                 |
