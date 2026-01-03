@@ -60,14 +60,15 @@ This section provides an organized index of product or service based providers c
 - [Altair](/vendors/altair.md)
 - [Alteryx](/vendors/alteryx.md)
 - [Amazon](/vendors/amazon.md)
+- [Ambra Solutions](/vendors/ambra-solutions.md)
+- [Amdocs](/vendors/amdocs.md)
+- [Amperity](/vendors/amperity.md)
+- [Anaconda](/vendors/anaconda.md)
+- [Analytic Partners](/vendors/analytic-partners.md)
+- [Anaplan](/vendors/anaplan.md)
 
 ### PENDING
 
-Ambra Solutions
-Amdocs
-Amperity
-Analytic Partners
-Anaplan
 Anglepoint
 Anjana Data
 Anodot (Umbrella)
