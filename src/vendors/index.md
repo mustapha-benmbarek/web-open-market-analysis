@@ -67,26 +67,27 @@ This section provides an organized index of product or service based providers c
 - [Analytic Partners](/vendors/analytic-partners.md)
 - [Anaplan](/vendors/anaplan.md)
 
+- [Anglepoint](/vendors/anglepoint.md)
+- [Anjana Data](/vendors/anjana-data.md)
+- [Anodot](/vendors/anodot.md)
+- [Anomalo](/vendors/anomalo.md)
+- [Anthology](/vendors/anthology.md)
+- [Anunta](/vendors/anunta.md)
+- [Anysphere](/vendors/anysphere.md)
+- [Apar Technologies](/vendors/apar-technologies.md)
+- [apexanalytix](/vendors/apexanalytix.md)
+- [Apica](/vendors/apica.md)
+- [Apiiro](/vendors/apiiro.md)
+- [Apparound](/vendors/apparound.md)
+- [AppDirect](/vendors/appdirect.md)
+- [Appian](/vendors/appian.md)
+- [Applitools](/vendors/applitools.md)
+- [Apporto](/vendors/apporto.md)
+- [Appspace](/vendors/appspace.md)
+- [Aprimo](/vendors/aprimo.md)
+
 ### PENDING
 
-Anglepoint
-Anjana Data
-Anodot (Umbrella)
-Anomalo
-Anthology
-Anunta
-Anysphere (Cursor)
-Apar Technologies
-apexanalytix
-Apica
-Apiiro
-Apparound
-AppDirect
-Appian
-Applitools
-Apporto
-Appspace
-Aprimo
 Apromore
 Aptean
 Aravo
