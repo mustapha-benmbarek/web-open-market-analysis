@@ -84,7 +84,6 @@ This section provides an organized index of product or service based providers c
 - [Apporto](/vendors/apporto.md)
 - [Appspace](/vendors/appspace.md)
 - [Aprimo](/vendors/aprimo.md)
-
 - [Apromore](/vendors/apromore.md)
 - [Aptean](/vendors/aptean.md)
 - [Aravo](/vendors/aravo.md)
@@ -103,13 +102,13 @@ This section provides an organized index of product or service based providers c
 - [Asana](/vendors/asana.md)
 - [AsiaInfo](/vendors/asiainfo.md)
 - [AT&T](/vendors/at&t.md)
+- [Ataccama](/vendors/ataccama.md)
+- [Athos Commerce](/vendors/athos-commerce.md)
+- [Atlan](/vendors/atlan.md)
+- [Atlassian](/vendors/atlassian.md)
 
 ### PENDING
 
-Ataccama
-Athos Commerce
-Atlan
-Atlassian
 Atos
 Augment Code
 Automation Anywhere
