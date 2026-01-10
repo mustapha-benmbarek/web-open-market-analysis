@@ -31,21 +31,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/process-mining-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [Celonis](/vendors/celonis.md)                             |
-| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md)                   |
-| `Leader`        | [Apromore](/vendors/apromore.md)                           |
-| `Leader`        | [ARIS (Software GmbH)](</vendors/aris-(software-gmbh).md>) |
-| `Leader`        | [IBM](/vendors/ibm.md)                                     |
-| `Leader`        | [UiPath](/vendors/uipath.md)                               |
-| `Leader`        | [Pegasystems](/vendors/pegasystems.md)                     |
-| `Leader`        | [MEHRWERK](/vendors/mehrwerk.md)                           |
-| `Visionary`     | [QPR Software](/vendors/qpr-software.md)                   |
-| `Niche Player`  | [iGrafx](/vendors/igrafx.md)                               |
-| `Niche Player`  | [Proxverse](/vendors/proxverse.md)                         |
-| `Niche Player`  | [Decisions](/vendors/decisions.md)                         |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)                         |
-| `Challenger`    | [Appian](/vendors/appian.md)                               |
-| `Challenger`    | [ServiceNow](/vendors/servicenow.md)                       |
-| `Challenger`    | [ABBYY](/vendors/abbyy.md)                                 |
+| Market Status   | Market Vendor                            |
+| --------------- | ---------------------------------------- |
+| `Leader`        | [Celonis](/vendors/celonis.md)           |
+| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md) |
+| `Leader`        | [Apromore](/vendors/apromore.md)         |
+| `Leader`        | [ARIS (Software GmbH)](/vendors/aris.md) |
+| `Leader`        | [IBM](/vendors/ibm.md)                   |
+| `Leader`        | [UiPath](/vendors/uipath.md)             |
+| `Leader`        | [Pegasystems](/vendors/pegasystems.md)   |
+| `Leader`        | [MEHRWERK](/vendors/mehrwerk.md)         |
+| `Visionary`     | [QPR Software](/vendors/qpr-software.md) |
+| `Niche Player`  | [iGrafx](/vendors/igrafx.md)             |
+| `Niche Player`  | [Proxverse](/vendors/proxverse.md)       |
+| `Niche Player`  | [Decisions](/vendors/decisions.md)       |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)       |
+| `Challenger`    | [Appian](/vendors/appian.md)             |
+| `Challenger`    | [ServiceNow](/vendors/servicenow.md)     |
+| `Challenger`    | [ABBYY](/vendors/abbyy.md)               |

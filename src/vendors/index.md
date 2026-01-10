@@ -66,7 +66,6 @@ This section provides an organized index of product or service based providers c
 - [Anaconda](/vendors/anaconda.md)
 - [Analytic Partners](/vendors/analytic-partners.md)
 - [Anaplan](/vendors/anaplan.md)
-
 - [Anglepoint](/vendors/anglepoint.md)
 - [Anjana Data](/vendors/anjana-data.md)
 - [Anodot](/vendors/anodot.md)
@@ -86,26 +85,27 @@ This section provides an organized index of product or service based providers c
 - [Appspace](/vendors/appspace.md)
 - [Aprimo](/vendors/aprimo.md)
 
+- [Apromore](/vendors/apromore.md)
+- [Aptean](/vendors/aptean.md)
+- [Aravo](/vendors/aravo.md)
+- [Archive360](/vendors/archive360.md)
+- [ARCON](/vendors/arcon.md)
+- [Arcserve](/vendors/arcserve.md)
+- [Arctera](/vendors/arctera.md)
+- [Ardoq](/vendors/ardoq.md)
+- [Argus Logistics](/vendors/argus-logistics.md)
+- [Aria Systems](/vendors/aria-systems.md)
+- [ARIS](/vendors/aris.md)
+- [Arista Networks](/vendors/arista-networks.md)
+- [Arkieva](/vendors/arkieva.md)
+- [Armis](/vendors/armis.md)
+- [Arvato](/vendors/arvato.md)
+- [Asana](/vendors/asana.md)
+- [AsiaInfo](/vendors/asiainfo.md)
+- [AT&T](/vendors/at&t.md)
+
 ### PENDING
 
-Apromore
-Aptean
-Aravo
-Archive360
-ARCON
-Arcserve
-Arctera
-Ardoq
-Argus Logistics
-Aria Systems
-ARIS (Software GmbH)
-Arista Networks
-Arkieva
-Armis
-Arvato
-Asana
-AsiaInfo
-AT&T
 Ataccama
 Athos Commerce
 Atlan
