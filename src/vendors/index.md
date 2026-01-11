@@ -106,16 +106,18 @@ This section provides an organized index of product or service based providers c
 - [Athos Commerce](/vendors/athos-commerce.md)
 - [Atlan](/vendors/atlan.md)
 - [Atlassian](/vendors/atlassian.md)
+- [Atos](/vendors/atos.md)
+- [ATSG](/vendors/atsg.md)
+- [AU10TIX](/vendors/au10tix.md)
+- [Augment Code](/vendors/augment-code.md)
+- [Automation Anywhere](/vendors/automation-anywhere.md)
+- [Auvik](/vendors/auvik.md)
+- [Avaamo](/vendors/avaamo.md)
+- [Avature](/vendors/avature.md)
+- [AVEVA](/vendors/aveva.md)
 
 ### PENDING
 
-Atos
-Augment Code
-Automation Anywhere
-Auvik
-Avaamo
-Avature
-AVEVA
 AvidXchange
 Aviso
 Avolution
