@@ -116,26 +116,16 @@ This section provides an organized index of product or service based providers c
 - [Avature](/vendors/avature.md)
 - [AVEVA](/vendors/aveva.md)
 
-### PENDING
-
-AvidXchange
-Aviso
-Avolution
-Axero
-Axonius
-Axway
+- [AvidXchange](/vendors/avidxchange.md)
+- [Aviso](/vendors/aviso.md)
+- [Avolution](/vendors/avolution.md)
+- [Axero](/vendors/axero.md)
+- [Axonius](/vendors/axonius.md)
+- [Axway](/vendors/axway.md)
 
 ### B
 
-### OTHERS
-
-10x Banking
-1Kosmos
-1NCE
-1Password
-4flow
-6sense
-8x8
+- [xxxxxxx](/vendors/xxxxxxxxx.md)
 
 Bain & Company
 Balbix
@@ -192,6 +182,17 @@ Buildkite
 BUSINESSNEXT
 Bynder
 Bytes
+
+### OTHERS
+
+10x Banking
+1Kosmos
+1NCE
+1Password
+4flow
+6sense
+8x8
+
 C.H. Robinson
 C5i
 Calero
