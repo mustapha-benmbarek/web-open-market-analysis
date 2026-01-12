@@ -115,7 +115,6 @@ This section provides an organized index of product or service based providers c
 - [Avaamo](/vendors/avaamo.md)
 - [Avature](/vendors/avature.md)
 - [AVEVA](/vendors/aveva.md)
-
 - [AvidXchange](/vendors/avidxchange.md)
 - [Aviso](/vendors/aviso.md)
 - [Avolution](/vendors/avolution.md)
@@ -123,17 +122,16 @@ This section provides an organized index of product or service based providers c
 - [Axonius](/vendors/axonius.md)
 - [Axway](/vendors/axway.md)
 
+- [Bain & Company](/vendors/bain&company.md)
+- [Balbix](/vendors/balbix.md)
+- [Bandwidth](/vendors/bandwidth.md)
+- [Barracuda](/vendors/barracuda.md)
+- [Basware](/vendors/basware.md)
+- [BearingPoint](/vendors/bearingpoint.md)
+- [Bee360](/vendors/bee360.md)
+
 ### B
 
-- [xxxxxxx](/vendors/xxxxxxxxx.md)
-
-Bain & Company
-Balbix
-Bandwidth
-Barracuda
-Basware
-BearingPoint
-Bee360
 Behavox
 Beta Systems Software
 BetterCloud

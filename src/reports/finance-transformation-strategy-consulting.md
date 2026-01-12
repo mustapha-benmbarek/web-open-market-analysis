@@ -40,7 +40,7 @@ and view the magic quadrant graphic
 | `Leader`        | [KPMG](/vendors/kpmg.md)                                       |
 | `Leader`        | [Accenture](/vendors/accenture.md)                             |
 | `Leader`        | [McKinsey & Company](/vendors/mckinsey-&-company.md)           |
-| `Leader`        | [Bain & Company](/vendors/bain-&-company.md)                   |
+| `Leader`        | [Bain & Company](/vendors/bain&company.md)                     |
 | `Leader`        | [Boston Consulting Group](/vendors/boston-consulting-group.md) |
 | `Leader`        | [IBM](/vendors/ibm.md)                                         |
 | `Leader`        | [PwC](/vendors/pwc.md)                                         |
@@ -63,7 +63,7 @@ and view the magic quadrant graphic
 | `Leader`        | [KPMG](/vendors/kpmg.md)                                           |
 | `Leader`        | [Deloitte](/vendors/deloitte.md)                                   |
 | `Leader`        | [McKinsey & Company](/vendors/mckinsey-&-company.md)               |
-| `Leader`        | [Bain & Company](/vendors/bain-&-company.md)                       |
+| `Leader`        | [Bain & Company](/vendors/bain&company.md)                         |
 | `Leader`        | [PwC](/vendors/pwc.md)                                             |
 | `Leader`        | [Boston Consulting Group](/vendors/boston-consulting-group.md)     |
 | `Leader`        | [Accenture](/vendors/accenture.md)                                 |
