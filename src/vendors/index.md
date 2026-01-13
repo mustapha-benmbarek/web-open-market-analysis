@@ -121,7 +121,6 @@ This section provides an organized index of product or service based providers c
 - [Axero](/vendors/axero.md)
 - [Axonius](/vendors/axonius.md)
 - [Axway](/vendors/axway.md)
-
 - [Bain & Company](/vendors/bain&company.md)
 - [Balbix](/vendors/balbix.md)
 - [Bandwidth](/vendors/bandwidth.md)
@@ -129,28 +128,28 @@ This section provides an organized index of product or service based providers c
 - [Basware](/vendors/basware.md)
 - [BearingPoint](/vendors/bearingpoint.md)
 - [Bee360](/vendors/bee360.md)
+- [Behavox](/vendors/behavox.md)
+- [Beta Systems Software](/vendors/beta-systems-software.md)
+- [BetterCloud](/vendors/bettercloud.md)
+- [Beyond Now](/vendors/beyond-now.md)
+- [BeyondTrust](/vendors/beyondtrust.md)
+- [BigCommerce](/vendors/bigcommerce.md)
+- [Bigtincan](/vendors/bigtincan.md)
+- [BillingPlatform](/vendors/billingplatform.md)
+- [Billwerk+](/vendors/billwerk+.md)
+- [Bit2win](/vendors/bit2win.md)
+- [Bitdefender](/vendors/bitdefender.md)
+- [Bizagi](/vendors/bizagi.md)
+- [Bizzabo](/vendors/bizzabo.md)
+- [Bizzdesign](/vendors/bizzdesign.md)
+- [Black Duck](/vendors/black-duck.md)
+- [BlackLine](/vendors/blackline.md)
+- [Blink](/vendors/blink.md)
+- [Bloomberg](/vendors/bloomberg.md)
+- [Bloomreach](/vendors/bloomreach.md)
 
 ### B
 
-Behavox
-Beta Systems Software
-BetterCloud
-Beyond Now
-BeyondTrust
-BigCommerce
-Bigtincan
-BillingPlatform
-Bit2win
-Bitdefender
-Bizagi
-Bizzabo
-Bizzdesign
-Bizzdesign (Alfabet)
-Black Duck
-BlackLine
-Blink
-Bloomberg
-Bloomreach
 Blue Triangle
 Blue Yonder
 BlueConic
