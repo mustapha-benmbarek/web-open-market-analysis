@@ -47,7 +47,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                              |
 | --------------- | ---------------------------------------------------------- |
-| `Leader`        | [BMC Software](/vendors/bmc-software.md)                   |
+| `Leader`        | [BMC Software](/vendors/bmc.md)                            |
 | `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
 | `Leader`        | [IBM](/vendors/ibm.md)                                     |
 | `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)                     |

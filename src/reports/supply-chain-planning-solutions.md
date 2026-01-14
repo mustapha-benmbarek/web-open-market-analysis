@@ -45,7 +45,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [QAD](/vendors/qad.md)                                   |
 | `Niche Player`  | [Manhattan Associates](/vendors/manhattan-associates.md) |
 | `Niche Player`  | [ToolsGroup](/vendors/toolsgroup.md)                     |
-| `Niche Player`  | [Board International](/vendors/board-international.md)   |
+| `Niche Player`  | [Board International](/vendors/board.md)                 |
 | `Challenger`    | [John Galt Solutions](/vendors/john-galt-solutions.md)   |
 | `Challenger`    | [SAP](/vendors/sap.md)                                   |
 | `Challenger`    | [Logility](/vendors/logility.md)                         |

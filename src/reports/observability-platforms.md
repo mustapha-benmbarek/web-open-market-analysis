@@ -48,7 +48,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [ScienceLogic](/vendors/sciencelogic.md)  |
 | `Visionary`     | [Apica](/vendors/apica.md)                |
 | `Niche Player`  | [Sumo Logic](/vendors/sumo-logic.md)      |
-| `Niche Player`  | [BMC Helix](/vendors/bmc-helix.md)        |
+| `Niche Player`  | [BMC Helix](/vendors/bmc.md)              |
 | `Niche Player`  | [ITRS](/vendors/itrs.md)                  |
 | `Niche Player`  | [SolarWinds](/vendors/solarwinds.md)      |
 | `Challenger`    | [Amazon Web Services](/vendors/amazon.md) |
