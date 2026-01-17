@@ -49,14 +49,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/privileged-access-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Delinea](/vendors/delinea.md)                           |
-| `Leader`        | [CyberArk](/vendors/cyberark.md)                         |
-| `Leader`        | [BeyondTrust](/vendors/beyondtrust.md)                   |
-| `Visionary`     | [WALLIX](/vendors/wallix.md)                             |
-| `Visionary`     | [One Identity](/vendors/one-identity.md)                 |
-| `Niche Player`  | [Broadcom (Symantec)](</vendors/broadcom-(symantec).md>) |
-| `Niche Player`  | [Netwrix](/vendors/netwrix.md)                           |
-| `Challenger`    | [ARCON](/vendors/arcon.md)                               |
-| `Challenger`    | [ManageEngine](/vendors/manageengine.md)                 |
+| Market Status   | Market Vendor                               |
+| --------------- | ------------------------------------------- |
+| `Leader`        | [Delinea](/vendors/delinea.md)              |
+| `Leader`        | [CyberArk](/vendors/cyberark.md)            |
+| `Leader`        | [BeyondTrust](/vendors/beyondtrust.md)      |
+| `Visionary`     | [WALLIX](/vendors/wallix.md)                |
+| `Visionary`     | [One Identity](/vendors/one-identity.md)    |
+| `Niche Player`  | [Broadcom (Symantec)](/vendors/broadcom.md) |
+| `Niche Player`  | [Netwrix](/vendors/netwrix.md)              |
+| `Challenger`    | [ARCON](/vendors/arcon.md)                  |
+| `Challenger`    | [ManageEngine](/vendors/manageengine.md)    |

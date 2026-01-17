@@ -54,7 +54,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Red Hat](/vendors/red-hat.md)             |
 | `Leader`        | [SUSE](/vendors/suse.md)                   |
 | `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Leader`        | [Broadcom (VMWare)](vendors/broadcom.md)   |
+| `Leader`        | [Broadcom (VMWare)](/vendors/broadcom.md)  |
 | `Niche Player`  | [Canonical](/vendors/canonical.md)         |
 | `Challenger`    | [Huawei](/vendors/huawei.md)               |
 | `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md) |
