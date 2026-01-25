@@ -6,13 +6,36 @@ hide_menu: true
 
 # Source-to-Pay Suites
 
-Procurement is tasked with delivering cost savings, improving efficiency and managing risk and compliance. This Magic Quadrant will help procurement technology leaders evaluate and select the most suitable software vendor to optimize and digitize their sourcing and procurement processes.
+Procurement is tasked with delivering on cost, quality, and reduced risk and compliance, which requires a multitude of technology. This Magic Quadrant will help procurement technology leaders evaluate a single S2P suite that can help them manage and automate all of those priorities.
 
 ## Market Definition
 
 Gartner defines the source-to-pay (S2P) suite market as an integrated set of solutions to source, contract, request, procure, receive and pay for goods and services across an enterprise. These solutions typically are sold as cloud-based software as a service.
 
 Source-to-pay suites allow organizations to manage all of their sourcing and procurement activities within a single integrated solution. These solutions are modular in nature, allowing customers to activate/implement the functionality that is relevant for their needs, and are ERP/financial-system-agnostic. The integrated nature of these solutions allows for data to easily flow across the source-to-pay process, providing needed visibility to upstream and downstream information. For example, users can view a purchase order alongside its related contract, the sourcing event that led to the contract, and connected downstream documents like receipts, invoices and payments.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/source-to-pay-suites.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/source-to-pay-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Coupa](/vendors/coupa.md)                           |
+| `Leader`        | [SAP](/vendors/sap.md)                               |
+| `Leader`        | [Ivalua](/vendors/ivalua.md)                         |
+| `Leader`        | [Oracle](/vendors/oracle.md)                         |
+| `Leader`        | [Zycus](/vendors/zycus.md)                           |
+| `Leader`        | [GEP](/vendors/gep.md)                               |
+| `Visionary`     | [JAGGAER](/vendors/jaggaer.md)                       |
+| `Visionary`     | [Zip](/vendors/zip.md)                               |
+| `Niche Player`  | [Esker](/vendors/esker.md)                           |
+| `Niche Player`  | [ebidtopay](/vendors/ebidtopay.md)                   |
+| `Niche Player`  | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
+| `Niche Player`  | [ZHENYUN Technology](/vendors/zhenyun-technology.md) |
+| `Niche Player`  | [Synertrade](/vendors/synertrade.md)                 |
 
 ## Report 2025
 
