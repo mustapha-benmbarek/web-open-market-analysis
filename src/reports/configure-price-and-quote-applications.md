@@ -6,13 +6,39 @@ hide_menu: true
 
 # Configure, Price and Quote Applications
 
-The configure, price and quote (CPQ) applications market continues to evolve toward omnichannel solutions that support selling all types of goods and services. This Magic Quadrant evaluates 15 configure, price and quote applications to help buyers find the best one for their needs.
+The configure, price and quote applications market continues to evolve toward omnichannel solutions that support selling all types of goods and services. This Magic Quadrant evaluates 16 CPQ applications to help buyers find the best one for their needs.
 
 ## Market Definition
 
 Gartner defines configure, price and quote (CPQ) applications as software that enables sales organizations to automate and optimize the creation of quotes and capture of orders.
 
-A CPQ application is a sales tool that captures the new goods and services a customer wants to buy or the changes a customer wants to make to existing goods and services. While generally focused on assisted sales channels, CPQ capabilities such as product configuration and pricing must be shared with the self-service commerce channel. The new purchases and changes must be priced, and a binding contract must be formed with the customer before sending an order to downstream fulfilment systems.
+A CPQ application is a sales tool that captures the new goods and services a customer wants to buy or the changes a customer wants to make to existing goods and services. While generally focused on assisted sales channels, CPQ capabilities such as product configuration and pricing must be shared with the self-service commerce channel. The new purchases and changes must be priced, and a binding contract must be formed with the customer before sending an order to downstream fulfillment systems.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/configure-price-and-quote-applications.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/configure-price-and-quote-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Tacton](/vendors/tacton.md)           |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`        | [PROS](/vendors/pros.md)               |
+| `Leader`        | [SAP](/vendors/sap.md)                 |
+| `Leader`        | [Bit2win](/vendors/bit2win.md)         |
+| `Leader`        | [Oracle](/vendors/oracle.md)           |
+| `Leader`        | [Infor](/vendors/infor.md)             |
+| `Visionary`     | [servicePath](/vendors/servicepath.md) |
+| `Niche Player`  | [Vendavo](/vendors/vendavo.md)         |
+| `Niche Player`  | [Apparound](/vendors/apparound.md)     |
+| `Niche Player`  | [Epicor](/vendors/epicor.md)           |
+| `Niche Player`  | [Yagna iQ](/vendors/yagna-iq.md)       |
+| `Niche Player`  | [DealHub](/vendors/dealhub.md)         |
+| `Niche Player`  | [Zilliant](/vendors/zilliant.md)       |
+| `Challenger`    | [Conga](/vendors/conga.md)             |
+| `Challenger`    | [CSG](/vendors/csg.md)                 |
 
 ## Report 2025
 
