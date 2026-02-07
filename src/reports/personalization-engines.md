@@ -6,19 +6,45 @@ hide_menu: true
 
 # Personalization Engines
 
-Personalization is a top strategy for differentiating customer experiences. It can improve CX, increase revenue, boost customer satisfaction and reduce cost through operational efficiencies. The personalization engine market revenue grew 21% in 2023and has a projected CAGR of 23.8% through 2027.
+Personalization differentiates the customer experience, driving revenue and efficiency. The market grew 26.1% in 2024 to $1.2B, yet business and functional capability gaps remain. Successful digital marketing leaders closely examine AI and testing capabilities while being wary of possible add-ons.
 
 ## Market Definition
 
-Gartner defines personalization engines as technology that enables marketing professionals to identify, set up, conduct and measure the optimum experience for an individual based on knowledge about them, their intent and context.
+Personalization engines use knowledge about customers to create and deliver an optimum experience for them and measure the impact on customer experience. These engines apply AI, advanced analytics and business rules to create meaningful experiences across channels that facilitate customer engagement and drive revenue.
 
-Personalization engines apply context about individual users and their circumstances to select, tailor and deliver messaging such as content, offers and other interactions through various digital channels in support of three use cases:
+Personalization engines create a relevant, individualized interaction between two parties designed to enhance the recipient’s experience. A recipient can be a prospect, customer (known or anonymous) or employee (engaging with a customer or prospect). In commercial settings, the engines apply advanced analytics to interpret customer data — whether known or anonymous, behavioral or contextual — and adjust engagement based on where the customer is in their journey and how they’re interacting. The engines adapt content, offers and interactions in real time that facilitate the customer’s journey.
 
-- **Marketing**: Delivering the right message to the right audience and in the right context(i.e., tone, timing and channel) to maximize marketing and advertising performance. It involves behavioral inference, segmentation, testing, targeting and optimization of marketing campaign content, messaging and engagements across marketing and communication channels.
+These engines are commonly used in marketing, digital commerce, and service and support:
 
-- **Digital commerce**: Tailoring content, offers, recommendations and experiences across digital sales channels. It includes personalized site search and navigation and customized content across homepages, category landing pages and product detail pages, with the goal of increasing conversion and delivering online revenue growth.
+- In marketing, they drive engagement by delivering relevant messages to the right audience at the right time and through the right channel.
 
-- **Service and support**: Using customer insight, journey context and user feedback (i.e., surveys and stated intent) to customize online and offline experiences across business functions to reduce customer effort or increase customer satisfaction and advocacy.
+- In digital commerce, they facilitate purchasing by providing meaningful content, tailored product recommendations and targeted promotional offers.
+
+- In service and support, they enhance customer experiences by addressing needs and preferences with personalized assistance.
+
+Personalization can range from broad targeting to highly individualized engagement, depending on what is known about the customer and how they’re interacting. This leads to stronger engagement, higher acceptance of recommendations, improved conversion, higher average order value, and reduced bounce and abandonment.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/personalization-engines.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/personalization-engines.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                    |
+| --------------- | ---------------------------------------------------------------- |
+| `Leader`        | [Mastercard Dynamic Yield](/vendors/mastercard-dynamic-yield.md) |
+| `Leader`        | [SAP](/vendors/sap.md)                                           |
+| `Leader`        | [Insider One](/vendors/insider-one.md)                           |
+| `Leader`        | [CleverTap](/vendors/clevertap.md)                               |
+| `Leader`        | [Optimizely](/vendors/optimizely.md)                             |
+| `Leader`        | [Adobe](/vendors/adobe.md)                                       |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)                             |
+| `Visionary`     | [MoEngage](/vendors/moengage.md)                                 |
+| `Visionary`     | [Bloomreach](/vendors/bloomreach.md)                             |
+| `Niche Player`  | [Monetate](/vendors/monetate.md)                                 |
+| `Niche Player`  | [Algonomy](/vendors/algonomy.md)                                 |
+| `Niche Player`  | [Kameleoon](/vendors/kameleoon.md)                               |
 
 ## Report 2025
 
