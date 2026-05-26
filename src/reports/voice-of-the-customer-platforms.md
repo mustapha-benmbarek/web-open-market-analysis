@@ -6,7 +6,7 @@ hide_menu: true
 
 # Voice of the Customer Platforms
 
-Organizations use VoC platforms to manage the customer experience through a deep understanding of customer needs and perceptions. This research helps you identify vendors whose VoC platforms are best equipped to help them achieve their CX and business objectives.
+VoC platforms help organizations collect, analyze and act on customer feedback, facilitating customer understanding and strategic outcomes. This research helps you identify vendors whose VoC platforms are best equipped to help you achieve your CX and business objectives.
 
 ## Market Definition
 
@@ -22,9 +22,31 @@ Common use cases include:
 
 **VoC data sources extend to inferred feedback:** This scenario involves the integration of direct and indirect customer feedback to include inferred data. Data may include digital analytics, customer journey analytics and operations data to get a more holistic view of the customer.
 
-**VoC data is disseminated and embedded:** This scenario centers on disseminating relevant and real-time data via workflows, reports and dashboards while embedding this VoC data into frequently used applications such as CRMs.
+**VoC data is disseminated and embedded:** This scenario centres on disseminating relevant and real-time data via workflows, reports and dashboards while embedding this VoC data into frequently used applications such as CRMs.
 
 **VoC insights impact business outcomes:** This scenario focuses on the ability to quantify resulting actions from VoC insights with their impact on CX and business outcomes.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/voice-of-the-customer-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/voice-of-the-customer-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Qualtrics](/vendors/qualtrics.md)                   |
+| `Leader`        | [Medallia](/vendors/medallia.md)                     |
+| `Leader`        | [Sprinklr](/vendors/sprinklr.md)                     |
+| `Leader`        | [Press Ganey Forsta](/vendors/press-ganey-forsta.md) |
+| `Niche Player`  | [Verint](/vendors/verint.md)                         |
+| `Niche Player`  | [Concentrix](/vendors/concentrix.md)                 |
+| `Niche Player`  | [QuestionPro](/vendors/questionpro.md)               |
+| `Niche Player`  | [SMG](/vendors/smg.md)                               |
+| `Niche Player`  | [XEBO.ai](/vendors/xebo.ai.md)                       |
+| `Niche Player`  | [Revuze](/vendors/revuze.md)                         |
+| `Challenger`    | [Alchemer](/vendors/alchemer.md)                     |
+| `Challenger`    | [Pisano](/vendors/pisano.md)                         |
 
 ## Report 2025
 
