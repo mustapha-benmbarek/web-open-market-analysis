@@ -157,6 +157,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Personalization Engines](personalization-engines.md)
 - [Privileged Access Management](privileged-access-management.md)
 - [Process Mining Platforms](process-mining-platforms.md)
+- [Process Intelligence Platforms](process-intelligence-platforms.md)
 - [Public Cloud IT Transformation Services](public-cloud-it-transformation-services.md)
 
 ### Q
