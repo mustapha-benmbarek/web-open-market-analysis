@@ -69,7 +69,9 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [CSP 5G RAN Infrastructure Solutions](csp-5g-ran-infrastructure-solutions.md)
 - [Custom Software Development Services](custom-software-development-services.md)
 - [Customer Data Platforms](customer-data-platforms.md)
+- [Customer Journey Analytics & Orchestration](customer-journey-analytics-and-orchestration.md)
 - [Customer Success Management Platforms](customer-success-management-platforms.md)
+- [Cyberthreat Intelligence Technologies](cyberthreat-intelligence-technologies.md)
 
 ### D
 
@@ -80,6 +82,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Data Science and Machine Learning Platforms](data-science-and-machine-learning-platforms.md)
 - [Decision Intelligence Platforms](decision-intelligence-platforms.md)
 - [Desktop as a Service](desktop-as-a-service.md)
+- [Developer Productivity Insight Platforms](developer-productivity-insight-platforms.md)
 - [DevOps Platforms](devops-platforms.md)
 - [Digital Asset Management Platforms](digital-asset-management-platforms.md)
 - [Digital Commerce](digital-commerce.md)
