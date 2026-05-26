@@ -195,6 +195,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - [Talent Acquisition (Recruiting) Suites](talent-acquisition-suites.md)
 - [Third-Party Logistics](third-party-logistics.md)
+- [Third-Party Risk Management Tools for Assurance Leaders](third-party-risk-management-tools-for-assurance-leaders.md)
 - [Transportation Management Systems](transportation-management-systems.md)
 
 ### U
