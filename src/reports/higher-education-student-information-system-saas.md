@@ -6,7 +6,7 @@ hide_menu: true
 
 # Higher Education Student Information System Software as a Service
 
-SaaS student information systems are evolving slowly, even as customer interest and vendor investments grow. Complex SIS transitions are impacted by changing business models, limited resources or cautious leadership. Higher education CIOs can use this research to evaluate and navigate in the market.
+Cloud/SaaS student information systems adoption has reached a tipping point. Vendor solutions are advancing while institutions struggle to modernize due to budget limits, legacy models and poor cross-unit collaboration. Higher education CIOs can use this research to assess and navigate the market.
 
 ## Market Definition
 
