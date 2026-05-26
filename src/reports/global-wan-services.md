@@ -16,6 +16,26 @@ As digital business initiatives increase demands on the enterprise network, the 
 
 Enterprises rely on global WAN services to deliver global and regional fixed, wide-area networking connectivity. These services consist of backbone network transport and last-mile access connections to deliver connectivity to individual enterprise sites, such as large or remote/branch office locations. Although these are core to the offer, service providers also offer more transformational capabilities enabled by the underlay service network.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/global-wan-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/global-wan-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [NTT](/vendors/ntt.md)                                 |
+| `Leader`        | [AT&T](/vendors/at&t.md)                               |
+| `Leader`        | [Tata Communications](/vendors/tata-communications.md) |
+| `Leader`        | [Verizon](/vendors/verizon.md)                         |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)         |
+| `Leader`        | [BT ](/vendors/bt-.md)                                 |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                       |
+| `Visionary`     | [Colt](/vendors/colt.md)                               |
+| `Niche Player`  | [GTT Communications](/vendors/gtt-communications.md)   |
+| `Niche Player`  | [Comcast Business](/vendors/comcast-business.md)       |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

@@ -16,6 +16,34 @@ Internet of Things (IoT) devices can use various connectivity technologies. Conn
 
 Additionally, managed IoT connectivity services may encompass integrated and managed IT infrastructure and systems, operational technology (OT) infrastructure and systems, software, network services (connectivity), and IT services. Managed IoT connectivity services are a solution element within the broader solution sets of digital businesses and OT systems in enterprise environments.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/managed-iot-connectivity-services.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/managed-iot-connectivity-services.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                             |
+| `Leader`        | [Telefonica](/vendors/telefonica.md)                         |
+| `Leader`        | [AT&T](/vendors/at&t.md)                                     |
+| `Leader`        | [Verizon](/vendors/verizon.md)                               |
+| `Leader`        | [Soracom‑KDDI](/vendors/soracom‑kddi.md)                     |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)               |
+| `Leader`        | [Telenor Group](/vendors/telenor-group.md)                   |
+| `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom-group.md) |
+| `Leader`        | [Wireless Logic](/vendors/wireless-logic.md)                 |
+| `Visionary`     | [emnify](/vendors/emnify.md)                                 |
+| `Visionary`     | [KORE](/vendors/kore.md)                                     |
+| `Visionary`     | [1NCE](/vendors/1nce.md)                                     |
+| `Visionary`     | [NTT](/vendors/ntt.md)                                       |
+| `Visionary`     | [Telit Cinterion](/vendors/telit-cinterion.md)               |
+| `Niche Player`  | [Tele2 IoT](/vendors/tele2-iot.md)                           |
+| `Niche Player`  | [Itron](/vendors/itron.md)                                   |
+| `Niche Player`  | [Tata Communications](/vendors/tata-communications.md)       |
+| `Challenger`    | [Cubic³](/vendors/cubic³.md)                                 |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

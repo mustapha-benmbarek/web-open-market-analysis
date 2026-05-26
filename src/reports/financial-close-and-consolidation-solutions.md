@@ -14,6 +14,30 @@ Gartner defines financial close and consolidation solutions (FCCS) as applicatio
 
 CFO’s and their team's objective is to provide a compliant, efficient and collaborative group financial close is placed at risk by the increasing complexity of company structures, escalating financial regulations, multiple systems of record and the rise in remote working. The FCCS market enables finance teams to manage and execute their group close activity with a centralized cloud-based application that draws on machine learning and AI to optimize performance. Finance teams typically leverage these solutions across three business challenges: to assist with the goal of more efficient controllership function; to support the increasingly regulated environment, enabling teams to reach compliance faster; or to simplify complex environments in which they operate. The solutions reduce risk and redundancy in the consolidation process, achieve faster group close times and generate compliant financial statements for external and management reporting.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/financial-close-and-consolidation-solutions.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/financial-close-and-consolidation-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Oracle](/vendors/oracle.md)                   |
+| `Leader`        | [OneStream](/vendors/onestream.md)             |
+| `Leader`        | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
+| `Niche Player`  | [Vena](/vendors/vena.md)                       |
+| `Niche Player`  | [Infor](/vendors/infor.md)                     |
+| `Niche Player`  | [insightsoftware](/vendors/insightsoftware.md) |
+| `Niche Player`  | [Prophix](/vendors/prophix.md)                 |
+| `Niche Player`  | [Jedox](/vendors/jedox.md)                     |
+| `Challenger`    | [BlackLine](/vendors/blackline.md)             |
+| `Challenger`    | [Anaplan](/vendors/anaplan.md)                 |
+| `Challenger`    | [HighRadius](/vendors/highradius.md)           |
+| `Challenger`    | [Board](/vendors/board.md)                     |
+| `Challenger`    | [Planful](/vendors/planful.md)                 |
+| `Challenger`    | [IBM](/vendors/ibm.md)                         |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
