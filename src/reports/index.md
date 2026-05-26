@@ -140,6 +140,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Managed Network Services](managed-network-services.md)
 - [Marketing Mix Modeling Solutions](marketing-mix-modeling-solutions.md)
 - [Marketing Work Management Platforms](marketing-work-management-platforms.md)
+- [Master Data Management Solutions](master-data-management-solutions.md)
 - [Metadata Management Solutions](metadata-management-solutions.md)
 - [Multichannel Marketing Hubs](multichannel-marketing-hubs.md)
 
