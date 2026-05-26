@@ -8,16 +8,9 @@ hide_menu: true
 
 ## Market Definition
 
-## Report 2025
+## Report 2026
 
-Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="/docs/2025/XXXXXXXXXXXXXXXXXXXX.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/XXXXXXXXXXXXXXXXXXXX.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="/docs/2025/XXXXXXXXXXXXXXXXXXXXXX.png" target="_blank" rel="noopener noreferrer">here</a>.
-
-## Report 2024
-
-Here is a summary of the vendors featured in the Gartner magic quadrant **2024** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="/docs/2024/XXXXXXXXXXXXXXXXXXXX.pdf" target="_blank" rel="noopener noreferrer">here</a>
-and view the magic quadrant graphic
-<a href="/docs/2024/XXXXXXXXXXXXXXXXXXXXXX.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2026/XXXXXXXXXXXXXXXXXXXXXX.png" target="_blank" rel="noopener noreferrer">here</a>.
