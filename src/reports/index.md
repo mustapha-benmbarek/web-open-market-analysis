@@ -190,6 +190,8 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Strategic Portfolio Management](strategic-portfolio-management.md)
 - [Supplier Risk Management Solutions](supplier-risk-management-solutions.md)
 - [Supply Chain Planning Solutions](supply-chain-planning-solutions.md)
+- [Supply Chain Planning Solutions (Discrete Indutries)](supply-chain-planning-solutions-discrete-industries.md)
+- [Supply Chain Planning Solutions (Process Indutries)](supply-chain-planning-solutions-process-industries.md)
 
 ### T
 
