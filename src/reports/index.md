@@ -101,6 +101,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Email Security](email-security.md)
 - [Endpoint Management Tools](endpoint-management-tools.md)
 - [Endpoint Protection Platforms](endpoint-protection-platforms.md)
+- [Enterprise AI Coding Agents](enterprise-ai-coding-agents.md)
 - [Enterprise Architecture Tools](enterprise-architecture-tools.md)
 - [Enterprise Low-Code Application Platforms](enterprise-low-code-application-platforms.md)
 - [Enterprise Storage Platforms](enterprise-storage-platforms.md)
