@@ -6,29 +6,42 @@ hide_menu: true
 
 # Enterprise Wired and Wireless LAN Infrastructure
 
-The need to reduce manual work in enterprise LANs is driving demand for AI networking and network as a service. As demand for automated and adaptive security grows, infrastructure and operations leaders should use this research to make investment decisions across campus, branch and remote locations.
+The enterprise wired and wireless LAN market is increasingly defined by operational outcomes rather than features. Vendor innovation investments are focused on AI to deliver more secure and more autonomous networks that reduce operational effort and perform consistently over time.
 
 ## Market Definition
 
-Gartner defines the enterprise wired and wireless LAN infrastructure market as the hardware and software that enables local connectivity for users and devices. The infrastructure components include enterprise-class wired switches and wireless access points, and the management software that secures, manages, tests, optimizes and automates the network.
+Gartner defines the enterprise wired and wireless LAN market as the infrastructure that enables secure connectivity across enterprise locations. This encompasses the hardware, software, and management capabilities required to deliver physical and logical network connectivity, enforce zero-trust security principles, and automate operations across campus, branch, and remote environments, including operational technology (OT) domains.
 
-Organizations across vertical markets rely on enterprise wired and wireless network infrastructures to connect and transmit data for both fixed and mobile devices, enabling end users to access applications that are located either on-site, in remote private or public destinations. In addition to end-user connectivity, these infrastructures offer capabilities for diverse market needs, including:
+Enterprise wired and wireless LAN infrastructures solve the operational complexity of delivering secure, scalable connectivity across distributed enterprise environments. As organizations expand across campus, branch, remote, and operational technology domains, traditional network deployment and management approaches become too resource-intensive and inconsistent to meet business demands.
 
-- Discovery, identification, security, management and segmentation of Internet of Things (IoT) and operational technology (OT) devices.
+The offered capabilities address the business problem of fragmented network operations by unifying life cycle management (that is, provisioning, monitoring, policy enforcement, and incident response) into a single, software-driven system. This reduces manual effort, shortens resolution times, and improves compliance with governance and security requirements.
 
-- Design and planning for network infrastructure requirements.
+While hardware remains foundational, it is the infrastructure operations software (that is, automation, telemetry, and policy orchestration) that delivers the operational and business value enterprises seek.
 
-- Implement zero-touch provisioning for deployment and configuration of the network infrastructure devices.
+Tangible outcomes include faster site turn-up, proactive issue detection and remediation, consistent user experience, and alignment of network operations with enterprise workflows through IT service management (ITSM) integration. Organizations also gain flexibility through cloud, on-premises, hybrid, and network as a service (NaaS) consumption models, enabling them to scale operations efficiently while maintaining control over data and performance.
 
-- Offer support, testing and maintenance for network infrastructure components
+## Report 2026
 
-- Establish a resilient infrastructure to withstand disruptions and provide continuous operations.
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/enterprise-wired-and-wireless-lan-infrastructure.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/enterprise-wired-and-wireless-lan-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-- Implement robust security measures to safeguard the network infrastructure.
-
-- Scalability and flexibility for efficient management and control plane communication processes.
-
-- Provides a no-touch or low-touch environment for operations on Day 2.
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [HPE](/vendors/hpe.md)                           |
+| `Leader`        | [Huawei](/vendors/huawei.md)                     |
+| `Leader`        | [Cisco](/vendors/cisco.md)                       |
+| `Leader`        | [Arista Networks](/vendors/arista-networks.md)   |
+| `Visionary`     | [Extreme Networks](/vendors/extreme-networks.md) |
+| `Visionary`     | [Fortinet](/vendors/fortinet.md)                 |
+| `Visionary`     | [Meter](/vendors/meter.md)                       |
+| `Visionary`     | [Nile](/vendors/nile.md)                         |
+| `Niche Player`  | [H3C](/vendors/h3c.md)                           |
+| `Niche Player`  | [ALE](/vendors/ale.md)                           |
+| `Niche Player`  | [RUCKUS Networks](/vendors/ruckus-networks.md)   |
+| `Niche Player`  | [Join Digital](/vendors/join-digital.md)         |
+| `Niche Player`  | [Allied Telesis](/vendors/allied-telesis.md)     |
 
 ## Report 2025
 
