@@ -6,6 +6,16 @@ hide_menu: true
 
 # Amazon
 
+## Market 2026
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
+
+| Market Status   | Market Vendor                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------- |
+| `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)             |
+| `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026) |
+| `Challenger`    | [Third-Party Logistics](/reports/third-party-logistics.md#report-2026)                         |
+
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
