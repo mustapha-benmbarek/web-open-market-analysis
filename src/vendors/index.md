@@ -18,6 +18,7 @@ This section provides an organized index of product or service based providers c
 - [1NCE](/vendors/1nce.md)
 - [1Password](/vendors/1password.md)
 - [4flow](/vendors/4flow.md)
+- [42Gears](/vendors/42gears.md)
 - [6sense](/vendors/6sense.md)
 - [8x8](/vendors/8x8.md)
 
