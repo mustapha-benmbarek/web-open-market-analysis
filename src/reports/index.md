@@ -187,6 +187,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Service Orchestration and Automation Platforms](service-orchestration-and-automation-platforms.md)
 - [Software Asset Management Managed Services](software-asset-management-managed-services.md)
 - [Source-to-Pay Suites](source-to-pay-suites.md)
+- [Specialist Supply Chain Strategy,Planning and Operations Consulting](specialist-supply-chain-strategy-planning-and-operations-consulting.md)
 - [Strategic Cloud Platform Services](strategic-cloud-platform-services.md)
 - [Strategic Portfolio Management](strategic-portfolio-management.md)
 - [Supplier Risk Management Solutions](supplier-risk-management-solutions.md)
