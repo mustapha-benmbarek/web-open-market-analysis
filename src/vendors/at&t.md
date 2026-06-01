@@ -14,6 +14,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | --------------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Global WAN Services](/reports/global-wan-services.md#report-2026)                                        |
 | `Leader`        | [Managed IoT Connectivity Services, Worldwide](/reports/managed-iot-connectivity-services.md#report-2026) |
+| `Niche Player`  | [Managed Network Services](/reports/managed-network-services.md#report-2026)                              |
 
 ## Market 2025
 

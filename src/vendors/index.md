@@ -118,6 +118,8 @@ This section provides an organized index of product or service based providers c
 - [Arvato](/vendors/arvato.md)
 - [Asana](/vendors/asana.md)
 - [AsiaInfo](/vendors/asiainfo.md)
+- [Aspen Technology](/vendors/aspen.md)
+- [AssurX](/vendors/assurx.md)
 - [AT&T](/vendors/at&t.md)
 - [Ataccama](/vendors/ataccama.md)
 - [Athos Commerce](/vendors/athos-commerce.md)
