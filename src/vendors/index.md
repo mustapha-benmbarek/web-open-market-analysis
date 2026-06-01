@@ -85,6 +85,7 @@ This section provides an organized index of product or service based providers c
 - [Anodot](/vendors/anodot.md)
 - [Anomalo](/vendors/anomalo.md)
 - [Anthology](/vendors/anthology.md)
+- [Anthropic](/vendors/anthropic.md)
 - [Anunta](/vendors/anunta.md)
 - [Anysphere](/vendors/anysphere.md)
 - [Apar Technologies](/vendors/apar-technologies.md)
