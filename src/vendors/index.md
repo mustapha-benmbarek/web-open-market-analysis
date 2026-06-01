@@ -102,6 +102,8 @@ This section provides an organized index of product or service based providers c
 - [Apromore](/vendors/apromore.md)
 - [Aptean](/vendors/aptean.md)
 - [Aravo](/vendors/aravo.md)
+- [Archer](/vendors/archer.md)
+- [Argon & Co](/vendors/argon.md)
 - [Archive360](/vendors/archive360.md)
 - [ARCON](/vendors/arcon.md)
 - [Arcserve](/vendors/arcserve.md)
