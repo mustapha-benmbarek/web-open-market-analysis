@@ -21,16 +21,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/sase-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                      |
-| --------------- | ---------------------------------------------------------------------------------- |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)                               |
-| `Leader`        | [Netskope](/vendors/netskope.md)                                                   |
-| `Leader`        | [Fortinet](/vendors/fortinet.md)                                                   |
-| `Leader`        | [Cato Networks](/vendors/cato-networks.md)                                         |
-| `Visionary`     | [Zscaler](/vendors/zscaler.md)                                                     |
-| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                                               |
-| `Niche Player`  | [Check Point Software Technologies](/vendors/check-point-software-technologies.md) |
-| `Niche Player`  | [HPE](/vendors/hpe.md)                                                             |
-| `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                                                 |
-| `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                                       |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                                                         |
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
+| `Leader`        | [Netskope](/vendors/netskope.md)                             |
+| `Leader`        | [Fortinet](/vendors/fortinet.md)                             |
+| `Leader`        | [Cato Networks](/vendors/cato-networks.md)                   |
+| `Visionary`     | [Zscaler](/vendors/zscaler.md)                               |
+| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                         |
+| `Niche Player`  | [Check Point Software Technologies](/vendors/check-point.md) |
+| `Niche Player`  | [HPE](/vendors/hpe.md)                                       |
+| `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                           |
+| `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                 |
+| `Challenger`    | [Cisco](/vendors/cisco.md)                                   |

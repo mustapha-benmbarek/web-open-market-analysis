@@ -40,6 +40,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Hyundai Glovis](/vendors/hyundai-glovis.md)                             |
 | `Challenger`    | [Amazon](/vendors/amazon.md)                                             |
 | `Challenger`    | [GEODIS](/vendors/geodis.md)                                             |
-| `Challenger`    | [CEVA Logistics](/vendors/ceva-logistics.md)                             |
+| `Challenger`    | [CEVA Logistics](/vendors/ceva.md)                                       |
 | `Challenger`    | [NX Group](/vendors/nx-group.md)                                         |
 | `Challenger`    | [Expeditors](/vendors/expeditors.md)                                     |

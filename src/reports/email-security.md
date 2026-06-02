@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/email-security.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                      |
-| --------------- | ---------------------------------------------------------------------------------- |
-| `Leader`        | [Proofpoint](/vendors/proofpoint.md)                                               |
-| `Leader`        | [Check Point Software Technologies](/vendors/check-point-software-technologies.md) |
-| `Leader`        | [Darktrace](/vendors/darktrace.md)                                                 |
-| `Leader`        | [Abnormal AI](/vendors/abnormal-ai.md)                                             |
-| `Leader`        | [Mimecast](/vendors/mimecast.md)                                                   |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                                                 |
-| `Leader`        | [KnowBe4](/vendors/knowbe4.md)                                                     |
-| `Visionary`     | [IRONSCALES](/vendors/ironscales.md)                                               |
-| `Visionary`     | [Barracuda](/vendors/barracuda.md)                                                 |
-| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                                               |
-| `Niche Player`  | [Libraesva](/vendors/libraesva.md)                                                 |
-| `Niche Player`  | [RPost](/vendors/rpost.md)                                                         |
-| `Challenger`    | [Trend Micro](/vendors/trend-micro.md)                                             |
-| `Challenger`    | [Fortinet](/vendors/fortinet.md)                                                   |
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Proofpoint](/vendors/proofpoint.md)                         |
+| `Leader`        | [Check Point Software Technologies](/vendors/check-point.md) |
+| `Leader`        | [Darktrace](/vendors/darktrace.md)                           |
+| `Leader`        | [Abnormal AI](/vendors/abnormal-ai.md)                       |
+| `Leader`        | [Mimecast](/vendors/mimecast.md)                             |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                           |
+| `Leader`        | [KnowBe4](/vendors/knowbe4.md)                               |
+| `Visionary`     | [IRONSCALES](/vendors/ironscales.md)                         |
+| `Visionary`     | [Barracuda](/vendors/barracuda.md)                           |
+| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                         |
+| `Niche Player`  | [Libraesva](/vendors/libraesva.md)                           |
+| `Niche Player`  | [RPost](/vendors/rpost.md)                                   |
+| `Challenger`    | [Trend Micro](/vendors/trend-micro.md)                       |
+| `Challenger`    | [Fortinet](/vendors/fortinet.md)                             |
 
 ## Report 2024
 

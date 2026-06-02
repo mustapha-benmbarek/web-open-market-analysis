@@ -203,3 +203,15 @@ This section provides an organized index of product or service based providers c
 - [Bynder](/vendors/bynder.md)
 - [Bytes](/vendors/bytes.md)
 - [BytePlus](/vendors/byteplus.md)
+
+### C
+
+- [CallMiner](/vendors/callminer.md)
+- [Capgemini](/vendors/capgemini.md)
+- [CAST](/vendors/cast.md)
+- [Celigo](/vendors/celigo.md)
+- [Celonis](/vendors/celonis.md)
+- [Certa](/vendors/certa.md)
+- [CEVA Logistics](/vendors/ceva.md)
+- [CGI](/vendors/cgi.md)
+- [Check Point Software Technologies](/vendors/check-point.md)

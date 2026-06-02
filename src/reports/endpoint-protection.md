@@ -21,18 +21,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/endpoint-protection.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                      |
-| --------------- | ---------------------------------------------------------------------------------- |
-| `Leader`        | [CrowdStrike](/vendors/crowdstrike.md)                                             |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                                                 |
-| `Leader`        | [SentinelOne](/vendors/sentinelone.md)                                             |
-| `Leader`        | [Sophos](/vendors/sophos.md)                                                       |
-| `Leader`        | [TrendAI](/vendors/trendai.md)                                                     |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)                               |
-| `Visionary`     | [Bitdefender](/vendors/bitdefender.md)                                             |
-| `Visionary`     | [Check Point Software Technologies](/vendors/check-point-software-technologies.md) |
-| `Niche Player`  | [Fortinet](/vendors/fortinet.md)                                                   |
-| `Niche Player`  | [Trellix](/vendors/trellix.md)                                                     |
-| `Niche Player`  | [WithSecure](/vendors/withsecure.md)                                               |
-| `Niche Player`  | [Broadcom](/vendors/broadcom.md)                                                   |
-| `Challenger`    | [ESET](/vendors/eset.md)                                                           |
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [CrowdStrike](/vendors/crowdstrike.md)                       |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                           |
+| `Leader`        | [SentinelOne](/vendors/sentinelone.md)                       |
+| `Leader`        | [Sophos](/vendors/sophos.md)                                 |
+| `Leader`        | [TrendAI](/vendors/trendai.md)                               |
+| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
+| `Visionary`     | [Bitdefender](/vendors/bitdefender.md)                       |
+| `Visionary`     | [Check Point Software Technologies](/vendors/check-point.md) |
+| `Niche Player`  | [Fortinet](/vendors/fortinet.md)                             |
+| `Niche Player`  | [Trellix](/vendors/trellix.md)                               |
+| `Niche Player`  | [WithSecure](/vendors/withsecure.md)                         |
+| `Niche Player`  | [Broadcom](/vendors/broadcom.md)                             |
+| `Challenger`    | [ESET](/vendors/eset.md)                                     |
