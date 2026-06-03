@@ -215,3 +215,7 @@ This section provides an organized index of product or service based providers c
 - [CEVA Logistics](/vendors/ceva.md)
 - [CGI](/vendors/cgi.md)
 - [Check Point Software Technologies](/vendors/check-point.md)
+- [Claroty](/vendors/claroty.md)
+- [CleverTap](/vendors/clevertap.md)
+- [CluedIn](/vendors/cluedin.md)
+- [CodeScene](/vendors/codescene.md)
