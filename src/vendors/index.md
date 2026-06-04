@@ -219,3 +219,8 @@ This section provides an organized index of product or service based providers c
 - [CleverTap](/vendors/clevertap.md)
 - [CluedIn](/vendors/cluedin.md)
 - [CodeScene](/vendors/codescene.md)
+- [Cognition](/vendors/cognition.md)
+- [Cognizant](/vendors/cognizant.md)
+- [Collibra](/vendors/collibra.md)
+- [Colt](/vendors/colt.md)
+- [Comcast Business](/vendors/comcast-business.md)
