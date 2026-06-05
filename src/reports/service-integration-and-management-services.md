@@ -49,7 +49,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Microland](/vendors/microland.md)                                 |
 | `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                         |
 | `Challenger`    | [Infosys](/vendors/infosys.md)                                     |
-| `Challenger`    | [DXC Technology](/vendors/dxc-technology.md)                       |
+| `Challenger`    | [DXC Technology](/vendors/dxc.md)                                  |
 
 ## Report 2024
 

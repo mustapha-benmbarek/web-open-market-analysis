@@ -25,7 +25,7 @@ and view the magic quadrant graphic
 | --------------- | ------------------------------------------------------------------ |
 | `Leader`        | [Tata Consultancy Services](/vendors/tata-consultancy-services.md) |
 | `Leader`        | [Wipro](/vendors/wipro.md)                                         |
-| `Leader`        | [DXC Technology](/vendors/dxc-technology.md)                       |
+| `Leader`        | [DXC Technology](/vendors/dxc.md)                                  |
 | `Leader`        | [Kyndryl](/vendors/kyndryl.md)                                     |
 | `Leader`        | [HCLTech](/vendors/hcltech.md)                                     |
 | `Leader`        | [Atos](/vendors/atos.md)                                           |

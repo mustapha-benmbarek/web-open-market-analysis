@@ -48,7 +48,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [HCLTech](/vendors/hcltech.md)                       |
 | `Niche Player`  | [Wipro](/vendors/wipro.md)                           |
 | `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)                     |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md)         |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                    |
 | `Niche Player`  | [VML](/vendors/vml.md)                               |
 | `Challenger`    | [IBM](/vendors/ibm.md)                               |
 | `Challenger`    | [Infosys](/vendors/infosys.md)                       |

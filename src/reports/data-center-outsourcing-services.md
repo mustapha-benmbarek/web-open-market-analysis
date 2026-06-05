@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Unisys](/vendors/unisys.md)                                                     |
 | `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                                       |
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)                                           |
-| `Challenger`    | [DXC Technology](/vendors/dxc-technology.md)                                     |
+| `Challenger`    | [DXC Technology](/vendors/dxc.md)                                                |
 | `Challenger`    | [Infosys](/vendors/infosys.md)                                                   |
 | `Challenger`    | [Cognizant](/vendors/cognizant.md)                                               |
 | `Challenger`    | [Fujitsu](/vendors/fujitsu.md)                                                   |

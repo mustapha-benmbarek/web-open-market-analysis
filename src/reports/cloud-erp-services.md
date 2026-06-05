@@ -51,5 +51,5 @@ and view the magic quadrant graphic
 | `Challenger`    | [NTT DATA](/vendors/ntt-data.md)             |
 | `Challenger`    | [EY](/vendors/ey.md)                         |
 | `Challenger`    | [Cognizant](/vendors/cognizant.md)           |
-| `Challenger`    | [DXC Technology](/vendors/dxc-technology.md) |
+| `Challenger`    | [DXC Technology](/vendors/dxc.md)            |
 | `Challenger`    | [Wipro](/vendors/wipro.md)                   |

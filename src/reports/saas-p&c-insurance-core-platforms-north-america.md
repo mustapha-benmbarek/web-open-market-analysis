@@ -35,7 +35,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Insuresoft](/vendors/insuresoft.md)                                                       |
 | `Niche Player`  | [OneShield (Enterprise)](</vendors/oneshield-(enterprise).md>)                             |
 | `Niche Player`  | [Majesco (P&C CoreConnect)](</vendors/majesco-(p&c-coreconnect).md>)                       |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md)                                               |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                                                          |
 | `Challenger`    | [Guidewire (InsuranceNow)](</vendors/guidewire-(insurancenow).md>)                         |
 | `Challenger`    | [Origami Risk](/vendors/origami-risk.md)                                                   |
 | `Challenger`    | [BriteCore](/vendors/britecore.md)                                                         |
@@ -58,7 +58,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Insuresoft](/vendors/insuresoft.md)                                                       |
 | `Niche Player`  | [OneShield (OMS)](</vendors/oneshield-(oms).md>)                                           |
 | `Niche Player`  | [OneShield (Enterprise)](</vendors/oneshield-(enterprise).md>)                             |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md)                                               |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                                                          |
 | `Niche Player`  | [Majesco (P&C CoreConnect)](</vendors/majesco-(p&c-coreconnect).md>)                       |
 | `Challenger`    | [Guidewire (InsuranceNow)](</vendors/guidewire-(insurancenow).md>)                         |
 | `Challenger`    | [BriteCore](/vendors/britecore.md)                                                         |

@@ -57,25 +57,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/custom-software-development-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)             |
-| `Leader`        | [Accenture](/vendors/accenture.md)           |
-| `Leader`        | [TCS](/vendors/tcs.md)                       |
-| `Leader`        | [IBM](/vendors/ibm.md)                       |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
-| `Leader`        | [EPAM](/vendors/epam.md)                     |
-| `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md)     |
-| `Niche Player`  | [Persistent](/vendors/persistent.md)         |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md) |
-| `Niche Player`  | [Endava](/vendors/endava.md)                 |
-| `Niche Player`  | [Softtek](/vendors/softtek.md)               |
-| `Niche Player`  | [Hexaware](/vendors/hexaware.md)             |
-| `Niche Player`  | [Virtusa](/vendors/virtusa.md)               |
-| `Niche Player`  | [Encora](/vendors/encora.md)                 |
-| `Challenger`    | [Infosys](/vendors/infosys.md)               |
-| `Challenger`    | [Cognizant](/vendors/cognizant.md)           |
-| `Challenger`    | [Globant](/vendors/globant.md)               |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)             |
-| `Challenger`    | [SoftServe](/vendors/softserve.md)           |
-| `Challenger`    | [Wipro](/vendors/wipro.md)                   |
+| Market Status   | Market Vendor                            |
+| --------------- | ---------------------------------------- |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)         |
+| `Leader`        | [Accenture](/vendors/accenture.md)       |
+| `Leader`        | [TCS](/vendors/tcs.md)                   |
+| `Leader`        | [IBM](/vendors/ibm.md)                   |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)           |
+| `Leader`        | [EPAM](/vendors/epam.md)                 |
+| `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md) |
+| `Niche Player`  | [Persistent](/vendors/persistent.md)     |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)        |
+| `Niche Player`  | [Endava](/vendors/endava.md)             |
+| `Niche Player`  | [Softtek](/vendors/softtek.md)           |
+| `Niche Player`  | [Hexaware](/vendors/hexaware.md)         |
+| `Niche Player`  | [Virtusa](/vendors/virtusa.md)           |
+| `Niche Player`  | [Encora](/vendors/encora.md)             |
+| `Challenger`    | [Infosys](/vendors/infosys.md)           |
+| `Challenger`    | [Cognizant](/vendors/cognizant.md)       |
+| `Challenger`    | [Globant](/vendors/globant.md)           |
+| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)         |
+| `Challenger`    | [SoftServe](/vendors/softserve.md)       |
+| `Challenger`    | [Wipro](/vendors/wipro.md)               |

@@ -41,7 +41,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [MetTel](/vendors/mettel.md)                                           |
 | `Visionary`     | [Wipro](/vendors/wipro.md)                                             |
 | `Niche Player`  | [Telefónica](/vendors/telefónica.md)                                   |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md)                           |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                                      |
 | `Niche Player`  | [AT&T](/vendors/at&t.md)                                               |
 | `Niche Player`  | [Lumen](/vendors/lumen.md)                                             |
 | `Niche Player`  | [Kyndryl](/vendors/kyndryl.md)                                         |
