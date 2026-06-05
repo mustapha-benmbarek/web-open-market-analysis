@@ -42,7 +42,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Tele2 IoT](/vendors/tele2-iot.md)                           |
 | `Niche Player`  | [Itron](/vendors/itron.md)                                   |
 | `Niche Player`  | [Tata Communications](/vendors/tata-communications.md)       |
-| `Challenger`    | [Cubic³](/vendors/cubic³.md)                                 |
+| `Challenger`    | [Cubic³](/vendors/cubic.md)                                  |
 
 ## Report 2025
 

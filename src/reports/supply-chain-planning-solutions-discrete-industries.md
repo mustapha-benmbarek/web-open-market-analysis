@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Aptean (Logility)](</vendors/aptean-(logility).md>)   |
 | `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                 |
 | `Visionary`     | [John Galt Solutions](/vendors/john-galt-solutions.md) |
-| `Visionary`     | [Dassault Systèmes](/vendors/dassault-systèmes.md)     |
+| `Visionary`     | [Dassault Systèmes](/vendors/dassault.md)              |
 | `Visionary`     | [PTC](/vendors/ptc.md)                                 |
 | `Visionary`     | [E2open](/vendors/e2open.md)                           |
 | `Niche Player`  | [Coupa](/vendors/coupa.md)                             |

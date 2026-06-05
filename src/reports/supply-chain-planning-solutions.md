@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`        | [RELEX Solutions](/vendors/relex-solutions.md)           |
 | `Leader`        | [o9 Solutions](/vendors/o9-solutions.md)                 |
 | `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                   |
-| `Visionary`     | [Dassault Systemes](/vendors/dassault-systemes.md)       |
+| `Visionary`     | [Dassault Systemes](/vendors/dassault.md)                |
 | `Visionary`     | [ICRON](/vendors/icron.md)                               |
 | `Niche Player`  | [Coupa](/vendors/coupa.md)                               |
 | `Niche Player`  | [Slimstock](/vendors/slimstock.md)                       |
@@ -69,7 +69,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [o9 Solutions](/vendors/o9-solutions.md)               |
 | `Visionary`     | [GAINSystems](/vendors/gainsystems.md)                 |
 | `Visionary`     | [e2open](/vendors/e2open.md)                           |
-| `Visionary`     | [Dassault Systemes](/vendors/dassault-systemes.md)     |
+| `Visionary`     | [Dassault Systemes](/vendors/dassault.md)              |
 | `Niche Player`  | [Coupa](/vendors/coupa.md)                             |
 | `Niche Player`  | [Adexa](/vendors/adexa.md)                             |
 | `Niche Player`  | [Slimstock](/vendors/slimstock.md)                     |

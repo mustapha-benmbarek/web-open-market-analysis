@@ -234,3 +234,21 @@ This section provides an organized index of product or service based providers c
 - [Coupa](/vendors/coupa.md)
 - [CRIF](/vendors/crif.md)
 - [CrowdStrike](/vendors/crowdstrike.md)
+- [CTM360](/vendors/ctm360.md)
+- [Cubic³](/vendors/cubic.md)
+- [Cursor](/vendors/cursor.md)
+- [Cvent](/vendors/cvent.md)
+- [CXAI](/vendors/cxai.md)
+- [Cyble](/vendors/cyble.md)
+- [CYFIRMA](/vendors/cyfirma.md)
+
+### D
+
+- [d.velop](/vendors/d.velop.md)
+- [Darktrace](/vendors/darktrace.md)
+- [Darwinbox](/vendors/darwinbox.md)
+- [Dassault Systemes](/vendors/dassault.md)
+- [DataGalaxy](/vendors/datagalaxy.md)
+- [DealHub](/vendors/dealhub.md)
+- [Decisions](/vendors/decisions.md)
+- [Delaware](/vendors/delaware.md)
