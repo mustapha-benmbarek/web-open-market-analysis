@@ -232,3 +232,5 @@ This section provides an organized index of product or service based providers c
 - [Cornerstone](/vendors/cornerstone.md)
 - [CoSchedule](/vendors/coschedule.md)
 - [Coupa](/vendors/coupa.md)
+- [CRIF](/vendors/crif.md)
+- [CrowdStrike](/vendors/crowdstrike.md)
