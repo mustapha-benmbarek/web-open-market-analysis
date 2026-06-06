@@ -36,16 +36,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/clinical-communication-and-collaboration.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [PerfectServe](/vendors/perfectserve.md)             |
-| `Leader`        | [TigerConnect](/vendors/tigerconnect.md)             |
-| `Leader`        | [Mobile Heartbeat](/vendors/mobile-heartbeat.md)     |
-| `Leader`        | [Stryker](/vendors/stryker.md)                       |
-| `Leader`        | [Epic](/vendors/epic.md)                             |
-| `Leader`        | [Oracle Health](/vendors/oracle-health.md)           |
-| `Leader`        | [MEDITECH](/vendors/meditech.md)                     |
-| `Leader`        | [symplr](/vendors/symplr.md)                         |
-| `Leader`        | [QliqSOFT](/vendors/qliqsoft.md)                     |
-| `Niche Player`  | [Zebra Technologies](/vendors/zebra-technologies.md) |
-| `Challenger`    | [OnPage](/vendors/onpage.md)                         |
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [PerfectServe](/vendors/perfectserve.md)         |
+| `Leader`        | [TigerConnect](/vendors/tigerconnect.md)         |
+| `Leader`        | [Mobile Heartbeat](/vendors/mobile-heartbeat.md) |
+| `Leader`        | [Stryker](/vendors/stryker.md)                   |
+| `Leader`        | [Epic](/vendors/epic.md)                         |
+| `Leader`        | [Oracle Health](/vendors/oracle-health.md)       |
+| `Leader`        | [MEDITECH](/vendors/meditech.md)                 |
+| `Leader`        | [symplr](/vendors/symplr.md)                     |
+| `Leader`        | [QliqSOFT](/vendors/qliqsoft.md)                 |
+| `Niche Player`  | [Zebra Technologies](/vendors/zebra.md)          |
+| `Challenger`    | [OnPage](/vendors/onpage.md)                     |

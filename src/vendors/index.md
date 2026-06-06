@@ -266,3 +266,16 @@ This section provides an organized index of product or service based providers c
 - [Dropbox](/vendors/dropbox.md)
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
+
+### Z
+
+- [Z2Data](/vendors/z2data.md)
+- [Zapier](/vendors/zapier.md)
+- [Zebra Technologies](/vendors/zebra.md)
+- [ZeroFox](/vendors/zerofox.md)
+- [ZHENYUN Technology](/vendors/zhenyun.md)
+- [Zilliant](/vendors/zilliant.md)
+- [Zip](/vendors/zip.md)
+- [Zoho](/vendors/zoho.md)
+- [Zoom](/vendors/zoom.md)
+- [Zycus](/vendors/zycus.md)

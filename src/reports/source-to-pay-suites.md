@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Esker](/vendors/esker.md)                           |
 | `Niche Player`  | [ebidtopay](/vendors/ebidtopay.md)                   |
 | `Niche Player`  | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
-| `Niche Player`  | [ZHENYUN Technology](/vendors/zhenyun-technology.md) |
+| `Niche Player`  | [ZHENYUN Technology](/vendors/zhenyun.md)            |
 | `Niche Player`  | [Synertrade](/vendors/synertrade.md)                 |
 
 ## Report 2025
@@ -53,7 +53,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Oracle](/vendors/oracle.md)                         |
 | `Visionary`     | [Zycus](/vendors/zycus.md)                           |
 | `Visionary`     | [JAGGAER](/vendors/jaggaer.md)                       |
-| `Niche Player`  | [Zhenyun Technology](/vendors/zhenyun-technology.md) |
+| `Niche Player`  | [Zhenyun Technology](/vendors/zhenyun.md)            |
 | `Niche Player`  | [ebidtopay](/vendors/ebidtopay.md)                   |
 | `Niche Player`  | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
 | `Niche Player`  | [Synertrade](/vendors/synertrade.md)                 |
