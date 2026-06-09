@@ -269,6 +269,10 @@ This section provides an organized index of product or service based providers c
 
 ### V
 
+- [vFunction](/vendors/vfunction.md)
+- [Viamedici](/vendors/viamedici.md)
+- [Vinculum](/vendors/vinculum.md)
+- [VML](/vendors/vml.md)
 - [Vodafone](/vendors/vodafone.md)
 - [Volante](/vendors/volante.md)
 - [Vonage](/vendors/vonage.md)
