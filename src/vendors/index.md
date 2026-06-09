@@ -267,6 +267,26 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### V
+
+- [Vodafone](/vendors/vodafone.md)
+- [Volante](/vendors/volante.md)
+- [Vonage](/vendors/vonage.md)
+- [vTradEx](/vendors/vtradex.md)
+- [Waydev](/vendors/waydev.md)
+- [Wipro](/vendors/wipro.md)
+- [Wireless Logic](/vendors/wireless-logic.md)
+- [WithSecure](/vendors/withsecure.md)
+- [Wolters Kluwer](/vendors/wolters-kluwer.md)
+- [Woopra](/vendors/woopra.md)
+- [Workable](/vendors/workable.md)
+- [Workato](/vendors/workato.md)
+- [Workday](/vendors/workday.md)
+- [XEBO.ai](/vendors/xebo.ai.md)
+- [XTIUM](/vendors/xtium.md)
+- [Yagna iQ](/vendors/yagna-iq.md)
+- [Yusen Logistics](/vendors/yusen-logistics.md)
+
 ### Z
 
 - [Z2Data](/vendors/z2data.md)
