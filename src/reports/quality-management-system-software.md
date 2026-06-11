@@ -24,7 +24,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                                                          |
 | --------------- | ---------------------------------------------------------------------- |
 | `Leader`        | [ComplianceQuest](/vendors/compliancequest.md)                         |
-| `Leader`        | [Veeva Systems](/vendors/veeva-systems.md)                             |
+| `Leader`        | [Veeva Systems](/vendors/veeva.md)                                     |
 | `Leader`        | [Siemens](/vendors/siemens.md)                                         |
 | `Leader`        | [Hexagon (ETQ)](</vendors/hexagon-(etq).md>)                           |
 | `Leader`        | [Honeywell](/vendors/honeywell.md)                                     |

@@ -269,6 +269,13 @@ This section provides an organized index of product or service based providers c
 
 ### V
 
+- [Vectra AI](/vendors/vectra-ai.md)
+- [Veeva Systems](/vendors/veeva.md)
+- [Vena](/vendors/vena.md)
+- [Vendavo](/vendors/vendavo.md)
+- [Verint](/vendors/verint.md)
+- [Verizon](/vendors/verizon.md)
+- [vFairs](/vendors/vfairs.md)
 - [vFunction](/vendors/vfunction.md)
 - [Viamedici](/vendors/viamedici.md)
 - [Vinculum](/vendors/vinculum.md)
