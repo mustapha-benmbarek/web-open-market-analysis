@@ -52,7 +52,7 @@ and view the magic quadrant graphic
 | `Challenger`    | [Alpega](/vendors/alpega.md)                             |
 | `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)               |
 | `Challenger`    | [Infos](/vendors/infos.md)                               |
-| `Challenger`    | [Uber Freight](/vendors/uber-freight.md)                 |
+| `Challenger`    | [Uber Freight](/vendors/uber.md)                         |
 
 ## Report 2025
 
@@ -77,6 +77,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [TMSfirst](/vendors/tmsfirst.md)                           |
 | `Niche Player`  | [Aptean](/vendors/aptean.md)                               |
 | `Challenger`    | [Alpega](/vendors/alpega.md)                               |
-| `Challenger`    | [Uber Freight](/vendors/uber-freight.md)                   |
+| `Challenger`    | [Uber Freight](/vendors/uber.md)                           |
 | `Challenger`    | [Infios (MercuryGate)](</vendors/infios-(mercurygate).md>) |
 | `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)                 |

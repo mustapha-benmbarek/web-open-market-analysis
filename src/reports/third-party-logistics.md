@@ -26,7 +26,7 @@ and view the magic quadrant graphic
 | `Leader`        | [DHL](/vendors/dhl.md)                                                   |
 | `Leader`        | [DSV](/vendors/dsv.md)                                                   |
 | `Leader`        | [Kuehne+Nagel](/vendors/kuehne+nagel.md)                                 |
-| `Leader`        | [UPS Supply Chain Solutions](/vendors/ups-supply-chain-solutions.md)     |
+| `Leader`        | [UPS Supply Chain Solutions](/vendors/ups.md)                            |
 | `Leader`        | [A.P. Moller – Maersk](/vendors/a.p.-moller-–-maersk.md)                 |
 | `Leader`        | [C.H. Robinson](/vendors/c.h.-robinson.md)                               |
 | `Niche Player`  | [DP World](/vendors/dpworld.md)                                          |

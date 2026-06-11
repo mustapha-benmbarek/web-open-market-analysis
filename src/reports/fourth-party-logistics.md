@@ -30,7 +30,7 @@ and view the magic quadrant graphic
 | `Leader`        | [C.H. Robinson](/vendors/c.h.-robinson.md)                                   |
 | `Leader`        | [RXO](/vendors/rxo.md)                                                       |
 | `Leader`        | [Arvato](/vendors/arvato.md)                                                 |
-| `Visionary`     | [Uber Freight](/vendors/uber-freight.md)                                     |
+| `Visionary`     | [Uber Freight](/vendors/uber.md)                                             |
 | `Visionary`     | [Redwood Logistics](/vendors/redwood-logistics.md)                           |
 | `Niche Player`  | [Odyssey Logistics & Technology](/vendors/odyssey-logistics-&-technology.md) |
 | `Niche Player`  | [DSV](/vendors/dsv.md)                                                       |
@@ -38,5 +38,5 @@ and view the magic quadrant graphic
 | `Challenger`    | [Martin-Brower](/vendors/martin-brower.md)                                   |
 | `Challenger`    | [A.P. Moller-Maersk](/vendors/maersk.md)                                     |
 | `Challenger`    | [Unilog](/vendors/unilog.md)                                                 |
-| `Challenger`    | [UPS Supply Chain Solutions](/vendors/ups-supply-chain-solutions.md)         |
+| `Challenger`    | [UPS Supply Chain Solutions](/vendors/ups.md)                                |
 | `Challenger`    | [HAVI](/vendors/havi.md)                                                     |

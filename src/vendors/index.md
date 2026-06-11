@@ -267,6 +267,14 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### U
+
+- [Uber Freight](/vendors/uber.md)
+- [UiPath](/vendors/uipath.md)
+- [Uniphore](/vendors/uniphore.md)
+- [Uplevel](/vendors/uplevel.md)
+- [UPS Supply Chain Solutions](/vendors/ups.md)
+
 ### V
 
 - [Vectra AI](/vendors/vectra-ai.md)
