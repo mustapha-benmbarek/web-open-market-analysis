@@ -21,20 +21,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/public-cloud-it-transformation-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [Accenture](/vendors/accenture.md)                                 |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)                                   |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                                     |
-| `Leader`        | [Wipro](/vendors/wipro.md)                                         |
-| `Leader`        | [Infosys](/vendors/infosys.md)                                     |
-| `Leader`        | [IBM](/vendors/ibm.md)                                             |
-| `Leader`        | [Tata Consultancy Services](/vendors/tata-consultancy-services.md) |
-| `Visionary`     | [Capgemini](/vendors/capgemini.md)                                 |
-| `Niche Player`  | [Brillio](/vendors/brillio.md)                                     |
-| `Niche Player`  | [Insight](/vendors/insight.md)                                     |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                         |
-| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)                             |
-| `Niche Player`  | [Persistent](/vendors/persistent.md)                               |
-| `Niche Player`  | [Cognizant](/vendors/cognizant.md)                                 |
-| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)                                   |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [Accenture](/vendors/accenture.md)           |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)             |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
+| `Leader`        | [Wipro](/vendors/wipro.md)                   |
+| `Leader`        | [Infosys](/vendors/infosys.md)               |
+| `Leader`        | [IBM](/vendors/ibm.md)                       |
+| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md) |
+| `Visionary`     | [Capgemini](/vendors/capgemini.md)           |
+| `Niche Player`  | [Brillio](/vendors/brillio.md)               |
+| `Niche Player`  | [Insight](/vendors/insight.md)               |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)   |
+| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)       |
+| `Niche Player`  | [Persistent](/vendors/persistent.md)         |
+| `Niche Player`  | [Cognizant](/vendors/cognizant.md)           |
+| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)             |

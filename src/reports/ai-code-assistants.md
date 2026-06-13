@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Qodo](/vendors/qodo.md)                     |
 | `Visionary`     | [Tabnine](/vendors/tabnine.md)               |
 | `Visionary`     | [Augment Code](/vendors/augment-code.md)     |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)   |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)         |
 | `Niche Player`  | [IBM](/vendors/ibm.md)                       |
 | `Niche Player`  | [JetBrains](/vendors/jetbrains.md)           |
 | `Challenger`    | [Anysphere (Cursor)](/vendors/anysphere.md)  |
@@ -53,7 +53,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
 | `Visionary`     | [Sourcegraph](/vendors/sourcegraph.md)     |
 | `Niche Player`  | [Tabnine](/vendors/tabnine.md)             |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
 | `Niche Player`  | [CodiumAI](/vendors/codiumai.md)           |
 | `Niche Player`  | [Refact.ai](/vendors/refact.ai.md)         |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |

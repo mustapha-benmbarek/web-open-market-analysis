@@ -42,5 +42,5 @@ and view the magic quadrant graphic
 | `Challenger`    | [Volcano Empire](/vendors/volcano-empire.md)                                 |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)                                   |
 | `Challenger`    | [Palantir](/vendors/palantir.md)                                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)                                   |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                                         |
 | `Challenger`    | [LangChain](/vendors/langchain.md)                                           |

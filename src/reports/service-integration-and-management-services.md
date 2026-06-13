@@ -35,21 +35,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/service-integration-and-management-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                                     |
-| `Leader`        | [Capgemini](/vendors/capgemini.md)                                 |
-| `Leader`        | [Wipro](/vendors/wipro.md)                                         |
-| `Leader`        | [Tata Consultancy Services](/vendors/tata-consultancy-services.md) |
-| `Leader`        | [Accenture](/vendors/accenture.md)                                 |
-| `Visionary`     | [Cognizant](/vendors/cognizant.md)                                 |
-| `Visionary`     | [LTIMindtree](/vendors/ltimindtree.md)                             |
-| `Visionary`     | [Kyndryl](/vendors/kyndryl.md)                                     |
-| `Niche Player`  | [CGI](/vendors/cgi.md)                                             |
-| `Niche Player`  | [Microland](/vendors/microland.md)                                 |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                         |
-| `Challenger`    | [Infosys](/vendors/infosys.md)                                     |
-| `Challenger`    | [DXC Technology](/vendors/dxc.md)                                  |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)           |
+| `Leader`        | [Wipro](/vendors/wipro.md)                   |
+| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md) |
+| `Leader`        | [Accenture](/vendors/accenture.md)           |
+| `Visionary`     | [Cognizant](/vendors/cognizant.md)           |
+| `Visionary`     | [LTIMindtree](/vendors/ltimindtree.md)       |
+| `Visionary`     | [Kyndryl](/vendors/kyndryl.md)               |
+| `Niche Player`  | [CGI](/vendors/cgi.md)                       |
+| `Niche Player`  | [Microland](/vendors/microland.md)           |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)   |
+| `Challenger`    | [Infosys](/vendors/infosys.md)               |
+| `Challenger`    | [DXC Technology](/vendors/dxc.md)            |
 
 ## Report 2024
 

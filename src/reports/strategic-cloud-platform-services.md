@@ -39,7 +39,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Oracle](/vendors/oracle.md)               |
 | `Niche Player`  | [IBM](/vendors/ibm.md)                     |
 | `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)   |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
 
 ## Report 2024
@@ -57,5 +57,5 @@ and view the magic quadrant graphic
 | `Leader`        | [Oracle](/vendors/oracle.md)               |
 | `Niche Player`  | [IBM](/vendors/ibm.md)                     |
 | `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)   |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |

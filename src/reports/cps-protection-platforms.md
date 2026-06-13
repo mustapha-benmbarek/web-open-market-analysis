@@ -40,7 +40,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Armis](/vendors/armis.md)                                   |
 | `Leader`        | [Dragos](/vendors/dragos.md)                                 |
 | `Visionary`     | [Darktrace](/vendors/darktrace.md)                           |
-| `Niche Player`  | [TXOne Networks](/vendors/txone-networks.md)                 |
+| `Niche Player`  | [TXOne Networks](/vendors/txone.md)                          |
 | `Niche Player`  | [Honeywell](/vendors/honeywell.md)                           |
 | `Niche Player`  | [Cisco](/vendors/cisco.md)                                   |
 | `Niche Player`  | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
@@ -67,7 +67,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Fortinet](/vendors/fortinet.md)                             |
 | `Niche Player`  | [Sepio](/vendors/sepio.md)                                   |
 | `Niche Player`  | [Cisco](/vendors/cisco.md)                                   |
-| `Niche Player`  | [TXOne Networks](/vendors/txone-networks.md)                 |
+| `Niche Player`  | [TXOne Networks](/vendors/txone.md)                          |
 | `Niche Player`  | [Honeywell](/vendors/honeywell.md)                           |
 | `Niche Player`  | [Radiflow](/vendors/radiflow.md)                             |
 | `Niche Player`  | [Tenable](/vendors/tenable.md)                               |

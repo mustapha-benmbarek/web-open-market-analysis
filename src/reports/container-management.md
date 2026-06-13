@@ -33,7 +33,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Kubermatic](/vendors/kubermatic.md)       |
 | `Challenger`    | [Mirantis](/vendors/mirantis.md)           |
 | `Challenger`    | [Nutanix](/vendors/nutanix.md)             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
 | `Challenger`    | [Oracle](/vendors/oracle.md)               |
 | `Challenger`    | [Broadcom (VMWare)](/vendors/broadcom.md)  |
 | `Challenger`    | [Canonical](/vendors/canonical.md)         |
@@ -57,6 +57,6 @@ and view the magic quadrant graphic
 | `Leader`        | [Broadcom (VMWare)](/vendors/broadcom.md)  |
 | `Niche Player`  | [Canonical](/vendors/canonical.md)         |
 | `Challenger`    | [Huawei](/vendors/huawei.md)               |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md) |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
 | `Challenger`    | [Oracle](/vendors/oracle.md)               |
 | `Challenger`    | [Mirantis](/vendors/mirantis.md)           |

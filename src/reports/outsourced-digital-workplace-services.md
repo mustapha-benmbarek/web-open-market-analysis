@@ -21,23 +21,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/outsourced-digital-workplace-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [Tata Consultancy Services](/vendors/tata-consultancy-services.md) |
-| `Leader`        | [Wipro](/vendors/wipro.md)                                         |
-| `Leader`        | [DXC Technology](/vendors/dxc.md)                                  |
-| `Leader`        | [Kyndryl](/vendors/kyndryl.md)                                     |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                                     |
-| `Leader`        | [Atos](/vendors/atos.md)                                           |
-| `Leader`        | [Accenture](/vendors/accenture.md)                                 |
-| `Visionary`     | [Capgemini](/vendors/capgemini.md)                                 |
-| `Visionary`     | [Stefanini Group](/vendors/stefanini-group.md)                     |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                         |
-| `Niche Player`  | [Ricoh](/vendors/ricoh.md)                                         |
-| `Niche Player`  | [Computacenter](/vendors/computacenter.md)                         |
-| `Niche Player`  | [Getronics](/vendors/getronics.md)                                 |
-| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)                             |
-| `Challenger`    | [Unisys](/vendors/unisys.md)                                       |
-| `Challenger`    | [Fujitsu](/vendors/fujitsu.md)                                     |
-| `Challenger`    | [Cognizant](/vendors/cognizant.md)                                 |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)                                   |
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md)   |
+| `Leader`        | [Wipro](/vendors/wipro.md)                     |
+| `Leader`        | [DXC Technology](/vendors/dxc.md)              |
+| `Leader`        | [Kyndryl](/vendors/kyndryl.md)                 |
+| `Leader`        | [HCLTech](/vendors/hcltech.md)                 |
+| `Leader`        | [Atos](/vendors/atos.md)                       |
+| `Leader`        | [Accenture](/vendors/accenture.md)             |
+| `Visionary`     | [Capgemini](/vendors/capgemini.md)             |
+| `Visionary`     | [Stefanini Group](/vendors/stefanini-group.md) |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)     |
+| `Niche Player`  | [Ricoh](/vendors/ricoh.md)                     |
+| `Niche Player`  | [Computacenter](/vendors/computacenter.md)     |
+| `Niche Player`  | [Getronics](/vendors/getronics.md)             |
+| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)         |
+| `Challenger`    | [Unisys](/vendors/unisys.md)                   |
+| `Challenger`    | [Fujitsu](/vendors/fujitsu.md)                 |
+| `Challenger`    | [Cognizant](/vendors/cognizant.md)             |
+| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)               |

@@ -46,5 +46,5 @@ and view the magic quadrant graphic
 | `Niche Player`  | [IBM](/vendors/ibm.md)                                               |
 | `Niche Player`  | [ECS Fin](/vendors/ecs-fin.md)                                       |
 | `Niche Player`  | [Skaleet](/vendors/skaleet.md)                                       |
-| `Challenger`    | [Tata Consultancy Services](/vendors/tata-consultancy-services.md)   |
+| `Challenger`    | [Tata Consultancy Services](/vendors/tcs.md)                         |
 | `Challenger`    | [Fiserv](/vendors/fiserv.md)                                         |

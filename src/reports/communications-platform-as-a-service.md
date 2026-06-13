@@ -41,7 +41,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
 | `Niche Player`  | [GMS](/vendors/gms.md)                                 |
 | `Challenger`    | [Cisco](/vendors/cisco.md)                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
 | `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |
 
 ## Report 2025
@@ -63,7 +63,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Tata Communications](/vendors/tata-communications.md) |
 | `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
 | `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
 
 ## Report 2024
 
@@ -83,5 +83,5 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Route Mobile](/vendors/route-mobile.md)               |
 | `Niche Player`  | [Tata Communications](/vendors/tata-communications.md) |
 | `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
 | `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |

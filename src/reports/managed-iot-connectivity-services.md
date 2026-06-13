@@ -31,7 +31,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Verizon](/vendors/verizon.md)                         |
 | `Leader`        | [Soracom‑KDDI](/vendors/soracom‑kddi.md)               |
 | `Leader`        | [Orange Business](/vendors/orange-business.md)         |
-| `Leader`        | [Telenor Group](/vendors/telenor-group.md)             |
+| `Leader`        | [Telenor Group](/vendors/telenor.md)                   |
 | `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md) |
 | `Leader`        | [Wireless Logic](/vendors/wireless-logic.md)           |
 | `Visionary`     | [emnify](/vendors/emnify.md)                           |
@@ -39,7 +39,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [1NCE](/vendors/1nce.md)                               |
 | `Visionary`     | [NTT](/vendors/ntt.md)                                 |
 | `Visionary`     | [Telit Cinterion](/vendors/telit-cinterion.md)         |
-| `Niche Player`  | [Tele2 IoT](/vendors/tele2-iot.md)                     |
+| `Niche Player`  | [Tele2 IoT](/vendors/tele2.md)                         |
 | `Niche Player`  | [Itron](/vendors/itron.md)                             |
 | `Niche Player`  | [Tata Communications](/vendors/tata-communications.md) |
 | `Challenger`    | [Cubic³](/vendors/cubic.md)                            |
@@ -58,13 +58,13 @@ and view the magic quadrant graphic
 | `Leader`        | [Verizon](/vendors/verizon.md)                         |
 | `Leader`        | [Telefonica](/vendors/telefonica.md)                   |
 | `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md) |
-| `Leader`        | [Telenor Group](/vendors/telenor-group.md)             |
+| `Leader`        | [Telenor Group](/vendors/telenor.md)                   |
 | `Leader`        | [Wireless Logic](/vendors/wireless-logic.md)           |
 | `Leader`        | [Orange Business](/vendors/orange-business.md)         |
 | `Visionary`     | [Telit Cinterion](/vendors/telit-cinterion.md)         |
 | `Visionary`     | [NTT](/vendors/ntt.md)                                 |
 | `Visionary`     | [1NCE](/vendors/1nce.md)                               |
 | `Visionary`     | [KORE](/vendors/kore.md)                               |
-| `Niche Player`  | [Tele2 IoT](/vendors/tele2-iot.md)                     |
+| `Niche Player`  | [Tele2 IoT](/vendors/tele2.md)                         |
 | `Challenger`    | [Itron](/vendors/itron.md)                             |
 | `Challenger`    | [Cubic Telecom](/vendors/cubic-telecom.md)             |

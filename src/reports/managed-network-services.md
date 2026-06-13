@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Leader`        | [XTIUM](/vendors/xtium.md)                                             |
 | `Leader`        | [HCLTech](/vendors/hcltech.md)                                         |
 | `Leader`        | [NTT DATA](/vendors/ntt-data.md)                                       |
-| `Leader`        | [Tata Consultancy Services](/vendors/tata-consultancy-services.md)     |
+| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md)                           |
 | `Leader`        | [Hughes Network Systems](/vendors/hughes-network-systems.md)           |
 | `Leader`        | [Microland](/vendors/microland.md)                                     |
 | `Leader`        | [Systal Technology Solutions](/vendors/systal-technology-solutions.md) |
@@ -40,7 +40,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Sify Technologies](/vendors/sify-technologies.md)                     |
 | `Visionary`     | [MetTel](/vendors/mettel.md)                                           |
 | `Visionary`     | [Wipro](/vendors/wipro.md)                                             |
-| `Niche Player`  | [Telefónica](/vendors/telefónica.md)                                   |
+| `Niche Player`  | [Telefónica](/vendors/telefonica.md)                                   |
 | `Niche Player`  | [DXC Technology](/vendors/dxc.md)                                      |
 | `Niche Player`  | [AT&T](/vendors/at&t.md)                                               |
 | `Niche Player`  | [Lumen](/vendors/lumen.md)                                             |
