@@ -20,7 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2025)                                   |
+| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2025)                                             |
 | `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2025)                                                   |
 | `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025) |
 | `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2025)                                 |
@@ -34,7 +34,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024)                                   |
+| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                             |
 | `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2024)                                                   |
 | `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2024) |
 | `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2024)                                 |

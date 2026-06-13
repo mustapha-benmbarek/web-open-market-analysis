@@ -26,7 +26,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2025)                                           |
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2025)                                                 |
 | `Leader`        | [Data Center Switching](/reports/data-center-switching.md#report-2025)                                                       |
-| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2025)                                       |
+| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2025)                                                 |
 | `Challenger`    | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2025) |
 | `Visionary`     | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2025)                                                         |
 | `Challenger`    | [SASE Platforms](/reports/sase-platforms.md#report-2025)                                                                     |
@@ -43,7 +43,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger` | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2024) |
 | `Challenger` | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024) |
 | `Niche Player` | [Email Security](/reports/email-security.md#report-2024) |
-| `Visionary` | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024) |
+| `Visionary` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024) |
 | `Leader` | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024) |
 | `Leader` | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024) |
 | `Leader` | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024) |
@@ -97,11 +97,11 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024) |
 | `Niche Player` | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024) |
 | `Visionary` | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2024) |
-| `Leader` | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024) |
+| `Leader` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024) |
 | `Niche Player` | [Digital Experience Platforms](/reports/digital-experience-platforms.md#report-2024) |
 | `Niche Player` | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2024) |
 | `Niche Player` | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2024) |
 | `Niche Player` | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024) |
 | `Challenger` | [Access Management](/reports/access-management.md#report-2024) |
 | `Leader` | [Privileged Access Management](/reports/privileged-access-management.md#report-2024) |
-| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024) |
+| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024) |
