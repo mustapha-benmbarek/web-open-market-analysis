@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                                   |
 | --------------- | ----------------------------------------------- |
 | `Leader`        | [Celonis](/vendors/celonis.md)                  |
-| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md)        |
+| `Leader`        | [SAP Signavio](/vendors/sap.md)                 |
 | `Leader`        | [ARIS](/vendors/aris.md)                        |
 | `Leader`        | [Pegasystems](/vendors/pegasystems.md)          |
 | `Visionary`     | [QPR Software](/vendors/qpr-software.md)        |

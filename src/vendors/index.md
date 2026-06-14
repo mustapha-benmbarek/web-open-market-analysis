@@ -281,9 +281,9 @@ This section provides an organized index of product or service based providers c
 - [Salesforce (Informatica)](/vendors/salesforce.md)
 - [Salesforce (MuleSoft)](/vendors/salesforce.md)
 - [Samsung Electronics](/vendors/samsung.md)
-
 - [SAP](/vendors/sap.md)
-- [SAP Signavio](/vendors/sap-signavio.md)
+- [SAP Signavio](/vendors/sap.md)
+
 - [Sapiens](/vendors/sapiens.md)
 - [SAS](/vendors/sas.md)
 - [SEEBURGER](/vendors/seeburger.md)
@@ -291,6 +291,7 @@ This section provides an organized index of product or service based providers c
 - [SentinelOne](/vendors/sentinelone.md)
 - [ServiceNow](/vendors/servicenow.md)
 - [servicePath](/vendors/servicepath.md)
+
 - [Shipsy](/vendors/shipsy.md)
 - [Shipwell](/vendors/shipwell.md)
 - [Siemens](/vendors/siemens.md)

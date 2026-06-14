@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: servicePath
+description: Market Vendor | servicePath
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# servicePath
 
 ## Market 2026
 

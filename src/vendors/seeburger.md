@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: SEEBURGER
+description: Market Vendor | SEEBURGER
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# SEEBURGER
 
 ## Market 2026
 

@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: ServiceNow
+description: Market Vendor | ServiceNow
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# ServiceNow
 
 ## Market 2026
 

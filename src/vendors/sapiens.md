@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: Sapiens
+description: Market Vendor | Sapiens
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# Sapiens
 
 ## Market 2026
 

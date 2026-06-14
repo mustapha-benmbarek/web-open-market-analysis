@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: Semarchy
+description: Market Vendor | Semarchy
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# Semarchy
 
 ## Market 2026
 

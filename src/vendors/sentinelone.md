@@ -1,10 +1,10 @@
 ---
-title: XXXXXXXX
-description: Market Vendor | XXXXXXXXXXXXXXXXXXXXXXXX
+title: SentinelOne
+description: Market Vendor | SentinelOne
 hide_menu: true
 ---
 
-# XXXXXXXXXXXXXXXX
+# SentinelOne
 
 ## Market 2026
 

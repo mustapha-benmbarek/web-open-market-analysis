@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                            |
 | --------------- | ---------------------------------------- |
 | `Leader`        | [Celonis](/vendors/celonis.md)           |
-| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md) |
+| `Leader`        | [SAP Signavio](/vendors/sap.md)          |
 | `Leader`        | [Apromore](/vendors/apromore.md)         |
 | `Leader`        | [ARIS (Software GmbH)](/vendors/aris.md) |
 | `Leader`        | [IBM](/vendors/ibm.md)                   |

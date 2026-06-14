@@ -19,4 +19,3 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026)              |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)            |
 | `Leader`        | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)              |
-| `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)            |
