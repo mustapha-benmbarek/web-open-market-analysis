@@ -1,10 +1,10 @@
 ---
-title: Tanium
-description: Market Vendor | Tanium
+title: TeamViewer
+description: Market Vendor | TeamViewer
 hide_menu: true
 ---
 
-# Tanium
+# TeamViewer
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                        |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| `Visionary`     | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026) |
-| `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                       |
+| `Leader`        | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026) |

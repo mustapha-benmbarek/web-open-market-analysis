@@ -21,19 +21,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/plm-software-in-discrete-manufacturing-industries.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [PTC (Windchill)](</vendors/ptc-(windchill).md>)   |
-| `Leader`        | [Siemens](/vendors/siemens.md)                     |
-| `Leader`        | [Aras](/vendors/aras.md)                           |
-| `Leader`        | [Dassault Systèmes](/vendors/dassault-systèmes.md) |
-| `Visionary`     | [CONTACT Software](/vendors/contact-software.md)   |
-| `Visionary`     | [PTC (Arena)](</vendors/ptc-(arena).md>)           |
-| `Visionary`     | [Propel Software](/vendors/propel-software.md)     |
-| `Visionary`     | [Oracle](/vendors/oracle.md)                       |
-| `Niche Player`  | [Bluestar](/vendors/bluestar.md)                   |
-| `Niche Player`  | [NEC](/vendors/nec.md)                             |
-| `Niche Player`  | [Centric Software](/vendors/centric-software.md)   |
-| `Niche Player`  | [Kingdee](/vendors/kingdee.md)                     |
-| `Niche Player`  | [OpenBOM](/vendors/openbom.md)                     |
-| `Challenger`    | [Autodesk](/vendors/autodesk.md)                   |
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [PTC (Windchill)](</vendors/ptc-(windchill).md>) |
+| `Leader`        | [Siemens](/vendors/siemens.md)                   |
+| `Leader`        | [Aras](/vendors/aras.md)                         |
+| `Leader`        | [Dassault Systèmes](/vendors/dassault.md)        |
+| `Visionary`     | [CONTACT Software](/vendors/contact-software.md) |
+| `Visionary`     | [PTC (Arena)](</vendors/ptc-(arena).md>)         |
+| `Visionary`     | [Propel Software](/vendors/propel-software.md)   |
+| `Visionary`     | [Oracle](/vendors/oracle.md)                     |
+| `Niche Player`  | [Bluestar](/vendors/bluestar.md)                 |
+| `Niche Player`  | [NEC](/vendors/nec.md)                           |
+| `Niche Player`  | [Centric Software](/vendors/centric-software.md) |
+| `Niche Player`  | [Kingdee](/vendors/kingdee.md)                   |
+| `Niche Player`  | [OpenBOM](/vendors/openbom.md)                   |
+| `Challenger`    | [Autodesk](/vendors/autodesk.md)                 |
