@@ -6,7 +6,7 @@ hide_menu: true
 
 # Digital Employee Experience Management Tools
 
-The ability to measure and continually improve the digital employee experience using technology, employee sentiment and organizational data is critical for a thriving digital workplace. This research helps IT leaders responsible for DEX select the right tool vendor.
+Poor digital employee experience directly impacts workforce productivity, operational resilience and technology returns. This research helps IT leaders responsible for DEX evaluate a DEX tool that delivers measurable improvements across technology performance, employee sentiment and operational outcomes.
 
 ## Market Definition
 
@@ -27,6 +27,31 @@ Common use cases include:
 - Ensuring readiness for OS upgrades inclusive of reliability, capacity, performance, configuration and requirements checks.
 
 - Establishing digital personas based on technology usage data to create technology bundles, simplifying and accelerating employee onboarding.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/digital-employee-experience-management-tools.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/digital-employee-experience-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                              |
+| --------------- | ---------------------------------------------------------- |
+| `Leader`        | [Nexthink](/vendors/nexthink.md)                           |
+| `Leader`        | [ControlUp](/vendors/controlup.md)                         |
+| `Leader`        | [Riverbed](/vendors/riverbed.md)                           |
+| `Leader`        | [TeamViewer](/vendors/teamviewer.md)                       |
+| `Leader`        | [Lakeside Software](/vendors/lakeside-software.md)         |
+| `Leader`        | [HP Inc.](/vendors/hp-inc..md)                             |
+| `Leader`        | [Omnissa](/vendors/omnissa.md)                             |
+| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                       |
+| `Visionary`     | [Tanium](/vendors/tanium.md)                               |
+| `Visionary`     | [Ivanti](/vendors/ivanti.md)                               |
+| `Niche Player`  | [Nanoheal](/vendors/nanoheal.md)                           |
+| `Niche Player`  | [ManageEngine](/vendors/manageengine.md)                   |
+| `Niche Player`  | [Flexxible](/vendors/flexxible.md)                         |
+| `Niche Player`  | [Progressive Techserve](/vendors/progressive-techserve.md) |
+| `Niche Player`  | [HCLSoftware](/vendors/hclsoftware.md)                     |
 
 ## Report 2025
 

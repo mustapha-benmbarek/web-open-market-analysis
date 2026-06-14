@@ -157,6 +157,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 ### P
 
 - [Personalization Engines](personalization-engines.md)
+- [PLM Software in Discrete Manufacturing Industries](plm-software-in-discrete-manufacturing-industries.md)
 - [Privileged Access Management](privileged-access-management.md)
 - [Process Mining Platforms](process-mining-platforms.md)
 - [Process Intelligence Platforms](process-intelligence-platforms.md)
