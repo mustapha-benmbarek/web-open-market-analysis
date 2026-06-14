@@ -35,5 +35,5 @@ and view the magic quadrant graphic
 | `Leader`        | [Argon & Co](/vendors/argon-&-co.md)                                     |
 | `Visionary`     | [Oliver Wyman](/vendors/oliver-wyman.md)                                 |
 | `Niche Player`  | [Bristlecone](/vendors/bristlecone.md)                                   |
-| `Niche Player`  | [Spinnaker SCA](/vendors/spinnaker-sca.md)                               |
+| `Niche Player`  | [Spinnaker SCA](/vendors/spinnaker.md)                                   |
 | `Niche Player`  | [EFESO Management Consultants](/vendors/efeso-management-consultants.md) |

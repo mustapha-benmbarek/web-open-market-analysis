@@ -35,7 +35,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md)       |
 | `Niche Player`  | [Funidata](/vendors/funidata.md)                         |
 | `Niche Player`  | [Populi](/vendors/populi.md)                             |
-| `Niche Player`  | [SIS Global (Edu365)](</vendors/sis-global-(edu365).md>) |
+| `Niche Player`  | [SIS Global (Edu365)](/vendors/sis-global.md)            |
 
 ## Report 2025
 
