@@ -21,23 +21,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/endpoint-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Tanium](/vendors/tanium.md)                           |
-| `Leader`        | [NinjaOne](/vendors/ninjaone.md)                       |
-| `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)                 |
-| `Leader`        | [Jamf](/vendors/jamf.md)                               |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)                         |
-| `Leader`        | [Adaptiva](/vendors/adaptiva.md)                       |
-| `Leader`        | [IBM](/vendors/ibm.md)                                 |
-| `Visionary`     | [Ivanti](/vendors/ivanti.md)                           |
-| `Visionary`     | [Atera](/vendors/atera.md)                             |
-| `Niche Player`  | [N-able](/vendors/n-able.md)                           |
-| `Niche Player`  | [Kaseya](/vendors/kaseya.md)                           |
-| `Niche Player`  | [Google](/vendors/google.md)                           |
-| `Niche Player`  | [Absolute Security](/vendors/absolute-security.md)     |
-| `Niche Player`  | [Samsung Electronics](/vendors/samsung-electronics.md) |
-| `Niche Player`  | [Raynet](/vendors/raynet.md)                           |
-| `Challenger`    | [ManageEngine](/vendors/manageengine.md)               |
-| `Challenger`    | [42Gears](/vendors/42gears.md)                         |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                 |
+| `Leader`        | [Tanium](/vendors/tanium.md)                       |
+| `Leader`        | [NinjaOne](/vendors/ninjaone.md)                   |
+| `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)             |
+| `Leader`        | [Jamf](/vendors/jamf.md)                           |
+| `Leader`        | [Omnissa](/vendors/omnissa.md)                     |
+| `Leader`        | [Adaptiva](/vendors/adaptiva.md)                   |
+| `Leader`        | [IBM](/vendors/ibm.md)                             |
+| `Visionary`     | [Ivanti](/vendors/ivanti.md)                       |
+| `Visionary`     | [Atera](/vendors/atera.md)                         |
+| `Niche Player`  | [N-able](/vendors/n-able.md)                       |
+| `Niche Player`  | [Kaseya](/vendors/kaseya.md)                       |
+| `Niche Player`  | [Google](/vendors/google.md)                       |
+| `Niche Player`  | [Absolute Security](/vendors/absolute-security.md) |
+| `Niche Player`  | [Samsung Electronics](/vendors/samsung.md)         |
+| `Niche Player`  | [Raynet](/vendors/raynet.md)                       |
+| `Challenger`    | [ManageEngine](/vendors/manageengine.md)           |
+| `Challenger`    | [42Gears](/vendors/42gears.md)                     |

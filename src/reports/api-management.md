@@ -21,25 +21,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/api-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)                                 |
-| `Leader`        | [IBM](/vendors/ibm.md)                                       |
-| `Leader`        | [Salesforce (MuleSoft)](</vendors/salesforce-(mulesoft).md>) |
-| `Leader`        | [Kong](/vendors/kong.md)                                     |
-| `Leader`        | [Boomi](/vendors/boomi.md)                                   |
-| `Leader`        | [Axway](/vendors/axway.md)                                   |
-| `Leader`        | [Gravitee](/vendors/gravitee.md)                             |
-| `Visionary`     | [SmartBear](/vendors/smartbear.md)                           |
-| `Visionary`     | [Tyk](/vendors/tyk.md)                                       |
-| `Visionary`     | [Postman](/vendors/postman.md)                               |
-| `Niche Player`  | [Workato](/vendors/workato.md)                               |
-| `Niche Player`  | [Solo.io](/vendors/solo.io.md)                               |
-| `Challenger`    | [WSO2](/vendors/wso2.md)                                     |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)                           |
-| `Challenger`    | [SAP](/vendors/sap.md)                                       |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)                    |
-| `Challenger`    | [Sensedia](/vendors/sensedia.md)                             |
+| Market Status   | Market Vendor                                   |
+| --------------- | ----------------------------------------------- |
+| `Leader`        | [Google](/vendors/google.md)                    |
+| `Leader`        | [IBM](/vendors/ibm.md)                          |
+| `Leader`        | [Salesforce (MuleSoft)](/vendors/salesforce.md) |
+| `Leader`        | [Kong](/vendors/kong.md)                        |
+| `Leader`        | [Boomi](/vendors/boomi.md)                      |
+| `Leader`        | [Axway](/vendors/axway.md)                      |
+| `Leader`        | [Gravitee](/vendors/gravitee.md)                |
+| `Visionary`     | [SmartBear](/vendors/smartbear.md)              |
+| `Visionary`     | [Tyk](/vendors/tyk.md)                          |
+| `Visionary`     | [Postman](/vendors/postman.md)                  |
+| `Niche Player`  | [Workato](/vendors/workato.md)                  |
+| `Niche Player`  | [Solo.io](/vendors/solo.io.md)                  |
+| `Challenger`    | [WSO2](/vendors/wso2.md)                        |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)              |
+| `Challenger`    | [SAP](/vendors/sap.md)                          |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)       |
+| `Challenger`    | [Sensedia](/vendors/sensedia.md)                |
 
 ## Report 2024
 
@@ -53,7 +53,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Google Cloud (Apigee)](</vendors/google-cloud-(apigee).md>) |
 | `Leader`        | [IBM](/vendors/ibm.md)                                       |
 | `Leader`        | [Axway](/vendors/axway.md)                                   |
-| `Leader`        | [Salesforce (MuleSoft)](</vendors/salesforce-(mulesoft).md>) |
+| `Leader`        | [Salesforce (MuleSoft)](/vendors/salesforce.md)              |
 | `Leader`        | [Kong](/vendors/kong.md)                                     |
 | `Leader`        | [Gravitee.io](/vendors/gravitee.io.md)                       |
 | `Leader`        | [SmartBear](/vendors/smartbear.md)                           |

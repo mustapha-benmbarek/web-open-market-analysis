@@ -29,18 +29,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/process-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Celonis](/vendors/celonis.md)                               |
-| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md)                     |
-| `Leader`        | [ARIS](/vendors/aris.md)                                     |
-| `Leader`        | [Pegasystems](/vendors/pegasystems.md)                       |
-| `Visionary`     | [QPR Software](/vendors/qpr-software.md)                     |
-| `Visionary`     | [mpmX](/vendors/mpmx.md)                                     |
-| `Visionary`     | [Salesforce (Apromore)](</vendors/salesforce-(apromore).md>) |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                           |
-| `Niche Player`  | [iGrafx](/vendors/igrafx.md)                                 |
-| `Challenger`    | [ServiceNow](/vendors/servicenow.md)                         |
-| `Challenger`    | [Appian](/vendors/appian.md)                                 |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                       |
-| `Challenger`    | [UiPath](/vendors/uipath.md)                                 |
+| Market Status   | Market Vendor                                   |
+| --------------- | ----------------------------------------------- |
+| `Leader`        | [Celonis](/vendors/celonis.md)                  |
+| `Leader`        | [SAP Signavio](/vendors/sap-signavio.md)        |
+| `Leader`        | [ARIS](/vendors/aris.md)                        |
+| `Leader`        | [Pegasystems](/vendors/pegasystems.md)          |
+| `Visionary`     | [QPR Software](/vendors/qpr-software.md)        |
+| `Visionary`     | [mpmX](/vendors/mpmx.md)                        |
+| `Visionary`     | [Salesforce (Apromore)](/vendors/salesforce.md) |
+| `Niche Player`  | [Microsoft](/vendors/microsoft.md)              |
+| `Niche Player`  | [iGrafx](/vendors/igrafx.md)                    |
+| `Challenger`    | [ServiceNow](/vendors/servicenow.md)            |
+| `Challenger`    | [Appian](/vendors/appian.md)                    |
+| `Challenger`    | [IBM](/vendors/ibm.md)                          |
+| `Challenger`    | [UiPath](/vendors/uipath.md)                    |

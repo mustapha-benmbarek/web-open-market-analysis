@@ -31,21 +31,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/augmented-data-quality-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [IBM](/vendors/ibm.md)                                             |
-| `Leader`        | [Salesforce (Informatica)](</vendors/salesforce-(informatica).md>) |
-| `Leader`        | [Qlik](/vendors/qlik.md)                                           |
-| `Leader`        | [Ab Initio Software](/vendors/ab-initio-software.md)               |
-| `Leader`        | [Ataccama](/vendors/ataccama.md)                                   |
-| `Visionary`     | [DQLabs](/vendors/dqlabs.md)                                       |
-| `Niche Player`  | [Irion](/vendors/irion.md)                                         |
-| `Niche Player`  | [CluedIn](/vendors/cluedin.md)                                     |
-| `Niche Player`  | [Anomalo](/vendors/anomalo.md)                                     |
-| `Niche Player`  | [Soda](/vendors/soda.md)                                           |
-| `Niche Player`  | [Acceldata](/vendors/acceldata.md)                                 |
-| `Challenger`    | [Precisely](/vendors/precisely.md)                                 |
-| `Challenger`    | [Experian](/vendors/experian.md)                                   |
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [IBM](/vendors/ibm.md)                               |
+| `Leader`        | [Salesforce (Informatica)](/vendors/salesforce.md)   |
+| `Leader`        | [Qlik](/vendors/qlik.md)                             |
+| `Leader`        | [Ab Initio Software](/vendors/ab-initio-software.md) |
+| `Leader`        | [Ataccama](/vendors/ataccama.md)                     |
+| `Visionary`     | [DQLabs](/vendors/dqlabs.md)                         |
+| `Niche Player`  | [Irion](/vendors/irion.md)                           |
+| `Niche Player`  | [CluedIn](/vendors/cluedin.md)                       |
+| `Niche Player`  | [Anomalo](/vendors/anomalo.md)                       |
+| `Niche Player`  | [Soda](/vendors/soda.md)                             |
+| `Niche Player`  | [Acceldata](/vendors/acceldata.md)                   |
+| `Challenger`    | [Precisely](/vendors/precisely.md)                   |
+| `Challenger`    | [Experian](/vendors/experian.md)                     |
 
 ## Report 2025
 

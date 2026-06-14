@@ -31,25 +31,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/master-data-management-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [Salesforce (Informatica)](</vendors/salesforce-(informatica).md>) |
-| `Leader`        | [Stibo Systems](/vendors/stibo-systems.md)                         |
-| `Leader`        | [Reltio](/vendors/reltio.md)                                       |
-| `Leader`        | [Profisee](/vendors/profisee.md)                                   |
-| `Leader`        | [Semarchy](/vendors/semarchy.md)                                   |
-| `Visionary`     | [CluedIn](/vendors/cluedin.md)                                     |
-| `Visionary`     | [Syncari](/vendors/syncari.md)                                     |
-| `Niche Player`  | [TIBCO](/vendors/tibco.md)                                         |
-| `Niche Player`  | [Gaine Technology](/vendors/gaine-technology.md)                   |
-| `Niche Player`  | [PiLog Group](/vendors/pilog-group.md)                             |
-| `Niche Player`  | [Pimcore](/vendors/pimcore.md)                                     |
-| `Niche Player`  | [Viamedici](/vendors/viamedici.md)                                 |
-| `Niche Player`  | [Syndigo](/vendors/syndigo.md)                                     |
-| `Niche Player`  | [Precisely](/vendors/precisely.md)                                 |
-| `Niche Player`  | [Tamr](/vendors/tamr.md)                                           |
-| `Niche Player`  | [Prospecta Software](/vendors/prospecta-software.md)               |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                             |
-| `Challenger`    | [Boomi](/vendors/boomi.md)                                         |
-| `Challenger`    | [SAP](/vendors/sap.md)                                             |
-| `Challenger`    | [Ataccama](/vendors/ataccama.md)                                   |
+| Market Status   | Market Vendor                                        |
+| --------------- | ---------------------------------------------------- |
+| `Leader`        | [Salesforce (Informatica)](/vendors/salesforce.md)   |
+| `Leader`        | [Stibo Systems](/vendors/stibo-systems.md)           |
+| `Leader`        | [Reltio](/vendors/reltio.md)                         |
+| `Leader`        | [Profisee](/vendors/profisee.md)                     |
+| `Leader`        | [Semarchy](/vendors/semarchy.md)                     |
+| `Visionary`     | [CluedIn](/vendors/cluedin.md)                       |
+| `Visionary`     | [Syncari](/vendors/syncari.md)                       |
+| `Niche Player`  | [TIBCO](/vendors/tibco.md)                           |
+| `Niche Player`  | [Gaine Technology](/vendors/gaine-technology.md)     |
+| `Niche Player`  | [PiLog Group](/vendors/pilog-group.md)               |
+| `Niche Player`  | [Pimcore](/vendors/pimcore.md)                       |
+| `Niche Player`  | [Viamedici](/vendors/viamedici.md)                   |
+| `Niche Player`  | [Syndigo](/vendors/syndigo.md)                       |
+| `Niche Player`  | [Precisely](/vendors/precisely.md)                   |
+| `Niche Player`  | [Tamr](/vendors/tamr.md)                             |
+| `Niche Player`  | [Prospecta Software](/vendors/prospecta-software.md) |
+| `Challenger`    | [IBM](/vendors/ibm.md)                               |
+| `Challenger`    | [Boomi](/vendors/boomi.md)                           |
+| `Challenger`    | [SAP](/vendors/sap.md)                               |
+| `Challenger`    | [Ataccama](/vendors/ataccama.md)                     |
