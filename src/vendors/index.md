@@ -273,6 +273,27 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### R
+
+- [RainFocus](/vendors/rainfocus.md)
+- [Raynet](/vendors/raynet.md)
+- [Recorded Future](/vendors/recorded-future.md)
+- [RelationalAI](/vendors/relationalai.md)
+- [RELEX](/vendors/relex.md)
+- [ReliaQuest](/vendors/reliaquest.md)
+- [Reltio](/vendors/reltio.md)
+- [Resilinc](/vendors/resilinc.md)
+- [Revuze](/vendors/revuze.md)
+- [Rhenus Group](/vendors/rhenus-group.md)
+- [RIO Education](/vendors/rio-education.md)
+- [Riskonnect](/vendors/riskonnect.md)
+- [Riverbed](/vendors/riverbed.md)
+- [Robin Powered](/vendors/robin-powered.md)
+- [Rocket Software](/vendors/rocket-software.md)
+- [Rockwell Automation (Plex)](/vendors/rockwell.md)
+- [RUCKUS Networks](/vendors/ruckus-networks.md)
+- [Rulex](/vendors/rulex.md)
+
 ### S
 
 - [SAI360](/vendors/sai360.md)

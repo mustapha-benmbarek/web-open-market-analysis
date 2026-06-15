@@ -21,17 +21,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/quality-management-system-software.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                          |
-| --------------- | ---------------------------------------------------------------------- |
-| `Leader`        | [ComplianceQuest](/vendors/compliancequest.md)                         |
-| `Leader`        | [Veeva Systems](/vendors/veeva.md)                                     |
-| `Leader`        | [Siemens](/vendors/siemens.md)                                         |
-| `Leader`        | [Hexagon (ETQ)](</vendors/hexagon-(etq).md>)                           |
-| `Leader`        | [Honeywell](/vendors/honeywell.md)                                     |
-| `Leader`        | [MasterControl](/vendors/mastercontrol.md)                             |
-| `Visionary`     | [Omnex Systems](/vendors/omnex-systems.md)                             |
-| `Niche Player`  | [QAD](/vendors/qad.md)                                                 |
-| `Niche Player`  | [Rockwell Automation (Plex)](</vendors/rockwell-automation-(plex).md>) |
-| `Challenger`    | [Ideagen](/vendors/ideagen.md)                                         |
-| `Challenger`    | [AssurX](/vendors/assurx.md)                                           |
-| `Challenger`    | [Fabasoft](/vendors/fabasoft.md)                                       |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [ComplianceQuest](/vendors/compliancequest.md)     |
+| `Leader`        | [Veeva Systems](/vendors/veeva.md)                 |
+| `Leader`        | [Siemens](/vendors/siemens.md)                     |
+| `Leader`        | [Hexagon (ETQ)](</vendors/hexagon-(etq).md>)       |
+| `Leader`        | [Honeywell](/vendors/honeywell.md)                 |
+| `Leader`        | [MasterControl](/vendors/mastercontrol.md)         |
+| `Visionary`     | [Omnex Systems](/vendors/omnex-systems.md)         |
+| `Niche Player`  | [QAD](/vendors/qad.md)                             |
+| `Niche Player`  | [Rockwell Automation (Plex)](/vendors/rockwell.md) |
+| `Challenger`    | [Ideagen](/vendors/ideagen.md)                     |
+| `Challenger`    | [AssurX](/vendors/assurx.md)                       |
+| `Challenger`    | [Fabasoft](/vendors/fabasoft.md)                   |
