@@ -273,6 +273,16 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### Q
+
+- [QAD](/vendors/qad.md)
+- [Qlik](/vendors/qlik.md)
+- [QliqSOFT](/vendors/qliqsoft.md)
+- [QPR Software](/vendors/qpr-software.md)
+- [Qualtrics](/vendors/qualtrics.md)
+- [Quantexa](/vendors/quantexa.md)
+- [QuestionPro](/vendors/questionpro.md)
+
 ### R
 
 - [RainFocus](/vendors/rainfocus.md)
