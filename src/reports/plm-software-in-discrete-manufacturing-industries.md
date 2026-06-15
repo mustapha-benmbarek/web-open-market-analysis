@@ -23,12 +23,12 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                    |
 | --------------- | ------------------------------------------------ |
-| `Leader`        | [PTC (Windchill)](</vendors/ptc-(windchill).md>) |
+| `Leader`        | [PTC (Windchill)](/vendors/ptc.md)               |
 | `Leader`        | [Siemens](/vendors/siemens.md)                   |
 | `Leader`        | [Aras](/vendors/aras.md)                         |
 | `Leader`        | [Dassault Systèmes](/vendors/dassault.md)        |
 | `Visionary`     | [CONTACT Software](/vendors/contact-software.md) |
-| `Visionary`     | [PTC (Arena)](</vendors/ptc-(arena).md>)         |
+| `Visionary`     | [PTC (Arena)](/vendors/ptc.md)                   |
 | `Visionary`     | [Propel Software](/vendors/propel-software.md)   |
 | `Visionary`     | [Oracle](/vendors/oracle.md)                     |
 | `Niche Player`  | [Bluestar](/vendors/bluestar.md)                 |

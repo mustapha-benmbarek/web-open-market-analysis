@@ -273,6 +273,35 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### P
+
+- [Palo Alto Networks](/vendors/palo-alto-networks.md)
+- [Pando](/vendors/pando.md)
+- [Pegasystems](/vendors/pegasystems.md)
+- [PerfectServe](/vendors/perfectserve.md)
+- [Phenom](/vendors/phenom.md)
+- [PiLog Group](/vendors/pilog-group.md)
+- [Pimcore](/vendors/pimcore.md)
+- [Pisano](/vendors/pisano.md)
+- [PKS Software](/vendors/pks-software.md)
+- [Plandek](/vendors/plandek.md)
+- [Planful](/vendors/planful.md)
+- [Populi](/vendors/populi.md)
+- [Precisely](/vendors/precisely.md)
+- [Press Ganey Forsta](/vendors/press-ganey-forsta.md)
+- [Prewave](/vendors/prewave.md)
+- [ProcessUnity](/vendors/processunity.md)
+- [Profisee](/vendors/profisee.md)
+- [Progressive Techserve](/vendors/progressive-techserve.md)
+- [Propel Software](/vendors/propel-software.md)
+- [Prophix](/vendors/prophix.md)
+- [PROS](/vendors/pros.md)
+- [Prospecta Software](/vendors/prospecta-software.md)
+- [Proximus Global](/vendors/proximus-global.md)
+- [PTC](/vendors/ptc.md)
+- [Publicis Sapient](/vendors/publicis-sapient.md)
+- [PwC](/vendors/pwc.md)
+
 ### Q
 
 - [QAD](/vendors/qad.md)
