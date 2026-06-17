@@ -31,20 +31,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/personalization-engines.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                    |
-| --------------- | ---------------------------------------------------------------- |
-| `Leader`        | [Mastercard Dynamic Yield](/vendors/mastercard-dynamic-yield.md) |
-| `Leader`        | [SAP](/vendors/sap.md)                                           |
-| `Leader`        | [Insider One](/vendors/insider-one.md)                           |
-| `Leader`        | [CleverTap](/vendors/clevertap.md)                               |
-| `Leader`        | [Optimizely](/vendors/optimizely.md)                             |
-| `Leader`        | [Adobe](/vendors/adobe.md)                                       |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)                             |
-| `Visionary`     | [MoEngage](/vendors/moengage.md)                                 |
-| `Visionary`     | [Bloomreach](/vendors/bloomreach.md)                             |
-| `Niche Player`  | [Monetate](/vendors/monetate.md)                                 |
-| `Niche Player`  | [Algonomy](/vendors/algonomy.md)                                 |
-| `Niche Player`  | [Kameleoon](/vendors/kameleoon.md)                               |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Mastercard Dynamic Yield](/vendors/mastercard.md) |
+| `Leader`        | [SAP](/vendors/sap.md)                             |
+| `Leader`        | [Insider One](/vendors/insider-one.md)             |
+| `Leader`        | [CleverTap](/vendors/clevertap.md)                 |
+| `Leader`        | [Optimizely](/vendors/optimizely.md)               |
+| `Leader`        | [Adobe](/vendors/adobe.md)                         |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)               |
+| `Visionary`     | [MoEngage](/vendors/moengage.md)                   |
+| `Visionary`     | [Bloomreach](/vendors/bloomreach.md)               |
+| `Niche Player`  | [Monetate](/vendors/monetate.md)                   |
+| `Niche Player`  | [Algonomy](/vendors/algonomy.md)                   |
+| `Niche Player`  | [Kameleoon](/vendors/kameleoon.md)                 |
 
 ## Report 2025
 
@@ -53,16 +53,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/personalization-engines.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                    |
-| --------------- | ---------------------------------------------------------------- |
-| `Leader`        | [Mastercard Dynamic Yield](/vendors/mastercard-dynamic-yield.md) |
-| `Leader`        | [Optimizely](/vendors/optimizely.md)                             |
-| `Leader`        | [Insider](/vendors/insider.md)                                   |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)                             |
-| `Leader`        | [Adobe](/vendors/adobe.md)                                       |
-| `Leader`        | [Bloomreach](/vendors/bloomreach.md)                             |
-| `Leader`        | [SAP](/vendors/sap.md)                                           |
-| `Visionary`     | [Sitecore](/vendors/sitecore.md)                                 |
-| `Niche Player`  | [CleverTap](/vendors/clevertap.md)                               |
-| `Niche Player`  | [Monetate](/vendors/monetate.md)                                 |
-| `Niche Player`  | [Kameleoon](/vendors/kameleoon.md)                               |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Mastercard Dynamic Yield](/vendors/mastercard.md) |
+| `Leader`        | [Optimizely](/vendors/optimizely.md)               |
+| `Leader`        | [Insider](/vendors/insider.md)                     |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)               |
+| `Leader`        | [Adobe](/vendors/adobe.md)                         |
+| `Leader`        | [Bloomreach](/vendors/bloomreach.md)               |
+| `Leader`        | [SAP](/vendors/sap.md)                             |
+| `Visionary`     | [Sitecore](/vendors/sitecore.md)                   |
+| `Niche Player`  | [CleverTap](/vendors/clevertap.md)                 |
+| `Niche Player`  | [Monetate](/vendors/monetate.md)                   |
+| `Niche Player`  | [Kameleoon](/vendors/kameleoon.md)                 |

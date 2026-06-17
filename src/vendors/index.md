@@ -273,6 +273,36 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### M
+
+- [Made4net](/vendors/made4net.md)
+- [ManageEngine](/vendors/manageengine.md)
+- [Manhattan Associates](/vendors/manhattan-associates.md)
+- [Mantis](/vendors/mantis.md)
+- [Mastercard Dynamic Yield](/vendors/mastercard.md)
+- [MasterControl](/vendors/mastercontrol.md)
+- [MasterSoft](/vendors/mastersoft.md)
+- [McKinsey & Company](/vendors/mckinsey.md)
+- [Mecalux](/vendors/mecalux.md)
+- [Medallia](/vendors/medallia.md)
+- [MEDITECH](/vendors/meditech.md)
+- [Mercado Eletronico](/vendors/mercado-eletronico.md)
+- [Meter](/vendors/meter.md)
+- [MetricStream](/vendors/metricstream.md)
+- [MetTel](/vendors/mettel.md)
+- [M‑Files](/vendors/m‑files.md)
+- [Microland](/vendors/microland.md)
+- [Microsoft](/vendors/microsoft.md)
+- [Miebach](/vendors/miebach.md)
+- [Mitto](/vendors/mitto.md)
+- [Mobile Heartbeat](/vendors/mobile-heartbeat.md)
+- [Moderne](/vendors/moderne.md)
+- [Modo Labs](/vendors/modo-labs.md)
+- [MoEngage](/vendors/moengage.md)
+- [Monetate](/vendors/monetate.md)
+- [Moody’s](/vendors/moodys.md)
+- [mpmX](/vendors/mpmx.md)
+
 ### N
 
 - [N-able](/vendors/n-able.md)

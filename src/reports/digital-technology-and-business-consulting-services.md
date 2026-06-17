@@ -33,22 +33,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/digital-technology-and-business-consulting-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Accenture](/vendors/accenture.md)                   |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)                     |
-| `Leader`        | [McKinsey & Company](/vendors/mckinsey-&-company.md) |
-| `Leader`        | [BCG](/vendors/bcg.md)                               |
-| `Visionary`     | [Bain & Company](/vendors/bain-&-company.md)         |
-| `Visionary`     | [EY](/vendors/ey.md)                                 |
-| `Visionary`     | [PwC](/vendors/pwc.md)                               |
-| `Niche Player`  | [Capgemini](/vendors/capgemini.md)                   |
-| `Niche Player`  | [TCS](/vendors/tcs.md)                               |
-| `Niche Player`  | [Publicis Sapient](/vendors/publicis-sapient.md)     |
-| `Niche Player`  | [HCLTech](/vendors/hcltech.md)                       |
-| `Niche Player`  | [Wipro](/vendors/wipro.md)                           |
-| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                          |
-| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                    |
-| `Niche Player`  | [VML](/vendors/vml.md)                               |
-| `Challenger`    | [IBM](/vendors/ibm.md)                               |
-| `Challenger`    | [Infosys](/vendors/infosys.md)                       |
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [Accenture](/vendors/accenture.md)               |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)                 |
+| `Leader`        | [McKinsey & Company](/vendors/mckinsey.md)       |
+| `Leader`        | [BCG](/vendors/bcg.md)                           |
+| `Visionary`     | [Bain & Company](/vendors/bain-&-company.md)     |
+| `Visionary`     | [EY](/vendors/ey.md)                             |
+| `Visionary`     | [PwC](/vendors/pwc.md)                           |
+| `Niche Player`  | [Capgemini](/vendors/capgemini.md)               |
+| `Niche Player`  | [TCS](/vendors/tcs.md)                           |
+| `Niche Player`  | [Publicis Sapient](/vendors/publicis-sapient.md) |
+| `Niche Player`  | [HCLTech](/vendors/hcltech.md)                   |
+| `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
+| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                      |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                |
+| `Niche Player`  | [VML](/vendors/vml.md)                           |
+| `Challenger`    | [IBM](/vendors/ibm.md)                           |
+| `Challenger`    | [Infosys](/vendors/infosys.md)                   |

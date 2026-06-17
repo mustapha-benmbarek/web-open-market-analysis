@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Resilinc](/vendors/resilinc.md)                         |
 | `Visionary`     | [Sphera](/vendors/sphera.md)                             |
 | `Visionary`     | [Altana](/vendors/altana.md)                             |
-| `Niche Player`  | [Moody’s](/vendors/moody’s.md)                           |
+| `Niche Player`  | [Moody’s](/vendors/moodys.md)                            |
 | `Challenger`    | [interos.ai](/vendors/interos.ai.md)                     |
 | `Challenger`    | [Z2Data](/vendors/z2data.md)                             |
 
@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Prewave](/vendors/prewave.md)                           |
 | `Leader`        | [Resilinc](/vendors/resilinc.md)                         |
 | `Visionary`     | [Sphera](/vendors/sphera.md)                             |
-| `Niche Player`  | [Moody's](/vendors/moody's.md)                           |
+| `Niche Player`  | [Moody's](/vendors/moodys.md)                            |
 | `Niche Player`  | [Aravo](/vendors/aravo.md)                               |
 | `Challenger`    | [apexanalytix](/vendors/apexanalytix.md)                 |
 | `Challenger`    | [interos.ai](/vendors/interos.ai.md)                     |
