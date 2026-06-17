@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Wipro](/vendors/wipro.md)                                                       |
 | `Visionary`     | [Capgemini](/vendors/capgemini.md)                                               |
 | `Visionary`     | [Deloitte](/vendors/deloitte.md)                                                 |
-| `Visionary`     | [NTT DATA](/vendors/ntt-data.md)                                                 |
+| `Visionary`     | [NTT DATA](/vendors/ntt.md)                                                      |
 | `Niche Player`  | [Ensono](/vendors/ensono.md)                                                     |
 | `Niche Player`  | [Unisys](/vendors/unisys.md)                                                     |
 | `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)                                       |

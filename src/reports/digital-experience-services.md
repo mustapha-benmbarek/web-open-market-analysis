@@ -45,7 +45,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Valtech](/vendors/valtech.md)                   |
 | `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
 | `Niche Player`  | [TCS](/vendors/tcs.md)                           |
-| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)                 |
+| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                      |
 | `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
 | `Niche Player`  | [Virtusa](/vendors/virtusa.md)                   |
@@ -70,7 +70,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [EPAM](/vendors/epam.md)                         |
 | `Visionary`     | [VML](/vendors/vml.md)                           |
 | `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
-| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)                 |
+| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                      |
 | `Niche Player`  | [TCS](/vendors/tcs.md)                           |
 | `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |

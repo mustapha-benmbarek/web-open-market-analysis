@@ -37,4 +37,4 @@ and view the magic quadrant graphic
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)       |
 | `Niche Player`  | [Persistent](/vendors/persistent.md)         |
 | `Niche Player`  | [Cognizant](/vendors/cognizant.md)           |
-| `Niche Player`  | [NTT DATA](/vendors/ntt-data.md)             |
+| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                  |

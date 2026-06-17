@@ -40,4 +40,4 @@ and view the magic quadrant graphic
 | `Challenger`    | [Unisys](/vendors/unisys.md)                   |
 | `Challenger`    | [Fujitsu](/vendors/fujitsu.md)                 |
 | `Challenger`    | [Cognizant](/vendors/cognizant.md)             |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)               |
+| `Challenger`    | [NTT DATA](/vendors/ntt.md)                    |

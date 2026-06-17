@@ -51,7 +51,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Vodafone](/vendors/vodafone.md)                                     |
 | `Leader`        | [Verizon](/vendors/verizon.md)                                       |
 | `Leader`        | [Telefonica](/vendors/telefonica.md)                                 |
-| `Leader`        | [NTT DATA](/vendors/ntt-data.md)                                     |
+| `Leader`        | [NTT DATA](/vendors/ntt.md)                                          |
 | `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md)               |
 | `Niche Player`  | [Ambra Solutions](/vendors/ambra-solutions.md)                       |
 | `Niche Player`  | [Boldyn Networks](/vendors/boldyn-networks.md)                       |
@@ -76,7 +76,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Verizon](/vendors/verizon.md)                         |
 | `Leader`        | [Telefonica](/vendors/telefonica.md)                   |
 | `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md) |
-| `Visionary`     | [NTT DATA](/vendors/ntt-data.md)                       |
+| `Visionary`     | [NTT DATA](/vendors/ntt.md)                            |
 | `Niche Player`  | [Ambra Solutions](/vendors/ambra-solutions.md)         |
 | `Niche Player`  | [Boldyn Networks](/vendors/boldyn-networks.md)         |
 | `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)                         |

@@ -44,7 +44,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Endava](/vendors/endava.md)                         |
 | `Niche Player`  | [Virtusa](/vendors/virtusa.md)                       |
 | `Challenger`    | [Tata Consultancy Services](/vendors/tcs.md)         |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)                     |
+| `Challenger`    | [NTT DATA](/vendors/ntt.md)                          |
 | `Challenger`    | [Wipro](/vendors/wipro.md)                           |
 | `Challenger`    | [Globant](/vendors/globant.md)                       |
 | `Challenger`    | [Softtek](/vendors/softtek.md)                       |
@@ -76,6 +76,6 @@ and view the magic quadrant graphic
 | `Challenger`    | [Infosys](/vendors/infosys.md)           |
 | `Challenger`    | [Cognizant](/vendors/cognizant.md)       |
 | `Challenger`    | [Globant](/vendors/globant.md)           |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)         |
+| `Challenger`    | [NTT DATA](/vendors/ntt.md)              |
 | `Challenger`    | [SoftServe](/vendors/softserve.md)       |
 | `Challenger`    | [Wipro](/vendors/wipro.md)               |

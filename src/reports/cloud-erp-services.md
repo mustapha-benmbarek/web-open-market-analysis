@@ -48,7 +48,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)               |
 | `Challenger`    | [Capgemini](/vendors/capgemini.md)           |
 | `Challenger`    | [HCLTech](/vendors/hcltech.md)               |
-| `Challenger`    | [NTT DATA](/vendors/ntt-data.md)             |
+| `Challenger`    | [NTT DATA](/vendors/ntt.md)                  |
 | `Challenger`    | [EY](/vendors/ey.md)                         |
 | `Challenger`    | [Cognizant](/vendors/cognizant.md)           |
 | `Challenger`    | [DXC Technology](/vendors/dxc.md)            |

@@ -31,7 +31,7 @@ and view the magic quadrant graphic
 | --------------- | ---------------------------------------------------------------------- |
 | `Leader`        | [XTIUM](/vendors/xtium.md)                                             |
 | `Leader`        | [HCLTech](/vendors/hcltech.md)                                         |
-| `Leader`        | [NTT DATA](/vendors/ntt-data.md)                                       |
+| `Leader`        | [NTT DATA](/vendors/ntt.md)                                            |
 | `Leader`        | [Tata Consultancy Services](/vendors/tcs.md)                           |
 | `Leader`        | [Hughes Network Systems](/vendors/hughes-network-systems.md)           |
 | `Leader`        | [Microland](/vendors/microland.md)                                     |
