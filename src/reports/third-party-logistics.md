@@ -25,7 +25,7 @@ and view the magic quadrant graphic
 | --------------- | ------------------------------------------------------------------------ |
 | `Leader`        | [DHL](/vendors/dhl.md)                                                   |
 | `Leader`        | [DSV](/vendors/dsv.md)                                                   |
-| `Leader`        | [Kuehne+Nagel](/vendors/kuehne+nagel.md)                                 |
+| `Leader`        | [Kuehne+Nagel](/vendors/kuehne-nagel.md)                                 |
 | `Leader`        | [UPS Supply Chain Solutions](/vendors/ups.md)                            |
 | `Leader`        | [A.P. Moller – Maersk](/vendors/a.p.-moller-–-maersk.md)                 |
 | `Leader`        | [C.H. Robinson](/vendors/c.h.-robinson.md)                               |
@@ -33,8 +33,8 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Rhenus Group](/vendors/rhenus-group.md)                                 |
 | `Niche Player`  | [Yusen Logistics](/vendors/yusen-logistics.md)                           |
 | `Niche Player`  | [Lineage](/vendors/lineage.md)                                           |
-| `Niche Player`  | [Kintetsu World Express](/vendors/kintetsu-world-express.md)             |
-| `Niche Player`  | [KLN Logistics Group](/vendors/kln-logistics-group.md)                   |
+| `Niche Player`  | [Kintetsu World Express](/vendors/kintetsu.md)                           |
+| `Niche Player`  | [KLN Logistics Group](/vendors/kln-logistics.md)                         |
 | `Niche Player`  | [Hellmann Worldwide Logistics](/vendors/hellmann-worldwide-logistics.md) |
 | `Niche Player`  | [LOGISTEED](/vendors/logisteed.md)                                       |
 | `Niche Player`  | [Hyundai Glovis](/vendors/hyundai-glovis.md)                             |

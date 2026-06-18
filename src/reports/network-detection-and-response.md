@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Trellix](/vendors/trellix.md)                 |
 | `Niche Player`  | [Stellar Cyber](/vendors/stellar-cyber.md)     |
 | `Niche Player`  | [Gatewatcher](/vendors/gatewatcher.md)         |
-| `Niche Player`  | [Jizō AI](/vendors/jizō-ai.md)                 |
+| `Niche Player`  | [Jizō AI](/vendors/jizo-ai.md)                 |
 | `Niche Player`  | [Arista Networks](/vendors/arista-networks.md) |
 | `Niche Player`  | [Fortinet](/vendors/fortinet.md)               |
 

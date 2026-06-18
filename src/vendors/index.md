@@ -273,6 +273,34 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### J
+
+- [JAGGAER](/vendors/jaggaer.md)
+- [Jamf](/vendors/jamf.md)
+- [Jedox](/vendors/jedox.md)
+- [Jellyfish](/vendors/jellyfish.md)
+- [Jenzabar](/vendors/jenzabar.md)
+- [JetBrains](/vendors/jetbrains.md)
+- [Jitterbit](/vendors/jitterbit.md)
+- [Jizō AI](/vendors/jizo-ai.md)
+- [John Galt Solutions](/vendors/john-galt-solutions.md)
+- [Join Digital](/vendors/join-digital.md)
+- [Joulica](/vendors/joulica.md)
+
+### K
+
+- [Kameleoon](/vendors/kameleoon.md)
+- [Kaseya](/vendors/kaseya.md)
+- [KELA](/vendors/kela.md)
+- [Kinaxis](/vendors/kinaxis.md)
+- [Kingdee](/vendors/kingdee.md)
+- [Kintetsu World Express](/vendors/kintetsu.md)
+- [KLN Logistics Group](/vendors/kln-logistics.md)
+- [KORE](/vendors/kore.md)
+- [KPMG](/vendors/kpmg.md)
+- [Kuehne+Nagel](/vendors/kuehne-nagel.md)
+- [Kyndryl](/vendors/kyndryl.md)
+
 ### L
 
 - [Lakeside Software](/vendors/lakeside-software.md)
