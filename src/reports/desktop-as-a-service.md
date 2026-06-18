@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Dizzion](/vendors/dizzion.md)             |
 | `Niche Player`  | [Accops](/vendors/accops.md)               |
 | `Niche Player`  | [Apporto](/vendors/apporto.md)             |
-| `Niche Player`  | [HP Inc.](/vendors/hp-inc..md)             |
+| `Niche Player`  | [HP Inc.](/vendors/hewlett-packard.md)     |
 | `Niche Player`  | [oneclick](/vendors/oneclick.md)           |
 | `Niche Player`  | [Anunta](/vendors/anunta.md)               |
 | `Niche Player`  | [Flexxible](/vendors/flexxible.md)         |

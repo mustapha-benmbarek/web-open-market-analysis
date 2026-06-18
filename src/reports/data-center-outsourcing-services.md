@@ -25,7 +25,7 @@ and view the magic quadrant graphic
 | --------------- | -------------------------------------------------------------------------------- |
 | `Leader`        | [TCS (Tata Consultancy Services)](</vendors/tcs-(tata-consultancy-services).md>) |
 | `Leader`        | [Accenture](/vendors/accenture.md)                                               |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                                                   |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                                                       |
 | `Leader`        | [Wipro](/vendors/wipro.md)                                                       |
 | `Visionary`     | [Capgemini](/vendors/capgemini.md)                                               |
 | `Visionary`     | [Deloitte](/vendors/deloitte.md)                                                 |

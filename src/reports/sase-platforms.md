@@ -30,7 +30,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Zscaler](/vendors/zscaler.md)                               |
 | `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                         |
 | `Niche Player`  | [Check Point Software Technologies](/vendors/check-point.md) |
-| `Niche Player`  | [HPE](/vendors/hpe.md)                                       |
+| `Niche Player`  | [HPE](/vendors/hewlett-packard.md)                           |
 | `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                           |
 | `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                 |
 | `Challenger`    | [Cisco](/vendors/cisco.md)                                   |

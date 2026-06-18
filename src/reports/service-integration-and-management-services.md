@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                |
 | --------------- | -------------------------------------------- |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                   |
 | `Leader`        | [Capgemini](/vendors/capgemini.md)           |
 | `Leader`        | [Wipro](/vendors/wipro.md)                   |
 | `Leader`        | [Tata Consultancy Services](/vendors/tcs.md) |
@@ -61,7 +61,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                              |
 | --------------- | ------------------------------------------ |
 | `Leader`        | [Wipro](/vendors/wipro.md)                 |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)             |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                 |
 | `Leader`        | [Capgemini](/vendors/capgemini.md)         |
 | `Leader`        | [TCS](/vendors/tcs.md)                     |
 | `Leader`        | [Accenture](/vendors/accenture.md)         |

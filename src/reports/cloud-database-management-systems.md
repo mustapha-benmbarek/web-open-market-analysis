@@ -54,7 +54,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Neo4j](/vendors/neo4j.md)                   |
 | `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md) |
 | `Challenger`    | [InterSystems](/vendors/intersystems.md)     |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)     |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei.md)           |
 
 ## Report 2024
 
@@ -84,4 +84,4 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Cockroach Labs](/vendors/cockroach-labs.md) |
 | `Niche Player`  | [EDB](/vendors/edb.md)                       |
 | `Challenger`    | [InterSystems](/vendors/intersystems.md)     |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)     |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei.md)           |

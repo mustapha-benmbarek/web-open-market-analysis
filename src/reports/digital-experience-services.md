@@ -49,7 +49,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
 | `Niche Player`  | [Virtusa](/vendors/virtusa.md)                   |
-| `Challenger`    | [HCLTech](/vendors/hcltech.md)                   |
+| `Challenger`    | [HCLTech](/vendors/hcl.md)                       |
 | `Challenger`    | [IBM](/vendors/ibm.md)                           |
 | `Challenger`    | [Infosys](/vendors/infosys.md)                   |
 
@@ -74,6 +74,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [TCS](/vendors/tcs.md)                           |
 | `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
 | `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
-| `Challenger`    | [HCLTech](/vendors/hcltech.md)                   |
+| `Challenger`    | [HCLTech](/vendors/hcl.md)                       |
 | `Challenger`    | [IBM](/vendors/ibm.md)                           |
 | `Challenger`    | [Infosys](/vendors/infosys.md)                   |

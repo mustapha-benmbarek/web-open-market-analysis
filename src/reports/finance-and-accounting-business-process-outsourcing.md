@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Wipro](/vendors/wipro.md)                 |
 | `Leader`        | [WNS](/vendors/wns.md)                     |
 | `Visionary`     | [Cognizant](/vendors/cognizant.md)         |
-| `Niche Player`  | [HCLTech](/vendors/hcltech.md)             |
+| `Niche Player`  | [HCLTech](/vendors/hcl.md)                 |
 | `Niche Player`  | [Datamatics](/vendors/datamatics.md)       |
 | `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md) |
 | `Niche Player`  | [Conduent](/vendors/conduent.md)           |
@@ -64,7 +64,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Wipro](/vendors/wipro.md)                           |
 | `Leader`        | [TCS](/vendors/tcs.md)                               |
 | `Visionary`     | [Cognizant](/vendors/cognizant.md)                   |
-| `Niche Player`  | [HCLTech](/vendors/hcltech.md)                       |
+| `Niche Player`  | [HCLTech](/vendors/hcl.md)                           |
 | `Niche Player`  | [Sutherland](/vendors/sutherland.md)                 |
 | `Niche Player`  | [Datamatics](/vendors/datamatics.md)                 |
 | `Niche Player`  | [CES](/vendors/ces.md)                               |

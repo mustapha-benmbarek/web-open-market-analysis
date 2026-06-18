@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Shopware](/vendors/shopware.md)               |
 | `Niche Player`  | [Infosys Equinox](/vendors/infosys-equinox.md) |
 | `Niche Player`  | [Intershop](/vendors/intershop.md)             |
-| `Niche Player`  | [HCLSoftware](/vendors/hclsoftware.md)         |
+| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                 |
 | `Niche Player`  | [Oro](/vendors/oro.md)                         |
 | `Niche Player`  | [Optimizely](/vendors/optimizely.md)           |
 | `Niche Player`  | [Elastic Path](/vendors/elastic-path.md)       |
@@ -58,7 +58,7 @@ and view the magic quadrant graphic
 | `Leader`        | [SAP](/vendors/sap.md)                         |
 | `Leader`        | [Adobe](/vendors/adobe.md)                     |
 | `Leader`        | [Spryker](/vendors/spryker.md)                 |
-| `Visionary`     | [HCLSoftware](/vendors/hclsoftware.md)         |
+| `Visionary`     | [HCLSoftware](/vendors/hcl.md)                 |
 | `Visionary`     | [Oro](/vendors/oro.md)                         |
 | `Niche Player`  | [Infosys Equinox](/vendors/infosys-equinox.md) |
 | `Niche Player`  | [Optimizely](/vendors/optimizely.md)           |

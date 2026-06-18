@@ -42,7 +42,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Riverbed](/vendors/riverbed.md)                           |
 | `Leader`        | [TeamViewer](/vendors/teamviewer.md)                       |
 | `Leader`        | [Lakeside Software](/vendors/lakeside-software.md)         |
-| `Leader`        | [HP Inc.](/vendors/hp-inc..md)                             |
+| `Leader`        | [HP Inc.](/vendors/hewlett-packard.md)                     |
 | `Leader`        | [Omnissa](/vendors/omnissa.md)                             |
 | `Visionary`     | [ServiceNow](/vendors/servicenow.md)                       |
 | `Visionary`     | [Tanium](/vendors/tanium.md)                               |
@@ -51,7 +51,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [ManageEngine](/vendors/manageengine.md)                   |
 | `Niche Player`  | [Flexxible](/vendors/flexxible.md)                         |
 | `Niche Player`  | [Progressive Techserve](/vendors/progressive-techserve.md) |
-| `Niche Player`  | [HCLSoftware](/vendors/hclsoftware.md)                     |
+| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                             |
 
 ## Report 2025
 
@@ -68,12 +68,12 @@ and view the magic quadrant graphic
 | `Leader`        | [Riverbed](/vendors/riverbed.md)                         |
 | `Leader`        | [Lakeside Software](/vendors/lakeside-software.md)       |
 | `Leader`        | [Omnissa](/vendors/omnissa.md)                           |
-| `Visionary`     | [HP Inc.](/vendors/hp-inc..md)                           |
+| `Visionary`     | [HP Inc.](/vendors/hewlett-packard.md)                   |
 | `Visionary`     | [Tanium](/vendors/tanium.md)                             |
 | `Visionary`     | [Ivanti](/vendors/ivanti.md)                             |
 | `Visionary`     | [ServiceNow](/vendors/servicenow.md)                     |
 | `Niche Player`  | [Nanoheal](/vendors/nanoheal.md)                         |
-| `Niche Player`  | [HCLSoftware](/vendors/hclsoftware.md)                   |
+| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                           |
 | `Niche Player`  | [Flexxible](/vendors/flexxible.md)                       |
 | `Niche Player`  | [Progressive Infotech](/vendors/progressive-infotech.md) |
 | `Niche Player`  | [Liquidware](/vendors/liquidware.md)                     |

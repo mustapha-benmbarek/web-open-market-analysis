@@ -28,7 +28,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Veracode](/vendors/veracode.md)                   |
 | `Leader`        | [Snyk](/vendors/snyk.md)                           |
 | `Leader`        | [OpenText](/vendors/opentext.md)                   |
-| `Leader`        | [HCLSoftware ](/vendors/hclsoftware-.md)           |
+| `Leader`        | [HCLSoftware ](/vendors/hcl.md)                    |
 | `Visionary`     | [JFrog](/vendors/jfrog.md)                         |
 | `Visionary`     | [Sonatype](/vendors/sonatype.md)                   |
 | `Visionary`     | [Contrast Security](/vendors/contrast-security.md) |
@@ -59,5 +59,5 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Onapsis](/vendors/onapsis.md)                     |
 | `Niche Player`  | [Sonatype](/vendors/sonatype.md)                   |
 | `Challenger`    | [GitLab](/vendors/gitlab.md)                       |
-| `Challenger`    | [HCLSoftware](/vendors/hclsoftware.md)             |
+| `Challenger`    | [HCLSoftware](/vendors/hcl.md)                     |
 | `Challenger`    | [GitHub](/vendors/github.md)                       |

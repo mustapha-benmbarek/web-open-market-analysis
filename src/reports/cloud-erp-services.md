@@ -32,24 +32,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/cloud-erp-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)             |
-| `Leader`        | [PwC](/vendors/pwc.md)                       |
-| `Leader`        | [IBM Consulting](/vendors/ibm-consulting.md) |
-| `Leader`        | [KPMG](/vendors/kpmg.md)                     |
-| `Leader`        | [TCS](/vendors/tcs.md)                       |
-| `Leader`        | [Accenture](/vendors/accenture.md)           |
-| `Leader`        | [Infosys](/vendors/infosys.md)               |
-| `Niche Player`  | [Delaware](/vendors/delaware.md)             |
-| `Niche Player`  | [LTM](/vendors/ltm.md)                       |
-| `Niche Player`  | [Huron](/vendors/huron.md)                   |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)   |
-| `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)               |
-| `Challenger`    | [Capgemini](/vendors/capgemini.md)           |
-| `Challenger`    | [HCLTech](/vendors/hcltech.md)               |
-| `Challenger`    | [NTT DATA](/vendors/ntt.md)                  |
-| `Challenger`    | [EY](/vendors/ey.md)                         |
-| `Challenger`    | [Cognizant](/vendors/cognizant.md)           |
-| `Challenger`    | [DXC Technology](/vendors/dxc.md)            |
-| `Challenger`    | [Wipro](/vendors/wipro.md)                   |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)           |
+| `Leader`        | [PwC](/vendors/pwc.md)                     |
+| `Leader`        | [IBM Consulting](/vendors/ibm.md)          |
+| `Leader`        | [KPMG](/vendors/kpmg.md)                   |
+| `Leader`        | [TCS](/vendors/tcs.md)                     |
+| `Leader`        | [Accenture](/vendors/accenture.md)         |
+| `Leader`        | [Infosys](/vendors/infosys.md)             |
+| `Niche Player`  | [Delaware](/vendors/delaware.md)           |
+| `Niche Player`  | [LTM](/vendors/ltm.md)                     |
+| `Niche Player`  | [Huron](/vendors/huron.md)                 |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md) |
+| `Niche Player`  | [Fujitsu](/vendors/fujitsu.md)             |
+| `Challenger`    | [Capgemini](/vendors/capgemini.md)         |
+| `Challenger`    | [HCLTech](/vendors/hcl.md)                 |
+| `Challenger`    | [NTT DATA](/vendors/ntt.md)                |
+| `Challenger`    | [EY](/vendors/ey.md)                       |
+| `Challenger`    | [Cognizant](/vendors/cognizant.md)         |
+| `Challenger`    | [DXC Technology](/vendors/dxc.md)          |
+| `Challenger`    | [Wipro](/vendors/wipro.md)                 |

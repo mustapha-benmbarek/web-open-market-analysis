@@ -35,7 +35,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Capgemini](/vendors/capgemini.md)                   |
 | `Leader`        | [Infosys](/vendors/infosys.md)                       |
 | `Leader`        | [Cognizant](/vendors/cognizant.md)                   |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                       |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                           |
 | `Leader`        | [EPAM](/vendors/epam.md)                             |
 | `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md)             |
 | `Niche Player`  | [GlobalLogic](/vendors/globallogic.md)               |
@@ -63,7 +63,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Accenture](/vendors/accenture.md)       |
 | `Leader`        | [TCS](/vendors/tcs.md)                   |
 | `Leader`        | [IBM](/vendors/ibm.md)                   |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)           |
+| `Leader`        | [HCLTech](/vendors/hcl.md)               |
 | `Leader`        | [EPAM](/vendors/epam.md)                 |
 | `Visionary`     | [Thoughtworks](/vendors/thoughtworks.md) |
 | `Niche Player`  | [Persistent](/vendors/persistent.md)     |

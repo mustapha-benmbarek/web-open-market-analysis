@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | `Leader`        | [BMC Software](/vendors/bmc.md)                            |
 | `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
 | `Leader`        | [IBM](/vendors/ibm.md)                                     |
-| `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)                     |
+| `Leader`        | [HCLSoftware](/vendors/hcl.md)                             |
 | `Leader`        | [Stonebranch](/vendors/stonebranch.md)                     |
 | `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
 | `Visionary`     | [Beta Systems Software](/vendors/beta-systems-software.md) |

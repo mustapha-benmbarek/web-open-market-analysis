@@ -30,7 +30,7 @@ and view the magic quadrant graphic
 | `Leader`        | [IBM](/vendors/ibm.md)                     |
 | `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)               |
 | `Visionary`     | [OpenAI](/vendors/openai.md)               |
-| `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)   |
+| `Niche Player`  | [Huawei Cloud](/vendors/huawei.md)         |
 | `Niche Player`  | [Oracle](/vendors/oracle.md)               |
 | `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |

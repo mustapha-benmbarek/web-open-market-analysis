@@ -27,7 +27,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Wipro](/vendors/wipro.md)                     |
 | `Leader`        | [DXC Technology](/vendors/dxc.md)              |
 | `Leader`        | [Kyndryl](/vendors/kyndryl.md)                 |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                 |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                     |
 | `Leader`        | [Atos](/vendors/atos.md)                       |
 | `Leader`        | [Accenture](/vendors/accenture.md)             |
 | `Visionary`     | [Capgemini](/vendors/capgemini.md)             |

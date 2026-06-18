@@ -30,7 +30,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                                                          |
 | --------------- | ---------------------------------------------------------------------- |
 | `Leader`        | [XTIUM](/vendors/xtium.md)                                             |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)                                         |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                                             |
 | `Leader`        | [NTT DATA](/vendors/ntt.md)                                            |
 | `Leader`        | [Tata Consultancy Services](/vendors/tcs.md)                           |
 | `Leader`        | [Hughes Network Systems](/vendors/hughes-network-systems.md)           |

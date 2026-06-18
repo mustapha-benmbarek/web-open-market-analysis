@@ -45,22 +45,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/4g-and-5g-private-mobile-network-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                        |
-| --------------- | -------------------------------------------------------------------- |
-| `Leader`        | [Orange Business](/vendors/orange-business.md)                       |
-| `Leader`        | [Vodafone](/vendors/vodafone.md)                                     |
-| `Leader`        | [Verizon](/vendors/verizon.md)                                       |
-| `Leader`        | [Telefonica](/vendors/telefonica.md)                                 |
-| `Leader`        | [NTT DATA](/vendors/ntt.md)                                          |
-| `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md)               |
-| `Niche Player`  | [Ambra Solutions](/vendors/ambra-solutions.md)                       |
-| `Niche Player`  | [Boldyn Networks](/vendors/boldyn-networks.md)                       |
-| `Niche Player`  | [AsiaInfo Technologies](/vendors/asiainfo-technologies.md)           |
-| `Niche Player`  | [Kyndryl](/vendors/kyndryl.md)                                       |
-| `Challenger`    | [Nokia](/vendors/nokia.md)                                           |
-| `Challenger`    | [Ericsson](/vendors/ericsson.md)                                     |
-| `Challenger`    | [Huawei](/vendors/huawei.md)                                         |
-| `Challenger`    | [Hewlett Packard Enterprise](/vendors/hewlett-packard-enterprise.md) |
+| Market Status   | Market Vendor                                              |
+| --------------- | ---------------------------------------------------------- |
+| `Leader`        | [Orange Business](/vendors/orange-business.md)             |
+| `Leader`        | [Vodafone](/vendors/vodafone.md)                           |
+| `Leader`        | [Verizon](/vendors/verizon.md)                             |
+| `Leader`        | [Telefonica](/vendors/telefonica.md)                       |
+| `Leader`        | [NTT DATA](/vendors/ntt.md)                                |
+| `Leader`        | [Deutsche Telekom Group](/vendors/deutsche-telekom.md)     |
+| `Niche Player`  | [Ambra Solutions](/vendors/ambra-solutions.md)             |
+| `Niche Player`  | [Boldyn Networks](/vendors/boldyn-networks.md)             |
+| `Niche Player`  | [AsiaInfo Technologies](/vendors/asiainfo-technologies.md) |
+| `Niche Player`  | [Kyndryl](/vendors/kyndryl.md)                             |
+| `Challenger`    | [Nokia](/vendors/nokia.md)                                 |
+| `Challenger`    | [Ericsson](/vendors/ericsson.md)                           |
+| `Challenger`    | [Huawei](/vendors/huawei.md)                               |
+| `Challenger`    | [Hewlett Packard Enterprise](/vendors/hewlett-packard.md)  |
 
 ## Report 2025
 
@@ -84,4 +84,4 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)             |
 | `Challenger`    | [Nokia](/vendors/nokia.md)                             |
 | `Challenger`    | [Ericsson](/vendors/ericsson.md)                       |
-| `Challenger`    | [HPE](/vendors/hpe.md)                                 |
+| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                     |

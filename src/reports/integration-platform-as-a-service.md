@@ -47,7 +47,7 @@ and view the magic quadrant graphic
 | `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
 | `Challenger`    | [IBM](/vendors/ibm.md)                                 |
 | `Challenger`    | [Google](/vendors/google.md)                           |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei.md)                     |
 
 ## Report 2025
 
@@ -63,7 +63,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Workato](/vendors/workato.md)                  |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)              |
 | `Leader`        | [Informatica](/vendors/informatica.md)          |
-| `Visionary`     | [Huawei Cloud](/vendors/huawei-cloud.md)        |
+| `Visionary`     | [Huawei Cloud](/vendors/huawei.md)              |
 | `Visionary`     | [Celigo](/vendors/celigo.md)                    |
 | `Visionary`     | [Tray.ai](/vendors/tray.ai.md)                  |
 | `Visionary`     | [SnapLogic](/vendors/snaplogic.md)              |

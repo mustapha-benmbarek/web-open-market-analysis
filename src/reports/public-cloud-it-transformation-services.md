@@ -25,7 +25,7 @@ and view the magic quadrant graphic
 | --------------- | -------------------------------------------- |
 | `Leader`        | [Accenture](/vendors/accenture.md)           |
 | `Leader`        | [Deloitte](/vendors/deloitte.md)             |
-| `Leader`        | [HCLTech](/vendors/hcltech.md)               |
+| `Leader`        | [HCLTech](/vendors/hcl.md)                   |
 | `Leader`        | [Wipro](/vendors/wipro.md)                   |
 | `Leader`        | [Infosys](/vendors/infosys.md)               |
 | `Leader`        | [IBM](/vendors/ibm.md)                       |

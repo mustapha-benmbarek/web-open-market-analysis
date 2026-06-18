@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                    |
 | --------------- | ------------------------------------------------ |
-| `Leader`        | [HPE](/vendors/hpe.md)                           |
+| `Leader`        | [HPE](/vendors/hewlett-packard.md)               |
 | `Leader`        | [Huawei](/vendors/huawei.md)                     |
 | `Leader`        | [Cisco](/vendors/cisco.md)                       |
 | `Leader`        | [Arista Networks](/vendors/arista-networks.md)   |

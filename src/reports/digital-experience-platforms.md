@@ -39,7 +39,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Squiz](/vendors/squiz.md)               |
 | `Niche Player`  | [Pimcore](/vendors/pimcore.md)           |
 | `Challenger`    | [OpenText](/vendors/opentext.md)         |
-| `Challenger`    | [HCLSoftware](/vendors/hclsoftware.md)   |
+| `Challenger`    | [HCLSoftware](/vendors/hcl.md)           |
 
 ## Report 2024
 
@@ -48,19 +48,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/digital-experience-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Adobe](/vendors/adobe.md)             |
-| `Leader`        | [Optimizely](/vendors/optimizely.md)   |
-| `Leader`        | [Acquia](/vendors/acquia.md)           |
-| `Visionary`     | [Sitecore](/vendors/sitecore.md)       |
-| `Visionary`     | [Bloomreach](/vendors/bloomreach.md)   |
-| `Visionary`     | [Magnolia](/vendors/magnolia.md)       |
-| `Niche Player`  | [Liferay](/vendors/liferay.md)         |
-| `Niche Player`  | [Crownpeak](/vendors/crownpeak.md)     |
-| `Niche Player`  | [CoreMedia](/vendors/coremedia.md)     |
-| `Niche Player`  | [Progress](/vendors/progress.md)       |
-| `Niche Player`  | [Kentico](/vendors/kentico.md)         |
-| `Niche Player`  | [Squiz](/vendors/squiz.md)             |
-| `Challenger`    | [HCLSoftware](/vendors/hclsoftware.md) |
-| `Challenger`    | [OpenText](/vendors/opentext.md)       |
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Adobe](/vendors/adobe.md)           |
+| `Leader`        | [Optimizely](/vendors/optimizely.md) |
+| `Leader`        | [Acquia](/vendors/acquia.md)         |
+| `Visionary`     | [Sitecore](/vendors/sitecore.md)     |
+| `Visionary`     | [Bloomreach](/vendors/bloomreach.md) |
+| `Visionary`     | [Magnolia](/vendors/magnolia.md)     |
+| `Niche Player`  | [Liferay](/vendors/liferay.md)       |
+| `Niche Player`  | [Crownpeak](/vendors/crownpeak.md)   |
+| `Niche Player`  | [CoreMedia](/vendors/coremedia.md)   |
+| `Niche Player`  | [Progress](/vendors/progress.md)     |
+| `Niche Player`  | [Kentico](/vendors/kentico.md)       |
+| `Niche Player`  | [Squiz](/vendors/squiz.md)           |
+| `Challenger`    | [HCLSoftware](/vendors/hcl.md)       |
+| `Challenger`    | [OpenText](/vendors/opentext.md)     |

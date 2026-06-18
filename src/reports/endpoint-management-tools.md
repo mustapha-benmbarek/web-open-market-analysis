@@ -26,7 +26,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                 |
 | `Leader`        | [Tanium](/vendors/tanium.md)                       |
 | `Leader`        | [NinjaOne](/vendors/ninjaone.md)                   |
-| `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)             |
+| `Leader`        | [HCLSoftware](/vendors/hcl.md)                     |
 | `Leader`        | [Jamf](/vendors/jamf.md)                           |
 | `Leader`        | [Omnissa](/vendors/omnissa.md)                     |
 | `Leader`        | [Adaptiva](/vendors/adaptiva.md)                   |

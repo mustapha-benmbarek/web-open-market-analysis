@@ -31,20 +31,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/banking-payment-hub-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                        |
-| --------------- | -------------------------------------------------------------------- |
-| `Leader`        | [Infosys Finacle](/vendors/infosys-finacle.md)                       |
-| `Leader`        | [Volante](/vendors/volante.md)                                       |
-| `Leader`        | [Finastra (Payments To Go)](</vendors/finastra-(payments-to-go).md>) |
-| `Leader`        | [Intellect Design Arena](/vendors/intellect-design-arena.md)         |
-| `Leader`        | [Finastra (Global PAYplus)](</vendors/finastra-(global-payplus).md>) |
-| `Leader`        | [FIS](/vendors/fis.md)                                               |
-| `Leader`        | [CGI](/vendors/cgi.md)                                               |
-| `Visionary`     | [Oracle](/vendors/oracle.md)                                         |
-| `Visionary`     | [Temenos](/vendors/temenos.md)                                       |
-| `Visionary`     | [NetXD](/vendors/netxd.md)                                           |
-| `Niche Player`  | [IBM](/vendors/ibm.md)                                               |
-| `Niche Player`  | [ECS Fin](/vendors/ecs-fin.md)                                       |
-| `Niche Player`  | [Skaleet](/vendors/skaleet.md)                                       |
-| `Challenger`    | [Tata Consultancy Services](/vendors/tcs.md)                         |
-| `Challenger`    | [Fiserv](/vendors/fiserv.md)                                         |
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Infosys Finacle](/vendors/infosys-finacle.md)               |
+| `Leader`        | [Volante](/vendors/volante.md)                               |
+| `Leader`        | [Finastra (Payments To Go)](/vendors/finastra.md)            |
+| `Leader`        | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
+| `Leader`        | [Finastra (Global PAYplus)](/vendors/finastra.md)            |
+| `Leader`        | [FIS](/vendors/fis.md)                                       |
+| `Leader`        | [CGI](/vendors/cgi.md)                                       |
+| `Visionary`     | [Oracle](/vendors/oracle.md)                                 |
+| `Visionary`     | [Temenos](/vendors/temenos.md)                               |
+| `Visionary`     | [NetXD](/vendors/netxd.md)                                   |
+| `Niche Player`  | [IBM](/vendors/ibm.md)                                       |
+| `Niche Player`  | [ECS Fin](/vendors/ecs-fin.md)                               |
+| `Niche Player`  | [Skaleet](/vendors/skaleet.md)                               |
+| `Challenger`    | [Tata Consultancy Services](/vendors/tcs.md)                 |
+| `Challenger`    | [Fiserv](/vendors/fiserv.md)                                 |

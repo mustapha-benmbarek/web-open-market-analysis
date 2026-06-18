@@ -32,5 +32,5 @@ and view the magic quadrant graphic
 | `Niche Player`  | [H3C](/vendors/h3c.md)                                  |
 | `Niche Player`  | [Alcatel-Lucent Enterprise](/vendors/alcatel-lucent.md) |
 | `Niche Player`  | [Extreme Networks](/vendors/extreme-networks.md)        |
-| `Challenger`    | [HPE](/vendors/hpe.md)                                  |
+| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                      |
 | `Challenger`    | [NVIDIA](/vendors/nvidia.md)                            |
