@@ -273,6 +273,20 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### L
+
+- [Lakeside Software](/vendors/lakeside-software.md)
+- [Laserfiche](/vendors/laserfiche.md)
+- [Lineage](/vendors/lineage.md)
+- [LinearB](/vendors/linearb.md)
+- [LinkShadow](/vendors/linkshadow.md)
+- [LogicGate](/vendors/logicgate.md)
+- [LogicManager](/vendors/logicmanager.md)
+- [LOGISTEED](/vendors/logisteed.md)
+- [Logistics Reply](/vendors/logistics-reply.md)
+- [LTM](/vendors/ltm.md)
+- [Lumen](/vendors/lumen.md)
+
 ### M
 
 - [Made4net](/vendors/made4net.md)
