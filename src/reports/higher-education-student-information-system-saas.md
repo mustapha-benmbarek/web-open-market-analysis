@@ -44,15 +44,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/higher-education-student-information-system-saas.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [Ellucian (Banner)](</vendors/ellucian-(banner).md>)       |
-| `Leader`        | [Ellucian (Colleague)](</vendors/ellucian-(colleague).md>) |
-| `Leader`        | [Workday](/vendors/workday.md)                             |
-| `Visionary`     | [RIO Education](/vendors/rio-education.md)                 |
-| `Niche Player`  | [Jenzabar (One)](</vendors/jenzabar-(one).md>)             |
-| `Niche Player`  | [Thesis](/vendors/thesis.md)                               |
-| `Niche Player`  | [Jenzabar (SONIS)](</vendors/jenzabar-(sonis).md>)         |
-| `Niche Player`  | [Serosoft](/vendors/serosoft.md)                           |
-| `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md)         |
-| `Challenger`    | [Anthology](/vendors/anthology.md)                         |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Ellucian (Banner)](/vendors/ellucian.md)          |
+| `Leader`        | [Ellucian (Colleague)](/vendors/ellucian.md)       |
+| `Leader`        | [Workday](/vendors/workday.md)                     |
+| `Visionary`     | [RIO Education](/vendors/rio-education.md)         |
+| `Niche Player`  | [Jenzabar (One)](</vendors/jenzabar-(one).md>)     |
+| `Niche Player`  | [Thesis](/vendors/thesis.md)                       |
+| `Niche Player`  | [Jenzabar (SONIS)](</vendors/jenzabar-(sonis).md>) |
+| `Niche Player`  | [Serosoft](/vendors/serosoft.md)                   |
+| `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md) |
+| `Challenger`    | [Anthology](/vendors/anthology.md)                 |

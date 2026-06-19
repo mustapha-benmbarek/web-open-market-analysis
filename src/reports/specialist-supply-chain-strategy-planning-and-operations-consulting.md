@@ -27,13 +27,13 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/specialist-supply-chain-strategy-planning-and-operations-consulting.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                            |
-| --------------- | ------------------------------------------------------------------------ |
-| `Leader`        | [4flow](/vendors/4flow.md)                                               |
-| `Leader`        | [Miebach](/vendors/miebach.md)                                           |
-| `Leader`        | [Bluecrux](/vendors/bluecrux.md)                                         |
-| `Leader`        | [Argon & Co](/vendors/argon-&-co.md)                                     |
-| `Visionary`     | [Oliver Wyman](/vendors/oliver-wyman.md)                                 |
-| `Niche Player`  | [Bristlecone](/vendors/bristlecone.md)                                   |
-| `Niche Player`  | [Spinnaker SCA](/vendors/spinnaker.md)                                   |
-| `Niche Player`  | [EFESO Management Consultants](/vendors/efeso-management-consultants.md) |
+| Market Status   | Market Vendor                                     |
+| --------------- | ------------------------------------------------- |
+| `Leader`        | [4flow](/vendors/4flow.md)                        |
+| `Leader`        | [Miebach](/vendors/miebach.md)                    |
+| `Leader`        | [Bluecrux](/vendors/bluecrux.md)                  |
+| `Leader`        | [Argon & Co](/vendors/argon-&-co.md)              |
+| `Visionary`     | [Oliver Wyman](/vendors/oliver-wyman.md)          |
+| `Niche Player`  | [Bristlecone](/vendors/bristlecone.md)            |
+| `Niche Player`  | [Spinnaker SCA](/vendors/spinnaker.md)            |
+| `Niche Player`  | [EFESO Management Consultants](/vendors/efeso.md) |

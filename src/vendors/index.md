@@ -273,6 +273,34 @@ This section provides an organized index of product or service based providers c
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
+### E
+
+- [E2open](/vendors/e2open.md)
+- [ebidtopay](/vendors/ebidtopay.md)
+- [ECS Fin](/vendors/ecs-fin.md)
+- [EFESO Management Consultants](/vendors/efeso.md)
+- [Ehrhardt Partner Group (EPG)](/vendors/epg.md)
+- [Eightfold AI](/vendors/eightfold-ai.md)
+- [Ellucian](/vendors/ellucian.md)
+- [emnify](/vendors/emnify.md)
+- [Engage Hub](/vendors/engage-hub.md)
+- [Envoy](/vendors/envoy.md)
+- [Epic](/vendors/epic.md)
+- [Epicor](/vendors/epicor.md)
+- [Eptura](/vendors/eptura.md)
+- [Ericsson](/vendors/ericsson.md)
+- [ESET](/vendors/eset.md)
+- [Esker](/vendors/esker.md)
+- [EventMobi](/vendors/eventmobi.md)
+- [Everstream Analytics](/vendors/everstream-analytics.md)
+- [Exiger](/vendors/exiger.md)
+- [Expeditors](/vendors/expeditors.md)
+- [Experian](/vendors/experian.md)
+- [ExtraHop](/vendors/extrahop.md)
+- [Extreme Networks](/vendors/extreme-networks.md)
+- [Ernst & Young (EY)](/vendors/ey.md)
+- [Eyelit Technologies](/vendors/eyelit-technologies.md)
+
 ### F
 
 - [Fabasoft](/vendors/fabasoft.md)
