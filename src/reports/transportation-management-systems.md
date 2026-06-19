@@ -61,22 +61,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/transportation-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)                               |
-| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                     |
-| `Leader`        | [SAP](/vendors/sap.md)                                     |
-| `Leader`        | [Manhattan Associates](/vendors/manhattan-associates.md)   |
-| `Leader`        | [e2open](/vendors/e2open.md)                               |
-| `Visionary`     | [Shipwell](/vendors/shipwell.md)                           |
-| `Visionary`     | [Pando](/vendors/pando.md)                                 |
-| `Niche Player`  | [Tesisquare](/vendors/tesisquare.md)                       |
-| `Niche Player`  | [vTradEx](/vendors/vtradex.md)                             |
-| `Niche Player`  | [BlueRock TMS](/vendors/bluerock-tms.md)                   |
-| `Niche Player`  | [Shipsy](/vendors/shipsy.md)                               |
-| `Niche Player`  | [TMSfirst](/vendors/tmsfirst.md)                           |
-| `Niche Player`  | [Aptean](/vendors/aptean.md)                               |
-| `Challenger`    | [Alpega](/vendors/alpega.md)                               |
-| `Challenger`    | [Uber Freight](/vendors/uber.md)                           |
-| `Challenger`    | [Infios (MercuryGate)](</vendors/infios-(mercurygate).md>) |
-| `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)                 |
+| Market Status   | Market Vendor                                            |
+| --------------- | -------------------------------------------------------- |
+| `Leader`        | [Oracle](/vendors/oracle.md)                             |
+| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                   |
+| `Leader`        | [SAP](/vendors/sap.md)                                   |
+| `Leader`        | [Manhattan Associates](/vendors/manhattan-associates.md) |
+| `Leader`        | [e2open](/vendors/e2open.md)                             |
+| `Visionary`     | [Shipwell](/vendors/shipwell.md)                         |
+| `Visionary`     | [Pando](/vendors/pando.md)                               |
+| `Niche Player`  | [Tesisquare](/vendors/tesisquare.md)                     |
+| `Niche Player`  | [vTradEx](/vendors/vtradex.md)                           |
+| `Niche Player`  | [BlueRock TMS](/vendors/bluerock-tms.md)                 |
+| `Niche Player`  | [Shipsy](/vendors/shipsy.md)                             |
+| `Niche Player`  | [TMSfirst](/vendors/tmsfirst.md)                         |
+| `Niche Player`  | [Aptean](/vendors/aptean.md)                             |
+| `Challenger`    | [Alpega](/vendors/alpega.md)                             |
+| `Challenger`    | [Uber Freight](/vendors/uber.md)                         |
+| `Challenger`    | [Infios (MercuryGate)](/vendors/infios.md)               |
+| `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)               |

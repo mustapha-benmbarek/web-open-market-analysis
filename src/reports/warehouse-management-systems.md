@@ -52,7 +52,7 @@ and view the magic quadrant graphic
 | Market Status   | Market Vendor                                                              |
 | --------------- | -------------------------------------------------------------------------- |
 | `Leader`        | [Manhattan Associates](/vendors/manhattan-associates.md)                   |
-| `Leader`        | [Infios (Korber)](</vendors/infios-(korber).md>)                           |
+| `Leader`        | [Infios (Korber)](/vendors/infios.md)                                      |
 | `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                                     |
 | `Leader`        | [SAP](/vendors/sap.md)                                                     |
 | `Leader`        | [Oracle](/vendors/oracle.md)                                               |

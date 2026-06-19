@@ -33,7 +33,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                                |
 | --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Infosys Finacle](/vendors/infosys-finacle.md)               |
+| `Leader`        | [Infosys Finacle](/vendors/infosys.md)                       |
 | `Leader`        | [Volante](/vendors/volante.md)                               |
 | `Leader`        | [Finastra (Payments To Go)](/vendors/finastra.md)            |
 | `Leader`        | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
