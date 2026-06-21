@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [MasterSoft](/vendors/mastersoft.md)                     |
 | `Niche Player`  | [TechnologyOne](/vendors/technologyone.md)               |
 | `Niche Player`  | [Jenzabar](/vendors/jenzabar.md)                         |
-| `Niche Player`  | [Octoze (Camu)](</vendors/octoze-(camu).md>)             |
+| `Niche Player`  | [Octoze (Camu)](/vendors/octoze.md)                      |
 | `Niche Player`  | [Academia by Serosoft](/vendors/academia-by-serosoft.md) |
 | `Niche Player`  | [Thesis](/vendors/thesis.md)                             |
 | `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md)       |

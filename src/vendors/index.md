@@ -470,6 +470,29 @@ This section provides an organized index of product or service based providers c
 - [NTT](/vendors/ntt.md)
 - [NX Group](/vendors/nx-group.md)
 
+### O
+
+- [o9 Solutions](/vendors/o9-solutions.md)
+- [Objective](/vendors/objective.md)
+- [Octoze (Camu)](/vendors/octoze.md)
+- [OfficeSpace Software](/vendors/officespace-software.md)
+- [Oliver Wyman](/vendors/oliver-wyman.md)
+- [Omnex Systems](/vendors/omnex-systems.md)
+- [Omnissa](/vendors/omnissa.md)
+- [OMP](/vendors/omp.md)
+- [OneStream](/vendors/onestream.md)
+- [OneTrust](/vendors/onetrust.md)
+- [OnPage](/vendors/onpage.md)
+- [Onspring](/vendors/onspring.md)
+- [Oobeya](/vendors/oobeya.md)
+- [OpenAI](/vendors/openai.md)
+- [OpenBOM](/vendors/openbom.md)
+- [OpenText](/vendors/opentext.md)
+- [Opsera](/vendors/opsera.md)
+- [Optimizely](/vendors/optimizely.md)
+- [Optro](/vendors/optro.md)
+- [Oracle](/vendors/oracle.md)
+
 ### P
 
 - [Palo Alto Networks](/vendors/palo-alto-networks.md)
