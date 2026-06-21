@@ -43,7 +43,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Mobile Heartbeat](/vendors/mobile-heartbeat.md) |
 | `Leader`        | [Stryker](/vendors/stryker.md)                   |
 | `Leader`        | [Epic](/vendors/epic.md)                         |
-| `Leader`        | [Oracle Health](/vendors/oracle-health.md)       |
+| `Leader`        | [Oracle Health](/vendors/oracle.md)              |
 | `Leader`        | [MEDITECH](/vendors/meditech.md)                 |
 | `Leader`        | [symplr](/vendors/symplr.md)                     |
 | `Leader`        | [QliqSOFT](/vendors/qliqsoft.md)                 |

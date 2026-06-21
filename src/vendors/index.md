@@ -492,6 +492,8 @@ This section provides an organized index of product or service based providers c
 - [Optimizely](/vendors/optimizely.md)
 - [Optro](/vendors/optro.md)
 - [Oracle](/vendors/oracle.md)
+- [Orange Business](/vendors/orange-business.md)
+- [OvalEdge](/vendors/ovaledge.md)
 
 ### P
 
