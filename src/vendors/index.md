@@ -671,6 +671,9 @@ This section provides an organized index of product or service based providers c
 - [Volante](/vendors/volante.md)
 - [Vonage](/vendors/vonage.md)
 - [vTradEx](/vendors/vtradex.md)
+
+### W
+
 - [Waydev](/vendors/waydev.md)
 - [Wipro](/vendors/wipro.md)
 - [Wireless Logic](/vendors/wireless-logic.md)
@@ -680,8 +683,20 @@ This section provides an organized index of product or service based providers c
 - [Workable](/vendors/workable.md)
 - [Workato](/vendors/workato.md)
 - [Workday](/vendors/workday.md)
+
+### X
+
+- [XCMG HANYUN](/vendors/xcmg-hanyun.md)
 - [XEBO.ai](/vendors/xebo.ai.md)
+- [XM Cyber](/vendors/xm-cyber.md)
 - [XTIUM](/vendors/xtium.md)
+- [Yagna iQ](/vendors/yagna-iq.md)
+- [Yellow.ai](/vendors/yellow.ai.md)
+- [Yext](/vendors/yext.md)
+- [Yonyou](/vendors/yonyou.md)
+
+### Y
+
 - [Yagna iQ](/vendors/yagna-iq.md)
 - [Yusen Logistics](/vendors/yusen-logistics.md)
 
