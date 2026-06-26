@@ -650,9 +650,20 @@ This section provides an organized index of product or service based providers c
 
 - [Uber Freight](/vendors/uber.md)
 - [UiPath](/vendors/uipath.md)
+- [UKG](/vendors/ukg.md)
+- [UNICOM Systems](/vendors/unicom-systems.md)
+- [Uniform](/vendors/uniform.md)
+- [Unilog](/vendors/unilog.md)
+- [Unily](/vendors/unily.md)
 - [Uniphore](/vendors/uniphore.md)
+- [Unisys](/vendors/unisys.md)
+- [Unitrends](/vendors/unitrends.md)
+- [Univers](/vendors/univers.md)
+- [Upland](/vendors/upland.md)
 - [Uplevel](/vendors/uplevel.md)
+- [Uppwise](/vendors/uppwise.md)
 - [UPS Supply Chain Solutions](/vendors/ups.md)
+- [USU](/vendors/usu.md)
 
 ### V
 
