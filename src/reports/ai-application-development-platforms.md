@@ -39,7 +39,7 @@ and view the magic quadrant graphic
 | `Leader`        | [IBM](/vendors/ibm.md)                                                       |
 | `Visionary`     | [OpenAI](/vendors/openai.md)                                                 |
 | `Niche Player`  | [CoreWeaver (Weigths & Biases)](</vendors/coreweaver-(weigths-&-biases).md>) |
-| `Challenger`    | [Volcano Empire](/vendors/volcano-empire.md)                                 |
+| `Challenger`    | [Volcano Engine](/vendors/volcano-engine.md)                                 |
 | `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)                                   |
 | `Challenger`    | [Palantir](/vendors/palantir.md)                                             |
 | `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                                         |
