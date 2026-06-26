@@ -41,24 +41,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/intranet-packaged-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Unily](/vendors/unily.md)                       |
-| `Leader`        | [Simpplr](/vendors/simpplr.md)                   |
-| `Leader`        | [LumApps](/vendors/lumapps.md)                   |
-| `Leader`        | [Workvivo by Zoom](/vendors/workvivo-by-zoom.md) |
-| `Leader`        | [Staffbase](/vendors/staffbase.md)               |
-| `Leader`        | [Firstup](/vendors/firstup.md)                   |
-| `Leader`        | [Interact](/vendors/interact.md)                 |
-| `Visionary`     | [MangoApps](/vendors/mangoapps.md)               |
-| `Visionary`     | [Akumina](/vendors/akumina.md)                   |
-| `Niche Player`  | [Haiilo](/vendors/haiilo.md)                     |
-| `Niche Player`  | [Powell](/vendors/powell.md)                     |
-| `Niche Player`  | [Axero](/vendors/axero.md)                       |
-| `Challenger`    | [Omnia](/vendors/omnia.md)                       |
-| `Challenger`    | [ServiceNow](/vendors/servicenow.md)             |
-| `Challenger`    | [Blink](/vendors/blink.md)                       |
-| `Challenger`    | [Appspace](/vendors/appspace.md)                 |
+| Market Status   | Market Vendor                            |
+| --------------- | ---------------------------------------- |
+| `Leader`        | [Unily](/vendors/unily.md)               |
+| `Leader`        | [Simpplr](/vendors/simpplr.md)           |
+| `Leader`        | [LumApps](/vendors/lumapps.md)           |
+| `Leader`        | [Workvivo by Zoom](/vendors/workvivo.md) |
+| `Leader`        | [Staffbase](/vendors/staffbase.md)       |
+| `Leader`        | [Firstup](/vendors/firstup.md)           |
+| `Leader`        | [Interact](/vendors/interact.md)         |
+| `Visionary`     | [MangoApps](/vendors/mangoapps.md)       |
+| `Visionary`     | [Akumina](/vendors/akumina.md)           |
+| `Niche Player`  | [Haiilo](/vendors/haiilo.md)             |
+| `Niche Player`  | [Powell](/vendors/powell.md)             |
+| `Niche Player`  | [Axero](/vendors/axero.md)               |
+| `Challenger`    | [Omnia](/vendors/omnia.md)               |
+| `Challenger`    | [ServiceNow](/vendors/servicenow.md)     |
+| `Challenger`    | [Blink](/vendors/blink.md)               |
+| `Challenger`    | [Appspace](/vendors/appspace.md)         |
 
 ## Report 2024
 
@@ -67,20 +67,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/intranet-packaged-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Simpplr](/vendors/simpplr.md)                   |
-| `Leader`        | [Unily](/vendors/unily.md)                       |
-| `Leader`        | [Staffbase](/vendors/staffbase.md)               |
-| `Leader`        | [LumApps](/vendors/lumapps.md)                   |
-| `Leader`        | [Workvivo by Zoom](/vendors/workvivo-by-zoom.md) |
-| `Leader`        | [Firstup](/vendors/firstup.md)                   |
-| `Leader`        | [Interact](/vendors/interact.md)                 |
-| `Visionary`     | [Akumina](/vendors/akumina.md)                   |
-| `Visionary`     | [MangoApps](/vendors/mangoapps.md)               |
-| `Visionary`     | [Powell Software](/vendors/powell-software.md)   |
-| `Niche Player`  | [Appspace](/vendors/appspace.md)                 |
-| `Niche Player`  | [Axero](/vendors/axero.md)                       |
-| `Niche Player`  | [Haiilo](/vendors/haiilo.md)                     |
-| `Niche Player`  | [Igloo Software](/vendors/igloo-software.md)     |
-| `Challenger`    | [ServiceNow](/vendors/servicenow.md)             |
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Simpplr](/vendors/simpplr.md)                 |
+| `Leader`        | [Unily](/vendors/unily.md)                     |
+| `Leader`        | [Staffbase](/vendors/staffbase.md)             |
+| `Leader`        | [LumApps](/vendors/lumapps.md)                 |
+| `Leader`        | [Workvivo by Zoom](/vendors/workvivo.md)       |
+| `Leader`        | [Firstup](/vendors/firstup.md)                 |
+| `Leader`        | [Interact](/vendors/interact.md)               |
+| `Visionary`     | [Akumina](/vendors/akumina.md)                 |
+| `Visionary`     | [MangoApps](/vendors/mangoapps.md)             |
+| `Visionary`     | [Powell Software](/vendors/powell-software.md) |
+| `Niche Player`  | [Appspace](/vendors/appspace.md)               |
+| `Niche Player`  | [Axero](/vendors/axero.md)                     |
+| `Niche Player`  | [Haiilo](/vendors/haiilo.md)                   |
+| `Niche Player`  | [Igloo Software](/vendors/igloo-software.md)   |
+| `Challenger`    | [ServiceNow](/vendors/servicenow.md)           |

@@ -674,15 +674,24 @@ This section provides an organized index of product or service based providers c
 
 ### W
 
+- [WALLIX](/vendors/wallix.md)
+- [WatchGuard](/vendors/watchguard.md)
 - [Waydev](/vendors/waydev.md)
+- [Whale Cloud Technology](/vendors/whale-cloud-technology.md)
+- [Wildx](/vendors/wildx.md)
 - [Wipro](/vendors/wipro.md)
 - [Wireless Logic](/vendors/wireless-logic.md)
 - [WithSecure](/vendors/withsecure.md)
+- [WNS](/vendors/wns.md)
 - [Wolters Kluwer](/vendors/wolters-kluwer.md)
 - [Woopra](/vendors/woopra.md)
 - [Workable](/vendors/workable.md)
 - [Workato](/vendors/workato.md)
 - [Workday](/vendors/workday.md)
+- [Workvivo by Zoom](/vendors/workvivo.md)
+- [WPP](/vendors/wpp.md)
+- [Wrike](/vendors/wrike.md)
+- [WSO2](/vendors/wso2.md)
 
 ### X
 
