@@ -28,6 +28,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [AI Applications in IT Service Management](ai-applications-in-it-service-management.md)
 - [AI Code Assistants](ai-code-assistants.md)
 - [AI in CSP Customer and Business Operations](ai-in-csp-customer-and-business-operations.md)
+- [AI Platforms for Data Science and Machine Learning](data-science-and-machine-learning-platforms.md)
 - [AI-Augmented Software Testing Tools](ai-augmented-software-testing-tools.md)
 - [AI-Enabled Design and Engineering Software](ai-enabled-design-and-engineering-software.md)
 - [Analytics and Business Intelligence Platforms](analytics-and-business-intelligence-platforms.md)

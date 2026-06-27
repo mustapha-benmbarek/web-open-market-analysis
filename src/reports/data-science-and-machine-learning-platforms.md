@@ -1,22 +1,52 @@
 ---
-title: Data Science and Machine Learning Platforms
-description: Magic Quadrant for Data Science and Machine Learning Platforms
+title: AI Platforms for Data Science and Machine Learning
+description: Magic Quadrant for AI Platforms for Data Science and Machine Learning
 hide_menu: true
 ---
 
-# Data Science and Machine Learning Platforms
+# AI Platforms for Data Science and Machine Learning
 
-Data science and machine learning platforms provide software to build, customize and deploy AI models using various techniques. Data science, machine learning and AI leaders need to select platforms with awareness of AI agents enabling autonomous and interactive workflows and applications.
+AI platforms for data science and machine learning provide software that supports end-to-end AI models and agent development and life cycle management using diverse data science and AI techniques. Leaders responsible for AI need to select platforms with awareness of native AI agents that accelerate model development and deployment.
 
 ## Market Definition
 
-Gartner defines a data science and machine learning platform as an integrated set of code-based libraries and low-code tooling. These platforms support the independent use and collaboration among data scientists and their business and IT counterparts, with automation and AI assistance through all stages of the data science life cycle, including business understanding, data access and preparation, model creation and sharing of insights. They also support engineering workflows, including the creation of data, feature, deployment and testing pipelines. The platforms are provided via desktop client or browser with supporting compute instances or as a fully managed cloud offering.
+Gartner defines AI platforms for data science and machine learning (DSML) as platforms that support end-to-end AI model and agent development and life cycle management using diverse data science and AI techniques. These platforms enable data preparation, model building, deployment and governance, and are delivered as fully managed cloud services or on-premises infrastructure for AI experts and business users.
 
-Data science and machine learning (DSML) platforms are designed to enable a broad range of users to develop and apply a comprehensive suite of predictive and prescriptive analytical techniques. Leveraging data from distributed sources, code-first and low-code interfaces, and native machine learning and generative AI (GenAI) capabilities, these platforms enhance and automate decision making across an enterprise. They offer a range of proprietary and open-source tools to enable data scientists and domain experts to identify patterns in data that can be used to forecast financial metrics, understand customer behavior, predict supply and demand, and many other use cases. Models can be built on all types of data, including tabular data, images, video and text, for applications that require computer vision or natural language processing.
+AI platforms for DSML primarily target AI experts, including data scientists and AI engineers, providing a comprehensive suite of data science and AI techniques for augmented and automated decision making. These platforms support building models using data-intensive methods such as machine learning, as well as techniques such as simulation and optimization. They handle all types of data — tabular, image, video and text — for multimodal applications, such as computer vision, natural language processing (NLP) or composite AI, that combines optimization with machine learning.
 
-The supported machine learning techniques range from classic regression and decision trees to more complex deep learning, and reinforcement learning and GenAI. The models built using these techniques can be used for tasks within business processes, such as credit scoring, churn prediction, predictive maintenance, recommendation and image classification.
+Models can leverage both classic and modern AI techniques to automate business processes, such as credit scoring, churn prediction, predictive maintenance, recommendation, image classification, search and retrieval. They also enable the creation of AI agents that drive autonomous operations within AI-powered workflows and tasks across the DSML life cycle.
 
-Organizations that use DSML platforms can significantly reduce the cycle time and barriers to entry for creating predictive and prescriptive models, generating insights, and distributing results. These platforms enable collaboration and reuse of assets across multiple teams and departments, as well as the orchestration of workloads to handle high volumes of data. They also provide consistent and reproducible training and development environments that establish lineage between data, code, and model assets, enhancing data scientists’ productivity. Additionally, low-code, natural language interfaces and AI assistance enable domain experts and business users to create predictive models with simple interactions. DSML platforms support MLOps practices such as deploying models in production, orchestrating both batch and real-time workloads, and ongoing monitoring of model metrics and compliance.
+AI platforms for DSML foster collaboration and asset reuse across teams and departments while orchestrating workloads to manage large data volumes. They provide consistent, reproducible training and development environments that maintain lineage between data, code and models, improving productivity for AI experts. Additionally, low-code interfaces, natural language tools and AI assistance allow domain experts and business users to create predictive models through simple interactions.
+
+These platforms support multiple Ops practices for deploying models and agents in production, including orchestration of both batch and real-time workloads, implementation of guardrails and AI governance for risk management, and continuous evaluation and monitoring of model and agent performance.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/ai-platforms-for-sata-science-and-machine-learning.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/ai-platforms-for-sata-science-and-machine-learning.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Databricks](/vendors/databricks.md)                   |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [IBM](/vendors/ibm.md)                                 |
+| `Leader`        | [Dataiku](/vendors/dataiku.md)                         |
+| `Leader`        | [DataRobot](/vendors/datarobot.md)                     |
+| `Visionary`     | [Snowflake](/vendors/snowflake.md)                     |
+| `Visionary`     | [SAS](/vendors/sas.md)                                 |
+| `Visionary`     | [Cloudera](/vendors/cloudera.md)                       |
+| `Visionary`     | [Teradata](/vendors/teradata.md)                       |
+| `Visionary`     | [Siemens (Altair)](</vendors/siemens-(altair).md>)     |
+| `Visionary`     | [Domino Data Lab](/vendors/domino-data-lab.md)         |
+| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                           |
+| `Visionary`     | [Red Hat](/vendors/red-hat.md)                         |
+| `Niche Player`  | [Posit](/vendors/posit.md)                             |
+| `Niche Player`  | [MathWorks](/vendors/mathworks.md)                     |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
 
 ## Report 2025
 
