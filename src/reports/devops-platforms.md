@@ -1,34 +1,45 @@
 ---
-title: DevOps Platforms
-description: Magic Quadrant for DevOps Platforms
+title: DevSecOps Platforms
+description: Magic Quadrant for DevSecOps Platforms
 hide_menu: true
 ---
 
-# DevOps Platforms
+# DevSecOps Platforms
 
-DevOps platforms provide software engineering teams with an integrated set of capabilities that improve developer experience across the SDLC and enable teams to rapidly deliver software. This research evaluates DevOps platform vendors to help leaders make buying decisions.
+DevSecOps platforms provide software engineering teams with an integrated set of capabilities that improve the developer experience across the software development life cycle (SDLC) and enable teams to deliver software quickly. This research evaluates DevSecOps platform vendors to help software engineering leaders make buying decisions.
 
 ## Market Definition
 
-Gartner defines DevOps platforms as those that provide fully integrated and orchestrated capabilities to enable continuous delivery of software using agile and DevOps practices. The capabilities span the development and delivery life cycle built around the continuous integration/continuous delivery (CI/CD) pipeline, including planning, creation, artifact management, security, quality engineering, change management, compliance, environment management, deployment and monitoring. DevOps platforms support team collaboration, consistency, tool simplification and measurement of software delivery metrics. They are delivered primarily as cloud-hosted services with some options for on-premises deployment.
+Gartner defines DevSecOps platforms as those with fully integrated and orchestrated capabilities for continuous secure solution delivery using DevSecOps practices. They are built around the continuous integration/continuous delivery (CI/CD) pipeline, including planning, creation, artifact management, quality engineering, change management, compliance, environment management, deployment and monitoring, with security integrated throughout, plus collaboration, tool simplification and delivery metrics. They are delivered as cloud-hosted services, with some options for on-premises deployment.
 
-DevOps platforms simplify the creation, maintenance and management of the components required for the delivery of various types of modern software. Platforms create common workflows and data models, simplify user access, provide production-like development and test environments, and provide a consistent user experience (UX) to reduce cognitive load. They lead to improved visibility, auditability and traceability for the software delivery value stream. This end-to-end view encourages a systems-thinking mindset and accelerates feedback loops.
+DevSecOps platforms simplify the creation, maintenance and management of the components required for the secure delivery of various types of software. Platforms create common workflows, policies and data models; simplify user access; provide development and test environments; and provide a consistent user experience (UX) to reduce cognitive load and drive efficiency. They lead to improved visibility, auditability and traceability for the secure software delivery value stream. This end-to-end view encourages a systems-thinking mindset and accelerates feedback loops.
 
-Organizations use DevOps platforms to minimize tool friction resulting from complex toolchains, manual handoffs and lack of consistent visibility throughout the software development life cycle (SDLC). This enables product teams to deliver faster customer value without compromising quality. The DevOps platforms market reflects the consolidation of technologies across development, security, infrastructure and operations to streamline software delivery.
+Organizations use DevSecOps platforms to reduce the friction and maintenance costs inherent in custom toolchains, decrease manual handoffs, and address the lack of consistent visibility throughout the software development life cycle (SDLC). This enables product teams to deliver faster customer value without compromising security or quality. The DevSecOps platform market reflects the consolidation of technologies across development, security, infrastructure and operations to streamline software delivery.
 
-DevOps platforms support multiple use cases, including, but not limited to:
+DevSecOps platforms support multiple use cases, including, but not limited to: **Agile software delivery, Cloud-native application delivery, GitOps, MLOps, Platform engineering and Infrastructure platform engineering (via IAC), Regulated delivery**.
 
-- Agile software delivery — Operationalize agile development practices.
+## Report 2026
 
-- Cloud-native application delivery — Build and deliver cloud-native applications across hybrid and multicloud environments.
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/devsecops-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/devsecops-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-- GitOps — Support the operation of applications using declarative constructs stored in Gitin a closed-loop, automated system.
-
-- MLOps — Provide support for the management of machine learning (ML) models including versioning and feedback loops.
-
-- Platform engineering — Provide self-service, internal developer platforms to scale DevOps and software engineering practices.
-
-- Regulated delivery — Support for compliance, auditing, traceability and governance.
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Atlassian](/vendors/atlassian.md)     |
+| `Leader`        | [Harness](/vendors/harness.md)         |
+| `Leader`        | [GitLab](/vendors/gitlab.md)           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
+| `Visionary`     | [HCLSoftware](/vendors/hclsoftware.md) |
+| `Visionary`     | [IBM](/vendors/ibm.md)                 |
+| `Niche Player`  | [Buildkite](/vendors/buildkite.md)     |
+| `Niche Player`  | [CloudBees](/vendors/cloudbees.md)     |
+| `Niche Player`  | [Octopus](/vendors/octopus.md)         |
+| `Niche Player`  | [Google ](/vendors/google-.md)         |
+| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)     |
+| `Niche Player`  | [CircleCI](/vendors/circleci.md)       |
+| `Niche Player`  | [OpenText](/vendors/opentext.md)       |
 
 ## Report 2025
 

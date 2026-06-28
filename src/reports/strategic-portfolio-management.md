@@ -6,31 +6,38 @@ hide_menu: true
 
 # Strategic Portfolio Management
 
-Strategic portfolio management technologies integrate various portfolio structures to model alternative paths to successful business outcomes. This research helps portfolio management leaders focused on digital investments identify vendors dedicated to increasing SPM effectiveness with technology.
+Strategic portfolio management technologies provide enterprise wide portfolio modeling for continuous strategic planning with maximum adaptability to optimize investments and outcomes. This research helps portfolio management leaders identify technology providers dedicated to SPM to achieve better outcomes.
 
 ## Market Definition
 
-Gartner defines the strategic portfolio management (SPM) market as comprising both cloud-based and on-premises applications for enterprise wide strategic planning and execution, supporting advanced portfolio management. SPM offerings integrate multiple portfolios with interdependent structures, creating a dynamic model of the path to realize strategic outcomes. These products are ideally suited for organizations pursuing digital strategies, which demand extensive stakeholder collaboration to continually adapt to changing conditions.
+Gartner defines the strategic portfolio management (SPM) market as cloud-based and on-premises applications for enterprise wide strategic planning, which forecast the transition to a future state where desired business outcomes are realized. SPM offerings provide advanced modeling capabilities and continuous monitoring, engaging stakeholders in informed, data-driven portfolio decision making. These products are ideal for organizations investing in digital strategies that demand frequent stakeholder collaboration and continual adaptation to maximize outcomes.
 
-Organizations use SPM to align portfolios with strategy and apply value-based decision making for ongoing flexibility in the midst of progress, disruptions and opportunities. Digital strategies combine portfolios representing different contexts, such as business capabilities, investments, applications, services, assets, programs, products and projects. Strategists, business leaders, IT leaders and PMOs cooperatively align the utilization of these diverse portfolios to progressively achieve strategic objectives. SPM technology is beneficial in the pursuit of digital business outcomes as it helps navigate complexity while balancing the following fundamental constraints:
+SPM helps organizations navigate complex, ever-changing business needs and constant IT evolution, enabling dynamic stakeholder engagement to maintain strategic alignment and make critical decisions. SPM technologies model an organization’s strategic plans to achieve its desired outcomes through initiatives as a strategic investment portfolio.
 
-- Limited funding to invest.
+Organizations can use SPM product capabilities to forecast outcomes, monitor portfolio performance, analyze impacts, and compare alternative scenarios to continually optimize investments for better outcomes.
 
-- Expected value of opportunities.
+Digital strategies involve multiple interdependent portfolios, such as business capabilities, products, platforms, applications, and IT services, in addition to investments. SPM modeling enforces portfolio relationships, yielding contextualized insights for collaborative and confident portfolio decisions to adapt to outcome-related performance concerns and changing business conditions.
 
-- Availability of people with necessary skills to perform work.
+Program and portfolio management leaders managing portfolios of strategic investments apply SPM to guide and empower executives, strategists, business leaders, and IT leaders with on-demand insights in a collaborative SPM life cycle. Executives can then make better, informed decisions at any time as situations emerge or to proactively explore opportunities.
 
-- Enterprise IT needs for business capabilities.
+## Report 2026
 
-- Time required to accomplish strategic goals.
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/strategic-portfolio-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/strategic-portfolio-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-SPM technology offerings enable organizations to effectively engage stakeholders to conduct strategic planning and execution. It supports the following key use cases:
-
-- **Strategy execution management**: The projected value generated through planned execution is compared with defined measurable goals. This process allows for adaptation to enhance business outcomes. SPM enables ongoing assessment of progress, forecasts and dynamic conditions to evaluate alternative courses of action that improve goal realization.
-
-- **Enterprise program and portfolio management**: SPM optimizes the utilization of funding, people and other resources managed in portfolios, empowering enterprise wide stakeholders to achieve goals. Portfolio governance is performed in alignment with strategy to distribute accountability for results. Continual monitoring and analysis support collaboration to adapt plans for better outcomes.
-
-- **Integrated IT portfolio analysis**: The progressive transition of IT to support the future state of digital business is managed through distinct portfolios. The various IT elements that are modified and built to help achieve business outcomes are interdependent. SPM enhances the planning and execution of strategies by integrating enterprise IT and investment considerations.
+| Market Status   | Market Vendor                                    |
+| --------------- | ------------------------------------------------ |
+| `Leader`        | [Planview](/vendors/planview.md)                 |
+| `Leader`        | [Broadcom](/vendors/broadcom.md)                 |
+| `Niche Player`  | [Shibumi](/vendors/shibumi.md)                   |
+| `Niche Player`  | [Aries (Uppwise)](</vendors/aries-(uppwise).md>) |
+| `Niche Player`  | [Cora Systems](/vendors/cora-systems.md)         |
+| `Challenger`    | [Planisware](/vendors/planisware.md)             |
+| `Challenger`    | [Bizzdesign](/vendors/bizzdesign.md)             |
+| `Challenger`    | [North Highland](/vendors/north-highland.md)     |
+| `Challenger`    | [EOS Software](/vendors/eos-software.md)         |
 
 ## Report 2025
 
