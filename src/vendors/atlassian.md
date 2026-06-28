@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                |
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| `Leader`        | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                              |
 | `Niche Player`  | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                           |
 | `Leader`        | [Developer Productivity Insight Platforms](/reports/developer-productivity-insight-platforms.md#report-2026) |
 

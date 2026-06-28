@@ -137,6 +137,7 @@ This section provides an organized index of product or service based providers c
 - [Augment Code](/vendors/augment-code.md)
 - [Automation Anywhere](/vendors/automation-anywhere.md)
 - [Autodesk](/vendors/autodesk.md)
+- [Avanoo](/vendors/avanoo.md)
 - [Auvik](/vendors/auvik.md)
 - [Avaamo](/vendors/avaamo.md)
 - [Avature](/vendors/avature.md)
