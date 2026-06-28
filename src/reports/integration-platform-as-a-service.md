@@ -28,26 +28,26 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/integration-platform-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Boomi](/vendors/boomi.md)                             |
-| `Leader`        | [SAP](/vendors/sap.md)                                 |
-| `Leader`        | [Workato](/vendors/workato.md)                         |
-| `Leader`        | [Salesforce (MuleSoft)](/vendors/salesforce.md)        |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Salesforce (Informatica)](/vendors/salesforce.md)     |
-| `Visionary`     | [Celigo](/vendors/celigo.md)                           |
-| `Visionary`     | [Tray.ai](/vendors/tray.ai.md)                         |
-| `Visionary`     | [SnapLogic](/vendors/snaplogic.md)                     |
-| `Visionary`     | [Jitterbit](/vendors/jitterbit.md)                     |
-| `Niche Player`  | [Zapier](/vendors/zapier.md)                           |
-| `Niche Player`  | [SEEBURGER](/vendors/seeburger.md)                     |
-| `Niche Player`  | [Frends](/vendors/frends.md)                           |
-| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
-| `Challenger`    | [Google](/vendors/google.md)                           |
-| `Challenger`    | [Huawei Cloud](/vendors/huawei.md)                     |
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Boomi](/vendors/boomi.md)                         |
+| `Leader`        | [SAP](/vendors/sap.md)                             |
+| `Leader`        | [Workato](/vendors/workato.md)                     |
+| `Leader`        | [Salesforce (MuleSoft)](/vendors/salesforce.md)    |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                 |
+| `Leader`        | [Salesforce (Informatica)](/vendors/salesforce.md) |
+| `Visionary`     | [Celigo](/vendors/celigo.md)                       |
+| `Visionary`     | [Tray.ai](/vendors/tray.ai.md)                     |
+| `Visionary`     | [SnapLogic](/vendors/snaplogic.md)                 |
+| `Visionary`     | [Jitterbit](/vendors/jitterbit.md)                 |
+| `Niche Player`  | [Zapier](/vendors/zapier.md)                       |
+| `Niche Player`  | [SEEBURGER](/vendors/seeburger.md)                 |
+| `Niche Player`  | [Frends](/vendors/frends.md)                       |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                       |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)          |
+| `Challenger`    | [IBM](/vendors/ibm.md)                             |
+| `Challenger`    | [Google](/vendors/google.md)                       |
+| `Challenger`    | [Huawei Cloud](/vendors/huawei.md)                 |
 
 ## Report 2025
 

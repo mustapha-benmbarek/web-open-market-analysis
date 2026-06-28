@@ -27,17 +27,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/enterprise-ai-coding-agents.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [GitHub](/vendors/github.md)                           |
-| `Leader`        | [Cursor](/vendors/cursor.md)                           |
-| `Leader`        | [Anthropic](/vendors/anthropic.md)                     |
-| `Leader`        | [OpenAI](/vendors/openai.md)                           |
-| `Visionary`     | [Tabnine](/vendors/tabnine.md)                         |
-| `Niche Player`  | [Atlassian](/vendors/atlassian.md)                     |
-| `Niche Player`  | [BytePlus](/vendors/byteplus.md)                       |
-| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)                     |
-| `Challenger`    | [Cognition](/vendors/cognition.md)                     |
-| `Challenger`    | [Google](/vendors/google.md)                           |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [GitHub](/vendors/github.md)               |
+| `Leader`        | [Cursor](/vendors/cursor.md)               |
+| `Leader`        | [Anthropic](/vendors/anthropic.md)         |
+| `Leader`        | [OpenAI](/vendors/openai.md)               |
+| `Visionary`     | [Tabnine](/vendors/tabnine.md)             |
+| `Niche Player`  | [Atlassian](/vendors/atlassian.md)         |
+| `Niche Player`  | [BytePlus](/vendors/byteplus.md)           |
+| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)         |
+| `Challenger`    | [Cognition](/vendors/cognition.md)         |
+| `Challenger`    | [Google](/vendors/google.md)               |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)  |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |

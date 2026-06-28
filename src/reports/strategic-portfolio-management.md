@@ -27,17 +27,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/strategic-portfolio-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Planview](/vendors/planview.md)                 |
-| `Leader`        | [Broadcom](/vendors/broadcom.md)                 |
-| `Niche Player`  | [Shibumi](/vendors/shibumi.md)                   |
-| `Niche Player`  | [Aries (Uppwise)](</vendors/aries-(uppwise).md>) |
-| `Niche Player`  | [Cora Systems](/vendors/cora-systems.md)         |
-| `Challenger`    | [Planisware](/vendors/planisware.md)             |
-| `Challenger`    | [Bizzdesign](/vendors/bizzdesign.md)             |
-| `Challenger`    | [North Highland](/vendors/north-highland.md)     |
-| `Challenger`    | [EOS Software](/vendors/eos-software.md)         |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [Planview](/vendors/planview.md)             |
+| `Leader`        | [Broadcom](/vendors/broadcom.md)             |
+| `Niche Player`  | [Shibumi](/vendors/shibumi.md)               |
+| `Niche Player`  | [Aries (Uppwise)](/vendors/uppwise.md)       |
+| `Niche Player`  | [Cora Systems](/vendors/cora-systems.md)     |
+| `Challenger`    | [Planisware](/vendors/planisware.md)         |
+| `Challenger`    | [Bizzdesign](/vendors/bizzdesign.md)         |
+| `Challenger`    | [North Highland](/vendors/north-highland.md) |
+| `Challenger`    | [EOS Software](/vendors/eos-software.md)     |
 
 ## Report 2025
 
