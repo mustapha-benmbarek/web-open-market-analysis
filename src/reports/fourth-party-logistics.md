@@ -27,7 +27,7 @@ and view the magic quadrant graphic
 | `Leader`        | [4flow](/vendors/4flow.md)                                                   |
 | `Leader`        | [GEODIS](/vendors/geodis.md)                                                 |
 | `Leader`        | [DHL Supply Chain](/vendors/dhl-supply-chain.md)                             |
-| `Leader`        | [C.H. Robinson](/vendors/c.h.-robinson.md)                                   |
+| `Leader`        | [C.H. Robinson](/vendors/ch-robinson.md)                                     |
 | `Leader`        | [RXO](/vendors/rxo.md)                                                       |
 | `Leader`        | [Arvato](/vendors/arvato.md)                                                 |
 | `Visionary`     | [Uber Freight](/vendors/uber.md)                                             |

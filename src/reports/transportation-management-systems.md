@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [vTradEx](/vendors/vtradex.md)                           |
 | `Niche Player`  | [Bluerock TMS](/vendors/bluerock-tms.md)                 |
 | `Challenger`    | [Alpega](/vendors/alpega.md)                             |
-| `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)               |
+| `Challenger`    | [C.H. Robinson](/vendors/ch-robinson.md)                 |
 | `Challenger`    | [Infos](/vendors/infos.md)                               |
 | `Challenger`    | [Uber Freight](/vendors/uber.md)                         |
 
@@ -79,4 +79,4 @@ and view the magic quadrant graphic
 | `Challenger`    | [Alpega](/vendors/alpega.md)                             |
 | `Challenger`    | [Uber Freight](/vendors/uber.md)                         |
 | `Challenger`    | [Infios (MercuryGate)](/vendors/infios.md)               |
-| `Challenger`    | [C.H. Robinson](/vendors/c.h.-robinson.md)               |
+| `Challenger`    | [C.H. Robinson](/vendors/ch-robinson.md)                 |
