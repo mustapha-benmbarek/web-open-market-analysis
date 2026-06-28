@@ -6,21 +6,45 @@ hide_menu: true
 
 # Accounts Payable Applications
 
-Accounts payable applications use a single platform with automation and predictive capabilities for supplier invoice processing, payment facilitation and supplier master data management. CFOs can use this research to assess vendors that enable the digital transformation of AP processes.
+AP software now leverages AI for dynamic workflow approvals, real-time fraud detection and global e-invoicing compliance. Using these applications, CFOs can fast-track the time to process an invoice, unlock early payment discounts and drive strategic insights from AP data for working capital optimization.
 
 ## Market Definition
 
-Gartner defines the accounts payable applications market as cloud-based applications that enable corporate controllers and their teams to automatically manage supplier invoice processing, facilitate payments and support supplier master data management across one or more ERP applications.
+Gartner defines the accounts payable application market as cloud-based solutions that use intelligent automation to empower finance teams to independently manage end-to-end invoice processing, execute payments, and maintain master data across one or more ERP systems. These applications deliver configurable workflows, real-time analytics, and integration with procurement and treasury systems, creating a unified and scalable accounts payable operation.
 
-Organizations use accounts payable applications to improve their supplier invoice processing, payments and supplier master data management activities. They allow organizations to efficiently and confidently pay supplier invoices. These applications are modular cloud-based tools that customers can configure to deliver standard processes and integrate with one or more ERP applications. Additionally, they integrate with other operational tools, such as source-to-pay suites, partner networks, banks and payment service providers, while creating flexibility for suppliers to deliver supplier invoices. An example would be the collection and processing of supplier invoices using a digital mailroom, whereby data (structured and unstructured) is extracted from scanned documents and validated prior to approval for payment.
+Organizations rely on accounts payable (AP) applications to efficiently manage a broad spectrum of financial obligations, including invoices, recurring payments, and other payables supported by various forms of documentation. These solutions help ensure that outgoing payments are processed accurately and on time, supporting both operational continuity and financial control.
 
-The most common business problems the accounts payable applications market addresses include:
+Modern AP platforms are designed for flexibility, scalability, and seamless integration. Their modular, cloud-based architecture allows organizations to configure workflows that align with business needs and industry standards. Integration with ERP systems and other core financial applications ensures data consistency and end-to-end visibility. These platforms also connect with procurement systems, banking partners, and payment service providers, enabling centralized management of payment operations. The ability to accept payment requests in multiple digital formats supports the diverse requirements of suppliers, vendors, employees, and other payees, enhancing operational agility. Additionally, AP solutions facilitate internal processes, such as employee expense reimbursements, providing a unified approach to managing all outgoing payments.
 
-**Efficiency**— The ability to automate and streamline accounts payable operations by eliminating time-consuming and error-prone manual processes. This use case focuses on an organization’s goal to drive efficiency and productivity within their accounts payable processes.
+Intelligent automation is a defining feature of today’s leading AP applications. These platforms use technologies such as artificial intelligence, machine learning, natural language processing, robotic process automation, and advanced data capture to transform AP operations. Intelligent automation not only reduces manual intervention, it also improves data accuracy, accelerates processing times, and ensures compliance with internal policies and regulatory requirements. It provides real-time visibility into payment workflows and process performance, empowering teams to make informed decisions and respond proactively to exceptions.
 
-**Managing cash flow** — The ability to gain insight into the organization’s disbursements component of cash flow by leveraging robust master data. Finance organizations often struggle to provide a real-time picture of the current cash flow that can impact operations.
+The most common business problems addressed by accounts payable applications include:
 
-**Financial controls** — The ability to facilitate a strong control environment including segregation of duties, financial and compliance controls and fraud prevention. By implementing accounts payable controls, organizations can enhance their financial management, reduce the risk of errors and fraud, and ensure they meet compliance requirements.
+- Improving efficiency by automating and simplifying AP processes
+- Providing better visibility into payment activity and cash flow
+- Supporting financial controls and compliance through built-in safeguards
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/accounts-payable-applications.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/accounts-payable-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                        |
+| --------------- | ------------------------------------ |
+| `Leader`        | [Basware](/vendors/basware.md)       |
+| `Leader`        | [Coupa](/vendors/coupa.md)           |
+| `Leader`        | [Esker](/vendors/esker.md)           |
+| `Leader`        | [Medius](/vendors/medius.md)         |
+| `Visionary`     | [Bottomline](/vendors/bottomline.md) |
+| `Niche Player`  | [Tradeshift](/vendors/tradeshift.md) |
+| `Niche Player`  | [Serrala](/vendors/serrala.md)       |
+| `Niche Player`  | [Quadient](/vendors/quadient.md)     |
+| `Challenger`    | [HighRadius](/vendors/highradius.md) |
+| `Challenger`    | [GEP](/vendors/gep.md)               |
+| `Challenger`    | [Tipalti](/vendors/tipalti.md)       |
+| `Challenger`    | [Ivalua](/vendors/ivalua.md)         |
 
 ## Report 2025
 
