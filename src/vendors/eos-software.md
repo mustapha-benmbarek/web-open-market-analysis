@@ -1,10 +1,10 @@
 ---
-title: Gatewatcher
-description: Market Vendor | Gatewatcher
+title: EOS Software
+description: Market Vendor | EOS Software
 hide_menu: true
 ---
 
-# Gatewatcher
+# EOS Software
 
 ## Market 2026
 
@@ -12,4 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                            |
 | --------------- | ---------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Network Detection and Response](/reports/network-detection-and-response.md#report-2026) |
+| `Challenger`    | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2026) |

@@ -1,10 +1,10 @@
 ---
-title: Gatewatcher
-description: Market Vendor | Gatewatcher
+title: Endor Labs
+description: Market Vendor | Endor Labs
 hide_menu: true
 ---
 
-# Gatewatcher
+# Endor Labs
 
 ## Market 2026
 
@@ -12,4 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                            |
 | --------------- | ---------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Network Detection and Response](/reports/network-detection-and-response.md#report-2026) |
+| `Visionary`     | [Software Supply Chain Security](/reports/software-supply-chain-security.md#report-2026) |

@@ -1,10 +1,10 @@
 ---
-title: Gatewatcher
-description: Market Vendor | Gatewatcher
+title: FOSSA
+description: Market Vendor | FOSSA
 hide_menu: true
 ---
 
-# Gatewatcher
+# FOSSA
 
 ## Market 2026
 
@@ -12,4 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                            |
 | --------------- | ---------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Network Detection and Response](/reports/network-detection-and-response.md#report-2026) |
+| `Niche Player`  | [Software Supply Chain Security](/reports/software-supply-chain-security.md#report-2026) |
