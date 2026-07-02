@@ -592,7 +592,7 @@ This section provides an organized index of product or service based providers c
 - [RapidFort](/vendors/rapidfort.md)
 - [Raynet](/vendors/raynet.md)
 - [Recorded Future](/vendors/recorded-future.md)
-- [Red Hat](/vendors/red-hat.md)
+- [Red Hat](/vendors/redhat.md)
 - [RelationalAI](/vendors/relationalai.md)
 - [RELEX](/vendors/relex.md)
 - [ReliaQuest](/vendors/reliaquest.md)

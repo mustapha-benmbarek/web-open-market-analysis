@@ -80,4 +80,4 @@ and view the magic quadrant graphic
 | `Challenger`    | [JFrog](/vendors/jfrog.md)                |
 | `Challenger`    | [CircleCI](/vendors/circleci.md)          |
 | `Challenger`    | [CloudBees](/vendors/cloudbees.md)        |
-| `Challenger`    | [Red Hat](/vendors/red-hat.md)            |
+| `Challenger`    | [Red Hat](/vendors/redhat.md)             |

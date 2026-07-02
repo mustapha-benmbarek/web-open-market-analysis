@@ -26,7 +26,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Google](/vendors/google.md)               |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)         |
 | `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Red Hat](/vendors/red-hat.md)             |
+| `Leader`        | [Red Hat](/vendors/redhat.md)              |
 | `Leader`        | [SUSE](/vendors/suse.md)                   |
 | `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
 | `Leader`        | [Huawei](/vendors/huawei.md)               |
@@ -51,7 +51,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Google](/vendors/google.md)               |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)         |
 | `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Red Hat](/vendors/red-hat.md)             |
+| `Leader`        | [Red Hat](/vendors/redhat.md)              |
 | `Leader`        | [SUSE](/vendors/suse.md)                   |
 | `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
 | `Leader`        | [Broadcom (VMWare)](/vendors/broadcom.md)  |

@@ -36,7 +36,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Amazon Web Services](/vendors/amazon.md)                |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                       |
 | `Leader`        | [Google](/vendors/google.md)                             |
-| `Leader`        | [Red Hat](/vendors/red-hat.md)                           |
+| `Leader`        | [Red Hat](/vendors/redhat.md)                            |
 | `Leader`        | [Salesforce (Heroku)](/vendors/salesforce.md)            |
 | `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)               |
 | `Visionary`     | [Vercel](/vendors/vercel.md)                             |
