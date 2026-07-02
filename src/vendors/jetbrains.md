@@ -10,4 +10,5 @@ hide_menu: true
 
 | Market Status   | Market Vendor                                                                      |
 | --------------- | ---------------------------------------------------------------------------------- |
+| `Niche Player`  | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                    |
 | `Niche Player`  | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026) |

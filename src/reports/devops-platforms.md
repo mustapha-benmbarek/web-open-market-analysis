@@ -25,21 +25,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/devsecops-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Atlassian](/vendors/atlassian.md)     |
-| `Leader`        | [Harness](/vendors/harness.md)         |
-| `Leader`        | [GitLab](/vendors/gitlab.md)           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Visionary`     | [HCLSoftware](/vendors/hclsoftware.md) |
-| `Visionary`     | [IBM](/vendors/ibm.md)                 |
-| `Niche Player`  | [Buildkite](/vendors/buildkite.md)     |
-| `Niche Player`  | [CloudBees](/vendors/cloudbees.md)     |
-| `Niche Player`  | [Octopus](/vendors/octopus.md)         |
-| `Niche Player`  | [Google ](/vendors/google-.md)         |
-| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)     |
-| `Niche Player`  | [CircleCI](/vendors/circleci.md)       |
-| `Niche Player`  | [OpenText](/vendors/opentext.md)       |
+| Market Status   | Market Vendor                      |
+| --------------- | ---------------------------------- |
+| `Leader`        | [Atlassian](/vendors/atlassian.md) |
+| `Leader`        | [Harness](/vendors/harness.md)     |
+| `Leader`        | [GitLab](/vendors/gitlab.md)       |
+| `Leader`        | [Microsoft](/vendors/microsoft.md) |
+| `Visionary`     | [HCLSoftware](/vendors/hcl.md)     |
+| `Visionary`     | [IBM](/vendors/ibm.md)             |
+| `Niche Player`  | [Buildkite](/vendors/buildkite.md) |
+| `Niche Player`  | [CloudBees](/vendors/cloudbees.md) |
+| `Niche Player`  | [Octopus](/vendors/octopus.md)     |
+| `Niche Player`  | [Google ](/vendors/google.md)      |
+| `Niche Player`  | [JetBrains](/vendors/jetbrains.md) |
+| `Niche Player`  | [CircleCI](/vendors/circleci.md)   |
+| `Niche Player`  | [OpenText](/vendors/opentext.md)   |
 
 ## Report 2025
 
