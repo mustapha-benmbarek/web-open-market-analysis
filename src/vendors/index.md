@@ -516,12 +516,9 @@ This section provides an organized index of product or service based providers c
 
 ### O
 
-- [Octopus](/vendors/octopus.md)
-- [OneTrust](/vendors/onetrust.md)
-- [OpenText](/vendors/opentext.md)
-- [OX Security](/vendors/ox-security.md)
 - [o9 Solutions](/vendors/o9-solutions.md)
 - [Objective](/vendors/objective.md)
+- [Octopus](/vendors/octopus.md)
 - [Octoze (Camu)](/vendors/octoze.md)
 - [OfficeSpace Software](/vendors/officespace-software.md)
 - [Oliver Wyman](/vendors/oliver-wyman.md)
@@ -542,6 +539,7 @@ This section provides an organized index of product or service based providers c
 - [Oracle](/vendors/oracle.md)
 - [Orange Business](/vendors/orange-business.md)
 - [OvalEdge](/vendors/ovaledge.md)
+- [OX Security](/vendors/ox-security.md)
 
 ### P
 
