@@ -81,7 +81,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Klevu](/vendors/klevu.md)                 |
 | `Niche Player`  | [Algonomy](/vendors/algonomy.md)           |
 | `Niche Player`  | [Yext](/vendors/yext.md)                   |
-| `Niche Player`  | [Searchspring](/vendors/searchspring.md)   |
 | `Niche Player`  | [Crownpeak](/vendors/crownpeak.md)         |
 | `Niche Player`  | [Nosto](/vendors/nosto.md)                 |
 | `Niche Player`  | [Zoovu](/vendors/zoovu.md)                 |
