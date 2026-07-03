@@ -21,6 +21,7 @@ hide_menu: true
 | `Challenger`    | [Digital Technology and Business Consulting Services](/reports/digital-technology-and-business-consulting-services.md#report-2026) |
 | `Niche Player`  | [Document Management](/reports/document-management.md#report-2026)                                                                 |
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                                     |
+| `Leader`        | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |
 | `Challenger`    | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026)                 |
 | `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                     |
 | `Challenger`    | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                       |

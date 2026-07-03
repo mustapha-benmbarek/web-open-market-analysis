@@ -1,10 +1,10 @@
 ---
-title: Tech Mahindra
-description: Market Vendor | Tech Mahindra
+title: Genpact
+description: Market Vendor | Genpact
 hide_menu: true
 ---
 
-# Tech Mahindra
+# Genpact
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                                      |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                   |
-| `Niche Player`  | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |
+| `Leader`        | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |

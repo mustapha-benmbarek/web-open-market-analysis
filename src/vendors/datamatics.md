@@ -1,10 +1,10 @@
 ---
-title: DXC Technology
-description: Market Vendor | DXC Technology
+title: Datamatics
+description: Market Vendor | Datamatics
 hide_menu: true
 ---
 
-# DXC Technology
+# Datamatics
 
 ## Market 2026
 
@@ -12,7 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                                      |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `Challenger`    | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                   |
-| `Niche Player`  | [Digital Technology and Business Consulting Services](/reports/digital-technology-and-business-consulting-services.md#report-2026) |
 | `Niche Player`  | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |
-| `Niche Player`  | [Managed Network Services](/reports/managed-network-services.md#report-2026)                                                       |

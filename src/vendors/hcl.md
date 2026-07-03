@@ -17,4 +17,5 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026)               |
 | `Niche Player`  | [Digital Technology and Business Consulting Services](/reports/digital-technology-and-business-consulting-services.md#report-2026) |
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                                     |
+| `Challenger`    | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |
 | `Leader`        | [Managed Network Services](/reports/managed-network-services.md#report-2026)                                                       |

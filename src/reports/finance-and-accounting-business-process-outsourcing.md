@@ -25,24 +25,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/finance-and-accounting-business-process-outsourcing.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Accenture](/vendors/accenture.md)           |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)             |
-| `Leader`        | [Capgemini](/vendors/capgemini.md)           |
-| `Leader`        | [Infosys](/vendors/infosys.md)               |
-| `Leader`        | [Wipro](/vendors/wipro.md)                   |
-| `Leader`        | [IBM](/vendors/ibm.md)                       |
-| `Leader`        | [Genpact](/vendors/genpact.md)               |
-| `Visionary`     | [Cognizant](/vendors/cognizant.md)           |
-| `Visionary`     | [PwC](/vendors/pwc.md)                       |
-| `Niche Player`  | [DXC Technology](/vendors/dxc-technology.md) |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)   |
-| `Niche Player`  | [Datamatics](/vendors/datamatics.md)         |
-| `Challenger`    | [EXL](/vendors/exl.md)                       |
-| `Challenger`    | [TCS](/vendors/tcs.md)                       |
-| `Challenger`    | [Sutherland](/vendors/sutherland.md)         |
-| `Challenger`    | [HCLTech](/vendors/hcltech.md)               |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Accenture](/vendors/accenture.md)         |
+| `Leader`        | [Deloitte](/vendors/deloitte.md)           |
+| `Leader`        | [Capgemini](/vendors/capgemini.md)         |
+| `Leader`        | [Infosys](/vendors/infosys.md)             |
+| `Leader`        | [Wipro](/vendors/wipro.md)                 |
+| `Leader`        | [IBM](/vendors/ibm.md)                     |
+| `Leader`        | [Genpact](/vendors/genpact.md)             |
+| `Visionary`     | [Cognizant](/vendors/cognizant.md)         |
+| `Visionary`     | [PwC](/vendors/pwc.md)                     |
+| `Niche Player`  | [DXC Technology](/vendors/dxc.md)          |
+| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md) |
+| `Niche Player`  | [Datamatics](/vendors/datamatics.md)       |
+| `Challenger`    | [EXL](/vendors/exl.md)                     |
+| `Challenger`    | [TCS](/vendors/tcs.md)                     |
+| `Challenger`    | [Sutherland](/vendors/sutherland.md)       |
+| `Challenger`    | [HCLTech](/vendors/hcl.md)                 |
 
 ## Report 2025
 
