@@ -6,24 +6,42 @@ hide_menu: true
 
 # Backup and Data Protection Platforms
 
-Backup and data protection platforms vendors are continually enhancing their backup offerings to improve enterprise data protection across multicloud, SaaS and datacenter environments. Heads of I&O should use this research to identify and select vendors to address their enterprise data protection needs.
+Modern backup and data protection platforms simplify enterprise data protection across hybrid, multicloud, and SaaS environments. Heads of I&O must use this research to evaluate and select vendors that enhance cyber resilience, mitigate critical data risks, and meet operational recovery needs.
 
 ## Market Definition
 
-Gartner defines backup and data protection platforms as technologies that capture point-in-time copies of enterprise data for the purpose of recovering it from multiple data loss scenarios, enhancing data protection initiatives, and expanding data insights and access capabilities. These technologies protect enterprise data, applications and infrastructure in hybrid, multicloud and SaaS environments. Backup and data protection platforms are available as software-only integrated appliances and vendor-developed and hosted backupas a service (BaaS).
+Gartner defines backup and data protection platforms as platforms that capture point-in-time copies of enterprise data for multiple use cases. Primarily used for recovering data from multiple data loss scenarios, they enhance data protection initiatives to improve cyberreadiness and risk management, extract new data insights, and expand data access capabilities. These platforms protect enterprise data in hybrid, multicloud and SaaS environments. Backup and data protection platforms are available as software-only, integrated appliances, and vendor-developed and hosted backup as a service (BaaS).
 
-Protecting and recovering an organization’s application data, regardless of the underlying infrastructure type and its location, are more important than ever. As enterprises operate in more complex environments, backup and data protection platform solutions protect
-enterprise data, whether they reside in hybrid, multicloud or SaaS environments.
+Protecting and recovering an organization’s data, regardless of the underlying application, infrastructure type and its location, is more important than ever. As enterprises operate in more complex environments, among an expanding threat landscape, backup and data protection platforms must protect enterprise data across hybrid, multicloud and SaaS environments.
 
-These solutions are vital to organizations’ ability to recover data following events that cause it to become inaccessible. Whether such an event is accidental or due to hardware or software failure, operational errors, malicious attacks or environmental incidents, organizations use these solutions to reliably recover and restore access to the affected data accurately and efficiently.
+These platforms are vital to organizations’ ability to recover data following events that cause data, business and operations disruption. Whether such an event is accidental or due to hardware or software failure, operational errors, malicious attacks, or environmental incidents, organizations use these platforms to reliably recover and restore access to the affected data and applications accurately and efficiently.
 
-Solutions must offer effective capabilities to simplify the management of data protection across increasingly complex and diverse environments. This includes capabilities to test, expedite and orchestrate data recovery responses for both traditional disaster andcyberevents.
+Platforms must offer effective capabilities to simplify the management of data protection and recovery across increasingly complex and diverse environments. As a result, they must integrate and support roles beyond I&O teams, such as CloudOps, DevOps, identity and access management, applications, and security teams. They must also offer automation capabilities to reduce day-to-day manual administration overhead to protect mission-critical data and test, expedite and orchestrate data recovery responses for both traditional disaster and cyber events.
 
-Solutions also extend beyond traditional recovery use cases to drive further business valuefrom the data that is copied to the platform. It incorporates use cases that are focused on data-driven enablement, such as enhanced data protection and infrastructure integrations and expanded data insights and access.
+Platforms also extend beyond traditional recovery use cases to drive further business value from the data that is copied to the platform. It incorporates use cases that are focused on data- and application-driven enablement, such as enhanced data protection and infrastructure integrations and expanded data insights and access. Enhanced protection capabilities include application and data discovery, automated data-driven policy management, and enhanced cyber recovery readiness features including identity and access protection, multiple cyber detection capabilities, and automated recovery. Integrations extend to bidirectional operational insights with other infrastructure and operations platforms, such as networking, storage and security.
 
-Enhanced protection capabilities include application discovery, enhanced cyber-recovery readiness capabilities, orchestration of disaster and cyber-recovery testing and processes, data discovery and access tracking. Integrations extend to bidirectional operational insight swith other infrastructure and operations platforms, such as networking, storage and security.
+Expanded data insights and access capabilities enable vendor platforms to present data and augment business processes for new personas beyond the backup administrators. New personas include others in IT, such as security, DevOps, and data and analytics, as well as business users, such as compliance and legal.
 
-Data insights and access capabilities enable vendor solutions to present data to newpersonas beyond the backup administrators.New personas include additional IT personas such as security, DevOps, and data and analytics, as well as other business users such as compliance and legal.
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/backup-and-data-protection-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                      |
+| --------------- | -------------------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)                         |
+| `Leader`        | [Commvault](/vendors/commvault.md)                 |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
+| `Leader`        | [Druva](/vendors/druva.md)                         |
+| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
+| `Visionary`     | [IBM](/vendors/ibm.md)                             |
+| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
+| `Niche Player`  | [OpenText](/vendors/opentext.md)                   |
+| `Challenger`    | [Huawei](/vendors/huawei.md)                       |
 
 ## Report 2025
 
