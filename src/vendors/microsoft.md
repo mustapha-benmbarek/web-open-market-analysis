@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`        | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
 | `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2026)                                              |
 | `Challenger`    | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                |

@@ -1,10 +1,10 @@
 ---
-title: Qlik
-description: Market Vendor | Qlik
+title: ThoughtSpot
+description: Market Vendor | ThoughtSpot
 hide_menu: true
 ---
 
-# Qlik
+# ThoughtSpot
 
 ## Market 2026
 
@@ -13,4 +13,3 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                                          |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026) |
-| `Leader`        | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026)                           |

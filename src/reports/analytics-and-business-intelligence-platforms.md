@@ -35,28 +35,28 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/analytics-and-business-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                  |
-| --------------- | ------------------------------------------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                                             |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md)                         |
-| `Leader`        | [Salesforce (Tableau)](</vendors/salesforce-(tableau).md>)                     |
-| `Leader`        | [Google](/vendors/google.md)                                                   |
-| `Leader`        | [Qlik](/vendors/qlik.md)                                                       |
-| `Leader`        | [ThoughtSpot](/vendors/thoughtspot.md)                                         |
-| `Visionary`     | [SAP](/vendors/sap.md)                                                         |
-| `Visionary`     | [Oracle](/vendors/oracle.md)                                                   |
-| `Visionary`     | [Strategy](/vendors/strategy.md)                                               |
-| `Visionary`     | [Databricks](/vendors/databricks.md)                                           |
-| `Visionary`     | [SAS](/vendors/sas.md)                                                         |
-| `Visionary`     | [ServiceNow (Pyramid Analytics)](</vendors/servicenow-(pyramid-analytics).md>) |
-| `Visionary`     | [GoodData.AI](/vendors/gooddata.ai.md)                                         |
-| `Visionary`     | [IBM](/vendors/ibm.md)                                                         |
-| `Visionary`     | [Tellius](/vendors/tellius.md)                                                 |
-| `Niche Player`  | [Zoho](/vendors/zoho.md)                                                       |
-| `Niche Player`  | [Sigma](/vendors/sigma.md)                                                     |
-| `Niche Player`  | [Incorta](/vendors/incorta.md)                                                 |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)                                     |
-| `Challenger`    | [Domo](/vendors/domo.md)                                                       |
+| Market Status   | Market Vendor                                            |
+| --------------- | -------------------------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                       |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                |
+| `Leader`        | [Salesforce (Tableau)](/vendors/salesforce.md)           |
+| `Leader`        | [Google](/vendors/google.md)                             |
+| `Leader`        | [Qlik](/vendors/qlik.md)                                 |
+| `Leader`        | [ThoughtSpot](/vendors/thoughtspot.md)                   |
+| `Visionary`     | [SAP](/vendors/sap.md)                                   |
+| `Visionary`     | [Oracle](/vendors/oracle.md)                             |
+| `Visionary`     | [Strategy](/vendors/strategy.md)                         |
+| `Visionary`     | [Databricks](/vendors/databricks.md)                     |
+| `Visionary`     | [SAS](/vendors/sas.md)                                   |
+| `Visionary`     | [ServiceNow (Pyramid Analytics)](/vendors/servicenow.md) |
+| `Visionary`     | [GoodData.AI](/vendors/gooddata.ai.md)                   |
+| `Visionary`     | [IBM](/vendors/ibm.md)                                   |
+| `Visionary`     | [Tellius](/vendors/tellius.md)                           |
+| `Niche Player`  | [Zoho](/vendors/zoho.md)                                 |
+| `Niche Player`  | [Sigma](/vendors/sigma.md)                               |
+| `Niche Player`  | [Incorta](/vendors/incorta.md)                           |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)               |
+| `Challenger`    | [Domo](/vendors/domo.md)                                 |
 
 ## Report 2025
 

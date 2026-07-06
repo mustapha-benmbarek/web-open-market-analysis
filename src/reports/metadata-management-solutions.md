@@ -31,20 +31,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/metadata-management-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                    |
-| --------------- | ---------------------------------------------------------------- |
-| `Leader`        | [IBM](/vendors/ibm.md)                                           |
-| `Leader`        | [Informatica](/vendors/informatica.md)                           |
-| `Leader`        | [Alation](/vendors/alation.md)                                   |
-| `Leader`        | [Atlan](/vendors/atlan.md)                                       |
-| `Leader`        | [Ab Initio Software](/vendors/ab-initio.md)                      |
-| `Visionary`     | [ServiceNow (data.world)](</vendors/servicenow-(data.world).md>) |
-| `Visionary`     | [Coalesce](/vendors/coalesce.md)                                 |
-| `Visionary`     | [Alex Solutions](/vendors/alex-solutions.md)                     |
-| `Niche Player`  | [Ataccama](/vendors/ataccama.md)                                 |
-| `Niche Player`  | [Precisely](/vendors/precisely.md)                               |
-| `Niche Player`  | [DataGalaxy](/vendors/datagalaxy.md)                             |
-| `Niche Player`  | [OvalEdge](/vendors/ovaledge.md)                                 |
-| `Niche Player`  | [Solidatus](/vendors/solidatus.md)                               |
-| `Challenger`    | [Collibra](/vendors/collibra.md)                                 |
-| `Challenger`    | [Quest Software](/vendors/quest-software.md)                     |
+| Market Status   | Market Vendor                                     |
+| --------------- | ------------------------------------------------- |
+| `Leader`        | [IBM](/vendors/ibm.md)                            |
+| `Leader`        | [Informatica](/vendors/informatica.md)            |
+| `Leader`        | [Alation](/vendors/alation.md)                    |
+| `Leader`        | [Atlan](/vendors/atlan.md)                        |
+| `Leader`        | [Ab Initio Software](/vendors/ab-initio.md)       |
+| `Visionary`     | [ServiceNow (data.world)](/vendors/servicenow.md) |
+| `Visionary`     | [Coalesce](/vendors/coalesce.md)                  |
+| `Visionary`     | [Alex Solutions](/vendors/alex-solutions.md)      |
+| `Niche Player`  | [Ataccama](/vendors/ataccama.md)                  |
+| `Niche Player`  | [Precisely](/vendors/precisely.md)                |
+| `Niche Player`  | [DataGalaxy](/vendors/datagalaxy.md)              |
+| `Niche Player`  | [OvalEdge](/vendors/ovaledge.md)                  |
+| `Niche Player`  | [Solidatus](/vendors/solidatus.md)                |
+| `Challenger`    | [Collibra](/vendors/collibra.md)                  |
+| `Challenger`    | [Quest Software](/vendors/quest-software.md)      |

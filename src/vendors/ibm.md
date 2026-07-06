@@ -10,6 +10,7 @@ hide_menu: true
 
 | Market Status   | Market Vendor                                                                                                                      |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Visionary`     | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)             |
 | `Leader`        | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026)                                       |
 | `Leader`        | [AI Governance Platforms](/reports/ai-governance-platforms.md#report-2026)                                                         |
 | `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026)          |
