@@ -1,10 +1,10 @@
 ---
-title: OpenText
-description: Market Vendor | OpenText
+title: Rubrik
+description: Market Vendor | Rubrik
 hide_menu: true
 ---
 
-# OpenText
+# Rubrik
 
 ## Market 2026
 
@@ -12,6 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026) |
-| `Niche Player`  | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                      |
-| `Visionary`     | [Document Management](/reports/document-management.md#report-2026)                                   |
+| `Leader`        | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026) |

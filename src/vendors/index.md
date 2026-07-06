@@ -239,8 +239,10 @@ This section provides an organized index of product or service based providers c
 - [CodeScene](/vendors/codescene.md)
 - [Cognition](/vendors/cognition.md)
 - [Cognizant](/vendors/cognizant.md)
+- [Cohesity](/vendors/cohesity.md)
 - [Collibra](/vendors/collibra.md)
 - [Colt](/vendors/colt.md)
+- [Commvault](/vendors/commvault.md)
 - [Comcast Business](/vendors/comcast-business.md)
 - [ComplianceQuest](/vendors/compliancequest.md)
 - [Concentrix](/vendors/concentrix.md)
@@ -284,6 +286,7 @@ This section provides an organized index of product or service based providers c
 - [Decisions](/vendors/decisions.md)
 - [Delaware](/vendors/delaware.md)
 - [Deloitte](/vendors/deloitte.md)
+- [Dell Technologies](/vendors/dell.md)
 - [Dematic](/vendors/dematic.md)
 - [Deutsche Telekom Group](/vendors/deutsche-telekom.md)
 - [Devsu](/vendors/devsu.md)
@@ -296,6 +299,7 @@ This section provides an organized index of product or service based providers c
 - [DQLabs](/vendors/dqlabs.md)
 - [Dragos](/vendors/dragos.md)
 - [Dropbox](/vendors/dropbox.md)
+- [Druva](/vendors/druva.md)
 - [DSV](/vendors/dsv.md)
 - [DXC Technology](/vendors/dxc.md)
 
@@ -390,6 +394,7 @@ This section provides an organized index of product or service based providers c
 - [HubSpot](/vendors/hubspot.md)
 - [Hughes Network Systems](/vendors/hughes-network-systems.md)
 - [Huron](/vendors/huron.md)
+- [HYCU](/vendors/hycu.md)
 - [Hyland](/vendors/hyland.md)
 - [Hyundai Glovis](/vendors/hyundai-glovis.md)
 
@@ -616,6 +621,7 @@ This section provides an organized index of product or service based providers c
 - [Rockwell Automation (Plex)](/vendors/rockwell.md)
 - [RUCKUS Networks](/vendors/ruckus-networks.md)
 - [Rulex](/vendors/rulex.md)
+- [Rubrik](/vendors/rubrik.md)
 
 ### S
 

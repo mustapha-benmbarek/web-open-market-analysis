@@ -27,7 +27,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Cisco](/vendors/cisco.md)                              |
 | `Leader`        | [Huawei](/vendors/huawei.md)                            |
 | `Leader`        | [Juniper Networks](/vendors/juniper-networks.md)        |
-| `Visionary`     | [Dell Technologies](/vendors/dell-technologies.md)      |
+| `Visionary`     | [Dell Technologies](/vendors/dell.md)                   |
 | `Visionary`     | [Nokia](/vendors/nokia.md)                              |
 | `Niche Player`  | [H3C](/vendors/h3c.md)                                  |
 | `Niche Player`  | [Alcatel-Lucent Enterprise](/vendors/alcatel-lucent.md) |

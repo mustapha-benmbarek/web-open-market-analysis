@@ -14,6 +14,7 @@ hide_menu: true
 | `Leader`        | [AI Governance Platforms](/reports/ai-governance-platforms.md#report-2026)                                                         |
 | `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026)          |
 | `Niche Player`  | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026)                                             |
+| `Visionary`     | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026)                               |
 | `Leader`        | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                   |
 | `Leader`        | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                         |
 | `Leader`        | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                         |

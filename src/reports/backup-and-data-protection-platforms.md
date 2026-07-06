@@ -29,19 +29,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Veeam](/vendors/veeam.md)                         |
-| `Leader`        | [Commvault](/vendors/commvault.md)                 |
-| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
-| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
-| `Leader`        | [Druva](/vendors/druva.md)                         |
-| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
-| `Visionary`     | [IBM](/vendors/ibm.md)                             |
-| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
-| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
-| `Niche Player`  | [OpenText](/vendors/opentext.md)                   |
-| `Challenger`    | [Huawei](/vendors/huawei.md)                       |
+| Market Status   | Market Vendor                         |
+| --------------- | ------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)            |
+| `Leader`        | [Commvault](/vendors/commvault.md)    |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)          |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)      |
+| `Leader`        | [Druva](/vendors/druva.md)            |
+| `Leader`        | [Dell Technologies](/vendors/dell.md) |
+| `Visionary`     | [IBM](/vendors/ibm.md)                |
+| `Visionary`     | [HYCU](/vendors/hycu.md)              |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)      |
+| `Niche Player`  | [OpenText](/vendors/opentext.md)      |
+| `Challenger`    | [Huawei](/vendors/huawei.md)          |
 
 ## Report 2025
 
@@ -50,21 +50,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Veeam](/vendors/veeam.md)                         |
-| `Leader`        | [Commvault](/vendors/commvault.md)                 |
-| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
-| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
-| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
-| `Leader`        | [Druva](/vendors/druva.md)                         |
-| `Visionary`     | [IBM](/vendors/ibm.md)                             |
-| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
-| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
-| `Niche Player`  | [Unitrends](/vendors/unitrends.md)                 |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                 |
-| `Niche Player`  | [Opentext](/vendors/opentext.md)                   |
-| `Challenger`    | [Huawei](/vendors/huawei.md)                       |
+| Market Status   | Market Vendor                         |
+| --------------- | ------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)            |
+| `Leader`        | [Commvault](/vendors/commvault.md)    |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)          |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)      |
+| `Leader`        | [Dell Technologies](/vendors/dell.md) |
+| `Leader`        | [Druva](/vendors/druva.md)            |
+| `Visionary`     | [IBM](/vendors/ibm.md)                |
+| `Visionary`     | [HYCU](/vendors/hycu.md)              |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)      |
+| `Niche Player`  | [Unitrends](/vendors/unitrends.md)    |
+| `Niche Player`  | [Microsoft](/vendors/microsoft.md)    |
+| `Niche Player`  | [Opentext](/vendors/opentext.md)      |
+| `Challenger`    | [Huawei](/vendors/huawei.md)          |
 
 ## Report 2024
 
@@ -73,18 +73,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/backup-and-data-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Veeam](/vendors/veeam.md)                         |
-| `Leader`        | [Commvault](/vendors/commvault.md)                 |
-| `Leader`        | [Rubrik](/vendors/rubrik.md)                       |
-| `Leader`        | [Cohesity](/vendors/cohesity.md)                   |
-| `Leader`        | [Veritas](/vendors/veritas.md)                     |
-| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
-| `Visionary`     | [Druva](/vendors/druva.md)                         |
-| `Visionary`     | [HYCU](/vendors/hycu.md)                           |
-| `Visionary`     | [IBM](/vendors/ibm.md)                             |
-| `Niche Player`  | [Arcserve](/vendors/arcserve.md)                   |
-| `Niche Player`  | [Unitrends](/vendors/unitrends.md)                 |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                 |
-| `Niche Player`  | [Opentext](/vendors/opentext.md)                   |
+| Market Status   | Market Vendor                         |
+| --------------- | ------------------------------------- |
+| `Leader`        | [Veeam](/vendors/veeam.md)            |
+| `Leader`        | [Commvault](/vendors/commvault.md)    |
+| `Leader`        | [Rubrik](/vendors/rubrik.md)          |
+| `Leader`        | [Cohesity](/vendors/cohesity.md)      |
+| `Leader`        | [Veritas](/vendors/veritas.md)        |
+| `Leader`        | [Dell Technologies](/vendors/dell.md) |
+| `Visionary`     | [Druva](/vendors/druva.md)            |
+| `Visionary`     | [HYCU](/vendors/hycu.md)              |
+| `Visionary`     | [IBM](/vendors/ibm.md)                |
+| `Niche Player`  | [Arcserve](/vendors/arcserve.md)      |
+| `Niche Player`  | [Unitrends](/vendors/unitrends.md)    |
+| `Niche Player`  | [Microsoft](/vendors/microsoft.md)    |
+| `Niche Player`  | [Opentext](/vendors/opentext.md)      |
