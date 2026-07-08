@@ -31,17 +31,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-based-erp-for-us-local-government.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                            |
-| --------------- | ---------------------------------------------------------------------------------------- |
-| `Leader`        | [Workday](/vendors/workday.md)                                                           |
-| `Leader`        | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)                     |
-| `Leader`        | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)                       |
-| `Leader`        | [Tyler Technologies (Enterprise ERP)](</vendors/tyler-technologies-(enterprise-erp).md>) |
-| `Leader`        | [Infor (CloudSuite Public Sector)](</vendors/infor-(cloudsuite-public-sector).md>)       |
-| `Leader`        | [SAP (S/4HANA Cloud Public Edition)](</vendors/sap-(s/4hana-cloud-public-edition).md>)   |
-| `Visionary`     | [Tyler Technologies (ERP Pro)](</vendors/tyler-technologies-(erp-pro).md>)               |
-| `Visionary`     | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                                     |
-| `Niche Player`  | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                                 |
-| `Niche Player`  | [Springbrook (Cirrus ERP)](</vendors/springbrook-(cirrus-erp).md>)                       |
-| `Niche Player`  | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>)   |
-| `Challenger`    | [CGI (Advantage)](</vendors/cgi-(advantage).md>)                                         |
+| Market Status   | Market Vendor                                                                          |
+| --------------- | -------------------------------------------------------------------------------------- |
+| `Leader`        | [Workday](/vendors/workday.md)                                                         |
+| `Leader`        | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)                   |
+| `Leader`        | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)                     |
+| `Leader`        | [Tyler Technologies (Enterprise ERP)](/vendors/tyler-technologies.md)                  |
+| `Leader`        | [Infor (CloudSuite Public Sector)](</vendors/infor-(cloudsuite-public-sector).md>)     |
+| `Leader`        | [SAP (S/4HANA Cloud Public Edition)](</vendors/sap-(s/4hana-cloud-public-edition).md>) |
+| `Visionary`     | [Tyler Technologies (ERP Pro)](/vendors/tyler-technologies.md)                         |
+| `Visionary`     | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                                   |
+| `Niche Player`  | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                               |
+| `Niche Player`  | [Springbrook (Cirrus ERP)](</vendors/springbrook-(cirrus-erp).md>)                     |
+| `Niche Player`  | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>) |
+| `Challenger`    | [CGI (Advantage)](</vendors/cgi-(advantage).md>)                                       |
