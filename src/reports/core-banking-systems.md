@@ -25,7 +25,7 @@ and view the magic quadrant graphic
 | --------------- | ------------------------------------------------------------ |
 | `Leader`        | [Thought Machine](/vendors/thought-machine.md)               |
 | `Leader`        | [Infosys Finacle](/vendors/infosys.md)                       |
-| `Leader`        | [TCS BaNCS ](/vendors/tcs-bancs-.md)                         |
+| `Leader`        | [TCS BaNCS ](/vendors/tcs.md)                                |
 | `Leader`        | [Mambu](/vendors/mambu.md)                                   |
 | `Leader`        | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
 | `Leader`        | [Finastra Essence](/vendors/finastra.md)                     |
