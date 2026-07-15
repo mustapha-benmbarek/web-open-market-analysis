@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | `Leader`        | [OMP](/vendors/omp.md)                                   |
 | `Leader`        | [Kinaxis](/vendors/kinaxis.md)                           |
 | `Leader`        | [Oracle](/vendors/oracle.md)                             |
-| `Leader`        | [RELEX Solutions](/vendors/relex-solutions.md)           |
+| `Leader`        | [RELEX Solutions](/vendors/relex.md)                     |
 | `Leader`        | [o9 Solutions](/vendors/o9-solutions.md)                 |
 | `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                   |
 | `Visionary`     | [Dassault Systemes](/vendors/dassault.md)                |
@@ -78,6 +78,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [ToolsGroup](/vendors/toolsgroup.md)                   |
 | `Challenger`    | [John Galt Solutions](/vendors/john-galt-solutions.md) |
 | `Challenger`    | [SAP](/vendors/sap.md)                                 |
-| `Challenger`    | [RELEX Solutions](/vendors/relex-solutions.md)         |
+| `Challenger`    | [RELEX Solutions](/vendors/relex.md)                   |
 | `Challenger`    | [Arkieva](/vendors/arkieva.md)                         |
 | `Challenger`    | [Anaplan](/vendors/anaplan.md)                         |
