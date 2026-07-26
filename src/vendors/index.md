@@ -591,13 +591,19 @@ This section provides an organized index of product or service based providers c
 ### Q
 
 - [QAD](/vendors/qad.md)
+- [QAX](/vendors/qax.md)
 - [Qlik](/vendors/qlik.md)
 - [QliqSOFT](/vendors/qliqsoft.md)
+- [Qodo](/vendors/qodo.md)
 - [QPR Software](/vendors/qpr-software.md)
 - [Quadient](/vendors/quadient.md)
+- [QualiWare](/vendors/qualiware.md)
 - [Qualtrics](/vendors/qualtrics.md)
+- [Qualys](/vendors/qualys.md)
 - [Quantexa](/vendors/quantexa.md)
+- [Quest Software](/vendors/quest-software.md)
 - [QuestionPro](/vendors/questionpro.md)
+- [Quickbase](/vendors/quickbase.md)
 
 ### R
 
