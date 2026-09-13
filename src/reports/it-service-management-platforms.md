@@ -6,7 +6,15 @@ hide_menu: true
 
 # IT Service Management Platforms
 
+ITSM platforms play a critical role in providing a system of record for I&O leaders to deliver integrated IT services by capturing ITSM events and activities. Use this Magic Quadrant to navigate the evolving ITSM platforms market and its representative vendors.
+
 ## Market Definition
+
+Gartner defines IT service management (ITSM) platforms as software that offers workflow management and automation for organizations to deliver, operate, improve and govern IT-enabled services. ITSM platforms provide a system of record for ITSM practices, including request, incident, problem, change, knowledge, service level and configuration management. Typically offered as SaaS, some ITSM platforms are also available for on-premises deployments as per organizational needs.
+
+Heads of infrastructure and operations (I&O) use ITSM platforms to continually improve the services they deliver. ITSM platforms address the problems of uncoordinated and inconsistent handling of technology-related tasks, helping to reduce operational risks, eliminate inefficiencies, and prevent business disruptions. By capturing, tracking, and reporting on service-related activities across the technology estate, the platform serves as a unified system of record for ITSM actions, enabling teams to establish clear ownership and ensure that decisions and outcomes are fully traceable.
+
+ITSM platforms boost teams’ efficiency by automating processes, streamlining decision making and providing seamless integration with third-party applications. These platforms enhance the end-user experience and help IT services remain agile and aligned with business goals. Heads of I&O increasingly rely on these products to support digital business transformation beyond IT.
 
 ## Report 2026
 

@@ -6,7 +6,13 @@ hide_menu: true
 
 # Public Cloud Optimization and Transformation Services
 
+Cloud optimization and transformation is proven to drive measurable business outcomes on continuous workload optimization. This research highlights 2026 key trends such as AI/GenAI/agentic AI, and sovereign and multicloud, while helping you select the best-fit providers for your organization.
+
 ## Market Definition
+
+Gartner defines public cloud optimization and transformation services (PCOTS) as services focused on optimizing and transforming cloud workloads to maximize the value from hybrid multicloud environments. It includes migration, optimization, transformation and ongoing management of public cloud infrastructure and platform services. PCOTS providers help organizations realize ongoing business value through the use of public clouds, such as Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Oracle Cloud Infrastructure (OCI).
+
+PCOTS providers transform client products, applications, workloads and data to the public cloud to achieve their clients’ business outcomes. They promote the use of cloud-native tools, automation, security and platform services. These providers employ globally consistent methodologies for cloud optimization, transformation, and ongoing operations, leveraging integrated automation and tooling platforms enhanced with AI, machine learning, and data and analytics (D&A).
 
 ## Report 2026
 
