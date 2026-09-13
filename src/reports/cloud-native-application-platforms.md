@@ -24,6 +24,28 @@ Typical cloud-native application platform benefits include:
 
 **Easier to scale:** Cloud-native application platforms ensure applications can scale dynamically to meet demand with minimal manual intervention by using automation and providing seamless performance, even during peak loads, thus enhancing reliability and user experience.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/cloud-native-application-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/cloud-native-application-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Red Hat](/vendors/red-hat.md)                         |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Visionary`     | [Vercel](/vendors/vercel.md)                           |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Niche Player`  | [Upsun](/vendors/upsun.md)                             |
+| `Niche Player`  | [Netlify](/vendors/netlify.md)                         |
+| `Niche Player`  | [Render](/vendors/render.md)                           |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
+| `Challenger`    | [Cloudflare](/vendors/cloudflare.md)                   |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

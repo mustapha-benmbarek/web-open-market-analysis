@@ -14,6 +14,27 @@ Gartner defines the adaptive project management and reporting (APMR) market as t
 
 Organizations need tools to support the integration of traditional development practices alongside agile, adaptive and hybrid ways of working while driving high levels of productivity from contributors and team members. The dynamic and complex multiple organizational operating model design of all organizations makes the correct governance approach imperative, yet difficult to achieve. To drive organization wide outcomes, APMR tools need to support adaptive decision making without incurring additional bureaucracy.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/adaptive-project-management-and-reporting.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/adaptive-project-management-and-reporting.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Planview](/vendors/planview.md)       |
+| `Leader`        | [Planisware](/vendors/planisware.md)   |
+| `Leader`        | [Asana](/vendors/asana.md)             |
+| `Visionary`     | [Wrike](/vendors/wrike.md)             |
+| `Niche Player`  | [Triskell](/vendors/triskell.md)       |
+| `Niche Player`  | [ProSymmetry](/vendors/prosymmetry.md) |
+| `Niche Player`  | [Planforge](/vendors/planforge.md)     |
+| `Niche Player`  | [Uppwise](/vendors/uppwise.md)         |
+| `Niche Player`  | [Prism PPM](/vendors/prism-ppm.md)     |
+| `Niche Player`  | [Smartsheet](/vendors/smartsheet.md)   |
+| `Challenger`    | [monday.com](/vendors/monday.com.md)   |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

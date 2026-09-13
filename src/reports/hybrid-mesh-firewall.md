@@ -16,6 +16,28 @@ With the adoption of hybrid environments, clients prefer the same firewall vendo
 
 Hybrid mesh firewalls provide support for multicloud and hybrid environment firewall use cases along with data center, enterprise perimeter and branch offices use cases. They offer advanced threat prevention, such as DNS security and IoT security. Features such as CI/CD integration and integration with native cloud controls support cloud firewall deployment use cases. The cloud-based centralized manager offers visibility and control across these firewalls deployed in hybrid environments through different deployment forms(hardware/virtual/cloud).
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/hybrid-mesh-firewall.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/hybrid-mesh-firewall.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                            |
+| --------------- | -------------------------------------------------------- |
+| `Leader`        | [Fortinet](/vendors/fortinet.md)                         |
+| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)     |
+| `Leader`        | [Check Point](/vendors/check-point.md)                   |
+| `Visionary`     | [Cisco](/vendors/cisco.md)                               |
+| `Niche Player`  | [Huawei](/vendors/huawei.md)                             |
+| `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                       |
+| `Niche Player`  | [Sophos](/vendors/sophos.md)                             |
+| `Niche Player`  | [WatchGuard](/vendors/watchguard.md)                     |
+| `Niche Player`  | [H3C](/vendors/h3c.md)                                   |
+| `Niche Player`  | [Forcepoint](/vendors/forcepoint.md)                     |
+| `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md) |
+| `Challenger`    | [HPE](/vendors/hpe.md)                                   |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

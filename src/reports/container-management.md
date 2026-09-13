@@ -14,6 +14,32 @@ Gartner defines container management as off erings that support the deployment a
 
 Container management automates the provisioning, operation and life cycle management of containerized workloads at scale. Centralized governance and security policies are used to manage container workloads and associated resources. Container management supports the requirements of modern applications (also refactoring legacy applications), including platform engineering, cloud management and continuous integration/continuous delivery(CI/CD) pipelines. Benefits include improved agility, elasticity and access to innovation.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/container-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Red Hat](/vendors/red-hat.md)                         |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [SUSE](/vendors/suse.md)                               |
+| `Leader`        | [Huawei](/vendors/huawei.md)                           |
+| `Niche Player`  | [Kubermatic](/vendors/kubermatic.md)                   |
+| `Niche Player`  | [Portainer](/vendors/portainer.md)                     |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Nutanix](/vendors/nutanix.md)                         |
+| `Challenger`    | [Mirantis](/vendors/mirantis.md)                       |
+| `Challenger`    | [Broadcom (VMware)](</vendors/broadcom-(vmware).md>)   |
+| `Challenger`    | [Spectro Cloud](/vendors/spectro-cloud.md)             |
+| `Challenger`    | [Oracle](/vendors/oracle.md)                           |
+| `Challenger`    | [Canonical](/vendors/canonical.md)                     |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

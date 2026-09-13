@@ -18,6 +18,32 @@ CAIPs empower businesses to centralize and democratize the development and manag
 
 Typical use cases for CAIPs are: **Customer interaction automation, Employee assistance, Sales and marketing automation, Enterprise-wide conversational AI agents**.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/conversational-ai-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/conversational-ai-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)               |
+| `Leader`        | [Kore.ai](/vendors/kore.ai.md)             |
+| `Leader`        | [SoundHound AI](/vendors/soundhound-ai.md) |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)       |
+| `Visionary`     | [NICE Cognigy](/vendors/nice-cognigy.md)   |
+| `Visionary`     | [Omilia](/vendors/omilia.md)               |
+| `Visionary`     | [IBM](/vendors/ibm.md)                     |
+| `Niche Player`  | [PolyAI](/vendors/polyai.md)               |
+| `Niche Player`  | [Sprinklr](/vendors/sprinklr.md)           |
+| `Niche Player`  | [Avaamo](/vendors/avaamo.md)               |
+| `Niche Player`  | [Druid AI](/vendors/druid-ai.md)           |
+| `Niche Player`  | [Yellow.ai](/vendors/yellow.ai.md)         |
+| `Challenger`    | [Netomi](/vendors/netomi.md)               |
+| `Challenger`    | [Boost.ai](/vendors/boost.ai.md)           |
+| `Challenger`    | [Oracle](/vendors/oracle.md)               |
+| `Challenger`    | [Canonical](/vendors/canonical.md)         |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

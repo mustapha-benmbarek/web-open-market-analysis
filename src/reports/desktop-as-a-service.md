@@ -14,6 +14,31 @@ Gartner defines desktop as a service (DaaS) as the provision of virtual desktops
 
 DaaS solutions allow remote workers, offshore workers, third-party employees, contractors, frontline workers and office workers to access virtual desktops hosted in the cloud. DaaS solutions include technology that enables centralized management of VMs. DaaS virtual desktops can be configured for a variety of use cases associated with contact center workers, process workers, information workers and workers who require high-performance computing or rich graphics.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/desktop-as-a-service.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/desktop-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Citrix](/vendors/citrix.md)                           |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Omnissa](/vendors/omnissa.md)                         |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [Parallels](/vendors/parallels.md)                     |
+| `Visionary`     | [XTIUM](/vendors/xtium.md)                             |
+| `Visionary`     | [oneclick](/vendors/oneclick.md)                       |
+| `Visionary`     | [IronOrbit](/vendors/ironorbit.md)                     |
+| `Niche Player`  | [Accops](/vendors/accops.md)                           |
+| `Niche Player`  | [Apporto](/vendors/apporto.md)                         |
+| `Niche Player`  | [Anunta](/vendors/anunta.md)                           |
+| `Niche Player`  | [Flexxible](/vendors/flexxible.md)                     |
+| `Niche Player`  | [ZTE](/vendors/zte.md)                                 |
+| `Niche Player`  | [Dizzion](/vendors/dizzion.md)                         |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
