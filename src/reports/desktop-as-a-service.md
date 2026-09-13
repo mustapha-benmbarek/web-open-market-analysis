@@ -6,13 +6,13 @@ hide_menu: true
 
 # Desktop as a Service
 
-Desktop as a service is now deployed within most organizations, generally to only a minority of employees within those organizations. Although secure remote work remains the primary use case, an increasing number of deployments address cost, operational and sustainability needs.
+Desktop as a service is broadly deployed, generally to only a minority of an organization’s employees, often replacing VDI. Deployments are increasingly focusing on high security, compliance and sovereignty. DaaS is beginning to be used to host AI workloads, including AI agents.
 
 ## Market Definition
 
-Gartner defines desktop as a service (DaaS) as the provision of virtual desktops by public cloud or other service providers. DaaS provides desktop or application end-user experiences from virtual machines (VMs) accessed using a remote display protocol. DaaS vendors incorporate a fully managed control plane service into their offerings, which facilitates user connections and provides a management interface. DaaS can be delivered preconfigured as a service. Alternatively, it can be delivered as a platform, in which case the client is responsible for assembly, configuration and management. DaaS is charged through subscription- or usage-based payment structures.
+Gartner defines desktop as a service (DaaS) as the provision of virtual desktops by public cloud or other service providers. DaaS delivers desktop or application end-user experiences from virtual machines (VMs) accessed through a remote display protocol. DaaS vendors incorporate a fully managed control plane into their offerings to facilitate user connections and provide a management interface. DaaS may be delivered as a preconfigured service or as a platform, with pricing based on subscription or usage. DaaS is charged through subscription- or usage-based pricing models.
 
-DaaS solutions allow remote workers, offshore workers, third-party employees, contractors, frontline workers and office workers to access virtual desktops hosted in the cloud. DaaS solutions include technology that enables centralized management of VMs. DaaS virtual desktops can be configured for a variety of use cases associated with contact center workers, process workers, information workers and workers who require high-performance computing or rich graphics.
+DaaS solutions enable remote workers, offshore workers, third-party employees, contractors, frontline workers, office workers and AI agents to access cloud-hosted virtual desktops. DaaS solutions include capabilities for centralized VM management. DaaS virtual desktops can be configured for a variety of use cases, including contact center workers, process workers, information workers, and workers who require high-performance computing or rich graphics.
 
 ## Report 2026
 

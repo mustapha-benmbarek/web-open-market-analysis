@@ -6,7 +6,15 @@ hide_menu: true
 
 # Digital Twin of an Organization Platforms
 
+A digital twin of an organization is a dynamic model to help enterprises plan, monitor, and scale complex initiatives that have a lot of interdependencies, such as autonomous business transformations. DTO platforms help heads of enterprise architecture build and manage these models.
+
 ## Market Definition
+
+A digital twin of an organization (DTO) is a dynamic software model that relies on operational and contextual data to understand how an organization operationalizes its business model, connects with its current state, responds to changes, deploys resources, simulates future states and delivers customer value. A DTO platform is a technology platform that supports the creation, management and operationalization of a DTO.
+
+The market for DTO platforms covers multiple use cases that can be bundled into four major use cases: digital twin for business operations (including supply chain, process intelligence, operational excellence, BPO), digital twin for customer excellence, digital twin for governance, risk and compliance (including risk, auditing, compliance, quality), and digital twin for strategy realization (including digital optimization and transformation, enterprise cost optimization). Each of these use cases has its own stakeholders, roles, objectives and related product features and functionality.
+
+All vendors active in the DTO platform market provide features and functionality for most of these use cases. However, the focus, breadth and depth of these features and functionality vary depending on the predominant use case that the vendors market and implement.
 
 ## Report 2026
 
