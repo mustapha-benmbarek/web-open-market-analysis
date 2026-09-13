@@ -6,25 +6,13 @@ hide_menu: true
 
 # Identity Verification
 
-Identity verification tools help deliver security, compliance and trust across customer and workforce use cases. This Magic Quadrant evaluates 11 vendors to help IAM leaders assess these solutions against their use cases and requirements.
+Identity verification tools are expanding beyond their original consumer fraud and compliance purposes and are increasingly deployed in workforce use cases. This Magic Quadrant evaluates 12 vendors to help leaders compare options and find the best fit for their identity verification requirements.
 
 ## Market Definition
 
-Gartner defines identity verification (IDV) as the combination of activities during a digital interaction that brings a real-world identity claim within organizational risk tolerances. Identity verification capabilities — delivered as SaaS, software or an appliance — provide assurance that a real-world identity exists and that the individual claiming the identity is its true owner and is genuinely present during the digital interaction.
+Gartner defines identity verification (IDV) as the combination of activities during a digital interaction that brings a real-world identity claim within organizational risk tolerances. Identity verification capabilities are delivered as SaaS or installable software, and provide assurance that a real-world identity exists through assessment of a government-issued photo identity document, and that the individual claiming the identity is its true owner and is genuinely present during the digital interaction.
 
-The purpose of identity verification is to establish confidence in the real-world identity of a person during a digital interaction when curated credentials do not exist, are not available or do not provide sufficient assurance.
-
-Identity verification is used for a variety of business use cases, such as:
-
-- Compliance (such as know-your-customer [KYC] obligations).
-
-- Onboarding (customer registration, remote workforce hiring and employee onboarding processes, for example).
-
-- Account security (including support for credential management processes, such as credential enrollment and account recovery).
-
-- Mitigating fraud risk (preventing fraudulent registrations using stolen or synthetic identities, enabling remote proctoring/invigilation, and securing high-risk transactions, for example).
-
-- Trust and safety (including improving accountability in marketplaces, providing assurance in the gig economy and establishing trust in larger portable digital identity networks).
+The purpose of identity verification is to establish confidence in the real-world identity of a person during a digital interaction when curated credentials do not exist, are not available, ordo not provide sufficient assurance.
 
 ## Report 2026
 

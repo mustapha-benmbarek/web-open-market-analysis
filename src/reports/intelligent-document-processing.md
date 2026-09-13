@@ -6,7 +6,15 @@ hide_menu: true
 
 # Intelligent Document Processing
 
+The intelligent document processing market is expansive, with over 100 vendors, including from adjacent markets, offering full solutions or individual components. Enterprise application leaders should use this research to understand the products offered by the market’s most prominent vendors.
+
 ## Market Definition
+
+Gartner defines intelligent document processing (IDP) as platforms that utilize multiple AI techniques to capture and enrich data, enabling the automated processing of complex documents (from multiple formats and layouts) and supporting workflows across applications.
+
+Organizations receive and process large volumes of documents in multiple formats to enable business processes such as onboarding new customers and processing claims. Extracting data from content is essential for document processing and the workflows these activities support. IDP platforms fulfil this role by augmenting and, in some cases, replacing people to enable more efficient automated business processes and improve decision intelligence.
+
+By extracting data from documents, IDP solutions augment or replace human work through automation. Beyond optical character recognition (OCR), IDP uses composite AI — multiple AI techniques, such as machine learning, large language models (LLMs) and knowledge graphs — to automatically extract data despite novel variations in document type and format. This capability supports many more document types across a diverse range of use cases, from transactional invoice processing in accounts payable to augmented reading of specialized DOCX (Word) manuals to support decision making.
 
 ## Report 2026
 
