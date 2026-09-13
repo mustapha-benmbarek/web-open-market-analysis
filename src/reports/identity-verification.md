@@ -26,6 +26,28 @@ Identity verification is used for a variety of business use cases, such as:
 
 - Trust and safety (including improving accountability in marketplaces, providing assurance in the gig economy and establishing trust in larger portable digital identity networks).
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/identity-verification.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/identity-verification.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                      |
+| --------------- | ------------------------------------------------------------------ |
+| `Leader`        | [Persona](/vendors/persona.md)                                     |
+| `Leader`        | [Incode](/vendors/incode.md)                                       |
+| `Leader`        | [1Kosmos](/vendors/1kosmos.md)                                     |
+| `Leader`        | [Socure](/vendors/socure.md)                                       |
+| `Visionary`     | [Veridas](/vendors/veridas.md)                                     |
+| `Visionary`     | [Veriff](/vendors/veriff.md)                                       |
+| `Visionary`     | [Nametag](/vendors/nametag.md)                                     |
+| `Niche Player`  | [ZOLOZ](/vendors/zoloz.md)                                         |
+| `Niche Player`  | [TrustDecision](/vendors/trustdecision.md)                         |
+| `Niche Player`  | [Regula](/vendors/regula.md)                                       |
+| `Niche Player`  | [LexisNexis Risk Solutions](/vendors/lexisnexis-risk-solutions.md) |
+| `Challenger`    | [Daon](/vendors/daon.md)                                           |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

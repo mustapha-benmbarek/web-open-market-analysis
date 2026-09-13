@@ -14,6 +14,33 @@ A recurring billing application enables organizations to bill customers for one-
 
 Recurring billing is mission-critical for invoicing customers and collecting revenue for a business. It ensures billing for all goods and services is aggregated into one periodic invoice to the customer. It enables value-based pricing models that are charged based on actual usage of the service. Payment can be automatically collected by a wide range of payment mechanisms. Dunning workflow optimizes the collection of failed or delinquent payments. Revenue recognition logic ensures adherence to the latest international standards such as IFRS 15 and ASC 606.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/recurring-billing-applications.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/recurring-billing-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Zuora](/vendors/zuora.md)                     |
+| `Leader`        | [BillingPlatform](/vendors/billingplatform.md) |
+| `Leader`        | [keylight](/vendors/keylight.md)               |
+| `Leader`        | [Chargebee](/vendors/chargebee.md)             |
+| `Leader`        | [Stripe](/vendors/stripe.md)                   |
+| `Visionary`     | [OneBill](/vendors/onebill.md)                 |
+| `Visionary`     | [Frisbi](/vendors/frisbi.md)                   |
+| `Niche Player`  | [Salesforce](/vendors/salesforce.md)           |
+| `Niche Player`  | [Aria Systems](/vendors/aria-systems.md)       |
+| `Niche Player`  | [Oracle](/vendors/oracle.md)                   |
+| `Niche Player`  | [RecVue](/vendors/recvue.md)                   |
+| `Niche Player`  | [Maxio](/vendors/maxio.md)                     |
+| `Niche Player`  | [Recurly](/vendors/recurly.md)                 |
+| `Niche Player`  | [Gotransverse](/vendors/gotransverse.md)       |
+| `Niche Player`  | [AppDirect](/vendors/appdirect.md)             |
+| `Niche Player`  | [LogiSense](/vendors/logisense.md)             |
+| `Challenger`    | [SAP](/vendors/sap.md)                         |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

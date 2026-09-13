@@ -17,6 +17,26 @@ RPA is used across numerous business functions for tactical task automation. Bus
 
 - **Automate tasks with a human in the loop (attended automation)**. RPA can extract information from systems, shaping and preparing it for consumption by a human at the point of need. Typically, attended automation is triggered by a human and bots executed on a local device.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/robotic-process-automation.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/robotic-process-automation.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [UiPath](/vendors/uipath.md)                           |
+| `Leader`        | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Visionary`     | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
+| `Niche Player`  | [EvoluteIQ](/vendors/evoluteiq.md)                     |
+| `Niche Player`  | [Laiye](/vendors/laiye.md)                             |
+| `Niche Player`  | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Challenger`    | [Appian](/vendors/appian.md)                           |
+| `Challenger`    | [Pegasystems](/vendors/pegasystems.md)                 |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

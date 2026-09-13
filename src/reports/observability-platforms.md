@@ -26,6 +26,35 @@ Example use-case scenarios or business problems addressed by observability platf
 
 - **Business analyst**: Business analysts may use observability platforms to understand and analyze key business metrics. These metrics are often specific to the organization and client (for example., a retailer measuring the cost of abandoned shopping carts and average customer spend).
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/observability-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/observability-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Datadog](/vendors/datadog.md)                         |
+| `Leader`        | [Dynatrace](/vendors/dynatrace.md)                     |
+| `Leader`        | [Grafana Labs](/vendors/grafana-labs.md)               |
+| `Leader`        | [Elastic](/vendors/elastic.md)                         |
+| `Leader`        | [New Relic](/vendors/new-relic.md)                     |
+| `Leader`        | [Chronosphere](/vendors/chronosphere.md)               |
+| `Leader`        | [Coralogix](/vendors/coralogix.md)                     |
+| `Leader`        | [IBM](/vendors/ibm.md)                                 |
+| `Visionary`     | [Honeycomb](/vendors/honeycomb.md)                     |
+| `Visionary`     | [BMC Helix](/vendors/bmc-helix.md)                     |
+| `Niche Player`  | [ScienceLogic](/vendors/sciencelogic.md)               |
+| `Niche Player`  | [SolarWinds](/vendors/solarwinds.md)                   |
+| `Niche Player`  | [HPE](/vendors/hpe.md)                                 |
+| `Niche Player`  | [Apica](/vendors/apica.md)                             |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
+| `Challenger`    | [Splunk](/vendors/splunk.md)                           |
+| `Challenger`    | [LogicMonitor](/vendors/logicmonitor.md)               |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
