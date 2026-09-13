@@ -22,6 +22,25 @@ Support for remote and hybrid workers, an important capability that buyers seek,
 
 UCaaS vendors are expanding their offerings in two adjacent spaces. The first is basic, and involves mostly internal-facing, voice-only call center solutions that are usually bundled with the UCaaS offering at little/no additional cost. The second market involves artificial intelligence (AI)-enabled use cases for telephony, messaging and meetings. Gartner sees these two pursuits as attempts by vendors to differentiate their offerings in a highly commoditized market. Gartner observed a degree of GenAI normalization for meeting capabilities and, to a lesser extent, in telephony.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/unified-communications-as-a-service.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/unified-communications-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                          |
+| --------------- | -------------------------------------- |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`        | [Cisco](/vendors/cisco.md)             |
+| `Leader`        | [Zoom](/vendors/zoom.md)               |
+| `Leader`        | [RingCentral](/vendors/ringcentral.md) |
+| `Visionary`     | [8x8](/vendors/8x8.md)                 |
+| `Visionary`     | [GoTo](/vendors/goto.md)               |
+| `Visionary`     | [Dialpad](/vendors/dialpad.md)         |
+| `Niche Player`  | [Vonage](/vendors/vonage.md)           |
+| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

@@ -16,6 +16,28 @@ SOAPs empower infrastructure and operations (I&O) leaders to streamline and acce
 
 SOAPs enhance traditional workload automation by supporting use cases in data pipelines, cloud-native infrastructures and application architectures. They complement and integrate with DevOps toolchains, enabling organizations to achieve customer-centric agility, reduce costs, improve operational efficiency and establish standardized processes across their entire IT landscape.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/service orchestration-and-automation-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/service orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                              |
+| --------------- | ---------------------------------------------------------- |
+| `Leader`        | [BMC](/vendors/bmc.md)                                     |
+| `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
+| `Leader`        | [Stonebranch](/vendors/stonebranch.md)                     |
+| `Leader`        | [IBM](/vendors/ibm.md)                                     |
+| `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
+| `Leader`        | [HCLSoftware](/vendors/hclsoftware.md)                     |
+| `Leader`        | [Beta Systems Software](/vendors/beta-systems-software.md) |
+| `Visionary`     | [Resolve](/vendors/resolve.md)                             |
+| `Niche Player`  | [Decisions](/vendors/decisions.md)                         |
+| `Niche Player`  | [Abyss](/vendors/abyss.md)                                 |
+| `Niche Player`  | [JAMS](/vendors/jams.md)                                   |
+| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)             |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report

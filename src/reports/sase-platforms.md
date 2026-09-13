@@ -14,6 +14,28 @@ Gartner defines single-vendor secure access service edge (SASE) offerings as tho
 
 SASE securely connects users and devices with applications. It supports branch office, remote worker and on-premises general internet security, private application access and cloud service consumption use cases.
 
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/sase-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/sase-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                                                      |
+| --------------- | ---------------------------------------------------------------------------------- |
+| `Leader`        | [Netskope](/vendors/netskope.md)                                                   |
+| `Leader`        | [Cato Networks](/vendors/cato-networks.md)                                         |
+| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)                               |
+| `Leader`        | [Zscaler](/vendors/zscaler.md)                                                     |
+| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                                               |
+| `Niche Player`  | [iboss](/vendors/iboss.md)                                                         |
+| `Niche Player`  | [Hewlett Packard Enterprise](/vendors/hewlett-packard-enterprise.md)               |
+| `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md)                           |
+| `Niche Player`  | [Check Point Software Technologies](/vendors/check-point-software-technologies.md) |
+| `Challenger`    | [Fortinet](/vendors/fortinet.md)                                                   |
+| `Challenger`    | [Cisco](/vendors/cisco.md)                                                         |
+| `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                                       |
+
 ## Report 2025
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2025** report. <br/>For the full analysis and detailed insights, you can read the report
