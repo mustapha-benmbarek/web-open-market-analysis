@@ -19,9 +19,9 @@ SOAPs enhance traditional workload automation by supporting use cases in data pi
 ## Report 2026
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="/docs/2026/service orchestration-and-automation-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2026/service-orchestration-and-automation-platforms.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="/docs/2026/service orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2026/service-orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
 | Market Status   | Market Vendor                                              |
 | --------------- | ---------------------------------------------------------- |

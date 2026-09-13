@@ -30,6 +30,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [AI Governance Platforms](ai-governance-platforms.md)
 - [AI in CSP Customer and Business Operations](ai-in-csp-customer-and-business-operations.md)
 - [AI Platforms for Data Science and Machine Learning](data-science-and-machine-learning-platforms.md)
+- [AI-Augmented Code Modernization Tools](ai-augmented-code-modernization-tools.md)
 - [AI-Augmented Software Testing Tools](ai-augmented-software-testing-tools.md)
 - [AI-Enabled Design and Engineering Software](ai-enabled-design-and-engineering-software.md)
 - [Analytics and Business Intelligence Platforms](analytics-and-business-intelligence-platforms.md)
@@ -48,6 +49,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - [Clinical Communication and Collaboration](clinical-communication-and-collaboration.md)
 - [Cloud AI Developer Services](cloud-ai-developer-services.md)
+- [Cloud AI Infrastructure](cloud-ai-infrastructure.md)
 - [Cloud Based ERP for U.S. Local Government](cloud-based-erp-for-us-local-government.md)
 - [Cloud Database Management Systems](cloud-database-management-systems.md)
 - [Cloud ERP Finance](cloud-erp-finance.md)
@@ -67,11 +69,13 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Core Banking Systems](core-banking-systems.md)
 - [CPS Protection Platforms](cps-protection-platforms.md)
 - [CRM Customer Engagement Center](crm-customer-engagement-center.md)
+- [CRM Sales Platforms](crm-sales-platforms.md)
 - [CSP 5G Core Network Infrastructure Solutions](csp-5g-core-network-infrastructure-solutions.md)
 - [CSP 5G RAN Infrastructure Solutions](csp-5g-ran-infrastructure-solutions.md)
 - [Custom Software Development Services](custom-software-development-services.md)
 - [Customer Data Platforms](customer-data-platforms.md)
 - [Customer Journey Analytics & Orchestration](customer-journey-analytics-and-orchestration.md)
+- [Customer Service Knowledge Management Systems](customer-service-knowledge-management-systems.md)
 - [Customer Success Management Platforms](customer-success-management-platforms.md)
 - [Cyberthreat Intelligence Technologies](cyberthreat-intelligence-technologies.md)
 
@@ -95,6 +99,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Digital Experience Platforms](digital-experience-platforms.md)
 - [Digital Experience Services](digital-experience-services.md)
 - [Digital Technology and Business Consulting Services](digital-technology-and-business-consulting-services.md)
+- [Digital Twin of an Organization Platforms](digital-twin-of-an-organization-platforms.md)
 - [Distributed Hybrid Infrastructure](distributed-hybrid-infrastructure.md)
 - [Distributed Order Management](distributed-order-management.md)
 - [Document Management](document-management.md)
@@ -122,21 +127,25 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 ### G
 
+- [Global Digital Marketing Agencies](global-digital-marketing-agencies.md)
 - [Global Industrial IoT Platforms](global-industrial-iot-platforms.md)
 - [Global WAN Services](global-wan-services.md)
 
 ### H
 
 - [HCM Suites for 1,000+ Employee Enterprises](hcm-suites-for-1,000+-employee-enterprises.md)
+- [Healthcare Provider Industry Cloud Platforms](healthcare-provider-industry-cloud-platforms)
 - [Higher Education Student Information System Software as a Service](higher-education-student-information-system-saas.md)
 - [Hybrid Mesh Firewall](hybrid-mesh-firewall.md)
-- [Identity Verification](identity-verification.md)
 
 ### I
 
+- [Identity Verification](identity-verification.md)
 - [Indoor Location Services](indoor-location-services.md)
 - [Integration Platform as a Service](integration-platform-as-a-service.md)
+- [Intelligent Document Processing](intelligent-document-processing.md)
 - [Intranet Packaged Solutions](intranet-packaged-solutions.md)
+- [IT Service Management Platforms](it-service-management-platforms.md)
 
 ### M
 
@@ -165,6 +174,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Process Mining Platforms](process-mining-platforms.md)
 - [Process Intelligence Platforms](process-intelligence-platforms.md)
 - [Public Cloud IT Transformation Services](public-cloud-it-transformation-services.md)
+- [Public Cloud Optimization and Transformation Services](public-cloud-optimization-and-transformation-services.md)
 
 ### Q
 
@@ -183,12 +193,14 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [SaaS Management Platforms](saas-management-platforms.md)
 - [SaaS P&C Insurance Core Platforms, North America](saas-p&c-insurance-core-platforms-north-america.md)
 - [Sales Force Automation Platforms](sales-force-automation-platforms.md)
+- [Sales Performance Management](sales-performance-management.md)
 - [SASE Platforms](sase-platforms.md)
 - [Search and Product Discovery](search-and-product-discovery.md)
 - [Security Information and Event Management](security-information-and-event-management.md)
 - [Security Service Edge](security-service-edge.md)
 - [Service Integration and Management Services](service-integration-and-management-services.md)
 - [Service Orchestration and Automation Platforms](service-orchestration-and-automation-platforms.md)
+- [Social Media Management and Listening](social-media-management-and-listening.md)
 - [Software Asset Management Managed Services](software-asset-management-managed-services.md)
 - [Software Supply Chain Security](software-supply-chain-security.md)
 - [Source-to-Pay Suites](source-to-pay-suites.md)
@@ -196,6 +208,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Strategic Cloud Platform Services](strategic-cloud-platform-services.md)
 - [Strategic Portfolio Management](strategic-portfolio-management.md)
 - [Supplier Risk Management Solutions](supplier-risk-management-solutions.md)
+- [Supply Chain Management Suites](supply-chain-management-suites.md)
 - [Supply Chain Planning Solutions](supply-chain-planning-solutions.md)
 - [Supply Chain Planning Solutions (Discrete Indutries)](supply-chain-planning-solutions-discrete-industries.md)
 - [Supply Chain Planning Solutions (Process Indutries)](supply-chain-planning-solutions-process-industries.md)
