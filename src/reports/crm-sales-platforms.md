@@ -6,7 +6,13 @@ hide_menu: true
 
 # CRM Sales Platforms
 
+AI integrations are becoming increasingly widespread, with CRM sales platform vendors intensifying their focus on generative AI and agentic AI use cases. Sales operations leaders can use this research to better evaluate vendor solutions and make more informed purchasing decisions.
+
 ## Market Definition
+
+CRM sales platforms are AI-driven systems that orchestrate end-to-end sales workflows to optimize seller and manager productivity through adaptive, multimodal experiences. They embed AI — predictive, generative, and agentic — into tasks like lead qualification, opportunity progression, and forecasting, while leveraging connected and contextual customer, activity, and transaction data to automate and augment sales actions. Built on a composable architecture, these platforms also deliver and provide governance, observability, and performance instrumentation to ensure safe sales operations and measurable business outcomes. Additionally, CRM sales platforms facilitate enhanced cross-departmental collaboration and unified workflows with shared visibility by seamlessly integrating with other customer-facing teams and into customer interactions to drive a consistent prospect and customer experience throughout the entire relationship life cycle.
+
+A CRM sales platform helps organizations manage and improve their interactions with current and potential customers throughout the sales cycle, ultimately leading to increased sales, better customer retention, increased lifetime value, and growth. It provides the central hub for all customer and sales insight, managing every interaction from lead to loyal client. It helps sales teams by streamlining sales processes and delivering actionable, context-aware guidance and next best actions to improve lead qualification and opportunity management, supporting both human and AI-based execution. The platform aids team collaboration, ensures a consistent seller and buyer experience, and empowers sales management with visibility into performance, pipeline health, and coaching opportunities, ultimately enabling the business to close more deals and build stronger customer relationships for long-term growth.
 
 ## Report 2026
 

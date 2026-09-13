@@ -6,13 +6,13 @@ hide_menu: true
 
 # Adaptive Project Management and Reporting
 
-Adaptive project management and reporting tools automate continuous delivery to support an organization in making data-driven decisions. This research evaluates 10 vendors offering these technologies that help manage an accelerated pace of change and continuous delivery.
+Adaptive project management and reporting tools automate continuous delivery and help organizations make data-driven decisions. This research evaluates 11 vendors that offer these technologies that enable organizations to manage an accelerating pace of change and support continuous delivery.
 
 ## Market Definition
 
-Gartner defines the adaptive project management and reporting (APMR) market as technologies that can support multiple delivery models to optimize project management practices and complex resource management needs across an organization. These tools promote continuous collaboration and unification of diverse and distributed teams. To support accelerating rates of change and continuous value delivery, these tools adapt to changing customer needs and governance approaches across multiple organizational designs and operating models. They provide multiple execution approaches that are grounded in value-based decision making and the time-to-value perceptions of their customers.
+Gartner defines the adaptive project management and reporting (APMR) market as technologies that support PPM functions aligned to business units such as a PMO. These tools optimize project and product delivery, manage complex resource allocation, and track progress through reporting and dashboards. They strengthen collaboration across distributed teams, adapt to changing governance models, and support decisions that maximize resources and speed time to value.
 
-Organizations need tools to support the integration of traditional development practices alongside agile, adaptive and hybrid ways of working while driving high levels of productivity from contributors and team members. The dynamic and complex multiple organizational operating model design of all organizations makes the correct governance approach imperative, yet difficult to achieve. To drive organization wide outcomes, APMR tools need to support adaptive decision making without incurring additional bureaucracy.
+PMOs and other types of PPM functions need tools to support the nuances of waterfall, adaptive and hybrid ways of working while also balancing inbound demand against finite resources in time, people and budget. To drive organization wide outcomes, APMR tools need to support adaptive decision making without incurring unnecessary bureaucracy.
 
 ## Report 2026
 

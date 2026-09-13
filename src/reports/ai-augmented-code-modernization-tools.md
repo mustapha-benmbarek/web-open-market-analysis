@@ -6,7 +6,13 @@ hide_menu: true
 
 # AI-Augmented Code Modernization Tools
 
+AI-augmented code modernization tools help software engineering leaders deliver large-scale, continuous modernization by using AI to assist with documentation, testing, and code transformation. Use this evaluation to identify vendors that align with your modernization strategy.
+
 ## Market Definition
+
+Gartner defines AI-augmented code modernization tools as software solutions that use specialized AI agents, generative AI and deterministic analysis to accelerate the transformation of legacy systems. These tools automate and enhance a broad spectrum of modernization activities, including deep code and architecture analysis, software documentation, dependency mapping, risk assessment, migration planning, and refactoring. By supporting end-to-end modernization workflows, they significantly expedite the adoption of modern software architectures.
+
+AI-augmented code modernization tools analyze and understand legacy codebases and architectures, identify opportunities for modernization, and recommend optimal design patterns. Utilizing advanced AI capabilities, these tools facilitate intelligent decision making throughout the modernization life cycle, from initial assessment and design to automated code transformation, testing, verification and deployment. By automating various tasks and providing intelligent insights, these tools aim to enhance the modernization process’s efficiency, quality and speed.
 
 ## Report 2026
 

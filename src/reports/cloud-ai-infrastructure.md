@@ -6,7 +6,13 @@ hide_menu: true
 
 # Cloud AI Infrastructure
 
+The cloud AI infrastructure market comprises cloud service providers delivering optimized infrastructure for model training, inference and agentic AI. This Magic Quadrant helps organizations navigate this fast-moving market of major hyperscaler vendors and specialized cloud vendors.
+
 ## Market Definition
+
+Gartner defines cloud AI infrastructure as cloud service providers that focus on delivering infrastructure optimized for AI workloads including AI model training, inference and servicing. This market includes major hyperscaler vendors and specialized cloud vendors delivering AI-optimized infrastructure.
+
+Cloud AI infrastructure offerings address the need to enable AI and machine learning (ML) activity. The offerings include a combination of compute, storage and networking components, along with the requisite enablement tooling, middleware and libraries.
 
 ## Report 2026
 
