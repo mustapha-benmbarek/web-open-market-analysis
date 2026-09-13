@@ -6,16 +6,11 @@ hide_menu: true
 
 # Robotic Process Automation
 
-Robotic process automation continues to be a core software market for improving operational efficiency with tactical automation. This Magic Quadrant evaluates 13enterprise RPA vendors to help you make the best choice for your enterprise’s task automation needs.
+Robotic process automation remains the most cost-effective, reliable technology for automating UI interactions for task-based workflows. This Magic Quadrant evaluates10 enterprise RPA vendors to help you make the best choice for your organization’s task automation needs.
 
 ## Market Definition
 
 Gartner defines robotic process automation (RPA) as software that automates tasks within business and IT processes using software scripts that emulate human interaction with the application UI. RPA enables a manual task to be recorded or programmed into a software script, which users can develop through programming or by using the RPA platform’s low-code and no-code GUIs. This script can then be deployed and executed into different runtimes. The runtime executable of the deployed script is referred to as a bot or robot.
-RPA is used across numerous business functions for tactical task automation. Business and IT users can leverage RPA to:
-
-- **Move data in or out of application systems without human interaction (unattended automation)**. Scripts are designed to replicate the actions of a human interacting with those systems or documents which usually do not have available APIs. The intent is to automate and complete a task successfully without human intervention. Typically, unattended automation is triggered by a system and bots executed on a server.
-
-- **Automate tasks with a human in the loop (attended automation)**. RPA can extract information from systems, shaping and preparing it for consumption by a human at the point of need. Typically, attended automation is triggered by a human and bots executed on a local device.
 
 ## Report 2026
 

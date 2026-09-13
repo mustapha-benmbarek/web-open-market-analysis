@@ -6,13 +6,13 @@ hide_menu: true
 
 # SASE Platforms
 
-The SASE platform market is evolving as more vendors enter the market and offerings mature. Still, there is differentiation in vendor capabilities and strategies. I&O leaders responsible for networking and cybersecurity should use this research to help determine the right vendor for their needs.
+The SASE platforms market is maturing, with vendors differentiating on securing AI, postquantum cryptography and sovereign controls. Still, core vendor capability differences remain. Heads of I&O and cybersecurity leaders should use these insights to help determine the right vendor for their needs.
 
 ## Market Definition
 
-Gartner defines single-vendor secure access service edge (SASE) offerings as those that deliver multiple converged-network and security-as-a-service capabilities, such as software-defined wide-area network (SD-WAN), secure web gateway (SWG), cloud access security broker (CASB), network firewalling and zero trust network access (ZTNA). These offerings use a cloud-centric architecture and are delivered by one vendor.
+Gartner defines secure access service edge (SASE) platforms as offerings that deliver converged network and security capabilities. This includes software-defined WAN (SD-WAN)and secure access to the web, cloud services and private applications regardless of the user’s location, the device used or where that application is hosted. These offerings primarily use a cloud-centric architecture delivered as a platform by one vendor.
 
-SASE securely connects users and devices with applications. It supports branch office, remote worker and on-premises general internet security, private application access and cloud service consumption use cases.
+SASE securely connects users and devices with applications, services and other users. It supports branch office and remote worker connectivity and on-premises general internet security, private application access and public cloud service provider access use cases.
 
 ## Report 2026
 

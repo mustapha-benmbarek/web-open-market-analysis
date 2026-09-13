@@ -6,7 +6,15 @@ hide_menu: true
 
 # Sales Performance Management
 
+SPM applications are a sales operations leader’s trusted partner in defining optimal territories and quotas, and administering compensation plans that incentivize the right behaviors. Use this research to compare vendors’ diverse approaches to meeting these objectives, then choose the most suitable one.
+
 ## Market Definition
+
+Gartner defines sales performance management (SPM) as a suite of applications that automates the implementation and administration of incentive compensation plans for sellers, including associated territory and quota management (TQM). Vendors typically offer seat-based platform access for sellers, sales operations leaders, sales leaders and finance roles. Customers integrate SPM applications with their CRM tools and commercial systems for workflow and data connectivity, and for the delivery of seller-centric insights.
+
+SPM automates and unites certain back-office sales processes, and are implemented to improve operational efficiency and incentive effectiveness. Sales operations leaders use SPM for territory and quota planning, especially at the beginning of their planning cycle, and for incentive payment calculations, reporting and analytics throughout the year. SPM increases efficiency and effectiveness in these functions as well as improving visibility, traceability and governance. SPM facilitates collaboration with cross-functional peers in implementing sales compensation plan governance. This is especially crucial for mature organizations with complex sales plans. SPM uses master data and hierarchies to organize territories that align with the business strategy and sales structure. They also enable consistent and accurate methods of deal attribution and compensation calculation.
+
+Sales managers use SPM for measuring and motivating sellers, and leveraging real-time insights into sellers’ quota attainment. SPM also provides sellers with on-demand analytics for visibility into their compensation projections and calculation methods. Most vendors offer leaderboard reports as tools for motivating sellers and optimizing performance.
 
 ## Report 2026
 

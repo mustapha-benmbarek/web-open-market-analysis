@@ -6,7 +6,7 @@ hide_menu: true
 
 # Recurring Billing Applications
 
-This Magic Quadrant evaluates 17 vendors that offer a cost-effective, modern, SaaS billing solution suitable for a wide range of industries.
+This Magic Quadrant evaluates 17 vendors that offer a cost-effective, modern, SaaS billing solution suitable for a wide range of industries. Use the ratings in this report to identify a shortlist of vendors for deeper evaluation.
 
 ## Market Definition
 
