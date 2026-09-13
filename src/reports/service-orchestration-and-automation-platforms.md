@@ -6,15 +6,13 @@ hide_menu: true
 
 # Service Orchestration and Automation Platforms
 
-Service orchestration and automation platforms are essential for delivering business services through complex workloads. SOAPs unify workflow orchestration, workload automation and resource provisioning, extending across data pipelines and cloud-native architectures.
+Service orchestration and automation platforms are essential for delivering IT services through complex workloads. These platforms unify workload automation, workflow orchestration and data pipelines across on-premises and cloud-native architectures.
 
 ## Market Definition
 
-Gartner defines the service orchestration and automation platform (SOAP) market as encompassing solutions that empower organizations to manage and automate their entire technology stack, including workloads, workflows, resource provisioning and data pipelines.
+Gartner defines service orchestration and automation platforms as solutions that encompass the capabilities required to integrate, coordinate, and manage complex workflows and processes across IT. These platforms empower infrastructure and operations (I&O) leaders to design and implement end-to-end workflows by unifying workload automation, resource provisioning, and data pipelines across hybrid digital infrastructures. By shifting from discrete task management to cohesive orchestration, these platforms enable the execution of complex processes, significantly reducing operational friction and accelerating delivery cycles.
 
-SOAPs empower infrastructure and operations (I&O) leaders to streamline and accelerate the delivery of business services. These platforms integrate workflow orchestration, workload automation and resource provisioning across an organization’s hybrid IT landscape. By automating and optimizing these processes, SOAPs enable organizations to rapidly deploy workloads, enhance operational efficiency and achieve significant cost savings while ensuring high availability and business continuity.
-
-SOAPs enhance traditional workload automation by supporting use cases in data pipelines, cloud-native infrastructures and application architectures. They complement and integrate with DevOps toolchains, enabling organizations to achieve customer-centric agility, reduce costs, improve operational efficiency and establish standardized processes across their entire IT landscape.
+Service orchestration and automation platforms empower I&O leaders to move beyond fragmented task management toward the seamless delivery of end-to-end workflows. By unifying workload automation, resource provisioning, and orchestration across hybrid IT landscapes, these platforms provide the “automation fabric” necessary to scale complex digital operations. These platforms don’t just replace traditional scheduling, they also integrate with DevOps toolchains, data pipelines, and business technologist developers to drive customer-centric agility, resilience, and measurable cost optimization.
 
 ## Report 2026
 
