@@ -11,6 +11,26 @@ hide_menu: true
 ## Report 2026
 
 Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
-<a href="/docs/2026/XXXXXXXXXXXXXXXXXXXX.pdf" target="_blank" rel="noopener noreferrer">here</a>
+<a href="/docs/2026/cloud-ai-infrastructure.pdf" target="_blank" rel="noopener noreferrer">here</a>
 and view the magic quadrant graphic
-<a href="/docs/2026/XXXXXXXXXXXXXXXXXXXXXX.png" target="_blank" rel="noopener noreferrer">here</a>.
+<a href="/docs/2026/cloud-ai-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)                           |
+| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`        | [Oracle](/vendors/oracle.md)                           |
+| `Leader`        | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| `Visionary`     | [CoreWeave](/vendors/coreweave.md)                     |
+| `Visionary`     | [Nebius](/vendors/nebius.md)                           |
+| `Visionary`     | [Crusoe](/vendors/crusoe.md)                           |
+| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
+| `Niche Player`  | [Lambda](/vendors/lambda.md)                           |
+| `Niche Player`  | [Nscale](/vendors/nscale.md)                           |
+| `Niche Player`  | [Cloudflare](/vendors/cloudflare.md)                   |
+| `Niche Player`  | [Scaleway](/vendors/scaleway.md)                       |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
+| `Challenger`    | [Vultr](/vendors/vultr.md)                             |
+| `Challenger`    | [OVHcloud](/vendors/ovhcloud.md)                       |
