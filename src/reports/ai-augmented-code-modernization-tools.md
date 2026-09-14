@@ -21,14 +21,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/ai-augmented-code-modernization-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Moderne](/vendors/moderne.md)                         |
-| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
-| `Visionary`     | [Anthropic](/vendors/anthropic.md)                     |
-| `Visionary`     | [Cursor](/vendors/cursor.md)                           |
-| `Niche Player`  | [EvolveWare](/vendors/evolveware.md)                   |
-| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)         |
-| `Challenger`    | [BMC](/vendors/bmc.md)                                 |
+| Market Status   | Market Vendor                                  |
+| --------------- | ---------------------------------------------- |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)      |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
+| `Leader`        | [Moderne](/vendors/moderne.md)                 |
+| `Visionary`     | [IBM](/vendors/ibm.md)                         |
+| `Visionary`     | [Anthropic](/vendors/anthropic.md)             |
+| `Visionary`     | [Cursor](/vendors/cursor.md)                   |
+| `Niche Player`  | [EvolveWare](/vendors/evolveware.md)           |
+| `Challenger`    | [Rocket Software](/vendors/rocket-software.md) |
+| `Challenger`    | [BMC](/vendors/bmc.md)                         |

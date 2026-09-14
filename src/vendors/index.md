@@ -327,6 +327,7 @@ This section provides an organized index of product or service based providers c
 - [Esker](/vendors/esker.md)
 - [EventMobi](/vendors/eventmobi.md)
 - [Everstream Analytics](/vendors/everstream-analytics.md)
+- [EvolveWare](/vendors/evolveware.md)
 - [Exiger](/vendors/exiger.md)
 - [EXL](/vendors/exl.md)
 - [Expeditors](/vendors/expeditors.md)

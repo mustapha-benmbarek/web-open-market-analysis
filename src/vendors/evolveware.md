@@ -1,10 +1,10 @@
 ---
-title: Cursor
-description: Market Vendor | Cursor
+title: EvolveWare
+description: Market Vendor | EvolveWare
 hide_menu: true
 ---
 
-# Cursor
+# EvolveWare
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------ |
-| `Visionary`     | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026) |
-| `Leader`        | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                     |
+| `Niche Player`  | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026) |
