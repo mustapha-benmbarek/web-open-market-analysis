@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/cloud-ai-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)                           |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [Huawei Cloud](/vendors/huawei-cloud.md)               |
-| `Visionary`     | [CoreWeave](/vendors/coreweave.md)                     |
-| `Visionary`     | [Nebius](/vendors/nebius.md)                           |
-| `Visionary`     | [Crusoe](/vendors/crusoe.md)                           |
-| `Visionary`     | [IBM](/vendors/ibm.md)                                 |
-| `Niche Player`  | [Lambda](/vendors/lambda.md)                           |
-| `Niche Player`  | [Nscale](/vendors/nscale.md)                           |
-| `Niche Player`  | [Cloudflare](/vendors/cloudflare.md)                   |
-| `Niche Player`  | [Scaleway](/vendors/scaleway.md)                       |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent-cloud.md)             |
-| `Challenger`    | [Vultr](/vendors/vultr.md)                             |
-| `Challenger`    | [OVHcloud](/vendors/ovhcloud.md)                       |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Google](/vendors/google.md)               |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`        | [Oracle](/vendors/oracle.md)               |
+| `Leader`        | [Huawei Cloud](/vendors/huawei.md)         |
+| `Visionary`     | [CoreWeave](/vendors/coreweave.md)         |
+| `Visionary`     | [Nebius](/vendors/nebius.md)               |
+| `Visionary`     | [Crusoe](/vendors/crusoe.md)               |
+| `Visionary`     | [IBM](/vendors/ibm.md)                     |
+| `Niche Player`  | [Lambda](/vendors/lambda.md)               |
+| `Niche Player`  | [Nscale](/vendors/nscale.md)               |
+| `Niche Player`  | [Cloudflare](/vendors/cloudflare.md)       |
+| `Niche Player`  | [Scaleway](/vendors/scaleway.md)           |
+| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
+| `Challenger`    | [Vultr](/vendors/vultr.md)                 |
+| `Challenger`    | [OVHcloud](/vendors/ovhcloud.md)           |

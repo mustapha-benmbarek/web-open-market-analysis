@@ -14,6 +14,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | `Challenger`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
 | `Challenger`    | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
+| `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
 | `Visionary`     | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026)                      |
 | `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
 

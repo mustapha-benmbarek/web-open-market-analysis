@@ -14,6 +14,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | `Visionary`     | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)               |
 | `Visionary`     | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026)                                               |
+| `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                           |
 | `Leader`        | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)                            |
 | `Leader`        | [Customer Data Platforms](/reports/customer-data-platforms.md#report-2026)                                                           |
 | `Niche Player`  | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                           |

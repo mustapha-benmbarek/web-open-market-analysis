@@ -15,6 +15,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
 | `Leader`        | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026)                    |
 | `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
+| `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
 | `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
 | `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                            |
 | `Challenger`    | [Third-Party Logistics](/reports/third-party-logistics.md#report-2026)                                                    |

@@ -235,6 +235,7 @@ This section provides an organized index of product or service based providers c
 - [CloudBees](/vendors/cloudbees.md)
 - [CloudEagle.ai](/vendors/cloudeagle.ai.md)
 - [Cloudera](/vendors/cloudera.md)
+- [Cloudflare](/vendors/cloudflare.md)
 - [CluedIn](/vendors/cluedin.md)
 - [CodeScene](/vendors/codescene.md)
 - [Cognition](/vendors/cognition.md)
@@ -253,6 +254,7 @@ This section provides an organized index of product or service based providers c
 - [ControlUp](/vendors/controlup.md)
 - [Cora Systems](/vendors/cora-systems.md)
 - [Corelight](/vendors/corelight.md)
+- [CoreWeave](/vendors/coreweave.md)
 - [Corma](/vendors/corma.md)
 - [Cornerstone](/vendors/cornerstone.md)
 - [CoSchedule](/vendors/coschedule.md)
@@ -262,6 +264,7 @@ This section provides an organized index of product or service based providers c
 - [Credo AI](/vendors/credo-ai.md)
 - [CRIF](/vendors/crif.md)
 - [CrowdStrike](/vendors/crowdstrike.md)
+- [Crusoe](/vendors/crusoe.md)
 - [CTM360](/vendors/ctm360.md)
 - [Cubic³](/vendors/cubic.md)
 - [Cursor](/vendors/cursor.md)
@@ -462,6 +465,7 @@ This section provides an organized index of product or service based providers c
 
 - [Lakeside Software](/vendors/lakeside-software.md)
 - [Laserfiche](/vendors/laserfiche.md)
+- [Lambda](/vendors/lambda.md)
 - [Lineage](/vendors/lineage.md)
 - [Lineaje](/vendors/lineaje.md)
 - [LinearB](/vendors/linearb.md)
@@ -516,6 +520,7 @@ This section provides an organized index of product or service based providers c
 - [N-able](/vendors/n-able.md)
 - [Nanoheal](/vendors/nanoheal.md)
 - [NAVEX](/vendors/navex.md)
+- [Nebius](/vendors/nebius.md)
 - [NEC](/vendors/nec.md)
 - [Netcore Unbxd](/vendors/netcore-unbxd.md)
 - [NetWitness](/vendors/netwitness.md)
@@ -527,6 +532,7 @@ This section provides an organized index of product or service based providers c
 - [Nokia](/vendors/nokia.md)
 - [North Highland](/vendors/north-highland.md)
 - [Nozomi Networks](/vendors/nozomi-networks.md)
+- [Nscale](/vendors/nscale.md)
 - [NSFOCUS](/vendors/nsfocus.md)
 - [NTT](/vendors/ntt.md)
 - [NX Group](/vendors/nx-group.md)
@@ -556,6 +562,7 @@ This section provides an organized index of product or service based providers c
 - [Oracle](/vendors/oracle.md)
 - [Orange Business](/vendors/orange-business.md)
 - [OvalEdge](/vendors/ovaledge.md)
+- [OVHcloud](/vendors/ovhcloud.md)
 - [OX Security](/vendors/ox-security.md)
 
 ### P
@@ -673,6 +680,7 @@ This section provides an organized index of product or service based providers c
 - [SAP](/vendors/sap.md)
 - [Sapiens](/vendors/sapiens.md)
 - [SAS](/vendors/sas.md)
+- [Scaleway](/vendors/scaleway.md)
 - [SEEBURGER](/vendors/seeburger.md)
 - [Semarchy](/vendors/semarchy.md)
 - [SentinelOne](/vendors/sentinelone.md)
@@ -841,6 +849,7 @@ This section provides an organized index of product or service based providers c
 - [VTEX](/vendors/vtex.md)
 - [Vtiger](/vendors/vtiger.md)
 - [vTradEx](/vendors/vtradex.md)
+- [Vultr](/vendors/vultr.md)
 
 ### W
 
