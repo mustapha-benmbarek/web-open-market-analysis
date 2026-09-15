@@ -523,6 +523,7 @@ This section provides an organized index of product or service based providers c
 - [Nebius](/vendors/nebius.md)
 - [NEC](/vendors/nec.md)
 - [Netcore Unbxd](/vendors/netcore-unbxd.md)
+- [Netlify](/vendors/netlify.md)
 - [NetWitness](/vendors/netwitness.md)
 - [NetXD](/vendors/netxd.md)
 - [Newgen](/vendors/newgen.md)
@@ -812,6 +813,7 @@ This section provides an organized index of product or service based providers c
 - [Uplevel](/vendors/uplevel.md)
 - [Uppwise](/vendors/uppwise.md)
 - [UPS Supply Chain Solutions](/vendors/ups.md)
+- [Upsun](/vendors/upsun.md)
 - [USU](/vendors/usu.md)
 
 ### V

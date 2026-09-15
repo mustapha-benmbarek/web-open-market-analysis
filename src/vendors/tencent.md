@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
 | `Challenger`    | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                           |
+| `Niche Player`  | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)     |
 | `Challenger`    | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026) |
 
 ## Market 2025
