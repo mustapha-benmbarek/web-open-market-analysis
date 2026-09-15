@@ -20,6 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2026)                                              |
 | `Challenger`    | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                |
 | `Leader`        | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                           |
+| `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
 | `Leader`        | [Document Management](/reports/document-management.md#report-2026)                                                        |
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                            |
 | `Leader`        | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                        |

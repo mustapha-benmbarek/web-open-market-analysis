@@ -31,7 +31,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Nutanix](/vendors/nutanix.md)             |
 | `Leader`        | [Oracle](/vendors/oracle.md)               |
 | `Visionary`     | [Google](/vendors/google.md)               |
-| `Visionary`     | [Red Hat](/vendors/red-hat.md)             |
+| `Visionary`     | [Red Hat](/vendors/redhat.md)              |
 | `Visionary`     | [SUSE](/vendors/suse.md)                   |
 | `Niche Player`  | [Huawei](/vendors/huawei.md)               |
 | `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |

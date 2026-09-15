@@ -23,6 +23,7 @@ hide_menu: true
 | `Leader`        | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                         |
 | `Visionary`     | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                                    |
 | `Challenger`    | [Digital Technology and Business Consulting Services](/reports/digital-technology-and-business-consulting-services.md#report-2026) |
+| `Challenger`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                                     |
 | `Niche Player`  | [Document Management](/reports/document-management.md#report-2026)                                                                 |
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                                     |
 | `Leader`        | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026) |

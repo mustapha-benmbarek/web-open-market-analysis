@@ -536,6 +536,7 @@ This section provides an organized index of product or service based providers c
 - [Nscale](/vendors/nscale.md)
 - [NSFOCUS](/vendors/nsfocus.md)
 - [NTT](/vendors/ntt.md)
+- [Nutanix](/vendors/nutanix.md)
 - [NX Group](/vendors/nx-group.md)
 
 ### O
@@ -725,6 +726,7 @@ This section provides an organized index of product or service based providers c
 - [Stryker](/vendors/stryker.md)
 - [Sunstice](/vendors/sunstice.md)
 - [Sutherland](/vendors/sutherland.md)
+- [SUSE](/vendors/suse.md)
 - [Swarmia](/vendors/swarmia.md)
 - [Swoogo](/vendors/swoogo.md)
 - [symplr](/vendors/symplr.md)
