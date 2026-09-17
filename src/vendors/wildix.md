@@ -1,10 +1,10 @@
 ---
-title: Zoom
-description: Market Vendor | Zoom
+title: Wildix
+description: Market Vendor | Wildix
 hide_menu: true
 ---
 
-# Zoom
+# Wildix
 
 ## Market 2026
 
@@ -12,8 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                      |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| `Leader`        | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026) |
-| `Niche Player`  | [Workplace Experience Applications](/reports/workplace-experience-applications.md#report-2026)     |
+| `Niche Player`  | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026) |
 
 ## Market 2025
 
@@ -21,5 +20,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                      |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2025)                 |
-| `Leader`        | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2025) |
+| `Niche Player`  | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2025) |

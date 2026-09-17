@@ -26,5 +26,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                        |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                            |
 | `Niche Player`  | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                  |
+| `Challenger`    | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                  |
+| `Leader`        | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026)                        |
 | `Challenger`    | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                      |
 | `Niche Player`  | [Workplace Experience Applications](/reports/workplace-experience-applications.md#report-2026)                            |

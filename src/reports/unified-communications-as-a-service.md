@@ -55,7 +55,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Dialpad](/vendors/dialpad.md)         |
 | `Niche Player`  | [Google](/vendors/google.md)           |
 | `Niche Player`  | [Vonage](/vendors/vonage.md)           |
-| `Niche Player`  | [Wildx](/vendors/wildx.md)             |
+| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
 | `Niche Player`  | [Sangoma](/vendors/sangoma.md)         |
 
 ## Report 2024
@@ -76,5 +76,5 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Vonage](/vendors/vonage.md)           |
 | `Niche Player`  | [Dialpad](/vendors/dialpad.md)         |
 | `Niche Player`  | [Sangoma](/vendors/sangoma.md)         |
-| `Niche Player`  | [Wildx](/vendors/wildx.md)             |
+| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
 | `Challenger`    | [Google](/vendors/google.md)           |

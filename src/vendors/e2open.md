@@ -12,5 +12,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `Challenger`    | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                             |
 | `Visionary`     | [Supply Chain Planning Solutions (Discrete Industries)](/reports/supply-chain-planning-solutions-discrete-industries.md#report-2026) |
 | `Leader`        | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2026)                                       |

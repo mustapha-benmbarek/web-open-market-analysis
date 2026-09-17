@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026) |
+| `Niche Player`  | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026)   |
 
 ## Market 2025
 
