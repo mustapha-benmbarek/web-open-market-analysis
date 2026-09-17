@@ -1,10 +1,10 @@
 ---
-title: Kyndryl
-description: Market Vendor | Kyndryl
+title: Persistent
+description: Market Vendor | Persistent
 hide_menu: true
 ---
 
-# Kyndryl
+# Persistent
 
 ## Market 2026
 
@@ -12,6 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [4G and 5G Private Mobile Network Services](/reports/4g-and-5g-private-mobile-network-services.md#report-2026)                         |
-| `Niche Player`  | [Managed Network Services](/reports/managed-network-services.md#report-2026)                                                           |
 | `Niche Player`  | [Public Cloud Optimization and Transformation Services](/reports/public-cloud-optimization-and-transformation-services.md#report-2026) |
