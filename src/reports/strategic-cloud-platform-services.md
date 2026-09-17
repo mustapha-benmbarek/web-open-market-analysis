@@ -19,15 +19,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/strategic-cloud-platform-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Google](/vendors/google.md)                           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent-cloud.md)             |
-| `Niche Player`  | [Huawei Cloud](/vendors/huawei-cloud.md)               |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`        | [Google](/vendors/google.md)               |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`        | [Oracle](/vendors/oracle.md)               |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
+| `Niche Player`  | [Huawei Cloud](/vendors/huawei.md)         |
 
 ## Report 2025
 

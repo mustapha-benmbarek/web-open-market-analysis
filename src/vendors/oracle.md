@@ -31,3 +31,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                                 |
 | `Leader`        | [Clinical Communication and Collaboration](/reports/clinical-communication-and-collaboration.md#report-2026)                         |
 | `Leader`        | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                             |
+| `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                                       |
