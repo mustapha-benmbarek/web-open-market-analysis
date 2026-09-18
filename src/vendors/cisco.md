@@ -15,6 +15,8 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`    | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026)          |
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2026)                                  |
 | `Leader`        | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |
+| `Challenger`    | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                                      |
+| `Challenger`    | [Security Service Edge](/reports/security-service-edge.md#report-2026)                                        |
 | `Leader`        | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026)            |
 
 ## Market 2025

@@ -1,10 +1,10 @@
 ---
-title: Decisions
-description: Market Vendor | Decisions
+title: Stonebranch
+description: Market Vendor | Stonebranch
 hide_menu: true
 ---
 
-# Decisions
+# Stonebranch
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Challenger`    | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                               |
-| `Niche Player`  | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
+| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |

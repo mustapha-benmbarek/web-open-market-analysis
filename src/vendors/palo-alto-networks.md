@@ -14,3 +14,5 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | ---------------------------------------------------------------------------- |
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2026) |
 | `Leader`        | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)           |
+| `Leader`        | [SASE Platforms](/reports/sase-platforms.md#report-2026)                     |
+| `Leader`        | [Security Service Edge](/reports/security-service-edge.md#report-2026)       |

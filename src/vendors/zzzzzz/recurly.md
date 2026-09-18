@@ -1,10 +1,10 @@
 ---
-title: xxxxxxxxxxxxxx
-description: Market Vendor | xxxxxxxxxxxxxxx
+title: Recurly
+description: Market Vendor | Recurly
 hide_menu: true
 ---
 
-# xxxxxxxxxxxxxxxxx
+# Recurly
 
 ## Market 2026
 

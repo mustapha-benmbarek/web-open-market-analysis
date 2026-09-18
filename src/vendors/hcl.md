@@ -20,3 +20,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`    | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026)     |
 | `Leader`        | [Managed Network Services](/reports/managed-network-services.md#report-2026)                                                           |
 | `Leader`        | [Public Cloud Optimization and Transformation Services](/reports/public-cloud-optimization-and-transformation-services.md#report-2026) |
+| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026)               |

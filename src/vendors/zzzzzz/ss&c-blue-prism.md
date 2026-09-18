@@ -1,10 +1,10 @@
 ---
-title: Samsung Electronics
-description: Market Vendor | Samsung Electronics
+title: SS&C Blue Prism
+description: Market Vendor | SS&C Blue Prism
 hide_menu: true
 ---
 
-# Samsung Electronics
+# SS&C Blue Prism
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                    |
 | --------------- | -------------------------------------------------------------------------------- |
-| `Niche Player`  | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)   |
-| `Niche Player`  | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026) |
+| `Visionary`     | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026) |

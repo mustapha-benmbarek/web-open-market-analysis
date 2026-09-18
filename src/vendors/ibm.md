@@ -32,3 +32,4 @@ hide_menu: true
 | `Challenger`    | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                           |
 | `Challenger`    | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                               |
 | `Visionary`     | [Public Cloud Optimization and Transformation Services](/reports/public-cloud-optimization-and-transformation-services.md#report-2026) |
+| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026)               |

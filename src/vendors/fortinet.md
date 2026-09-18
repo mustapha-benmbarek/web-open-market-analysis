@@ -16,3 +16,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                            |
 | `Visionary`     | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |
 | `Niche Player`  | [Network Detection and Response](/reports/network-detection-and-response.md#report-2026)                      |
+| `Challenger`    | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                                      |

@@ -10,10 +10,11 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                                                          |
-| --------------- | ------------------------------------------------------------------------------------------------------ |
-| `Challenger`    | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026) |
-| `Challenger`    | [Technical Debt Management Tools](/reports/technical-debt-management-tools.md#report-2026)             |
+| Market Status   | Market Vendor                                                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `Challenger`    | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026)                   |
+| `Challenger`    | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
+| `Challenger`    | [Technical Debt Management Tools](/reports/technical-debt-management-tools.md#report-2026)                               |
 
 ## Market 2025
 

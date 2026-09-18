@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | `Challenger`    | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026)                   |
+| `Leader`        | [Sales Performance Management](/reports/sales-performance-management.md#report-2026)                                                 |
 | `Challenger`    | [Supply Chain Planning Solutions (Discrete Industries)](/reports/supply-chain-planning-solutions-discrete-industries.md#report-2026) |
 | `Challenger`    | [Supply Chain Planning Solutions (Process Industries)](/reports/supply-chain-planning-solutions-process-industries.md#report-2026)   |
 

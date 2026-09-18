@@ -18,11 +18,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                       |
 | `Challenger`    | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                         |
 | `Leader`        | [Personalization Engines](/reports/personalization-engines.md#report-2026)                                                           |
+| `Leader`        | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                             |
+| `Challenger`    | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2026)                                             |
+| `Visionary`     | [Sales Performance Management](/reports/sales-performance-management.md#report-2026)                                                 |
 | `Leader`        | [Source-to-Pay Suites](/reports/source-to-pay-suites.md#report-2026)                                                                 |
+| `Leader`        | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                             |
 | `Challenger`    | [Supply Chain Planning Solutions (Discrete Industries)](/reports/supply-chain-planning-solutions-discrete-industries.md#report-2026) |
 | `Challenger`    | [Supply Chain Planning Solutions (Process Industries)](/reports/supply-chain-planning-solutions-process-industries.md#report-2026)   |
 | `Leader`        | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026)                                          |
 | `Leader`        | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2026)                                       |
 | `Leader`        | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                                 |
-| `Leader`        | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                             |
-| `Leader`        | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                             |
