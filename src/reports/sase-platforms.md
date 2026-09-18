@@ -21,20 +21,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/sase-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                      |
-| --------------- | ---------------------------------------------------------------------------------- |
-| `Leader`        | [Netskope](/vendors/netskope.md)                                                   |
-| `Leader`        | [Cato Networks](/vendors/cato-networks.md)                                         |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)                               |
-| `Leader`        | [Zscaler](/vendors/zscaler.md)                                                     |
-| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                                               |
-| `Niche Player`  | [iboss](/vendors/iboss.md)                                                         |
-| `Niche Player`  | [Hewlett Packard Enterprise](/vendors/hewlett-packard-enterprise.md)               |
-| `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md)                           |
-| `Niche Player`  | [Check Point Software Technologies](/vendors/check-point-software-technologies.md) |
-| `Challenger`    | [Fortinet](/vendors/fortinet.md)                                                   |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                                                         |
-| `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                                       |
+| Market Status   | Market Vendor                                                |
+| --------------- | ------------------------------------------------------------ |
+| `Leader`        | [Netskope](/vendors/netskope.md)                             |
+| `Leader`        | [Cato Networks](/vendors/cato-networks.md)                   |
+| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
+| `Leader`        | [Zscaler](/vendors/zscaler.md)                               |
+| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                         |
+| `Niche Player`  | [iboss](/vendors/iboss.md)                                   |
+| `Niche Player`  | [Hewlett Packard Enterprise](/vendors/hewlett-packard.md)    |
+| `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md)     |
+| `Niche Player`  | [Check Point Software Technologies](/vendors/check-point.md) |
+| `Challenger`    | [Fortinet](/vendors/fortinet.md)                             |
+| `Challenger`    | [Cisco](/vendors/cisco.md)                                   |
+| `Challenger`    | [Versa Networks](/vendors/versa-networks.md)                 |
 
 ## Report 2025
 

@@ -28,7 +28,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
 | `Niche Player`  | [EvoluteIQ](/vendors/evoluteiq.md)                     |
 | `Niche Player`  | [Laiye](/vendors/laiye.md)                             |
-| `Niche Player`  | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Niche Player`  | [Samsung SDS](/vendors/samsung.md)                     |
 | `Challenger`    | [Appian](/vendors/appian.md)                           |
 | `Challenger`    | [Pegasystems](/vendors/pegasystems.md)                 |
 
