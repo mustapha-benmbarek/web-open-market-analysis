@@ -18,6 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`    | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                                     |
 | `Leader`        | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)                            |
 | `Leader`        | [Clinical Communication and Collaboration](/reports/clinical-communication-and-collaboration.md#report-2026)                         |
+| `Challenger`    | [Container Management](/reports/container-management.md#report-2026)                                                                 |
 | `Leader`        | [Customer Data Platforms](/reports/customer-data-platforms.md#report-2026)                                                           |
 | `Niche Player`  | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                           |
 | `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                                       |
