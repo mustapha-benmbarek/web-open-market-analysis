@@ -10,17 +10,39 @@ Business orchestration and automation technology platforms unify process orchest
 
 ## Market Definition
 
-Gartner defines business orchestration and automation technologies (BOAT) as a consolidated software platform that delivers enterprise process automation by enabling capabilities including orchestration of business processes, enterprise connectivity, low code development and agentic automation. A BOAT platform includes a cross section of certain capabilities from different markets such as business process automation (BPA), low-code application platforms (LCAP), integration platform as a service (iPaaS), intelligent document processing (IDP), robotic process automation (RPA), collaborative workflow management, and document management. However, this list is not necessarily all-encompassing.
+Gartner defines business orchestration and automation technologies (BOAT) as a consolidated software platform that orchestrates and automates disparate business processes and tasks with varying degrees of autonomy and complexity across enterprise systems. A BOAT platform must provide native capabilities for AI agents’ orchestration and governance and multiagent coordination. It must leverage a combination of native connectivity methods, such as model context protocol, API and UI interactions, enabling secure, end-to-end enterprise agentic process automation across diverse execution environments.
 
-A BOAT platform would be suitable for those who are looking for a consolidated platform that can address an interconnected portfolio of capabilities instead of a range of disparate tools. Such a platform should be used to address a wide range of business process automation use cases within the enterprise, such as:
+A BOAT platform would be suitable for those who are looking to enable agentic automation by consolidating traditional deterministic automation with emerging probabilistic agentic capabilities.
 
-- Case management.
-- Complex and long-running workflows (e.g., straight-through processing).
-- Autonomous or semiautonomous tasks powered by AI agents.
-- Automation of simple, routine human tasks.
-- Extraction and processing of semi structured and unstructured data.
+## Report 2026
 
-Customers typically looking to buy or blend instead of custom-building a solution may prefer a BOAT platform. Organizations might also end up with more than one BOAT platform, depending on their needs.
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/business-orchestration-and-automation-technologies.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/business-orchestration-and-automation-technologies.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                          |
+| --------------- | ------------------------------------------------------ |
+| `Leader`        | [Pega](/vendors/pega.md)                               |
+| `Leader`        | [Appian](/vendors/appian.md)                           |
+| `Leader`        | [UiPath](/vendors/uipath.md)                           |
+| `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
+| `Visionary`     | [Workato](/vendors/workato.md)                         |
+| `Visionary`     | [Camunda](/vendors/camunda.md)                         |
+| `Visionary`     | [Salesforce](/vendors/salesforce.md)                   |
+| `Niche Player`  | [SAP](/vendors/sap.md)                                 |
+| `Niche Player`  | [Boomi](/vendors/boomi.md)                             |
+| `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Niche Player`  | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Niche Player`  | [Nintex](/vendors/nintex.md)                           |
+| `Niche Player`  | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Niche Player`  | [OutSystems](/vendors/outsystems.md)                   |
+| `Niche Player`  | [Mendix](/vendors/mendix.md)                           |
+| `Niche Player`  | [n8n](/vendors/n8n.md)                                 |
+| `Niche Player`  | [Flowable](/vendors/flowable.md)                       |
+| `Niche Player`  | [Bizagi](/vendors/bizagi.md)                           |
+| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
 
 ## Report 2025
 

@@ -198,6 +198,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 - [Search and Product Discovery](search-and-product-discovery.md)
 - [Security Information and Event Management](security-information-and-event-management.md)
 - [Security Service Edge](security-service-edge.md)
+- [Server Virtualization Platforms](server-virtualization-platforms.md)
 - [Service Integration and Management Services](service-integration-and-management-services.md)
 - [Service Orchestration and Automation Platforms](service-orchestration-and-automation-platforms.md)
 - [Social Media Management and Listening](social-media-management-and-listening.md)
@@ -233,3 +234,4 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - [Warehouse Management Systems](warehouse-management-systems.md)
 - [Workplace Experience Application](workplace-experience-applications.md)
+- [Workforce Management (WFM) Technology](workforce-management-technology.md)
