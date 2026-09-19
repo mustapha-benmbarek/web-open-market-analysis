@@ -18,6 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
 | `Leader`        | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
 | `Leader`        | [Container Management](/reports/container-management.md#report-2026)                                                      |
+| `Leader`        | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                        |
 | `Niche Player`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2026)                                              |
 | `Challenger`    | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                |
 | `Leader`        | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                           |

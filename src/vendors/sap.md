@@ -15,6 +15,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`     | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)               |
 | `Niche Player`  | [AI Governance Platforms](/reports/ai-governance-platforms.md#report-2026)                                                           |
 | `Leader`        | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)                            |
+| `Niche Player`  | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                                   |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                       |
 | `Challenger`    | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                         |
 | `Leader`        | [Personalization Engines](/reports/personalization-engines.md#report-2026)                                                           |

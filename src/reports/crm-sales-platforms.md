@@ -33,6 +33,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Vtiger](/vendors/vtiger.md)             |
 | `Niche Player`  | [SugarAI](/vendors/sugarai.md)           |
 | `Challenger`    | [Oracle](/vendors/oracle.md)             |
-| `Challenger`    | [Pega](/vendors/pega.md)                 |
+| `Challenger`    | [Pega](/vendors/pegasystems.md)          |
 | `Challenger`    | [Zoho](/vendors/zoho.md)                 |
 | `Challenger`    | [HubSpot](/vendors/hubspot.md)           |

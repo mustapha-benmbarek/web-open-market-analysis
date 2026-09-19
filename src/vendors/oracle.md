@@ -20,6 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Clinical Communication and Collaboration](/reports/clinical-communication-and-collaboration.md#report-2026)                         |
 | `Challenger`    | [Container Management](/reports/container-management.md#report-2026)                                                                 |
 | `Leader`        | [Customer Data Platforms](/reports/customer-data-platforms.md#report-2026)                                                           |
+| `Challenger`    | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                                   |
 | `Niche Player`  | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                           |
 | `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                                       |
 | `Leader`        | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026)                   |

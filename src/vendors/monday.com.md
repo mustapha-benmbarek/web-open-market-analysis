@@ -13,3 +13,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------------------- |
 | `Challenger`    | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2026) |
+| `Niche Player`  | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                             |

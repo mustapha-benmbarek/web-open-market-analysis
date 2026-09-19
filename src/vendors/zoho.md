@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                                          |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player`  | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026) |
+| `Challenger`    | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                     |
 | `Niche Player`  | [Document Management](/reports/document-management.md#report-2026)                                                     |
 
 ## Market 2025

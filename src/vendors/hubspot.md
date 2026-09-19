@@ -11,3 +11,4 @@ hide_menu: true
 | Market Status   | Market Vendor                                                                      |
 | --------------- | ---------------------------------------------------------------------------------- |
 | `Challenger`    | [Content Marketing Platforms](/reports/content-marketing-platforms.md#report-2026) |
+| `Challenger`    | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                 |
