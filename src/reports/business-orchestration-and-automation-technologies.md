@@ -23,7 +23,7 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                          |
 | --------------- | ------------------------------------------------------ |
-| `Leader`        | [Pega](/vendors/pega.md)                               |
+| `Leader`        | [Pega](/vendors/pegasystems.md)                        |
 | `Leader`        | [Appian](/vendors/appian.md)                           |
 | `Leader`        | [UiPath](/vendors/uipath.md)                           |
 | `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
@@ -33,7 +33,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [SAP](/vendors/sap.md)                                 |
 | `Niche Player`  | [Boomi](/vendors/boomi.md)                             |
 | `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Niche Player`  | [Amazon Web Services](/vendors/amazon-web-services.md) |
+| `Niche Player`  | [Amazon Web Services](/vendors/amazon.md)              |
 | `Niche Player`  | [Nintex](/vendors/nintex.md)                           |
 | `Niche Player`  | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
 | `Niche Player`  | [OutSystems](/vendors/outsystems.md)                   |
