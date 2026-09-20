@@ -32,11 +32,11 @@ and view the magic quadrant graphic
 | `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
 | `Leader`        | [Salesforce](/vendors/salesforce.md)                   |
 | `Visionary`     | [Atlassian](/vendors/atlassian.md)                     |
-| `Niche Player`  | [Rezolve.AI](/vendors/rezolve.ai.md)                   |
+| `Niche Player`  | [Rezolve.AI](/vendors/rezolve-ai.md)                   |
 | `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
 | `Niche Player`  | [BigPanda](/vendors/bigpanda.md)                       |
 | `Niche Player`  | [Resolve](/vendors/resolve.md)                         |
-| `Niche Player`  | [BMC Helix](/vendors/bmc-helix.md)                     |
+| `Niche Player`  | [BMC Helix](/vendors/bmc.md)                           |
 | `Niche Player`  | [Freshworks](/vendors/freshworks.md)                   |
 
 ## Report 2025

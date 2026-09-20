@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `Niche Player`  | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2026)             |
 | `Visionary`     | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
 
 ## Market 2025

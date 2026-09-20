@@ -165,6 +165,7 @@ This section provides an organized index of product or service based providers c
 - [BeyondTrust](/vendors/beyondtrust.md)
 - [BigCommerce](/vendors/bigcommerce.md)
 - [BigID](/vendors/bigid.md)
+- [BigPanda](/vendors/bigpanda.md)
 - [Bigtincan](/vendors/bigtincan.md)
 - [BillingPlatform](/vendors/billingplatform.md)
 - [Billwerk+](/vendors/billwerk+.md)
@@ -362,6 +363,7 @@ This section provides an organized index of product or service based providers c
 - [FOSSA](/vendors/fossa.md)
 - [Fountain](/vendors/fountain.md)
 - [Frends](/vendors/frends.md)
+- [Freshworks](/vendors/freshworks.md)
 - [Fujitsu](/vendors/fujitsu.md)
 - [Funidata](/vendors/funidata.md)
 

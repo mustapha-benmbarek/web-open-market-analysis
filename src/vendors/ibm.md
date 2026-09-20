@@ -17,6 +17,7 @@ hide_menu: true
 | `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026)              |
 | `Niche Player`  | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026)                                                 |
 | `Visionary`     | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026)                                   |
+| `Challenger`    | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026)       |
 | `Visionary`     | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                             |
 | `Leader`        | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                       |
 | `Visionary`     | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                                     |
