@@ -13,3 +13,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026) |
+| `Leader`        | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                 |

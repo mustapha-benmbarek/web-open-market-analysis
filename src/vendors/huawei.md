@@ -15,6 +15,7 @@ hide_menu: true
 | `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                     |
 | `Leader`        | [Container Management](/reports/container-management.md#report-2026)                                           |
 | `Niche Player`  | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                 |
+| `Leader`        | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                           |
 | `Leader`        | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026)  |
 | `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                 |
 | `Niche Player`  | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                 |
