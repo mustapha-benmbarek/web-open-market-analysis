@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------ |
+| `Leader`        | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2026)                       |
 | `Niche Player`  | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026) |
 
 ## Market 2025

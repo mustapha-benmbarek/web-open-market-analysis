@@ -21,23 +21,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/desktop-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [Citrix](/vendors/citrix.md)                           |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)                         |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Leader`        | [Parallels](/vendors/parallels.md)                     |
-| `Visionary`     | [XTIUM](/vendors/xtium.md)                             |
-| `Visionary`     | [oneclick](/vendors/oneclick.md)                       |
-| `Visionary`     | [IronOrbit](/vendors/ironorbit.md)                     |
-| `Niche Player`  | [Accops](/vendors/accops.md)                           |
-| `Niche Player`  | [Apporto](/vendors/apporto.md)                         |
-| `Niche Player`  | [Anunta](/vendors/anunta.md)                           |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)                     |
-| `Niche Player`  | [ZTE](/vendors/zte.md)                                 |
-| `Niche Player`  | [Dizzion](/vendors/dizzion.md)                         |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`        | [Citrix](/vendors/citrix.md)               |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`        | [Omnissa](/vendors/omnissa.md)             |
+| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`        | [Parallels](/vendors/parallels.md)         |
+| `Visionary`     | [XTIUM](/vendors/xtium.md)                 |
+| `Visionary`     | [oneclick](/vendors/oneclick.md)           |
+| `Visionary`     | [IronOrbit](/vendors/ironorbit.md)         |
+| `Niche Player`  | [Accops](/vendors/accops.md)               |
+| `Niche Player`  | [Apporto](/vendors/apporto.md)             |
+| `Niche Player`  | [Anunta](/vendors/anunta.md)               |
+| `Niche Player`  | [Flexxible](/vendors/flexxible.md)         |
+| `Niche Player`  | [ZTE](/vendors/zte.md)                     |
+| `Niche Player`  | [Dizzion](/vendors/dizzion.md)             |
 
 ## Report 2025
 
