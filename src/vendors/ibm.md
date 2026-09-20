@@ -19,6 +19,7 @@ hide_menu: true
 | `Visionary`     | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026)                                   |
 | `Visionary`     | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                             |
 | `Leader`        | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                       |
+| `Visionary`     | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                                     |
 | `Leader`        | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                             |
 | `Leader`        | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                             |
 | `Visionary`     | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                                        |

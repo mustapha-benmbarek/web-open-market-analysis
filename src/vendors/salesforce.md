@@ -15,6 +15,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026) |
 | `Leader`        | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026)                           |
 | `Leader`        | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)              |
+| `Leader`        | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                     |
 | `Leader`        | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                     |
 | `Leader`        | [Customer Data Platforms](/reports/customer-data-platforms.md#report-2026)                                             |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                         |

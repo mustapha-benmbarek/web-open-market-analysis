@@ -39,8 +39,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [Yellow.ai](/vendors/yellow.ai.md)         |
 | `Challenger`    | [Netomi](/vendors/netomi.md)               |
 | `Challenger`    | [Boost.ai](/vendors/boost.ai.md)           |
-| `Challenger`    | [Oracle](/vendors/oracle.md)               |
-| `Challenger`    | [Canonical](/vendors/canonical.md)         |
 
 ## Report 2025
 
