@@ -24,6 +24,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                           |
 | `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                                       |
 | `Leader`        | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026)                   |
+| `Leader`        | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2026)                     |
 | `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                       |
 | `Visionary`     | [PLM Software in Discrete Manufacturing Industries](/reports/plm-software-in-discrete-manufacturing-industries.md#report-2026)       |
 | `Niche Player`  | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2026)                                             |
