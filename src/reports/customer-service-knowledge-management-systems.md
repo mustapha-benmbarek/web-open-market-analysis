@@ -23,13 +23,13 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/customer-service-knowledge-management-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [eGain](/vendors/egain.md)                     |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [Shelf](/vendors/shelf.md)                     |
-| `Visionary`     | [USU](/vendors/usu.md)                         |
-| `Niche Player`  | [Upland Software](/vendors/upland-software.md) |
-| `Niche Player`  | [KMS Lighthouse](/vendors/kms-lighthouse.md)   |
-| `Niche Player`  | [Talkdesk](/vendors/talkdesk.md)               |
-| `Challenger`    | [NiCE](/vendors/nice.md)                       |
+| Market Status   | Market Vendor                                |
+| --------------- | -------------------------------------------- |
+| `Leader`        | [eGain](/vendors/egain.md)                   |
+| `Leader`        | [Salesforce](/vendors/salesforce.md)         |
+| `Leader`        | [Shelf](/vendors/shelf.md)                   |
+| `Visionary`     | [USU](/vendors/usu.md)                       |
+| `Niche Player`  | [Upland Software](/vendors/upland.md)        |
+| `Niche Player`  | [KMS Lighthouse](/vendors/kms-lighthouse.md) |
+| `Niche Player`  | [Talkdesk](/vendors/talkdesk.md)             |
+| `Challenger`    | [NiCE](/vendors/nice.md)                     |
