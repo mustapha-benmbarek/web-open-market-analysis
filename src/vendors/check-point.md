@@ -10,10 +10,11 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Visionary`     | [Endpoint Protection](/reports/endpoint-protection.md#report-2026) |
-| `Niche Player`  | [SASE Platforms](/reports/sase-platforms.md#report-2026)           |
+| Market Status   | Market Vendor                                                        |
+| --------------- | -------------------------------------------------------------------- |
+| `Visionary`     | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)   |
+| `Leader`        | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2026) |
+| `Niche Player`  | [SASE Platforms](/reports/sase-platforms.md#report-2026)             |
 
 ## Market 2025
 

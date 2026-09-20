@@ -36,7 +36,7 @@ and view the magic quadrant graphic
 | `Niche Player`  | [H3C](/vendors/h3c.md)                                   |
 | `Niche Player`  | [Forcepoint](/vendors/forcepoint.md)                     |
 | `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md) |
-| `Challenger`    | [HPE](/vendors/hpe.md)                                   |
+| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                       |
 
 ## Report 2025
 

@@ -12,5 +12,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------ |
+| `Niche Player`  | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2026)                       |
 | `Niche Player`  | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                   |
 | `Visionary`     | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026) |
