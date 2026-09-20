@@ -14,3 +14,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | ---------------------------------------------------------------------------------------------- |
 | `Leader`        | [Container Management](/reports/container-management.md#report-2026)                           |
 | `Visionary`     | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026) |
+| `Visionary`     | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)     |

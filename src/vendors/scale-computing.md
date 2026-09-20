@@ -1,10 +1,10 @@
 ---
-title: Sangfor Technologies
-description: Market Vendor | Sangfor Technologies
+title: Scale Computing
+description: Market Vendor | Scale Computing
 hide_menu: true
 ---
 
-# Sangfor Technologies
+# Scale Computing
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                   |
-| `Visionary`     | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026) |
+| `Niche Player`  | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026) |

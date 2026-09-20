@@ -17,6 +17,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                       |
 | `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2026)                                 |
 | `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2026)                                                   |
+| `Leader`        | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                               |
 | `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
 
 ## Market 2025

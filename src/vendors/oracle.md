@@ -28,6 +28,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`     | [PLM Software in Discrete Manufacturing Industries](/reports/plm-software-in-discrete-manufacturing-industries.md#report-2026)       |
 | `Niche Player`  | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2026)                                             |
 | `Niche Player`  | [Sales Performance Management](/reports/sales-performance-management.md#report-2026)                                                 |
+| `Challenger`    | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                                           |
 | `Leader`        | [Source-to-Pay Suites](/reports/source-to-pay-suites.md#report-2026)                                                                 |
 | `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                                       |
 | `Leader`        | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                             |
@@ -36,3 +37,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026)                                          |
 | `Leader`        | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2026)                                       |
 | `Leader`        | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                                 |
+| `Leader`        | [Workforce Management (WFM) Technology](</reports/workforce-management-(wfm)-technology.md#report-2026>)                             |

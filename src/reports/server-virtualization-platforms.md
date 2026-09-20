@@ -25,10 +25,10 @@ and view the magic quadrant graphic
 | --------------- | -------------------------------------------------------- |
 | `Leader`        | [Nutanix](/vendors/nutanix.md)                           |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                       |
-| `Leader`        | [Broadcom (VMware)](</vendors/broadcom-(vmware).md>)     |
-| `Leader`        | [Red Hat](/vendors/red-hat.md)                           |
+| `Leader`        | [Broadcom (VMware)](/vendors/broadcom.md)                |
+| `Leader`        | [Red Hat](/vendors/redhat.md)                            |
 | `Visionary`     | [SUSE](/vendors/suse.md)                                 |
-| `Visionary`     | [H3C Technologies](/vendors/h3c-technologies.md)         |
+| `Visionary`     | [H3C Technologies](/vendors/h3c.md)                      |
 | `Visionary`     | [IDT SYSTEM](/vendors/idt-system.md)                     |
 | `Visionary`     | [Sangfor Technologies](/vendors/sangfor-technologies.md) |
 | `Visionary`     | [Platform9](/vendors/platform9.md)                       |
@@ -37,6 +37,6 @@ and view the magic quadrant graphic
 | `Niche Player`  | [VergeIO](/vendors/vergeio.md)                           |
 | `Niche Player`  | [Scale Computing](/vendors/scale-computing.md)           |
 | `Niche Player`  | [Citrix](/vendors/citrix.md)                             |
-| `Challenger`    | [HPE](/vendors/hpe.md)                                   |
+| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                       |
 | `Challenger`    | [Canonical](/vendors/canonical.md)                       |
 | `Challenger`    | [Oracle](/vendors/oracle.md)                             |

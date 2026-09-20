@@ -14,6 +14,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Higher Education SaaS Student Information Systems](/reports/higher-education-student-information-system-saas.md#report-2026) |
 | `Leader`        | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026)                                   |
+| `Leader`        | [Workforce Management (WFM) Technology](</reports/workforce-management-(wfm)-technology.md#report-2026>)                      |
 
 ## Market 202
 

@@ -11,3 +11,4 @@ hide_menu: true
 | Market Status   | Market Vendor                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------- |
 | `Niche Player`  | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |
+| `Visionary`     | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                    |

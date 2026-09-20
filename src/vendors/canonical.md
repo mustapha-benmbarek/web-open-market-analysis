@@ -10,9 +10,10 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                        |
-| --------------- | -------------------------------------------------------------------- |
-| `Challenger`    | [Container Management](/reports/container-management.md#report-2026) |
+| Market Status   | Market Vendor                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------ |
+| `Challenger`    | [Container Management](/reports/container-management.md#report-2026)                       |
+| `Challenger`    | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026) |
 
 ## Market 2025
 

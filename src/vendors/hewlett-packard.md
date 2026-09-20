@@ -14,3 +14,4 @@ hide_menu: true
 | `Leader`        | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026) |
 | `Leader`        | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026)        |
 | `Niche Player`  | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                                             |
+| `Challenger`    | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                           |

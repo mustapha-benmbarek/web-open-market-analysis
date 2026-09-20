@@ -30,3 +30,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026)                                          |
 | `Leader`        | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2026)                                       |
 | `Leader`        | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                                 |
+| `Leader`        | [Workforce Management (WFM) Technology](</reports/workforce-management-(wfm)-technology.md#report-2026>)                             |
