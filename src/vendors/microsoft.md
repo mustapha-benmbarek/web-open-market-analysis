@@ -28,6 +28,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                                   |
 | `Leader`        | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                               |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                   |
+| `Challenger`    | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                       |
 | `Niche Player`  | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |
 | `Leader`        | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026)                                                 |
 | `Challenger`    | [Supply Chain Management Suites](/reports/supply-chain-management-suites.md#report-2026)                                         |

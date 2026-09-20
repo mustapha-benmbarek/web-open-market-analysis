@@ -20,6 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Container Management](/reports/container-management.md#report-2026)                                                      |
 | `Challenger`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
 | `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
+| `Challenger`    | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                |
 | `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |
 
 ## Market 2025

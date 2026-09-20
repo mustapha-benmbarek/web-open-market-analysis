@@ -23,27 +23,27 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/observability-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Datadog](/vendors/datadog.md)                         |
-| `Leader`        | [Dynatrace](/vendors/dynatrace.md)                     |
-| `Leader`        | [Grafana Labs](/vendors/grafana-labs.md)               |
-| `Leader`        | [Elastic](/vendors/elastic.md)                         |
-| `Leader`        | [New Relic](/vendors/new-relic.md)                     |
-| `Leader`        | [Chronosphere](/vendors/chronosphere.md)               |
-| `Leader`        | [Coralogix](/vendors/coralogix.md)                     |
-| `Leader`        | [IBM](/vendors/ibm.md)                                 |
-| `Visionary`     | [Honeycomb](/vendors/honeycomb.md)                     |
-| `Visionary`     | [BMC Helix](/vendors/bmc-helix.md)                     |
-| `Niche Player`  | [ScienceLogic](/vendors/sciencelogic.md)               |
-| `Niche Player`  | [SolarWinds](/vendors/solarwinds.md)                   |
-| `Niche Player`  | [HPE](/vendors/hpe.md)                                 |
-| `Niche Player`  | [Apica](/vendors/apica.md)                             |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon-web-services.md) |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
-| `Challenger`    | [Splunk](/vendors/splunk.md)                           |
-| `Challenger`    | [LogicMonitor](/vendors/logicmonitor.md)               |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| Market Status   | Market Vendor                              |
+| --------------- | ------------------------------------------ |
+| `Leader`        | [Datadog](/vendors/datadog.md)             |
+| `Leader`        | [Dynatrace](/vendors/dynatrace.md)         |
+| `Leader`        | [Grafana Labs](/vendors/grafana-labs.md)   |
+| `Leader`        | [Elastic](/vendors/elastic.md)             |
+| `Leader`        | [New Relic](/vendors/new-relic.md)         |
+| `Leader`        | [Chronosphere](/vendors/chronosphere.md)   |
+| `Leader`        | [Coralogix](/vendors/coralogix.md)         |
+| `Leader`        | [IBM](/vendors/ibm.md)                     |
+| `Visionary`     | [Honeycomb](/vendors/honeycomb.md)         |
+| `Visionary`     | [BMC Helix](/vendors/bmc.md)               |
+| `Niche Player`  | [ScienceLogic](/vendors/sciencelogic.md)   |
+| `Niche Player`  | [SolarWinds](/vendors/solarwinds.md)       |
+| `Niche Player`  | [HPE](/vendors/hewlett-packard.md)         |
+| `Niche Player`  | [Apica](/vendors/apica.md)                 |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)  |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)         |
+| `Challenger`    | [Splunk](/vendors/splunk.md)               |
+| `Challenger`    | [LogicMonitor](/vendors/logicmonitor.md)   |
+| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
 
 ## Report 2025
 
