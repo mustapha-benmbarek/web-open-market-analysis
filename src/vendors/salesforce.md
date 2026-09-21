@@ -23,6 +23,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Customer Service Knowledge Management Systems](/reports/customer-service-knowledge-management-systems.md#report-2026)           |
 | `Leader`        | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)             |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                   |
+| `Niche Player`  | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026)                                       |
 | `Leader`        | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                     |
 | `Leader`        | [Personalization Engines](/reports/personalization-engines.md#report-2026)                                                       |
 | `Visionary`     | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |

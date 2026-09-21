@@ -1,10 +1,10 @@
 ---
-title: Matrix42
-description: Market Vendor | Matrix42
+title: TeamDynamix
+description: Market Vendor | TeamDynamix
 hide_menu: true
 ---
 
-# Matrix42
+# TeamDynamix
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2026)             |
-| `Niche Player`  | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026) |
+| `Challenger`    | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026) |

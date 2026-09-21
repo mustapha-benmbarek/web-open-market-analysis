@@ -14,3 +14,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player`  | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026) |
 | `Challenger`    | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                       |
+| `Challenger`    | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026)                           |

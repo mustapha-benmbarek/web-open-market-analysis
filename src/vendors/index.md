@@ -338,6 +338,7 @@ This section provides an organized index of product or service based providers c
 
 ### E
 
+- [EasyVista](/vendors/easyvista.md)
 - [E2open](/vendors/e2open.md)
 - [ebidtopay](/vendors/ebidtopay.md)
 - [ECS Fin](/vendors/ecs-fin.md)
@@ -425,6 +426,7 @@ This section provides an organized index of product or service based providers c
 
 - [H2O.ai](/vendors/h2o.ai.md)
 - [H3C](/vendors/h3c.md)
+- [Halo](/vendors/halo.md)
 - [Harness](/vendors/harness.md)
 - [Havas CX](/vendors/havas-cx.md)
 - [HawkSearch](/vendors/hawksearch.md)
@@ -827,11 +829,13 @@ This section provides an organized index of product or service based providers c
 - [SUSE](/vendors/suse.md)
 - [Swarmia](/vendors/swarmia.md)
 - [Swoogo](/vendors/swoogo.md)
+- [SymphonyAI](/vendors/symphonyai.md)
 - [symplr](/vendors/symplr.md)
 - [Syncari](/vendors/syncari.md)
 - [Syndigo](/vendors/syndigo.md)
 - [Synergy Logistics](/vendors/synergy-logistics.md)
 - [Synertrade](/vendors/synertrade.md)
+- [SysAid](/vendors/sysaid.md)
 - [Systal Technology Solutions](/vendors/systal-technology-solutions.md)
 
 ### T
@@ -846,6 +850,7 @@ This section provides an organized index of product or service based providers c
 - [Tata Communications](/vendors/tata-communications.md)
 - [Tata Consultancy Services (TCS)](/vendors/tcs.md)
 - [Tealium](/vendors/tealium.md)
+- [TeamDynamix](/vendors/teamdynamix.md)
 - [TeamViewer](/vendors/teamviewer.md)
 - [Tech Mahindra](/vendors/tech-mahindra.md)
 - [TechnologyOne](/vendors/technologyone.md)
@@ -874,6 +879,7 @@ This section provides an organized index of product or service based providers c
 - [Tipalti](/vendors/tipalti.md)
 - [TMSfirst](/vendors/tmsfirst.md)
 - [ToolsGroup](/vendors/toolsgroup.md)
+- [TOPdesk](/vendors/topdesk.md)
 - [Torii](/vendors/torii.md)
 - [Totango](/vendors/totango.md)
 - [TP-Link](/vendors/tp-link.md)
@@ -984,14 +990,14 @@ This section provides an organized index of product or service based providers c
 - [XEBO.ai](/vendors/xebo.ai.md)
 - [XM Cyber](/vendors/xm-cyber.md)
 - [XTIUM](/vendors/xtium.md)
-- [Yagna iQ](/vendors/yagna-iq.md)
-- [Yellow.ai](/vendors/yellow.ai.md)
-- [Yext](/vendors/yext.md)
-- [Yonyou](/vendors/yonyou.md)
+- [Xurrent](/vendors/xurrent.md)
 
 ### Y
 
 - [Yagna iQ](/vendors/yagna-iq.md)
+- [Yellow.ai](/vendors/yellow.ai.md)
+- [Yext](/vendors/yext.md)
+- [Yonyou](/vendors/yonyou.md)
 - [Yusen Logistics](/vendors/yusen-logistics.md)
 
 ### Z

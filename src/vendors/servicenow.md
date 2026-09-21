@@ -18,6 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Visionary`     | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026)                       |
 | `Visionary`     | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026)             |
+| `Leader`        | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026)                                       |
 | `Challenger`    | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |
 | `Visionary`     | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026)                                                 |
 | `Leader`        | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2026)                                                   |

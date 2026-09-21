@@ -27,7 +27,7 @@ and view the magic quadrant graphic
 | --------------- | ---------------------------------------- |
 | `Leader`        | [ServiceNow](/vendors/servicenow.md)     |
 | `Leader`        | [Atlassian](/vendors/atlassian.md)       |
-| `Leader`        | [BMC Helix](/vendors/bmc-helix.md)       |
+| `Leader`        | [BMC Helix](/vendors/bmc.md)             |
 | `Leader`        | [Freshworks](/vendors/freshworks.md)     |
 | `Niche Player`  | [Ivanti](/vendors/ivanti.md)             |
 | `Niche Player`  | [Salesforce](/vendors/salesforce.md)     |
