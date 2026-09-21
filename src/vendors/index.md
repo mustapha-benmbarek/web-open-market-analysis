@@ -61,6 +61,7 @@ This section provides an organized index of product or service based providers c
 - [Alation](/vendors/alation.md)
 - [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md)
 - [Alchemer](/vendors/alchemer.md)
+- [Alcidion](/vendors/alcidion.md)
 - [Alex Solutions](/vendors/alex-solutions.md)
 - [Algolia](/vendors/algolia.md)
 - [Algonomy](/vendors/algonomy.md)
@@ -163,6 +164,7 @@ This section provides an organized index of product or service based providers c
 - [Bee360](/vendors/bee360.md)
 - [Behavox](/vendors/behavox.md)
 - [Beta Systems Software](/vendors/beta-systems-software.md)
+- [Better](/vendors/better.md)
 - [BetterCloud](/vendors/bettercloud.md)
 - [Beyond Now](/vendors/beyond-now.md)
 - [BeyondTrust](/vendors/beyondtrust.md)
@@ -218,6 +220,7 @@ This section provides an organized index of product or service based providers c
 - [Bynder](/vendors/bynder.md)
 - [BytePlus](/vendors/byteplus.md)
 - [Bytes](/vendors/bytes.md)
+- [b.well Connected Health](/vendors/b.well-connected-health.md)
 
 ### C
 
@@ -461,6 +464,7 @@ This section provides an organized index of product or service based providers c
 - [Informatica](/vendors/informatica.md)
 - [Infios](/vendors/infios.md)
 - [Infosys](/vendors/infosys.md)
+- [Innovaccer](/vendors/innovaccer.md)
 - [inorigo](/vendors/inorigo.md)
 - [inQuba](/vendors/inquba.md)
 - [InRule Technology](/vendors/inrule-technology.md)
@@ -471,6 +475,7 @@ This section provides an organized index of product or service based providers c
 - [Intellect Design Arena](/vendors/intellect-design-arena.md)
 - [interos.ai](/vendors/interos.ai.md)
 - [Interfacing Technologies](/vendors/interfacing-technologies.md)
+- [InterSystems](/vendors/intersystems.md)
 - [Irion](/vendors/irion.md)
 - [IronOrbit](/vendors/ironorbit.md)
 - [Itron](/vendors/itron.md)
@@ -641,6 +646,7 @@ This section provides an organized index of product or service based providers c
 - [Parallels](/vendors/parallels.md)
 - [Pegasystems](/vendors/pegasystems.md)
 - [PerfectServe](/vendors/perfectserve.md)
+- [Persivia](/vendors/persivia.md)
 - [Phenom](/vendors/phenom.md)
 - [PiLog Group](/vendors/pilog-group.md)
 - [Pimcore](/vendors/pimcore.md)
