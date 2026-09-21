@@ -452,6 +452,7 @@ This section provides an organized index of product or service based providers c
 - [HYCU](/vendors/hycu.md)
 - [Hyland](/vendors/hyland.md)
 - [Hypatos](/vendors/hypatos.md)
+- [Hyperscience](/vendors/hyperscience.md)
 - [Hyundai Glovis](/vendors/hyundai-glovis.md)
 
 ### I
@@ -904,6 +905,7 @@ This section provides an organized index of product or service based providers c
 - [Trucker Tools](/vendors/trucker-tools.md)
 - [TrustDecision](/vendors/trustdecision.md)
 - [Truyo](/vendors/truyo.md)
+- [Tungsten Automation](/vendors/tungsten-automation.md)
 - [Twilio](/vendors/twilio.md)
 - [TXOne Networks](/vendors/txone.md)
 - [Tyk](/vendors/tyk.md)
