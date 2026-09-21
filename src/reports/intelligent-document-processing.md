@@ -35,7 +35,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Hypatos](/vendors/hypatos.md)                         |
 | `Visionary`     | [Nanonets](/vendors/nanonets.md)                       |
 | `Visionary`     | [Laiye](/vendors/laiye.md)                             |
-| `Niche Player`  | [Coupa (Rossum)](</vendors/coupa-(rossum).md>)         |
+| `Niche Player`  | [Coupa (Rossum)](/vendors/coupa.md)                    |
 | `Niche Player`  | [OpenText](/vendors/opentext.md)                       |
 | `Niche Player`  | [EdgeVerve](/vendors/edgeverve.md)                     |
 | `Challenger`    | [Automation Anywhere](/vendors/automation-anywhere.md) |

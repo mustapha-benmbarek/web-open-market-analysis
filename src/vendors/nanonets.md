@@ -1,10 +1,10 @@
 ---
-title: Hyland
-description: Market Vendor | Hyland
+title: Nanonets
+description: Market Vendor | Nanonets
 hide_menu: true
 ---
 
-# Hyland
+# Nanonets
 
 ## Market 2026
 
@@ -12,5 +12,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | Market Status   | Market Vendor                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------ |
-| `Leader`        | [Document Management](/reports/document-management.md#report-2026)                         |
 | `Visionary`     | [Intelligent Document Processing](/reports/intelligent-document-processing.md#report-2026) |

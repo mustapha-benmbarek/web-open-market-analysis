@@ -276,6 +276,7 @@ This section provides an organized index of product or service based providers c
 - [CoSchedule](/vendors/coschedule.md)
 - [Cosmo Tech](/vendors/cosmo-tech.md)
 - [Coupa](/vendors/coupa.md)
+- [Coupa (Rossum)](/vendors/coupa.md)
 - [Coveo](/vendors/coveo.md)
 - [Cranium AI](/vendors/cranium-ai.md)
 - [Creatio](/vendors/creatio.md)
@@ -343,6 +344,7 @@ This section provides an organized index of product or service based providers c
 - [ebidtopay](/vendors/ebidtopay.md)
 - [ECS Fin](/vendors/ecs-fin.md)
 - [edgeTI](/vendors/edgeti.md)
+- [EdgeVerve](/vendors/edgeverve.md)
 - [EFESO Management Consultants](/vendors/efeso.md)
 - [eGain](/vendors/egain.md)
 - [Ehrhardt Partner Group (EPG)](/vendors/epg.md)
@@ -449,6 +451,7 @@ This section provides an organized index of product or service based providers c
 - [Huron](/vendors/huron.md)
 - [HYCU](/vendors/hycu.md)
 - [Hyland](/vendors/hyland.md)
+- [Hypatos](/vendors/hypatos.md)
 - [Hyundai Glovis](/vendors/hyundai-glovis.md)
 
 ### I
@@ -468,6 +471,7 @@ This section provides an organized index of product or service based providers c
 - [Informatica](/vendors/informatica.md)
 - [Infios](/vendors/infios.md)
 - [Infosys](/vendors/infosys.md)
+- [Infrrd](/vendors/infrrd.md)
 - [Innovaccer](/vendors/innovaccer.md)
 - [inorigo](/vendors/inorigo.md)
 - [inQuba](/vendors/inquba.md)
@@ -482,6 +486,7 @@ This section provides an organized index of product or service based providers c
 - [InterSystems](/vendors/intersystems.md)
 - [Irion](/vendors/irion.md)
 - [IronOrbit](/vendors/ironorbit.md)
+- [Iron Mountain](/vendors/iron-mountain.md)
 - [Itron](/vendors/itron.md)
 - [Ivalua](/vendors/ivalua.md)
 - [Ivanti](/vendors/ivanti.md)
@@ -521,6 +526,7 @@ This section provides an organized index of product or service based providers c
 
 ### L
 
+- [Laiye](/vendors/laiye.md)
 - [Lakeside Software](/vendors/lakeside-software.md)
 - [Laserfiche](/vendors/laserfiche.md)
 - [Lambda](/vendors/lambda.md)
@@ -585,6 +591,7 @@ This section provides an organized index of product or service based providers c
 - [N-able](/vendors/n-able.md)
 - [Nametag](/vendors/nametag.md)
 - [Nanoheal](/vendors/nanoheal.md)
+- [Nanonets](/vendors/nanonets.md)
 - [NAVEX](/vendors/navex.md)
 - [Nebius](/vendors/nebius.md)
 - [NEC](/vendors/nec.md)
