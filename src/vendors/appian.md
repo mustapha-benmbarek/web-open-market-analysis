@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | Market Status   | Market Vendor                                                                                                                    |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`        | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
+| `Niche Player`  | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)             |
 | `Challenger`    | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |
 | `Challenger`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026)                                                 |
 

@@ -25,5 +25,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                            |
 | `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
 | `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                            |
+| `Challenger`    | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)      |
 | `Leader`        | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                                      |
 | `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |

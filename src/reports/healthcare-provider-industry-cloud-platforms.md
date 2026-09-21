@@ -26,7 +26,7 @@ and view the magic quadrant graphic
 | `Leader`        | [Innovaccer](/vendors/innovaccer.md)                           |
 | `Leader`        | [Microsoft](/vendors/microsoft.md)                             |
 | `Leader`        | [Salesforce](/vendors/salesforce.md)                           |
-| `Leader`        | [Amazon Web Services](/vendors/amazon-web-services.md)         |
+| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                      |
 | `Visionary`     | [Oracle](/vendors/oracle.md)                                   |
 | `Visionary`     | [Better](/vendors/better.md)                                   |
 | `Niche Player`  | [Persivia](/vendors/persivia.md)                               |
