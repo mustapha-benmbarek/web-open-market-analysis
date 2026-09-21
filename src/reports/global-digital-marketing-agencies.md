@@ -23,8 +23,8 @@ and view the magic quadrant graphic
 
 | Market Status   | Market Vendor                                                          |
 | --------------- | ---------------------------------------------------------------------- |
-| `Leader`        | [Accenture Song](/vendors/accenture-song.md)                           |
-| `Leader`        | [Deloitte Digital](/vendors/deloitte-digital.md)                       |
+| `Leader`        | [Accenture Song](/vendors/accenture.md)                                |
+| `Leader`        | [Deloitte Digital](/vendors/deloitte.md)                               |
 | `Leader`        | [DEPT](/vendors/dept.md)                                               |
 | `Leader`        | [Omnicom Precision Marketing](/vendors/omnicom-precision-marketing.md) |
 | `Leader`        | [VML](/vendors/vml.md)                                                 |

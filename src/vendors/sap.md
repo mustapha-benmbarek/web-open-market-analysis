@@ -17,6 +17,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player`  | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026)     |
 | `Leader`        | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)                            |
 | `Niche Player`  | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                                   |
+| `Leader`        | [Digital Twin of an Organization Platforms](/reports/digital-twin-of-an-organization-platforms.md#report-2026)                       |
 | `Leader`        | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2026)                     |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                       |
 | `Challenger`    | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                         |
