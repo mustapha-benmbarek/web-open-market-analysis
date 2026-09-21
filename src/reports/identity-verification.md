@@ -32,7 +32,7 @@ and view the magic quadrant graphic
 | `Visionary`     | [Nametag](/vendors/nametag.md)                                     |
 | `Niche Player`  | [ZOLOZ](/vendors/zoloz.md)                                         |
 | `Niche Player`  | [TrustDecision](/vendors/trustdecision.md)                         |
-| `Niche Player`  | [Regula](/vendors/regula.md)                                       |
+| `Niche Player`  | [Regula](/vendors/regula-forensics.md)                             |
 | `Niche Player`  | [LexisNexis Risk Solutions](/vendors/lexisnexis-risk-solutions.md) |
 | `Challenger`    | [Daon](/vendors/daon.md)                                           |
 
