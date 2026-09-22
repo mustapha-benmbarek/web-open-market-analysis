@@ -28,6 +28,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`        | [Document Management](/reports/document-management.md#report-2026)                                                               |
 | `Leader`        | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                                   |
 | `Leader`        | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                               |
+| `Leader`        | [Global Industrial AIoT Platforms](/reports/global-industrial-aiot-platforms.md#report-2026)                                     |
 | `Leader`        | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)             |
 | `Leader`        | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                   |
 | `Challenger`    | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                       |

@@ -128,6 +128,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 ### G
 
 - [Global Digital Marketing Agencies](global-digital-marketing-agencies.md)
+- [Global Industrial AIoT Platforms](global-industrial-aiot-platforms.md)
 - [Global Industrial IoT Platforms](global-industrial-iot-platforms.md)
 - [Global WAN Services](global-wan-services.md)
 
