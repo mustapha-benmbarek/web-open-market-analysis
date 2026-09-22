@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position    | MQ Vendor                                                                                    |
+| MQ Position    | MQ Report                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026) |

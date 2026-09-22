@@ -8,7 +8,7 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                                                                              |
+| MQ Position  | MQ Report                                                                                                                              |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026)                                                 |
 | `Leader`     | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                       |

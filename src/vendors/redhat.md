@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                                 |
+| MQ Position  | MQ Report                                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | `Visionary`  | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
 | `Leader`     | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
@@ -22,7 +22,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                        |
+| MQ Position  | MQ Report                                                                                        |
 | ------------ | ------------------------------------------------------------------------------------------------ |
 | `Leader`     | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025) |
 | `Leader`     | [Container Management](/reports/container-management.md#report-2025)                             |

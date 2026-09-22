@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                            |
+| MQ Position  | MQ Report                                                            |
 | ------------ | -------------------------------------------------------------------- |
 | `Visionary`  | [Source-to-Pay Suites](/reports/source-to-pay-suites.md#report-2026) |

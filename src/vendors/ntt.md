@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                                                              |
+| MQ Position    | MQ Report                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`       | [Global WAN Services](/reports/global-wan-services.md#report-2026)                                                                     |
 | `Visionary`    | [Managed IoT Connectivity Services, Worldwide](/reports/managed-iot-connectivity-services.md#report-2026)                              |

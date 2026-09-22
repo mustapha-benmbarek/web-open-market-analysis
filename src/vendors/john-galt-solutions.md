@@ -8,7 +8,7 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                                                                            |
+| MQ Position  | MQ Report                                                                                                                            |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | `Visionary`  | [Supply Chain Planning Solutions (Discrete Industries)](/reports/supply-chain-planning-solutions-discrete-industries.md#report-2026) |
 | `Visionary`  | [Supply Chain Planning Solutions (Process Industries)](/reports/supply-chain-planning-solutions-process-industries.md#report-2026)   |

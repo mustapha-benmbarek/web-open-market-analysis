@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                  |
+| MQ Position  | MQ Report                                                                  |
 | ------------ | -------------------------------------------------------------------------- |
 | `Leader`     | [Personalization Engines](/reports/personalization-engines.md#report-2026) |

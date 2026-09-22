@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                                      |
+| MQ Position  | MQ Report                                                                                      |
 | ------------ | ---------------------------------------------------------------------------------------------- |
 | `Visionary`  | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026) |

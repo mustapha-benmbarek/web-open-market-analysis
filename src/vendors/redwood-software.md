@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                                |
+| MQ Position  | MQ Report                                                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | `Leader`     | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
 
@@ -18,6 +18,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                                                |
+| MQ Position  | MQ Report                                                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | `Leader`     | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025) |

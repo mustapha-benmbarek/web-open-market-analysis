@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                                        |
+| MQ Position  | MQ Report                                                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Leader`     | [Intelligent Document Processing](/reports/intelligent-document-processing.md#report-2026)                                       |
@@ -21,7 +21,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                                                        |
+| MQ Position  | MQ Report                                                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [AI-Augmented Software Testing Tools](/reports/ai-augmented-software-testing-tools.md#report-2025)                               |
 | `Challenger` | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |

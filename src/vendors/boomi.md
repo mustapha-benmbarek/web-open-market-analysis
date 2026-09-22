@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                                                        |
+| MQ Position    | MQ Report                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                   |
@@ -20,7 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                                                                        |
+| MQ Position    | MQ Report                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`       | [API Management](/reports/api-management.md#report-2025)                                                                         |
 | `Niche Player` | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |
@@ -31,7 +31,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| MQ Position    | MQ Vendor                                                                                      |
+| MQ Position    | MQ Report                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------- |
 | `Niche Player` | [API Management](/reports/api-management.md#report-2024)                                       |
 | `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024) |

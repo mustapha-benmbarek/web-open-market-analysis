@@ -10,14 +10,14 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Vendor Position   | Market Report                                                                                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Leader`          | [Specialist Supply Chain Strategy, Planning and Operations Consulting](/reports/specialist-supply-chain-strategy-planning-and-operations-consulting.md#report-2026) |
+| MQ Position   | MQ Report                                                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`      | [Specialist Supply Chain Strategy, Planning and Operations Consulting](/reports/specialist-supply-chain-strategy-planning-and-operations-consulting.md#report-2026) |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Vendor Position   | Market Report                                                            |
-| ----------------- | ------------------------------------------------------------------------ |
-| `Leader`          | [Fourth-Party Logistics](/reports/fourth-party-logistics.md#report-2025) |
+| MQ Position   | MQ Report                                                                |
+| ------------- | ------------------------------------------------------------------------ |
+| `Leader`      | [Fourth-Party Logistics](/reports/fourth-party-logistics.md#report-2025) |

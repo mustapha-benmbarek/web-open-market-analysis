@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position    | MQ Vendor                                                          |
+| MQ Position    | MQ Report                                                          |
 | -------------- | ------------------------------------------------------------------ |
 | `Niche Player` | [Document Management](/reports/document-management.md#report-2026) |

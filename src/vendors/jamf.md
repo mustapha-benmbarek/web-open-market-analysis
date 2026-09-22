@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                      |
+| MQ Position  | MQ Report                                                                      |
 | ------------ | ------------------------------------------------------------------------------ |
 | `Leader`     | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026) |

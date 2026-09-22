@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                                                        |
+| MQ Position    | MQ Report                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`       | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Niche Player` | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)             |
@@ -22,7 +22,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                                                        |
+| MQ Position  | MQ Report                                                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |
 | `Leader`     | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2025)                   |
@@ -33,7 +33,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| MQ Position  | MQ Vendor                                                                                                      |
+| MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024) |
 | `Visionary`  | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                               |

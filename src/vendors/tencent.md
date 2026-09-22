@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                            |
+| MQ Position    | MQ Report                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | `Challenger`   | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                           |
 | `Niche Player` | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)     |
@@ -23,7 +23,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                                            |
+| MQ Position    | MQ Report                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | `Challenger`   | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025) |
 | `Niche Player` | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                     |

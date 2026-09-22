@@ -8,7 +8,7 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position    | MQ Vendor                                                                          |
+| MQ Position    | MQ Report                                                                          |
 | -------------- | ---------------------------------------------------------------------------------- |
 | `Niche Player` | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                    |
 | `Niche Player` | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026) |

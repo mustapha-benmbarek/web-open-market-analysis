@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                                                              |
+| MQ Position    | MQ Report                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                       |
 | `Niche Player` | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026)     |
@@ -20,7 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                                                                          |
+| MQ Position    | MQ Report                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [4G and 5G Private Mobile Network Services](/reports/4g-and-5g-private-mobile-network-services.md#report-2025)                     |
 | `Niche Player` | [Data Center Outsourcing Services](/reports/data-center-outsourcing-services.md#report-2025)                                       |

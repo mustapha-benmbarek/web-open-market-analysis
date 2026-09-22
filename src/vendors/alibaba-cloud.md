@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                                 |
+| MQ Position  | MQ Report                                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | `Challenger` | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
 | `Challenger` | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
@@ -28,7 +28,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                                                              |
+| MQ Position    | MQ Report                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Access Management](/reports/access-management.md#report-2025)                                                         |
 | `Challenger`   | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                   |
@@ -46,7 +46,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| MQ Position    | MQ Vendor                                                                                                              |
+| MQ Position    | MQ Report                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `Challenger`   | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
 | `Challenger`   | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |

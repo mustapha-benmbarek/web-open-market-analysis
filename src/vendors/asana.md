@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                      |
+| MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2026) |
 
@@ -18,7 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                                      |
+| MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2025) |
 | `Leader`     | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2025)                         |
@@ -28,7 +28,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| MQ Position    | MQ Vendor                                                                                                      |
+| MQ Position    | MQ Report                                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`       | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2024) |
 | `Leader`       | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2024)                         |

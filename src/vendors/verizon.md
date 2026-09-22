@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Vendor                                                                                                      |
+| MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [4G and 5G Private Mobile Network Services](/reports/4g-and-5g-private-mobile-network-services.md#report-2026) |
 | `Leader`     | [Global WAN Services](/reports/global-wan-services.md#report-2026)                                             |
@@ -20,7 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Vendor                                                                                                      |
+| MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [4G and 5G Private Mobile Network Services](/reports/4g-and-5g-private-mobile-network-services.md#report-2025) |
 | `Leader`     | [Global WAN Services](/reports/global-wan-services.md#report-2025)                                             |

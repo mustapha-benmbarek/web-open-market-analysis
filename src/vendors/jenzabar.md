@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position    | MQ Vendor                                                                                                                     |
+| MQ Position    | MQ Report                                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Higher Education SaaS Student Information Systems](/reports/higher-education-student-information-system-saas.md#report-2026) |

@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                            |
+| MQ Position    | MQ Report                                                            |
 | -------------- | -------------------------------------------------------------------- |
 | `Visionary`    | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)   |
 | `Leader`       | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2026) |
@@ -20,7 +20,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                    |
+| MQ Position    | MQ Report                                                                    |
 | -------------- | ---------------------------------------------------------------------------- |
 | `Leader`       | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2025)         |
 | `Leader`       | [Email Security](/reports/email-security.md#report-2025)                     |
@@ -31,7 +31,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| MQ Position    | MQ Vendor                                                                                                                          |
+| MQ Position    | MQ Report                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2024)                                                     |
 | `Niche Player` | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024)       |

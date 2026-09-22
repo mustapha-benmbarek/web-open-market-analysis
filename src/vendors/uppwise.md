@@ -10,7 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position    | MQ Vendor                                                                                                      |
+| MQ Position    | MQ Report                                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2026) |
 | `Niche Player` | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2026)                       |
@@ -19,6 +19,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Vendor                                                                                |
+| MQ Position    | MQ Report                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------- |
 | `Niche Player` | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2025) |

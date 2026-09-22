@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| MQ Position  | MQ Vendor                                                                                   |
+| MQ Position  | MQ Report                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | `Leader`     | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026) |
