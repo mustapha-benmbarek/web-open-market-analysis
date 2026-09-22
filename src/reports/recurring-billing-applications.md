@@ -21,25 +21,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/recurring-billing-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Zuora](/vendors/zuora.md)                     |
-| `Leader`        | [BillingPlatform](/vendors/billingplatform.md) |
-| `Leader`        | [keylight](/vendors/keylight.md)               |
-| `Leader`        | [Chargebee](/vendors/chargebee.md)             |
-| `Leader`        | [Stripe](/vendors/stripe.md)                   |
-| `Visionary`     | [OneBill](/vendors/onebill.md)                 |
-| `Visionary`     | [Frisbi](/vendors/frisbi.md)                   |
-| `Niche Player`  | [Salesforce](/vendors/salesforce.md)           |
-| `Niche Player`  | [Aria Systems](/vendors/aria-systems.md)       |
-| `Niche Player`  | [Oracle](/vendors/oracle.md)                   |
-| `Niche Player`  | [RecVue](/vendors/recvue.md)                   |
-| `Niche Player`  | [Maxio](/vendors/maxio.md)                     |
-| `Niche Player`  | [Recurly](/vendors/recurly.md)                 |
-| `Niche Player`  | [Gotransverse](/vendors/gotransverse.md)       |
-| `Niche Player`  | [AppDirect](/vendors/appdirect.md)             |
-| `Niche Player`  | [LogiSense](/vendors/logisense.md)             |
-| `Challenger`    | [SAP](/vendors/sap.md)                         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Zuora](/vendors/zuora.md)                     |
+| `Leader`       | [BillingPlatform](/vendors/billingplatform.md) |
+| `Leader`       | [keylight](/vendors/keylight.md)               |
+| `Leader`       | [Chargebee](/vendors/chargebee.md)             |
+| `Leader`       | [Stripe](/vendors/stripe.md)                   |
+| `Visionary`    | [OneBill](/vendors/onebill.md)                 |
+| `Visionary`    | [Frisbi](/vendors/frisbi.md)                   |
+| `Niche Player` | [Salesforce](/vendors/salesforce.md)           |
+| `Niche Player` | [Aria Systems](/vendors/aria-systems.md)       |
+| `Niche Player` | [Oracle](/vendors/oracle.md)                   |
+| `Niche Player` | [RecVue](/vendors/recvue.md)                   |
+| `Niche Player` | [Maxio](/vendors/maxio.md)                     |
+| `Niche Player` | [Recurly](/vendors/recurly.md)                 |
+| `Niche Player` | [Gotransverse](/vendors/gotransverse.md)       |
+| `Niche Player` | [AppDirect](/vendors/appdirect.md)             |
+| `Niche Player` | [LogiSense](/vendors/logisense.md)             |
+| `Challenger`   | [SAP](/vendors/sap.md)                         |
 
 ## Report 2025
 
@@ -48,25 +48,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/recurring-billing-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Stripe](/vendors/stripe.md)                   |
-| `Leader`        | [Zuora](/vendors/zuora.md)                     |
-| `Leader`        | [BillingPlatform](/vendors/billingplatform.md) |
-| `Leader`        | [keylight](/vendors/keylight.md)               |
-| `Leader`        | [Chargebee](/vendors/chargebee.md)             |
-| `Niche Player`  | [RecVue](/vendors/recvue.md)                   |
-| `Niche Player`  | [Recurly](/vendors/recurly.md)                 |
-| `Niche Player`  | [Gotransverse](/vendors/gotransverse.md)       |
-| `Niche Player`  | [Frisbii](/vendors/frisbii.md)                 |
-| `Niche Player`  | [AppDirect](/vendors/appdirect.md)             |
-| `Niche Player`  | [Maxio](/vendors/maxio.md)                     |
-| `Niche Player`  | [LogiSense](/vendors/logisense.md)             |
-| `Niche Player`  | [BluLogix](/vendors/blulogix.md)               |
-| `Challenger`    | [SAP](/vendors/sap.md)                         |
-| `Challenger`    | [OneBill](/vendors/onebill.md)                 |
-| `Challenger`    | [Aria Systems](/vendors/aria-systems.md)       |
-| `Challenger`    | [Oracle](/vendors/oracle.md)                   |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Stripe](/vendors/stripe.md)                   |
+| `Leader`       | [Zuora](/vendors/zuora.md)                     |
+| `Leader`       | [BillingPlatform](/vendors/billingplatform.md) |
+| `Leader`       | [keylight](/vendors/keylight.md)               |
+| `Leader`       | [Chargebee](/vendors/chargebee.md)             |
+| `Niche Player` | [RecVue](/vendors/recvue.md)                   |
+| `Niche Player` | [Recurly](/vendors/recurly.md)                 |
+| `Niche Player` | [Gotransverse](/vendors/gotransverse.md)       |
+| `Niche Player` | [Frisbii](/vendors/frisbii.md)                 |
+| `Niche Player` | [AppDirect](/vendors/appdirect.md)             |
+| `Niche Player` | [Maxio](/vendors/maxio.md)                     |
+| `Niche Player` | [LogiSense](/vendors/logisense.md)             |
+| `Niche Player` | [BluLogix](/vendors/blulogix.md)               |
+| `Challenger`   | [SAP](/vendors/sap.md)                         |
+| `Challenger`   | [OneBill](/vendors/onebill.md)                 |
+| `Challenger`   | [Aria Systems](/vendors/aria-systems.md)       |
+| `Challenger`   | [Oracle](/vendors/oracle.md)                   |
 
 ## Report 2024
 
@@ -75,22 +75,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/recurring-billing-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [BillingPlatform](/vendors/billingplatform.md)   |
-| `Leader`        | [Stripe](/vendors/stripe.md)                     |
-| `Leader`        | [SAP](/vendors/sap.md)                           |
-| `Leader`        | [Zuora](/vendors/zuora.md)                       |
-| `Leader`        | [Chargebee](/vendors/chargebee.md)               |
-| `Visionary`     | [keylight](/vendors/keylight.md)                 |
-| `Visionary`     | [OneBill Software](/vendors/onebill-software.md) |
-| `Niche Player`  | [Recurly](/vendors/recurly.md)                   |
-| `Niche Player`  | [CSG](/vendors/csg.md)                           |
-| `Niche Player`  | [Salesforce](/vendors/salesforce.md)             |
-| `Niche Player`  | [RecVue](/vendors/recvue.md)                     |
-| `Niche Player`  | [Billwerk+](/vendors/billwerk+.md)               |
-| `Niche Player`  | [Gotransverse](/vendors/gotransverse.md)         |
-| `Niche Player`  | [AppDirect](/vendors/appdirect.md)               |
-| `Niche Player`  | [LogiSense](/vendors/logisense.md)               |
-| `Niche Player`  | [Maxio](/vendors/maxio.md)                       |
-| `Challenger`    | [Aria Systems](/vendors/aria-systems.md)         |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [BillingPlatform](/vendors/billingplatform.md)   |
+| `Leader`       | [Stripe](/vendors/stripe.md)                     |
+| `Leader`       | [SAP](/vendors/sap.md)                           |
+| `Leader`       | [Zuora](/vendors/zuora.md)                       |
+| `Leader`       | [Chargebee](/vendors/chargebee.md)               |
+| `Visionary`    | [keylight](/vendors/keylight.md)                 |
+| `Visionary`    | [OneBill Software](/vendors/onebill-software.md) |
+| `Niche Player` | [Recurly](/vendors/recurly.md)                   |
+| `Niche Player` | [CSG](/vendors/csg.md)                           |
+| `Niche Player` | [Salesforce](/vendors/salesforce.md)             |
+| `Niche Player` | [RecVue](/vendors/recvue.md)                     |
+| `Niche Player` | [Billwerk+](/vendors/billwerk+.md)               |
+| `Niche Player` | [Gotransverse](/vendors/gotransverse.md)         |
+| `Niche Player` | [AppDirect](/vendors/appdirect.md)               |
+| `Niche Player` | [LogiSense](/vendors/logisense.md)               |
+| `Niche Player` | [Maxio](/vendors/maxio.md)                       |
+| `Challenger`   | [Aria Systems](/vendors/aria-systems.md)         |

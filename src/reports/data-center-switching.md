@@ -21,16 +21,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/data-center-switching.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                           |
-| --------------- | ------------------------------------------------------- |
-| `Leader`        | [Arista Networks](/vendors/arista-networks.md)          |
-| `Leader`        | [Cisco](/vendors/cisco.md)                              |
-| `Leader`        | [Huawei](/vendors/huawei.md)                            |
-| `Leader`        | [Juniper Networks](/vendors/juniper-networks.md)        |
-| `Visionary`     | [Dell Technologies](/vendors/dell.md)                   |
-| `Visionary`     | [Nokia](/vendors/nokia.md)                              |
-| `Niche Player`  | [H3C](/vendors/h3c.md)                                  |
-| `Niche Player`  | [Alcatel-Lucent Enterprise](/vendors/alcatel-lucent.md) |
-| `Niche Player`  | [Extreme Networks](/vendors/extreme-networks.md)        |
-| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                      |
-| `Challenger`    | [NVIDIA](/vendors/nvidia.md)                            |
+| MQ Position    | MQ Vendor                                               |
+| -------------- | ------------------------------------------------------- |
+| `Leader`       | [Arista Networks](/vendors/arista-networks.md)          |
+| `Leader`       | [Cisco](/vendors/cisco.md)                              |
+| `Leader`       | [Huawei](/vendors/huawei.md)                            |
+| `Leader`       | [Juniper Networks](/vendors/juniper-networks.md)        |
+| `Visionary`    | [Dell Technologies](/vendors/dell.md)                   |
+| `Visionary`    | [Nokia](/vendors/nokia.md)                              |
+| `Niche Player` | [H3C](/vendors/h3c.md)                                  |
+| `Niche Player` | [Alcatel-Lucent Enterprise](/vendors/alcatel-lucent.md) |
+| `Niche Player` | [Extreme Networks](/vendors/extreme-networks.md)        |
+| `Challenger`   | [HPE](/vendors/hewlett-packard.md)                      |
+| `Challenger`   | [NVIDIA](/vendors/nvidia.md)                            |

@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/ai-code-assistants.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [GitHub](/vendors/github.md)                 |
-| `Leader`        | [Amazon](/vendors/amazon.md)                 |
-| `Leader`        | [Cognition (Windsurf)](vendors/cognition.md) |
-| `Leader`        | [GitLab](/vendors/gitlab.md)                 |
-| `Leader`        | [Google Cloud](/vendors/google-cloud.md)     |
-| `Visionary`     | [Harness](/vendors/harness.md)               |
-| `Visionary`     | [Qodo](/vendors/qodo.md)                     |
-| `Visionary`     | [Tabnine](/vendors/tabnine.md)               |
-| `Visionary`     | [Augment Code](/vendors/augment-code.md)     |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)         |
-| `Niche Player`  | [IBM](/vendors/ibm.md)                       |
-| `Niche Player`  | [JetBrains](/vendors/jetbrains.md)           |
-| `Challenger`    | [Anysphere (Cursor)](/vendors/anysphere.md)  |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)   |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [GitHub](/vendors/github.md)                 |
+| `Leader`       | [Amazon](/vendors/amazon.md)                 |
+| `Leader`       | [Cognition (Windsurf)](vendors/cognition.md) |
+| `Leader`       | [GitLab](/vendors/gitlab.md)                 |
+| `Leader`       | [Google Cloud](/vendors/google-cloud.md)     |
+| `Visionary`    | [Harness](/vendors/harness.md)               |
+| `Visionary`    | [Qodo](/vendors/qodo.md)                     |
+| `Visionary`    | [Tabnine](/vendors/tabnine.md)               |
+| `Visionary`    | [Augment Code](/vendors/augment-code.md)     |
+| `Niche Player` | [Tencent Cloud](/vendors/tencent.md)         |
+| `Niche Player` | [IBM](/vendors/ibm.md)                       |
+| `Niche Player` | [JetBrains](/vendors/jetbrains.md)           |
+| `Challenger`   | [Anysphere (Cursor)](/vendors/anysphere.md)  |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)   |
 
 ## Report 2024
 
@@ -45,17 +45,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/ai-code-assistants.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [GitHub](/vendors/github.md)               |
-| `Leader`        | [GitLab](/vendors/gitlab.md)               |
-| `Leader`        | [Google Cloud](/vendors/google-cloud.md)   |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Visionary`     | [Sourcegraph](/vendors/sourcegraph.md)     |
-| `Niche Player`  | [Tabnine](/vendors/tabnine.md)             |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
-| `Niche Player`  | [CodiumAI](/vendors/codiumai.md)           |
-| `Niche Player`  | [Refact.ai](/vendors/refact.ai.md)         |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Challenger`    | [Codeium](/vendors/codeium.md)             |
-| `Challenger`    | [IBM](/vendors/ibm.md)                     |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [GitHub](/vendors/github.md)               |
+| `Leader`       | [GitLab](/vendors/gitlab.md)               |
+| `Leader`       | [Google Cloud](/vendors/google-cloud.md)   |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Visionary`    | [Sourcegraph](/vendors/sourcegraph.md)     |
+| `Niche Player` | [Tabnine](/vendors/tabnine.md)             |
+| `Niche Player` | [Tencent Cloud](/vendors/tencent.md)       |
+| `Niche Player` | [CodiumAI](/vendors/codiumai.md)           |
+| `Niche Player` | [Refact.ai](/vendors/refact.ai.md)         |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Challenger`   | [Codeium](/vendors/codeium.md)             |
+| `Challenger`   | [IBM](/vendors/ibm.md)                     |

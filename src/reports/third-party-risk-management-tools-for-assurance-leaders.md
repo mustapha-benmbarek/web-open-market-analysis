@@ -27,20 +27,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/third-party-risk-management-tools-for-assurance-leaders.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Diligent](/vendors/diligent.md)           |
-| `Leader`        | [OneTrust](/vendors/onetrust.md)           |
-| `Leader`        | [Certa](/vendors/certa.md)                 |
-| `Leader`        | [Aravo](/vendors/aravo.md)                 |
-| `Leader`        | [Optro](/vendors/optro.md)                 |
-| `Visionary`     | [SAI360](/vendors/sai360.md)               |
-| `Niche Player`  | [NAVEX](/vendors/navex.md)                 |
-| `Niche Player`  | [LogicManager](/vendors/logicmanager.md)   |
-| `Niche Player`  | [Onspring](/vendors/onspring.md)           |
-| `Challenger`    | [ProcessUnity](/vendors/processunity.md)   |
-| `Challenger`    | [Riskonnect](/vendors/riskonnect.md)       |
-| `Challenger`    | [MetricStream](/vendors/metricstream.md)   |
-| `Challenger`    | [Archer](/vendors/archer.md)               |
-| `Challenger`    | [LogicGate](/vendors/logicgate.md)         |
-| `Challenger`    | [GAN Integrity](/vendors/gan-integrity.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Diligent](/vendors/diligent.md)           |
+| `Leader`       | [OneTrust](/vendors/onetrust.md)           |
+| `Leader`       | [Certa](/vendors/certa.md)                 |
+| `Leader`       | [Aravo](/vendors/aravo.md)                 |
+| `Leader`       | [Optro](/vendors/optro.md)                 |
+| `Visionary`    | [SAI360](/vendors/sai360.md)               |
+| `Niche Player` | [NAVEX](/vendors/navex.md)                 |
+| `Niche Player` | [LogicManager](/vendors/logicmanager.md)   |
+| `Niche Player` | [Onspring](/vendors/onspring.md)           |
+| `Challenger`   | [ProcessUnity](/vendors/processunity.md)   |
+| `Challenger`   | [Riskonnect](/vendors/riskonnect.md)       |
+| `Challenger`   | [MetricStream](/vendors/metricstream.md)   |
+| `Challenger`   | [Archer](/vendors/archer.md)               |
+| `Challenger`   | [LogicGate](/vendors/logicgate.md)         |
+| `Challenger`   | [GAN Integrity](/vendors/gan-integrity.md) |

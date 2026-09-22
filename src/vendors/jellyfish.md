@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------ |
-| `Leader`        | [Developer Productivity Insight Platforms](/reports/developer-productivity-insight-platforms.md#report-2026) |
+| MQ Position  | MQ Vendor                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------ |
+| `Leader`     | [Developer Productivity Insight Platforms](/reports/developer-productivity-insight-platforms.md#report-2026) |

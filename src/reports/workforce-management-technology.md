@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/workforce-management-technology.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Dayforce](/vendors/dayforce.md)                       |
-| `Leader`        | [UKG](/vendors/ukg.md)                                 |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [SAP](/vendors/sap.md)                                 |
-| `Leader`        | [Workday](/vendors/workday.md)                         |
-| `Leader`        | [Quinyx](/vendors/quinyx.md)                           |
-| `Leader`        | [Infor](/vendors/infor.md)                             |
-| `Visionary`     | [Legion Technologies](/vendors/legion-technologies.md) |
-| `Visionary`     | [Blue Yonder](/vendors/blue-yonder.md)                 |
-| `Niche Player`  | [ATOSS](/vendors/atoss.md)                             |
-| `Niche Player`  | [Zebra Technologies](/vendors/zebra-technologies.md)   |
-| `Niche Player`  | [plano solutions](/vendors/plano-solutions.md)         |
-| `Niche Player`  | [Protime](/vendors/protime.md)                         |
-| `Niche Player`  | [Kelio](/vendors/kelio.md)                             |
-| `Niche Player`  | [Zucchetti](/vendors/zucchetti.md)                     |
-| `Challenger`    | [SISQUAL WFM](/vendors/sisqual-wfm.md)                 |
-| `Challenger`    | [ADP](/vendors/adp.md)                                 |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Dayforce](/vendors/dayforce.md)                       |
+| `Leader`       | [UKG](/vendors/ukg.md)                                 |
+| `Leader`       | [Oracle](/vendors/oracle.md)                           |
+| `Leader`       | [SAP](/vendors/sap.md)                                 |
+| `Leader`       | [Workday](/vendors/workday.md)                         |
+| `Leader`       | [Quinyx](/vendors/quinyx.md)                           |
+| `Leader`       | [Infor](/vendors/infor.md)                             |
+| `Visionary`    | [Legion Technologies](/vendors/legion-technologies.md) |
+| `Visionary`    | [Blue Yonder](/vendors/blue-yonder.md)                 |
+| `Niche Player` | [ATOSS](/vendors/atoss.md)                             |
+| `Niche Player` | [Zebra Technologies](/vendors/zebra-technologies.md)   |
+| `Niche Player` | [plano solutions](/vendors/plano-solutions.md)         |
+| `Niche Player` | [Protime](/vendors/protime.md)                         |
+| `Niche Player` | [Kelio](/vendors/kelio.md)                             |
+| `Niche Player` | [Zucchetti](/vendors/zucchetti.md)                     |
+| `Challenger`   | [SISQUAL WFM](/vendors/sisqual-wfm.md)                 |
+| `Challenger`   | [ADP](/vendors/adp.md)                                 |

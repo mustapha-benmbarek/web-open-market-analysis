@@ -23,22 +23,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/financial-close-and-consolidation-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [OneStream](/vendors/onestream.md)             |
-| `Leader`        | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
-| `Niche Player`  | [Vena](/vendors/vena.md)                       |
-| `Niche Player`  | [Infor](/vendors/infor.md)                     |
-| `Niche Player`  | [insightsoftware](/vendors/insightsoftware.md) |
-| `Niche Player`  | [Prophix](/vendors/prophix.md)                 |
-| `Niche Player`  | [Jedox](/vendors/jedox.md)                     |
-| `Challenger`    | [BlackLine](/vendors/blackline.md)             |
-| `Challenger`    | [Anaplan](/vendors/anaplan.md)                 |
-| `Challenger`    | [HighRadius](/vendors/highradius.md)           |
-| `Challenger`    | [Board](/vendors/board.md)                     |
-| `Challenger`    | [Planful](/vendors/planful.md)                 |
-| `Challenger`    | [IBM](/vendors/ibm.md)                         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [OneStream](/vendors/onestream.md)             |
+| `Leader`       | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
+| `Niche Player` | [Vena](/vendors/vena.md)                       |
+| `Niche Player` | [Infor](/vendors/infor.md)                     |
+| `Niche Player` | [insightsoftware](/vendors/insightsoftware.md) |
+| `Niche Player` | [Prophix](/vendors/prophix.md)                 |
+| `Niche Player` | [Jedox](/vendors/jedox.md)                     |
+| `Challenger`   | [BlackLine](/vendors/blackline.md)             |
+| `Challenger`   | [Anaplan](/vendors/anaplan.md)                 |
+| `Challenger`   | [HighRadius](/vendors/highradius.md)           |
+| `Challenger`   | [Board](/vendors/board.md)                     |
+| `Challenger`   | [Planful](/vendors/planful.md)                 |
+| `Challenger`   | [IBM](/vendors/ibm.md)                         |
 
 ## Report 2025
 
@@ -47,20 +47,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/financial-close-and-consolidation-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [OneStream](/vendors/onestream.md)             |
-| `Leader`        | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
-| `Niche Player`  | [Vena](/vendors/vena.md)                       |
-| `Niche Player`  | [Lucanet](/vendors/lucanet.md)                 |
-| `Niche Player`  | [insightsoftware](/vendors/insightsoftware.md) |
-| `Niche Player`  | [Prophix](/vendors/prophix.md)                 |
-| `Niche Player`  | [Jedox](/vendors/jedox.md)                     |
-| `Niche Player`  | [Solver](/vendors/solver.md)                   |
-| `Challenger`    | [BlackLine](/vendors/blackline.md)             |
-| `Challenger`    | [IBM](/vendors/ibm.md)                         |
-| `Challenger`    | [Planful](/vendors/planful.md)                 |
-| `Challenger`    | [Anaplan](/vendors/anaplan.md)                 |
-| `Challenger`    | [Board](/vendors/board.md)                     |
-| `Challenger`    | [HighRadius](/vendors/highradius.md)           |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [OneStream](/vendors/onestream.md)             |
+| `Leader`       | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
+| `Niche Player` | [Vena](/vendors/vena.md)                       |
+| `Niche Player` | [Lucanet](/vendors/lucanet.md)                 |
+| `Niche Player` | [insightsoftware](/vendors/insightsoftware.md) |
+| `Niche Player` | [Prophix](/vendors/prophix.md)                 |
+| `Niche Player` | [Jedox](/vendors/jedox.md)                     |
+| `Niche Player` | [Solver](/vendors/solver.md)                   |
+| `Challenger`   | [BlackLine](/vendors/blackline.md)             |
+| `Challenger`   | [IBM](/vendors/ibm.md)                         |
+| `Challenger`   | [Planful](/vendors/planful.md)                 |
+| `Challenger`   | [Anaplan](/vendors/anaplan.md)                 |
+| `Challenger`   | [Board](/vendors/board.md)                     |
+| `Challenger`   | [HighRadius](/vendors/highradius.md)           |

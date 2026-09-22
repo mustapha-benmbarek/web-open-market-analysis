@@ -21,24 +21,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/application-security-testing.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Black Duck](/vendors/black-duck.md)               |
-| `Leader`        | [Checkmarx](/vendors/checkmarx.md)                 |
-| `Leader`        | [Veracode](/vendors/veracode.md)                   |
-| `Leader`        | [Snyk](/vendors/snyk.md)                           |
-| `Leader`        | [OpenText](/vendors/opentext.md)                   |
-| `Leader`        | [HCLSoftware ](/vendors/hcl.md)                    |
-| `Visionary`     | [JFrog](/vendors/jfrog.md)                         |
-| `Visionary`     | [Sonatype](/vendors/sonatype.md)                   |
-| `Visionary`     | [Contrast Security](/vendors/contrast-security.md) |
-| `Visionary`     | [Mend.io](/vendors/mend.io.md)                     |
-| `Niche Player`  | [Semgrep](/vendors/semgrep.md)                     |
-| `Niche Player`  | [Cycode](/vendors/cycode.md)                       |
-| `Niche Player`  | [Apiiro](/vendors/apiiro.md)                       |
-| `Challenger`    | [GitHub](/vendors/github.md)                       |
-| `Challenger`    | [GitLab](/vendors/gitlab.md)                       |
-| `Challenger`    | [Data Theorem](/vendors/data-theorem.md)           |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Black Duck](/vendors/black-duck.md)               |
+| `Leader`       | [Checkmarx](/vendors/checkmarx.md)                 |
+| `Leader`       | [Veracode](/vendors/veracode.md)                   |
+| `Leader`       | [Snyk](/vendors/snyk.md)                           |
+| `Leader`       | [OpenText](/vendors/opentext.md)                   |
+| `Leader`       | [HCLSoftware ](/vendors/hcl.md)                    |
+| `Visionary`    | [JFrog](/vendors/jfrog.md)                         |
+| `Visionary`    | [Sonatype](/vendors/sonatype.md)                   |
+| `Visionary`    | [Contrast Security](/vendors/contrast-security.md) |
+| `Visionary`    | [Mend.io](/vendors/mend.io.md)                     |
+| `Niche Player` | [Semgrep](/vendors/semgrep.md)                     |
+| `Niche Player` | [Cycode](/vendors/cycode.md)                       |
+| `Niche Player` | [Apiiro](/vendors/apiiro.md)                       |
+| `Challenger`   | [GitHub](/vendors/github.md)                       |
+| `Challenger`   | [GitLab](/vendors/gitlab.md)                       |
+| `Challenger`   | [Data Theorem](/vendors/data-theorem.md)           |
 
 ## Report 2024
 
@@ -47,17 +47,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/application-security-testing.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Synopsys](/vendors/synopsys.md)                   |
-| `Leader`        | [Veracode](/vendors/veracode.md)                   |
-| `Leader`        | [Checkmarx](/vendors/checkmarx.md)                 |
-| `Leader`        | [OpenText](/vendors/opentext.md)                   |
-| `Leader`        | [Snyk](/vendors/snyk.md)                           |
-| `Visionary`     | [Contrast Security](/vendors/contrast-security.md) |
-| `Visionary`     | [Mend.io](/vendors/mend.io.md)                     |
-| `Niche Player`  | [Onapsis](/vendors/onapsis.md)                     |
-| `Niche Player`  | [Sonatype](/vendors/sonatype.md)                   |
-| `Challenger`    | [GitLab](/vendors/gitlab.md)                       |
-| `Challenger`    | [HCLSoftware](/vendors/hcl.md)                     |
-| `Challenger`    | [GitHub](/vendors/github.md)                       |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Synopsys](/vendors/synopsys.md)                   |
+| `Leader`       | [Veracode](/vendors/veracode.md)                   |
+| `Leader`       | [Checkmarx](/vendors/checkmarx.md)                 |
+| `Leader`       | [OpenText](/vendors/opentext.md)                   |
+| `Leader`       | [Snyk](/vendors/snyk.md)                           |
+| `Visionary`    | [Contrast Security](/vendors/contrast-security.md) |
+| `Visionary`    | [Mend.io](/vendors/mend.io.md)                     |
+| `Niche Player` | [Onapsis](/vendors/onapsis.md)                     |
+| `Niche Player` | [Sonatype](/vendors/sonatype.md)                   |
+| `Challenger`   | [GitLab](/vendors/gitlab.md)                       |
+| `Challenger`   | [HCLSoftware](/vendors/hcl.md)                     |
+| `Challenger`   | [GitHub](/vendors/github.md)                       |

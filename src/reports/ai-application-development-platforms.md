@@ -31,16 +31,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/ai-application-development-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                |
-| --------------- | ---------------------------------------------------------------------------- |
-| `Leader`        | [Google](/vendors/google.md)                                                 |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                                    |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                                           |
-| `Leader`        | [IBM](/vendors/ibm.md)                                                       |
-| `Visionary`     | [OpenAI](/vendors/openai.md)                                                 |
-| `Niche Player`  | [CoreWeaver (Weigths & Biases)](</vendors/coreweaver-(weigths-&-biases).md>) |
-| `Challenger`    | [Volcano Engine](/vendors/volcano-engine.md)                                 |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)                                   |
-| `Challenger`    | [Palantir](/vendors/palantir.md)                                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                                         |
-| `Challenger`    | [LangChain](/vendors/langchain.md)                                           |
+| MQ Position    | MQ Vendor                                                                    |
+| -------------- | ---------------------------------------------------------------------------- |
+| `Leader`       | [Google](/vendors/google.md)                                                 |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)                                    |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                                           |
+| `Leader`       | [IBM](/vendors/ibm.md)                                                       |
+| `Visionary`    | [OpenAI](/vendors/openai.md)                                                 |
+| `Niche Player` | [CoreWeaver (Weigths & Biases)](</vendors/coreweaver-(weigths-&-biases).md>) |
+| `Challenger`   | [Volcano Engine](/vendors/volcano-engine.md)                                 |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)                                   |
+| `Challenger`   | [Palantir](/vendors/palantir.md)                                             |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)                                         |
+| `Challenger`   | [LangChain](/vendors/langchain.md)                                           |

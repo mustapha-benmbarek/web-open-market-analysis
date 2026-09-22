@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------- |
-| `Leader`        | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026) |
+| MQ Position  | MQ Vendor                                                                                            |
+| ------------ | ---------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026) |

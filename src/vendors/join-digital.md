@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |
+| MQ Position    | MQ Vendor                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |

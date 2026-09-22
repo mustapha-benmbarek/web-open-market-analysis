@@ -21,19 +21,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/sales-force-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)     |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)       |
-| `Leader`        | [Oracle](/vendors/oracle.md)             |
-| `Visionary`     | [Creatio](/vendors/creatio.md)           |
-| `Visionary`     | [Zoho](/vendors/zoho.md)                 |
-| `Niche Player`  | [BUSINESSNEXT](/vendors/businessnext.md) |
-| `Niche Player`  | [SugaCRM](/vendors/sugacrm.md)           |
-| `Niche Player`  | [HubSpot](/vendors/hubspot.md)           |
-| `Niche Player`  | [Neocm](/vendors/neocm.md)               |
-| `Niche Player`  | [monday.com](/vendors/monday.com.md)     |
-| `Niche Player`  | [Vtiger](/vendors/vtiger.md)             |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)     |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)       |
+| `Leader`       | [Oracle](/vendors/oracle.md)             |
+| `Visionary`    | [Creatio](/vendors/creatio.md)           |
+| `Visionary`    | [Zoho](/vendors/zoho.md)                 |
+| `Niche Player` | [BUSINESSNEXT](/vendors/businessnext.md) |
+| `Niche Player` | [SugaCRM](/vendors/sugacrm.md)           |
+| `Niche Player` | [HubSpot](/vendors/hubspot.md)           |
+| `Niche Player` | [Neocm](/vendors/neocm.md)               |
+| `Niche Player` | [monday.com](/vendors/monday.com.md)     |
+| `Niche Player` | [Vtiger](/vendors/vtiger.md)             |
 
 ## Report 2024
 
@@ -42,18 +42,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/sales-force-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)     |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)       |
-| `Leader`        | [Oracle](/vendors/oracle.md)             |
-| `Visionary`     | [Zoho](/vendors/zoho.md)                 |
-| `Visionary`     | [Creatio](/vendors/creatio.md)           |
-| `Niche Player`  | [BUSINESSNEXT](/vendors/businessnext.md) |
-| `Niche Player`  | [Neocm](/vendors/neocm.md)               |
-| `Niche Player`  | [HubSpot](/vendors/hubspot.md)           |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)     |
-| `Niche Player`  | [Vtiger](/vendors/vtiger.md)             |
-| `Challenger`    | [Pega](/vendors/pega.md)                 |
-| `Challenger`    | [SAP](/vendors/sap.md)                   |
-| `Challenger`    | [SugaCRM](/vendors/sugacrm.md)           |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)     |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)       |
+| `Leader`       | [Oracle](/vendors/oracle.md)             |
+| `Visionary`    | [Zoho](/vendors/zoho.md)                 |
+| `Visionary`    | [Creatio](/vendors/creatio.md)           |
+| `Niche Player` | [BUSINESSNEXT](/vendors/businessnext.md) |
+| `Niche Player` | [Neocm](/vendors/neocm.md)               |
+| `Niche Player` | [HubSpot](/vendors/hubspot.md)           |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)     |
+| `Niche Player` | [Vtiger](/vendors/vtiger.md)             |
+| `Challenger`   | [Pega](/vendors/pega.md)                 |
+| `Challenger`   | [SAP](/vendors/sap.md)                   |
+| `Challenger`   | [SugaCRM](/vendors/sugacrm.md)           |

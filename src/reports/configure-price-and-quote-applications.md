@@ -21,24 +21,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/configure-price-and-quote-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Tacton](/vendors/tacton.md)           |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)   |
-| `Leader`        | [PROS](/vendors/pros.md)               |
-| `Leader`        | [SAP](/vendors/sap.md)                 |
-| `Leader`        | [Bit2win](/vendors/bit2win.md)         |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [Infor](/vendors/infor.md)             |
-| `Visionary`     | [servicePath](/vendors/servicepath.md) |
-| `Niche Player`  | [Vendavo](/vendors/vendavo.md)         |
-| `Niche Player`  | [Apparound](/vendors/apparound.md)     |
-| `Niche Player`  | [Epicor](/vendors/epicor.md)           |
-| `Niche Player`  | [Yagna iQ](/vendors/yagna-iq.md)       |
-| `Niche Player`  | [DealHub](/vendors/dealhub.md)         |
-| `Niche Player`  | [Zilliant](/vendors/zilliant.md)       |
-| `Challenger`    | [Conga](/vendors/conga.md)             |
-| `Challenger`    | [CSG](/vendors/csg.md)                 |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Tacton](/vendors/tacton.md)           |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`       | [PROS](/vendors/pros.md)               |
+| `Leader`       | [SAP](/vendors/sap.md)                 |
+| `Leader`       | [Bit2win](/vendors/bit2win.md)         |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [Infor](/vendors/infor.md)             |
+| `Visionary`    | [servicePath](/vendors/servicepath.md) |
+| `Niche Player` | [Vendavo](/vendors/vendavo.md)         |
+| `Niche Player` | [Apparound](/vendors/apparound.md)     |
+| `Niche Player` | [Epicor](/vendors/epicor.md)           |
+| `Niche Player` | [Yagna iQ](/vendors/yagna-iq.md)       |
+| `Niche Player` | [DealHub](/vendors/dealhub.md)         |
+| `Niche Player` | [Zilliant](/vendors/zilliant.md)       |
+| `Challenger`   | [Conga](/vendors/conga.md)             |
+| `Challenger`   | [CSG](/vendors/csg.md)                 |
 
 ## Report 2025
 
@@ -47,19 +47,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/configure-price-and-quote-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Tacton](/vendors/tacton.md)                                 |
-| `Leader`        | [PROS](/vendors/pros.md)                                     |
-| `Leader`        | [SAP](/vendors/sap.md)                                       |
-| `Leader`        | [Salesforce (Salesforce Industries)](/vendors/salesforce.md) |
-| `Leader`        | [Oracle](/vendors/oracle.md)                                 |
-| `Visionary`     | [servicePath](/vendors/servicepath.md)                       |
-| `Niche Player`  | [Vendavo](/vendors/vendavo.md)                               |
-| `Niche Player`  | [Apparound](/vendors/apparound.md)                           |
-| `Niche Player`  | [Epicor](/vendors/epicor.md)                                 |
-| `Niche Player`  | [CSG](/vendors/csg.md)                                       |
-| `Niche Player`  | [Yagna iQ](/vendors/yagna-iq.md)                             |
-| `Niche Player`  | [Zilliant](/vendors/zilliant.md)                             |
-| `Challenger`    | [Bit2win](/vendors/bit2win.md)                               |
-| `Challenger`    | [Conga](/vendors/conga.md)                                   |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Tacton](/vendors/tacton.md)                                 |
+| `Leader`       | [PROS](/vendors/pros.md)                                     |
+| `Leader`       | [SAP](/vendors/sap.md)                                       |
+| `Leader`       | [Salesforce (Salesforce Industries)](/vendors/salesforce.md) |
+| `Leader`       | [Oracle](/vendors/oracle.md)                                 |
+| `Visionary`    | [servicePath](/vendors/servicepath.md)                       |
+| `Niche Player` | [Vendavo](/vendors/vendavo.md)                               |
+| `Niche Player` | [Apparound](/vendors/apparound.md)                           |
+| `Niche Player` | [Epicor](/vendors/epicor.md)                                 |
+| `Niche Player` | [CSG](/vendors/csg.md)                                       |
+| `Niche Player` | [Yagna iQ](/vendors/yagna-iq.md)                             |
+| `Niche Player` | [Zilliant](/vendors/zilliant.md)                             |
+| `Challenger`   | [Bit2win](/vendors/bit2win.md)                               |
+| `Challenger`   | [Conga](/vendors/conga.md)                                   |

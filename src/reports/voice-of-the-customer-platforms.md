@@ -33,20 +33,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/voice-of-the-customer-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Qualtrics](/vendors/qualtrics.md)                   |
-| `Leader`        | [Medallia](/vendors/medallia.md)                     |
-| `Leader`        | [Sprinklr](/vendors/sprinklr.md)                     |
-| `Leader`        | [Press Ganey Forsta](/vendors/press-ganey-forsta.md) |
-| `Niche Player`  | [Verint](/vendors/verint.md)                         |
-| `Niche Player`  | [Concentrix](/vendors/concentrix.md)                 |
-| `Niche Player`  | [QuestionPro](/vendors/questionpro.md)               |
-| `Niche Player`  | [SMG](/vendors/smg.md)                               |
-| `Niche Player`  | [XEBO.ai](/vendors/xebo.ai.md)                       |
-| `Niche Player`  | [Revuze](/vendors/revuze.md)                         |
-| `Challenger`    | [Alchemer](/vendors/alchemer.md)                     |
-| `Challenger`    | [Pisano](/vendors/pisano.md)                         |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Qualtrics](/vendors/qualtrics.md)                   |
+| `Leader`       | [Medallia](/vendors/medallia.md)                     |
+| `Leader`       | [Sprinklr](/vendors/sprinklr.md)                     |
+| `Leader`       | [Press Ganey Forsta](/vendors/press-ganey-forsta.md) |
+| `Niche Player` | [Verint](/vendors/verint.md)                         |
+| `Niche Player` | [Concentrix](/vendors/concentrix.md)                 |
+| `Niche Player` | [QuestionPro](/vendors/questionpro.md)               |
+| `Niche Player` | [SMG](/vendors/smg.md)                               |
+| `Niche Player` | [XEBO.ai](/vendors/xebo.ai.md)                       |
+| `Niche Player` | [Revuze](/vendors/revuze.md)                         |
+| `Challenger`   | [Alchemer](/vendors/alchemer.md)                     |
+| `Challenger`   | [Pisano](/vendors/pisano.md)                         |
 
 ## Report 2025
 
@@ -55,17 +55,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/voice-of-the-customer-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Qualtrics](/vendors/qualtrics.md)                   |
-| `Leader`        | [Medallia](/vendors/medallia.md)                     |
-| `Leader`        | [Sprinklr](/vendors/sprinklr.md)                     |
-| `Leader`        | [Press Ganey Forsta](/vendors/press-ganey-forsta.md) |
-| `Leader`        | [InMoment](/vendors/inmoment.md)                     |
-| `Niche Player`  | [Verint](/vendors/verint.md)                         |
-| `Niche Player`  | [Concentrix](/vendors/concentrix.md)                 |
-| `Niche Player`  | [Pisano](/vendors/pisano.md)                         |
-| `Niche Player`  | [SMG](/vendors/smg.md)                               |
-| `Niche Player`  | [XEBO.ai](/vendors/xebo.ai.md)                       |
-| `Niche Player`  | [QuestionPro](/vendors/questionpro.md)               |
-| `Challenger`    | [Alchemer](/vendors/alchemer.md)                     |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Qualtrics](/vendors/qualtrics.md)                   |
+| `Leader`       | [Medallia](/vendors/medallia.md)                     |
+| `Leader`       | [Sprinklr](/vendors/sprinklr.md)                     |
+| `Leader`       | [Press Ganey Forsta](/vendors/press-ganey-forsta.md) |
+| `Leader`       | [InMoment](/vendors/inmoment.md)                     |
+| `Niche Player` | [Verint](/vendors/verint.md)                         |
+| `Niche Player` | [Concentrix](/vendors/concentrix.md)                 |
+| `Niche Player` | [Pisano](/vendors/pisano.md)                         |
+| `Niche Player` | [SMG](/vendors/smg.md)                               |
+| `Niche Player` | [XEBO.ai](/vendors/xebo.ai.md)                       |
+| `Niche Player` | [QuestionPro](/vendors/questionpro.md)               |
+| `Challenger`   | [Alchemer](/vendors/alchemer.md)                     |

@@ -33,25 +33,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-experience-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)                 |
-| `Leader`        | [Accenture](/vendors/accenture.md)               |
-| `Leader`        | [Publicis Sapient](/vendors/publicis-sapient.md) |
-| `Leader`        | [Dentsu](/vendors/dentsu.md)                     |
-| `Leader`        | [Capgemini](/vendors/capgemini.md)               |
-| `Visionary`     | [WPP](/vendors/wpp.md)                           |
-| `Visionary`     | [EPAM](/vendors/epam.md)                         |
-| `Visionary`     | [Valtech](/vendors/valtech.md)                   |
-| `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
-| `Niche Player`  | [TCS](/vendors/tcs.md)                           |
-| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                      |
-| `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
-| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
-| `Niche Player`  | [Virtusa](/vendors/virtusa.md)                   |
-| `Challenger`    | [HCLTech](/vendors/hcl.md)                       |
-| `Challenger`    | [IBM](/vendors/ibm.md)                           |
-| `Challenger`    | [Infosys](/vendors/infosys.md)                   |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [Deloitte](/vendors/deloitte.md)                 |
+| `Leader`       | [Accenture](/vendors/accenture.md)               |
+| `Leader`       | [Publicis Sapient](/vendors/publicis-sapient.md) |
+| `Leader`       | [Dentsu](/vendors/dentsu.md)                     |
+| `Leader`       | [Capgemini](/vendors/capgemini.md)               |
+| `Visionary`    | [WPP](/vendors/wpp.md)                           |
+| `Visionary`    | [EPAM](/vendors/epam.md)                         |
+| `Visionary`    | [Valtech](/vendors/valtech.md)                   |
+| `Niche Player` | [Wipro](/vendors/wipro.md)                       |
+| `Niche Player` | [TCS](/vendors/tcs.md)                           |
+| `Niche Player` | [NTT DATA](/vendors/ntt.md)                      |
+| `Niche Player` | [Cognizant](/vendors/cognizant.md)               |
+| `Niche Player` | [LTIMindtree](/vendors/ltimindtree.md)           |
+| `Niche Player` | [Virtusa](/vendors/virtusa.md)                   |
+| `Challenger`   | [HCLTech](/vendors/hcl.md)                       |
+| `Challenger`   | [IBM](/vendors/ibm.md)                           |
+| `Challenger`   | [Infosys](/vendors/infosys.md)                   |
 
 ## Report 2024
 
@@ -60,20 +60,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/digital-experience-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Deloitte](/vendors/deloitte.md)                 |
-| `Leader`        | [Accenture](/vendors/accenture.md)               |
-| `Leader`        | [Dentsu](/vendors/dentsu.md)                     |
-| `Leader`        | [Publicis Sapient](/vendors/publicis-sapient.md) |
-| `Visionary`     | [Capgemini](/vendors/capgemini.md)               |
-| `Visionary`     | [EPAM](/vendors/epam.md)                         |
-| `Visionary`     | [VML](/vendors/vml.md)                           |
-| `Niche Player`  | [Wipro](/vendors/wipro.md)                       |
-| `Niche Player`  | [NTT DATA](/vendors/ntt.md)                      |
-| `Niche Player`  | [TCS](/vendors/tcs.md)                           |
-| `Niche Player`  | [Cognizant](/vendors/cognizant.md)               |
-| `Niche Player`  | [LTIMindtree](/vendors/ltimindtree.md)           |
-| `Challenger`    | [HCLTech](/vendors/hcl.md)                       |
-| `Challenger`    | [IBM](/vendors/ibm.md)                           |
-| `Challenger`    | [Infosys](/vendors/infosys.md)                   |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [Deloitte](/vendors/deloitte.md)                 |
+| `Leader`       | [Accenture](/vendors/accenture.md)               |
+| `Leader`       | [Dentsu](/vendors/dentsu.md)                     |
+| `Leader`       | [Publicis Sapient](/vendors/publicis-sapient.md) |
+| `Visionary`    | [Capgemini](/vendors/capgemini.md)               |
+| `Visionary`    | [EPAM](/vendors/epam.md)                         |
+| `Visionary`    | [VML](/vendors/vml.md)                           |
+| `Niche Player` | [Wipro](/vendors/wipro.md)                       |
+| `Niche Player` | [NTT DATA](/vendors/ntt.md)                      |
+| `Niche Player` | [TCS](/vendors/tcs.md)                           |
+| `Niche Player` | [Cognizant](/vendors/cognizant.md)               |
+| `Niche Player` | [LTIMindtree](/vendors/ltimindtree.md)           |
+| `Challenger`   | [HCLTech](/vendors/hcl.md)                       |
+| `Challenger`   | [IBM](/vendors/ibm.md)                           |
+| `Challenger`   | [Infosys](/vendors/infosys.md)                   |

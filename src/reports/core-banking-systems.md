@@ -21,20 +21,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/core-banking-systems.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Thought Machine](/vendors/thought-machine.md)               |
-| `Leader`        | [Infosys Finacle](/vendors/infosys.md)                       |
-| `Leader`        | [TCS BaNCS ](/vendors/tcs.md)                                |
-| `Leader`        | [Mambu](/vendors/mambu.md)                                   |
-| `Leader`        | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
-| `Leader`        | [Finastra Essence](/vendors/finastra.md)                     |
-| `Leader`        | [Oracle FLEXCUBE](/vendors/oracle-flexcube.md)               |
-| `Visionary`     | [Temenos](/vendors/temenos.md)                               |
-| `Visionary`     | [SAP Fioneer](/vendors/sap-fioneer.md)                       |
-| `Niche Player`  | [Ohpen](/vendors/ohpen.md)                                   |
-| `Niche Player`  | [Vilja Solutions](/vendors/vilja-solutions.md)               |
-| `Niche Player`  | [Profile Software](/vendors/profile-software.md)             |
-| `Challenger`    | [Engine by Starling](/vendors/engine-by-starling.md)         |
-| `Challenger`    | [FintechOS](/vendors/fintechos.md)                           |
-| `Challenger`    | [10x Banking](/vendors/10x-banking.md)                       |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Thought Machine](/vendors/thought-machine.md)               |
+| `Leader`       | [Infosys Finacle](/vendors/infosys.md)                       |
+| `Leader`       | [TCS BaNCS ](/vendors/tcs.md)                                |
+| `Leader`       | [Mambu](/vendors/mambu.md)                                   |
+| `Leader`       | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
+| `Leader`       | [Finastra Essence](/vendors/finastra.md)                     |
+| `Leader`       | [Oracle FLEXCUBE](/vendors/oracle-flexcube.md)               |
+| `Visionary`    | [Temenos](/vendors/temenos.md)                               |
+| `Visionary`    | [SAP Fioneer](/vendors/sap-fioneer.md)                       |
+| `Niche Player` | [Ohpen](/vendors/ohpen.md)                                   |
+| `Niche Player` | [Vilja Solutions](/vendors/vilja-solutions.md)               |
+| `Niche Player` | [Profile Software](/vendors/profile-software.md)             |
+| `Challenger`   | [Engine by Starling](/vendors/engine-by-starling.md)         |
+| `Challenger`   | [FintechOS](/vendors/fintechos.md)                           |
+| `Challenger`   | [10x Banking](/vendors/10x-banking.md)                       |

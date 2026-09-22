@@ -31,17 +31,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/collaborative-work-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Monday.com](/vendors/monday.com.md) |
-| `Leader`        | [Smartsheet](/vendors/smartsheet.md) |
-| `Leader`        | [Asana](/vendors/asana.md)           |
-| `Leader`        | [Airtable](/vendors/airtable.md)     |
-| `Leader`        | [Wrike](/vendors/wrike.md)           |
-| `Leader`        | [Atlassian](/vendors/atlassian.md)   |
-| `Leader`        | [ClickUp](/vendors/clickup.md)       |
-| `Visionary`     | [Quickbase](/vendors/quickbase.md)   |
-| `Challenger`    | [Adobe](/vendors/adobe.md)           |
+| MQ Position  | MQ Vendor                            |
+| ------------ | ------------------------------------ |
+| `Leader`     | [Monday.com](/vendors/monday.com.md) |
+| `Leader`     | [Smartsheet](/vendors/smartsheet.md) |
+| `Leader`     | [Asana](/vendors/asana.md)           |
+| `Leader`     | [Airtable](/vendors/airtable.md)     |
+| `Leader`     | [Wrike](/vendors/wrike.md)           |
+| `Leader`     | [Atlassian](/vendors/atlassian.md)   |
+| `Leader`     | [ClickUp](/vendors/clickup.md)       |
+| `Visionary`  | [Quickbase](/vendors/quickbase.md)   |
+| `Challenger` | [Adobe](/vendors/adobe.md)           |
 
 ## Report 2024
 
@@ -50,14 +50,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/collaborative-work-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Smartsheet](/vendors/smartsheet.md) |
-| `Leader`        | [Monday.com](/vendors/monday.com.md) |
-| `Leader`        | [Asana](/vendors/asana.md)           |
-| `Leader`        | [Wrike](/vendors/wrike.md)           |
-| `Leader`        | [Airtable](/vendors/airtable.md)     |
-| `Visionary`     | [ClickUp](/vendors/clickup.md)       |
-| `Niche Player`  | [Quickbase](/vendors/quickbase.md)   |
-| `Challenger`    | [Adobe](/vendors/adobe.md)           |
-| `Challenger`    | [Atlassian](/vendors/atlassian.md)   |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Smartsheet](/vendors/smartsheet.md) |
+| `Leader`       | [Monday.com](/vendors/monday.com.md) |
+| `Leader`       | [Asana](/vendors/asana.md)           |
+| `Leader`       | [Wrike](/vendors/wrike.md)           |
+| `Leader`       | [Airtable](/vendors/airtable.md)     |
+| `Visionary`    | [ClickUp](/vendors/clickup.md)       |
+| `Niche Player` | [Quickbase](/vendors/quickbase.md)   |
+| `Challenger`   | [Adobe](/vendors/adobe.md)           |
+| `Challenger`   | [Atlassian](/vendors/atlassian.md)   |

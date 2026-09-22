@@ -39,14 +39,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/customer-journey-analytics-and-orchestration.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Adobe](/vendors/adobe.md)           |
-| `Leader`        | [CSG](/vendors/csg.md)               |
-| `Visionary`     | [Alterian](/vendors/alterian.md)     |
-| `Niche Player`  | [Joulica](/vendors/joulica.md)       |
-| `Niche Player`  | [inQuba](/vendors/inquba.md)         |
-| `Niche Player`  | [Engage Hub](/vendors/engage-hub.md) |
-| `Niche Player`  | [Medallia](/vendors/medallia.md)     |
-| `Niche Player`  | [Woopra](/vendors/woopra.md)         |
-| `Niche Player`  | [CallMiner](/vendors/callminer.md)   |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Adobe](/vendors/adobe.md)           |
+| `Leader`       | [CSG](/vendors/csg.md)               |
+| `Visionary`    | [Alterian](/vendors/alterian.md)     |
+| `Niche Player` | [Joulica](/vendors/joulica.md)       |
+| `Niche Player` | [inQuba](/vendors/inquba.md)         |
+| `Niche Player` | [Engage Hub](/vendors/engage-hub.md) |
+| `Niche Player` | [Medallia](/vendors/medallia.md)     |
+| `Niche Player` | [Woopra](/vendors/woopra.md)         |
+| `Niche Player` | [CallMiner](/vendors/callminer.md)   |

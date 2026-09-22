@@ -10,41 +10,41 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Challenger`    | [Container Management](/reports/container-management.md#report-2026)                                                     |
-| `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                           |
-| `Niche Player`  | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                       |
-| `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2026)                                 |
-| `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2026)                                                   |
-| `Leader`        | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                               |
-| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
+| MQ Position    | MQ Vendor                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `Challenger`   | [Container Management](/reports/container-management.md#report-2026)                                                     |
+| `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                           |
+| `Niche Player` | [Endpoint Protection](/reports/endpoint-protection.md#report-2026)                                                       |
+| `Leader`       | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2026)                                 |
+| `Niche Player` | [Security Service Edge](/reports/security-service-edge.md#report-2026)                                                   |
+| `Leader`       | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                               |
+| `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026) |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Market Status   | Market Vendor                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2025)                                             |
-| `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2025)                                                   |
-| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025) |
-| `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2025)                                 |
-| `Leader`        | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2025)                             |
-| `Challenger`    | [Container Management](/reports/container-management.md#report-2025)                                                     |
-| `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                           |
+| MQ Position    | MQ Vendor                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2025)                                             |
+| `Niche Player` | [Security Service Edge](/reports/security-service-edge.md#report-2025)                                                   |
+| `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025) |
+| `Leader`       | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2025)                                 |
+| `Leader`       | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2025)                             |
+| `Challenger`   | [Container Management](/reports/container-management.md#report-2025)                                                     |
+| `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                           |
 
 ## Market 2024
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| Market Status   | Market Vendor                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                             |
-| `Niche Player`  | [Security Service Edge](/reports/security-service-edge.md#report-2024)                                                   |
-| `Leader`        | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2024) |
-| `Leader`        | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2024)                                 |
-| `Niche Player`  | [Privileged Access Management](/reports/privileged-access-management.md#report-2024)                                     |
-| `Leader`        | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2024)                             |
-| `Leader`        | [Container Management](/reports/container-management.md#report-2024)                                                     |
-| `Leader`        | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                           |
+| MQ Position    | MQ Vendor                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                             |
+| `Niche Player` | [Security Service Edge](/reports/security-service-edge.md#report-2024)                                                   |
+| `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2024) |
+| `Leader`       | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2024)                                 |
+| `Niche Player` | [Privileged Access Management](/reports/privileged-access-management.md#report-2024)                                     |
+| `Leader`       | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2024)                             |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2024)                                                     |
+| `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                           |

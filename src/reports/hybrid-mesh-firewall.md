@@ -23,20 +23,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/hybrid-mesh-firewall.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Fortinet](/vendors/fortinet.md)                         |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)     |
-| `Leader`        | [Check Point](/vendors/check-point.md)                   |
-| `Visionary`     | [Cisco](/vendors/cisco.md)                               |
-| `Niche Player`  | [Huawei](/vendors/huawei.md)                             |
-| `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                       |
-| `Niche Player`  | [Sophos](/vendors/sophos.md)                             |
-| `Niche Player`  | [WatchGuard](/vendors/watchguard.md)                     |
-| `Niche Player`  | [H3C](/vendors/h3c.md)                                   |
-| `Niche Player`  | [Forcepoint](/vendors/forcepoint.md)                     |
-| `Niche Player`  | [Sangfor Technologies](/vendors/sangfor-technologies.md) |
-| `Challenger`    | [HPE](/vendors/hewlett-packard.md)                       |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Fortinet](/vendors/fortinet.md)                         |
+| `Leader`       | [Palo Alto Networks](/vendors/palo-alto-networks.md)     |
+| `Leader`       | [Check Point](/vendors/check-point.md)                   |
+| `Visionary`    | [Cisco](/vendors/cisco.md)                               |
+| `Niche Player` | [Huawei](/vendors/huawei.md)                             |
+| `Niche Player` | [SonicWall](/vendors/sonicwall.md)                       |
+| `Niche Player` | [Sophos](/vendors/sophos.md)                             |
+| `Niche Player` | [WatchGuard](/vendors/watchguard.md)                     |
+| `Niche Player` | [H3C](/vendors/h3c.md)                                   |
+| `Niche Player` | [Forcepoint](/vendors/forcepoint.md)                     |
+| `Niche Player` | [Sangfor Technologies](/vendors/sangfor-technologies.md) |
+| `Challenger`   | [HPE](/vendors/hewlett-packard.md)                       |
 
 ## Report 2025
 
@@ -45,17 +45,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/hybrid-mesh-firewall.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [Fortinet](/vendors/fortinet.md)                                   |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md)               |
-| `Leader`        | [Check Point](/vendors/check-point.md)                             |
-| `Visionary`     | [Cisco](/vendors/cisco.md)                                         |
-| `Niche Player`  | [Huawei](/vendors/huawei.md)                                       |
-| `Niche Player`  | [SonicWall](/vendors/sonicwall.md)                                 |
-| `Niche Player`  | [Sophos](/vendors/sophos.md)                                       |
-| `Niche Player`  | [WatchGuard](/vendors/watchguard.md)                               |
-| `Niche Player`  | [H3C](/vendors/h3c.md)                                             |
-| `Niche Player`  | [Forcepoint](/vendors/forcepoint.md)                               |
-| `Niche Player`  | [Sangfor](/vendors/sangfor.md)                                     |
-| `Challenger`    | [HPE (Juniper Networking)](</vendors/hpe-(juniper-networking).md>) |
+| MQ Position    | MQ Vendor                                                          |
+| -------------- | ------------------------------------------------------------------ |
+| `Leader`       | [Fortinet](/vendors/fortinet.md)                                   |
+| `Leader`       | [Palo Alto Networks](/vendors/palo-alto-networks.md)               |
+| `Leader`       | [Check Point](/vendors/check-point.md)                             |
+| `Visionary`    | [Cisco](/vendors/cisco.md)                                         |
+| `Niche Player` | [Huawei](/vendors/huawei.md)                                       |
+| `Niche Player` | [SonicWall](/vendors/sonicwall.md)                                 |
+| `Niche Player` | [Sophos](/vendors/sophos.md)                                       |
+| `Niche Player` | [WatchGuard](/vendors/watchguard.md)                               |
+| `Niche Player` | [H3C](/vendors/h3c.md)                                             |
+| `Niche Player` | [Forcepoint](/vendors/forcepoint.md)                               |
+| `Niche Player` | [Sangfor](/vendors/sangfor.md)                                     |
+| `Challenger`   | [HPE (Juniper Networking)](</vendors/hpe-(juniper-networking).md>) |

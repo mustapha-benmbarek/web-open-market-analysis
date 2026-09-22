@@ -21,23 +21,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/desktop-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Citrix](/vendors/citrix.md)               |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)             |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Leader`        | [Parallels](/vendors/parallels.md)         |
-| `Visionary`     | [XTIUM](/vendors/xtium.md)                 |
-| `Visionary`     | [oneclick](/vendors/oneclick.md)           |
-| `Visionary`     | [IronOrbit](/vendors/ironorbit.md)         |
-| `Niche Player`  | [Accops](/vendors/accops.md)               |
-| `Niche Player`  | [Apporto](/vendors/apporto.md)             |
-| `Niche Player`  | [Anunta](/vendors/anunta.md)               |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)         |
-| `Niche Player`  | [ZTE](/vendors/zte.md)                     |
-| `Niche Player`  | [Dizzion](/vendors/dizzion.md)             |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Citrix](/vendors/citrix.md)               |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Omnissa](/vendors/omnissa.md)             |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`       | [Parallels](/vendors/parallels.md)         |
+| `Visionary`    | [XTIUM](/vendors/xtium.md)                 |
+| `Visionary`    | [oneclick](/vendors/oneclick.md)           |
+| `Visionary`    | [IronOrbit](/vendors/ironorbit.md)         |
+| `Niche Player` | [Accops](/vendors/accops.md)               |
+| `Niche Player` | [Apporto](/vendors/apporto.md)             |
+| `Niche Player` | [Anunta](/vendors/anunta.md)               |
+| `Niche Player` | [Flexxible](/vendors/flexxible.md)         |
+| `Niche Player` | [ZTE](/vendors/zte.md)                     |
+| `Niche Player` | [Dizzion](/vendors/dizzion.md)             |
 
 ## Report 2025
 
@@ -46,24 +46,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/desktop-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Citrix](/vendors/citrix.md)               |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)             |
-| `Visionary`     | [Parallels](/vendors/parallels.md)         |
-| `Visionary`     | [XTIUM](/vendors/xtium.md)                 |
-| `Visionary`     | [Dizzion](/vendors/dizzion.md)             |
-| `Niche Player`  | [Accops](/vendors/accops.md)               |
-| `Niche Player`  | [Apporto](/vendors/apporto.md)             |
-| `Niche Player`  | [HP Inc.](/vendors/hewlett-packard.md)     |
-| `Niche Player`  | [oneclick](/vendors/oneclick.md)           |
-| `Niche Player`  | [Anunta](/vendors/anunta.md)               |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)         |
-| `Niche Player`  | [IronOrbit](/vendors/ironorbit.md)         |
-| `Niche Player`  | [ZTE](/vendors/zte.md)                     |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Citrix](/vendors/citrix.md)               |
+| `Leader`       | [Omnissa](/vendors/omnissa.md)             |
+| `Visionary`    | [Parallels](/vendors/parallels.md)         |
+| `Visionary`    | [XTIUM](/vendors/xtium.md)                 |
+| `Visionary`    | [Dizzion](/vendors/dizzion.md)             |
+| `Niche Player` | [Accops](/vendors/accops.md)               |
+| `Niche Player` | [Apporto](/vendors/apporto.md)             |
+| `Niche Player` | [HP Inc.](/vendors/hewlett-packard.md)     |
+| `Niche Player` | [oneclick](/vendors/oneclick.md)           |
+| `Niche Player` | [Anunta](/vendors/anunta.md)               |
+| `Niche Player` | [Flexxible](/vendors/flexxible.md)         |
+| `Niche Player` | [IronOrbit](/vendors/ironorbit.md)         |
+| `Niche Player` | [ZTE](/vendors/zte.md)                     |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
 
 ## Report 2024
 
@@ -72,19 +72,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/desktop-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)             |
-| `Leader`        | [Citrix](/vendors/citrix.md)               |
-| `Visionary`     | [Dizzion](/vendors/dizzion.md)             |
-| `Visionary`     | [Parallels](/vendors/parallels.md)         |
-| `Niche Player`  | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Niche Player`  | [Apporto](/vendors/apporto.md)             |
-| `Niche Player`  | [Anunta](/vendors/anunta.md)               |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)         |
-| `Niche Player`  | [oneclick](/vendors/oneclick.md)           |
-| `Niche Player`  | [IronOrbit](/vendors/ironorbit.md)         |
-| `Niche Player`  | [Workspot](/vendors/workspot.md)           |
-| `Challenger`    | [ATSG](/vendors/atsg.md)                   |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Omnissa](/vendors/omnissa.md)             |
+| `Leader`       | [Citrix](/vendors/citrix.md)               |
+| `Visionary`    | [Dizzion](/vendors/dizzion.md)             |
+| `Visionary`    | [Parallels](/vendors/parallels.md)         |
+| `Niche Player` | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Niche Player` | [Apporto](/vendors/apporto.md)             |
+| `Niche Player` | [Anunta](/vendors/anunta.md)               |
+| `Niche Player` | [Flexxible](/vendors/flexxible.md)         |
+| `Niche Player` | [oneclick](/vendors/oneclick.md)           |
+| `Niche Player` | [IronOrbit](/vendors/ironorbit.md)         |
+| `Niche Player` | [Workspot](/vendors/workspot.md)           |
+| `Challenger`   | [ATSG](/vendors/atsg.md)                   |

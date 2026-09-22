@@ -29,24 +29,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/supply-chain-planning-solutions-discrete-industries.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Kinaxis](/vendors/kinaxis.md)                         |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [o9 Solutions](/vendors/o9-solutions.md)               |
-| `Leader`        | [Aptean (Logility)](</vendors/aptean-(logility).md>)   |
-| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)                 |
-| `Visionary`     | [John Galt Solutions](/vendors/john-galt-solutions.md) |
-| `Visionary`     | [Dassault Systèmes](/vendors/dassault.md)              |
-| `Visionary`     | [PTC](/vendors/ptc.md)                                 |
-| `Visionary`     | [E2open](/vendors/e2open.md)                           |
-| `Niche Player`  | [Coupa](/vendors/coupa.md)                             |
-| `Niche Player`  | [Slimstock](/vendors/slimstock.md)                     |
-| `Niche Player`  | [GAINS](/vendors/gains.md)                             |
-| `Niche Player`  | [Baxter Planning](/vendors/baxter-planning.md)         |
-| `Niche Player`  | [ToolsGroup](/vendors/toolsgroup.md)                   |
-| `Niche Player`  | [Board](/vendors/board.md)                             |
-| `Niche Player`  | [ICRON](/vendors/icron.md)                             |
-| `Niche Player`  | [Eyelit Technologies](/vendors/eyelit-technologies.md) |
-| `Challenger`    | [SAP](/vendors/sap.md)                                 |
-| `Challenger`    | [Anaplan](/vendors/anaplan.md)                         |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Kinaxis](/vendors/kinaxis.md)                         |
+| `Leader`       | [Oracle](/vendors/oracle.md)                           |
+| `Leader`       | [o9 Solutions](/vendors/o9-solutions.md)               |
+| `Leader`       | [Aptean (Logility)](</vendors/aptean-(logility).md>)   |
+| `Leader`       | [Blue Yonder](/vendors/blue-yonder.md)                 |
+| `Visionary`    | [John Galt Solutions](/vendors/john-galt-solutions.md) |
+| `Visionary`    | [Dassault Systèmes](/vendors/dassault.md)              |
+| `Visionary`    | [PTC](/vendors/ptc.md)                                 |
+| `Visionary`    | [E2open](/vendors/e2open.md)                           |
+| `Niche Player` | [Coupa](/vendors/coupa.md)                             |
+| `Niche Player` | [Slimstock](/vendors/slimstock.md)                     |
+| `Niche Player` | [GAINS](/vendors/gains.md)                             |
+| `Niche Player` | [Baxter Planning](/vendors/baxter-planning.md)         |
+| `Niche Player` | [ToolsGroup](/vendors/toolsgroup.md)                   |
+| `Niche Player` | [Board](/vendors/board.md)                             |
+| `Niche Player` | [ICRON](/vendors/icron.md)                             |
+| `Niche Player` | [Eyelit Technologies](/vendors/eyelit-technologies.md) |
+| `Challenger`   | [SAP](/vendors/sap.md)                                 |
+| `Challenger`   | [Anaplan](/vendors/anaplan.md)                         |

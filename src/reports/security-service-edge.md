@@ -23,16 +23,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/security-service-edge.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
-| `Leader`        | [Netskope](/vendors/netskope.md)                     |
-| `Leader`        | [Zscaler](/vendors/zscaler.md)                       |
-| `Visionary`     | [Cloudflare](/vendors/cloudflare.md)                 |
-| `Niche Player`  | [Skyhigh Security](/vendors/skyhigh-security.md)     |
-| `Niche Player`  | [iboss](/vendors/iboss.md)                           |
-| `Niche Player`  | [Broadcom](/vendors/broadcom.md)                     |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                           |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
+| `Leader`       | [Netskope](/vendors/netskope.md)                     |
+| `Leader`       | [Zscaler](/vendors/zscaler.md)                       |
+| `Visionary`    | [Cloudflare](/vendors/cloudflare.md)                 |
+| `Niche Player` | [Skyhigh Security](/vendors/skyhigh-security.md)     |
+| `Niche Player` | [iboss](/vendors/iboss.md)                           |
+| `Niche Player` | [Broadcom](/vendors/broadcom.md)                     |
+| `Challenger`   | [Cisco](/vendors/cisco.md)                           |
 
 ## Report 2025
 
@@ -41,17 +41,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/security-service-edge.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Zscaler](/vendors/zscaler.md)                       |
-| `Leader`        | [Netskope](/vendors/netskope.md)                     |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
-| `Niche Player`  | [Versa Networks](/vendors/versa-networks.md)         |
-| `Niche Player`  | [Skyhigh Security](/vendors/skyhigh-security.md)     |
-| `Niche Player`  | [Cloudflare](/vendors/cloudflare.md)                 |
-| `Niche Player`  | [iboss](/vendors/iboss.md)                           |
-| `Niche Player`  | [Broadcom](/vendors/broadcom.md)                     |
-| `Challenger`    | [Fortinet](/vendors/fortinet.md)                     |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Zscaler](/vendors/zscaler.md)                       |
+| `Leader`       | [Netskope](/vendors/netskope.md)                     |
+| `Leader`       | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
+| `Niche Player` | [Versa Networks](/vendors/versa-networks.md)         |
+| `Niche Player` | [Skyhigh Security](/vendors/skyhigh-security.md)     |
+| `Niche Player` | [Cloudflare](/vendors/cloudflare.md)                 |
+| `Niche Player` | [iboss](/vendors/iboss.md)                           |
+| `Niche Player` | [Broadcom](/vendors/broadcom.md)                     |
+| `Challenger`   | [Fortinet](/vendors/fortinet.md)                     |
 
 ## Report 2024
 
@@ -60,15 +60,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/security-service-edge.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Netskope](/vendors/netskope.md)                     |
-| `Leader`        | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
-| `Leader`        | [Zscaler](/vendors/zscaler.md)                       |
-| `Visionary`     | [Skyhigh Security](/vendors/skyhigh-security.md)     |
-| `Visionary`     | [Lookout](/vendors/lookout.md)                       |
-| `Niche Player`  | [Versa Networks](/vendors/versa-networks.md)         |
-| `Niche Player`  | [Cloudflare](/vendors/cloudflare.md)                 |
-| `Niche Player`  | [Broadcom](/vendors/broadcom.md)                     |
-| `Niche Player`  | [iboss](/vendors/iboss.md)                           |
-| `Challenger`    | [Fortinet](/vendors/fortinet.md)                     |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Netskope](/vendors/netskope.md)                     |
+| `Leader`       | [Palo Alto Networks](/vendors/palo-alto-networks.md) |
+| `Leader`       | [Zscaler](/vendors/zscaler.md)                       |
+| `Visionary`    | [Skyhigh Security](/vendors/skyhigh-security.md)     |
+| `Visionary`    | [Lookout](/vendors/lookout.md)                       |
+| `Niche Player` | [Versa Networks](/vendors/versa-networks.md)         |
+| `Niche Player` | [Cloudflare](/vendors/cloudflare.md)                 |
+| `Niche Player` | [Broadcom](/vendors/broadcom.md)                     |
+| `Niche Player` | [iboss](/vendors/iboss.md)                           |
+| `Challenger`   | [Fortinet](/vendors/fortinet.md)                     |

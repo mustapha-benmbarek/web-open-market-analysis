@@ -33,11 +33,11 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/real-time-transportation-visibility-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [project44](/vendors/project44.md)         |
-| `Leader`        | [FourKites](/vendors/fourkites.md)         |
-| `Leader`        | [Shippeo](/vendors/shippeo.md)             |
-| `Niche Player`  | [Transporeon](/vendors/transporeon.md)     |
-| `Niche Player`  | [Trucker Tools](/vendors/trucker-tools.md) |
-| `Challenger`    | [Overhaul](/vendors/overhaul.md)           |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [project44](/vendors/project44.md)         |
+| `Leader`       | [FourKites](/vendors/fourkites.md)         |
+| `Leader`       | [Shippeo](/vendors/shippeo.md)             |
+| `Niche Player` | [Transporeon](/vendors/transporeon.md)     |
+| `Niche Player` | [Trucker Tools](/vendors/trucker-tools.md) |
+| `Challenger`   | [Overhaul](/vendors/overhaul.md)           |

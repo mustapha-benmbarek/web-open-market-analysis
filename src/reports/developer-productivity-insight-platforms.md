@@ -25,18 +25,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/developer-productivity-insight-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Atlassian (DX)](</vendors/atlassian-(dx).md>) |
-| `Leader`        | [LinearB](/vendors/linearb.md)                 |
-| `Leader`        | [Opsera](/vendors/opsera.md)                   |
-| `Leader`        | [Swarmia](/vendors/swarmia.md)                 |
-| `Leader`        | [Jellyfish](/vendors/jellyfish.md)             |
-| `Visionary`     | [Allstacks](/vendors/allstacks.md)             |
-| `Visionary`     | [Faros](/vendors/faros.md)                     |
-| `Niche Player`  | [Plandek](/vendors/plandek.md)                 |
-| `Niche Player`  | [BlueOptima](/vendors/blueoptima.md)           |
-| `Niche Player`  | [Oobeya](/vendors/oobeya.md)                   |
-| `Niche Player`  | [Uplevel](/vendors/uplevel.md)                 |
-| `Niche Player`  | [Waydev](/vendors/waydev.md)                   |
-| `Niche Player`  | [Sleuth](/vendors/sleuth.md)                   |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Atlassian (DX)](</vendors/atlassian-(dx).md>) |
+| `Leader`       | [LinearB](/vendors/linearb.md)                 |
+| `Leader`       | [Opsera](/vendors/opsera.md)                   |
+| `Leader`       | [Swarmia](/vendors/swarmia.md)                 |
+| `Leader`       | [Jellyfish](/vendors/jellyfish.md)             |
+| `Visionary`    | [Allstacks](/vendors/allstacks.md)             |
+| `Visionary`    | [Faros](/vendors/faros.md)                     |
+| `Niche Player` | [Plandek](/vendors/plandek.md)                 |
+| `Niche Player` | [BlueOptima](/vendors/blueoptima.md)           |
+| `Niche Player` | [Oobeya](/vendors/oobeya.md)                   |
+| `Niche Player` | [Uplevel](/vendors/uplevel.md)                 |
+| `Niche Player` | [Waydev](/vendors/waydev.md)                   |
+| `Niche Player` | [Sleuth](/vendors/sleuth.md)                   |

@@ -25,20 +25,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/cloud-native-application-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Red Hat](/vendors/redhat.md)              |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Visionary`     | [Vercel](/vendors/vercel.md)               |
-| `Niche Player`  | [Tencent Cloud](/vendors/tencent.md)       |
-| `Niche Player`  | [Upsun](/vendors/upsun.md)                 |
-| `Niche Player`  | [Netlify](/vendors/netlify.md)             |
-| `Niche Player`  | [Render](/vendors/render.md)               |
-| `Challenger`    | [Oracle](/vendors/oracle.md)               |
-| `Challenger`    | [Cloudflare](/vendors/cloudflare.md)       |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Red Hat](/vendors/redhat.md)              |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Visionary`    | [Vercel](/vendors/vercel.md)               |
+| `Niche Player` | [Tencent Cloud](/vendors/tencent.md)       |
+| `Niche Player` | [Upsun](/vendors/upsun.md)                 |
+| `Niche Player` | [Netlify](/vendors/netlify.md)             |
+| `Niche Player` | [Render](/vendors/render.md)               |
+| `Challenger`   | [Oracle](/vendors/oracle.md)               |
+| `Challenger`   | [Cloudflare](/vendors/cloudflare.md)       |
 
 ## Report 2025
 
@@ -47,17 +47,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-native-application-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)                |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                       |
-| `Leader`        | [Google](/vendors/google.md)                             |
-| `Leader`        | [Red Hat](/vendors/redhat.md)                            |
-| `Leader`        | [Salesforce (Heroku)](/vendors/salesforce.md)            |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md)               |
-| `Visionary`     | [Vercel](/vendors/vercel.md)                             |
-| `Niche Player`  | [Netlify](/vendors/netlify.md)                           |
-| `Niche Player`  | [Platform.sh (Upsun)](</vendors/platform.sh-(upsun).md>) |
-| `Niche Player`  | [Render](/vendors/render.md)                             |
-| `Challenger`    | [Cloudflare](/vendors/cloudflare.md)                     |
-| `Challenger`    | [Huawei](/vendors/huawei.md)                             |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)                |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                       |
+| `Leader`       | [Google](/vendors/google.md)                             |
+| `Leader`       | [Red Hat](/vendors/redhat.md)                            |
+| `Leader`       | [Salesforce (Heroku)](/vendors/salesforce.md)            |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md)               |
+| `Visionary`    | [Vercel](/vendors/vercel.md)                             |
+| `Niche Player` | [Netlify](/vendors/netlify.md)                           |
+| `Niche Player` | [Platform.sh (Upsun)](</vendors/platform.sh-(upsun).md>) |
+| `Niche Player` | [Render](/vendors/render.md)                             |
+| `Challenger`   | [Cloudflare](/vendors/cloudflare.md)                     |
+| `Challenger`   | [Huawei](/vendors/huawei.md)                             |

@@ -21,25 +21,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/exposure-assessment-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Tenable](/vendors/tenable.md)                   |
-| `Leader`        | [Rapid7](/vendors/rapid7.md)                     |
-| `Leader`        | [Qualys](/vendors/qualys.md)                     |
-| `Visionary`     | [NopSec](/vendors/nopsec.md)                     |
-| `Visionary`     | [Sevco Security](/vendors/sevco-security.md)     |
-| `Visionary`     | [Balbix](/vendors/balbix.md)                     |
-| `Visionary`     | [WithSecure](/vendors/withsecure.md)             |
-| `Niche Player`  | [ServiceNow](/vendors/servicenow.md)             |
-| `Niche Player`  | [Tanium](/vendors/tanium.md)                     |
-| `Niche Player`  | [Brinqa](/vendors/brinqa.md)                     |
-| `Niche Player`  | [RedSeal](/vendors/redseal.md)                   |
-| `Niche Player`  | [Trend Micro](/vendors/trend-micro.md)           |
-| `Niche Player`  | [Outpost24](/vendors/outpost24.md)               |
-| `Niche Player`  | [PlexTrac](/vendors/plextrac.md)                 |
-| `Niche Player`  | [Vicarius](/vendors/vicarius.md)                 |
-| `Challenger`    | [Nucleus Security](/vendors/nucleus-security.md) |
-| `Challenger`    | [Armis](/vendors/armis.md)                       |
-| `Challenger`    | [XM Cyber](/vendors/xm-cyber.md)                 |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)               |
-| `Challenger`    | [CrowdStrike](/vendors/crowdstrike.md)           |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [Tenable](/vendors/tenable.md)                   |
+| `Leader`       | [Rapid7](/vendors/rapid7.md)                     |
+| `Leader`       | [Qualys](/vendors/qualys.md)                     |
+| `Visionary`    | [NopSec](/vendors/nopsec.md)                     |
+| `Visionary`    | [Sevco Security](/vendors/sevco-security.md)     |
+| `Visionary`    | [Balbix](/vendors/balbix.md)                     |
+| `Visionary`    | [WithSecure](/vendors/withsecure.md)             |
+| `Niche Player` | [ServiceNow](/vendors/servicenow.md)             |
+| `Niche Player` | [Tanium](/vendors/tanium.md)                     |
+| `Niche Player` | [Brinqa](/vendors/brinqa.md)                     |
+| `Niche Player` | [RedSeal](/vendors/redseal.md)                   |
+| `Niche Player` | [Trend Micro](/vendors/trend-micro.md)           |
+| `Niche Player` | [Outpost24](/vendors/outpost24.md)               |
+| `Niche Player` | [PlexTrac](/vendors/plextrac.md)                 |
+| `Niche Player` | [Vicarius](/vendors/vicarius.md)                 |
+| `Challenger`   | [Nucleus Security](/vendors/nucleus-security.md) |
+| `Challenger`   | [Armis](/vendors/armis.md)                       |
+| `Challenger`   | [XM Cyber](/vendors/xm-cyber.md)                 |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)               |
+| `Challenger`   | [CrowdStrike](/vendors/crowdstrike.md)           |

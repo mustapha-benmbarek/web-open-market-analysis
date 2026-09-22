@@ -21,28 +21,28 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/business-orchestration-and-automation-technologies.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Pega](/vendors/pegasystems.md)                        |
-| `Leader`        | [Appian](/vendors/appian.md)                           |
-| `Leader`        | [UiPath](/vendors/uipath.md)                           |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
-| `Visionary`     | [Workato](/vendors/workato.md)                         |
-| `Visionary`     | [Camunda](/vendors/camunda.md)                         |
-| `Visionary`     | [Salesforce](/vendors/salesforce.md)                   |
-| `Niche Player`  | [SAP](/vendors/sap.md)                                 |
-| `Niche Player`  | [Boomi](/vendors/boomi.md)                             |
-| `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Niche Player`  | [Amazon Web Services](/vendors/amazon.md)              |
-| `Niche Player`  | [Nintex](/vendors/nintex.md)                           |
-| `Niche Player`  | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
-| `Niche Player`  | [OutSystems](/vendors/outsystems.md)                   |
-| `Niche Player`  | [Mendix](/vendors/mendix.md)                           |
-| `Niche Player`  | [n8n](/vendors/n8n.md)                                 |
-| `Niche Player`  | [Flowable](/vendors/flowable.md)                       |
-| `Niche Player`  | [Bizagi](/vendors/bizagi.md)                           |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)                     |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Pega](/vendors/pegasystems.md)                        |
+| `Leader`       | [Appian](/vendors/appian.md)                           |
+| `Leader`       | [UiPath](/vendors/uipath.md)                           |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)                   |
+| `Visionary`    | [Workato](/vendors/workato.md)                         |
+| `Visionary`    | [Camunda](/vendors/camunda.md)                         |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)                   |
+| `Niche Player` | [SAP](/vendors/sap.md)                                 |
+| `Niche Player` | [Boomi](/vendors/boomi.md)                             |
+| `Niche Player` | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Niche Player` | [Amazon Web Services](/vendors/amazon.md)              |
+| `Niche Player` | [Nintex](/vendors/nintex.md)                           |
+| `Niche Player` | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Niche Player` | [OutSystems](/vendors/outsystems.md)                   |
+| `Niche Player` | [Mendix](/vendors/mendix.md)                           |
+| `Niche Player` | [n8n](/vendors/n8n.md)                                 |
+| `Niche Player` | [Flowable](/vendors/flowable.md)                       |
+| `Niche Player` | [Bizagi](/vendors/bizagi.md)                           |
+| `Challenger`   | [IBM](/vendors/ibm.md)                                 |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)                     |
 
 ## Report 2025
 
@@ -51,25 +51,25 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/business-orchestration-and-automation-technologies.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Pegasystems](/vendors/pegasystems.md)                 |
-| `Leader`        | [Appian](/vendors/appian.md)                           |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
-| `Visionary`     | [Microsoft](/vendors/microsoft.md)                     |
-| `Visionary`     | [Camunda](/vendors/camunda.md)                         |
-| `Visionary`     | [Workato](/vendors/workato.md)                         |
-| `Niche Player`  | [SAP](/vendors/sap.md)                                 |
-| `Niche Player`  | [Salesforce](/vendors/salesforce.md)                   |
-| `Niche Player`  | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
-| `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Niche Player`  | [Boomi](/vendors/boomi.md)                             |
-| `Niche Player`  | [Mendix](/vendors/mendix.md)                           |
-| `Niche Player`  | [OutSystems](/vendors/outsystems.md)                   |
-| `Niche Player`  | [Nintex](/vendors/nintex.md)                           |
-| `Niche Player`  | [Bizagi](/vendors/bizagi.md)                           |
-| `Niche Player`  | [Hyland](/vendors/hyland.md)                           |
-| `Niche Player`  | [Newgen](/vendors/newgen.md)                           |
-| `Niche Player`  | [Flowable](/vendors/flowable.md)                       |
-| `Challenger`    | [IBM](/vendors/ibm.md)                                 |
-| `Challenger`    | [UiPath](/vendors/uipath.md)                           |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Pegasystems](/vendors/pegasystems.md)                 |
+| `Leader`       | [Appian](/vendors/appian.md)                           |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)                   |
+| `Visionary`    | [Microsoft](/vendors/microsoft.md)                     |
+| `Visionary`    | [Camunda](/vendors/camunda.md)                         |
+| `Visionary`    | [Workato](/vendors/workato.md)                         |
+| `Niche Player` | [SAP](/vendors/sap.md)                                 |
+| `Niche Player` | [Salesforce](/vendors/salesforce.md)                   |
+| `Niche Player` | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Niche Player` | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Niche Player` | [Boomi](/vendors/boomi.md)                             |
+| `Niche Player` | [Mendix](/vendors/mendix.md)                           |
+| `Niche Player` | [OutSystems](/vendors/outsystems.md)                   |
+| `Niche Player` | [Nintex](/vendors/nintex.md)                           |
+| `Niche Player` | [Bizagi](/vendors/bizagi.md)                           |
+| `Niche Player` | [Hyland](/vendors/hyland.md)                           |
+| `Niche Player` | [Newgen](/vendors/newgen.md)                           |
+| `Niche Player` | [Flowable](/vendors/flowable.md)                       |
+| `Challenger`   | [IBM](/vendors/ibm.md)                                 |
+| `Challenger`   | [UiPath](/vendors/uipath.md)                           |

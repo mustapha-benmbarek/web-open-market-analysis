@@ -25,17 +25,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/unified-communications-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Leader`        | [Cisco](/vendors/cisco.md)             |
-| `Leader`        | [Zoom](/vendors/zoom.md)               |
-| `Leader`        | [RingCentral](/vendors/ringcentral.md) |
-| `Visionary`     | [8x8](/vendors/8x8.md)                 |
-| `Visionary`     | [GoTo](/vendors/goto.md)               |
-| `Visionary`     | [Dialpad](/vendors/dialpad.md)         |
-| `Niche Player`  | [Vonage](/vendors/vonage.md)           |
-| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`       | [Cisco](/vendors/cisco.md)             |
+| `Leader`       | [Zoom](/vendors/zoom.md)               |
+| `Leader`       | [RingCentral](/vendors/ringcentral.md) |
+| `Visionary`    | [8x8](/vendors/8x8.md)                 |
+| `Visionary`    | [GoTo](/vendors/goto.md)               |
+| `Visionary`    | [Dialpad](/vendors/dialpad.md)         |
+| `Niche Player` | [Vonage](/vendors/vonage.md)           |
+| `Niche Player` | [Wildix](/vendors/wildix.md)           |
 
 ## Report 2025
 
@@ -44,19 +44,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/unified-communications-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Leader`        | [Cisco](/vendors/cisco.md)             |
-| `Leader`        | [Zoom](/vendors/zoom.md)               |
-| `Leader`        | [RingCentral](/vendors/ringcentral.md) |
-| `Visionary`     | [8x8](/vendors/8x8.md)                 |
-| `Visionary`     | [GoTo](/vendors/goto.md)               |
-| `Visionary`     | [Dialpad](/vendors/dialpad.md)         |
-| `Niche Player`  | [Google](/vendors/google.md)           |
-| `Niche Player`  | [Vonage](/vendors/vonage.md)           |
-| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
-| `Niche Player`  | [Sangoma](/vendors/sangoma.md)         |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`       | [Cisco](/vendors/cisco.md)             |
+| `Leader`       | [Zoom](/vendors/zoom.md)               |
+| `Leader`       | [RingCentral](/vendors/ringcentral.md) |
+| `Visionary`    | [8x8](/vendors/8x8.md)                 |
+| `Visionary`    | [GoTo](/vendors/goto.md)               |
+| `Visionary`    | [Dialpad](/vendors/dialpad.md)         |
+| `Niche Player` | [Google](/vendors/google.md)           |
+| `Niche Player` | [Vonage](/vendors/vonage.md)           |
+| `Niche Player` | [Wildix](/vendors/wildix.md)           |
+| `Niche Player` | [Sangoma](/vendors/sangoma.md)         |
 
 ## Report 2024
 
@@ -65,16 +65,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/unified-communications-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Leader`        | [Cisco](/vendors/cisco.md)             |
-| `Leader`        | [RingCentral](/vendors/ringcentral.md) |
-| `Leader`        | [Zoom](/vendors/zoom.md)               |
-| `Leader`        | [8x8](/vendors/8x8.md)                 |
-| `Niche Player`  | [GoTo](/vendors/goto.md)               |
-| `Niche Player`  | [Vonage](/vendors/vonage.md)           |
-| `Niche Player`  | [Dialpad](/vendors/dialpad.md)         |
-| `Niche Player`  | [Sangoma](/vendors/sangoma.md)         |
-| `Niche Player`  | [Wildix](/vendors/wildix.md)           |
-| `Challenger`    | [Google](/vendors/google.md)           |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`       | [Cisco](/vendors/cisco.md)             |
+| `Leader`       | [RingCentral](/vendors/ringcentral.md) |
+| `Leader`       | [Zoom](/vendors/zoom.md)               |
+| `Leader`       | [8x8](/vendors/8x8.md)                 |
+| `Niche Player` | [GoTo](/vendors/goto.md)               |
+| `Niche Player` | [Vonage](/vendors/vonage.md)           |
+| `Niche Player` | [Dialpad](/vendors/dialpad.md)         |
+| `Niche Player` | [Sangoma](/vendors/sangoma.md)         |
+| `Niche Player` | [Wildix](/vendors/wildix.md)           |
+| `Challenger`   | [Google](/vendors/google.md)           |

@@ -10,15 +10,15 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2026) |
-| `Niche Player`  | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                         |
+| MQ Position    | MQ Vendor                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2026) |
+| `Niche Player` | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                         |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Market Status   | Market Vendor                                                                        |
-| --------------- | ------------------------------------------------------------------------------------ |
-| `Challenger`    | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2025) |
+| MQ Position  | MQ Vendor                                                                            |
+| ------------ | ------------------------------------------------------------------------------------ |
+| `Challenger` | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2025) |

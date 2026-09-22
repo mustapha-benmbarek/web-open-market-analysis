@@ -23,23 +23,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/software-supply-chain-security.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [JFrog](/vendors/jfrog.md)                 |
-| `Leader`        | [Sonatype](/vendors/sonatype.md)           |
-| `Leader`        | [Checkmarx](/vendors/checkmarx.md)         |
-| `Leader`        | [Black Duck](/vendors/black-duck.md)       |
-| `Leader`        | [Chainguard](/vendors/chainguard.md)       |
-| `Leader`        | [Cycode](/vendors/cycode.md)               |
-| `Leader`        | [Apiiro](/vendors/apiiro.md)               |
-| `Leader`        | [OX Security](/vendors/ox-security.md)     |
-| `Visionary`     | [ReversingLabs](/vendors/reversinglabs.md) |
-| `Visionary`     | [Endor Labs](/vendors/endor-labs.md)       |
-| `Visionary`     | [Lineaje](/vendors/lineaje.md)             |
-| `Visionary`     | [Mend.io](/vendors/mend.io.md)             |
-| `Niche Player`  | [GitHub](/vendors/github.md)               |
-| `Niche Player`  | [RapidFort](/vendors/rapidfort.md)         |
-| `Niche Player`  | [Arnica](/vendors/arnica.md)               |
-| `Niche Player`  | [FOSSA](/vendors/fossa.md)                 |
-| `Niche Player`  | [ActiveState](/vendors/activestate.md)     |
-| `Niche Player`  | [Veracode](/vendors/veracode.md)           |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [JFrog](/vendors/jfrog.md)                 |
+| `Leader`       | [Sonatype](/vendors/sonatype.md)           |
+| `Leader`       | [Checkmarx](/vendors/checkmarx.md)         |
+| `Leader`       | [Black Duck](/vendors/black-duck.md)       |
+| `Leader`       | [Chainguard](/vendors/chainguard.md)       |
+| `Leader`       | [Cycode](/vendors/cycode.md)               |
+| `Leader`       | [Apiiro](/vendors/apiiro.md)               |
+| `Leader`       | [OX Security](/vendors/ox-security.md)     |
+| `Visionary`    | [ReversingLabs](/vendors/reversinglabs.md) |
+| `Visionary`    | [Endor Labs](/vendors/endor-labs.md)       |
+| `Visionary`    | [Lineaje](/vendors/lineaje.md)             |
+| `Visionary`    | [Mend.io](/vendors/mend.io.md)             |
+| `Niche Player` | [GitHub](/vendors/github.md)               |
+| `Niche Player` | [RapidFort](/vendors/rapidfort.md)         |
+| `Niche Player` | [Arnica](/vendors/arnica.md)               |
+| `Niche Player` | [FOSSA](/vendors/fossa.md)                 |
+| `Niche Player` | [ActiveState](/vendors/activestate.md)     |
+| `Niche Player` | [Veracode](/vendors/veracode.md)           |

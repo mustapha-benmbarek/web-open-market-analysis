@@ -22,20 +22,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/search-and-product-discovery.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Constructor](/vendors/constructor.md)       |
-| `Leader`        | [Algolia](/vendors/algolia.md)               |
-| `Leader`        | [Coveo](/vendors/coveo.md)                   |
-| `Leader`        | [Google](/vendors/google.md)                 |
-| `Leader`        | [Bloomreach](/vendors/bloomreach.md)         |
-| `Leader`        | [Netcore Unbxd](/vendors/netcore-unbxd.md)   |
-| `Visionary`     | [Zoovu](/vendors/zoovu.md)                   |
-| `Niche Player`  | [Rezolve Ai](/vendors/rezolve-ai.md)         |
-| `Niche Player`  | [Algonomy](/vendors/algonomy.md)             |
-| `Niche Player`  | [Athos Commerce](/vendors/athos-commerce.md) |
-| `Challenger`    | [Lucidworks](/vendors/lucidworks.md)         |
-| `Challenger`    | [HawkSearch](/vendors/hawksearch.md)         |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [Constructor](/vendors/constructor.md)       |
+| `Leader`       | [Algolia](/vendors/algolia.md)               |
+| `Leader`       | [Coveo](/vendors/coveo.md)                   |
+| `Leader`       | [Google](/vendors/google.md)                 |
+| `Leader`       | [Bloomreach](/vendors/bloomreach.md)         |
+| `Leader`       | [Netcore Unbxd](/vendors/netcore-unbxd.md)   |
+| `Visionary`    | [Zoovu](/vendors/zoovu.md)                   |
+| `Niche Player` | [Rezolve Ai](/vendors/rezolve-ai.md)         |
+| `Niche Player` | [Algonomy](/vendors/algonomy.md)             |
+| `Niche Player` | [Athos Commerce](/vendors/athos-commerce.md) |
+| `Challenger`   | [Lucidworks](/vendors/lucidworks.md)         |
+| `Challenger`   | [HawkSearch](/vendors/hawksearch.md)         |
 
 ## Report 2025
 
@@ -44,23 +44,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/search-and-product-discovery.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Algolia](/vendors/algolia.md)               |
-| `Leader`        | [Coveo](/vendors/coveo.md)                   |
-| `Leader`        | [Bloomreach](/vendors/bloomreach.md)         |
-| `Leader`        | [Constructor](/vendors/constructor.md)       |
-| `Leader`        | [Google](/vendors/google.md)                 |
-| `Leader`        | [Netcore Unbxd](/vendors/netcore-unbxd.md)   |
-| `Niche Player`  | [Yext](/vendors/yext.md)                     |
-| `Niche Player`  | [Zoovu](/vendors/zoovu.md)                   |
-| `Niche Player`  | [Nosto](/vendors/nosto.md)                   |
-| `Niche Player`  | [Algonomy](/vendors/algonomy.md)             |
-| `Niche Player`  | [Athos Commerce](/vendors/athos-commerce.md) |
-| `Niche Player`  | [FactFinder](/vendors/factfinder.md)         |
-| `Challenger`    | [Lucidworks](/vendors/lucidworks.md)         |
-| `Challenger`    | [HawkSearch](/vendors/hawksearch.md)         |
-| `Challenger`    | [Rezolve Ai](/vendors/rezolve-ai.md)         |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [Algolia](/vendors/algolia.md)               |
+| `Leader`       | [Coveo](/vendors/coveo.md)                   |
+| `Leader`       | [Bloomreach](/vendors/bloomreach.md)         |
+| `Leader`       | [Constructor](/vendors/constructor.md)       |
+| `Leader`       | [Google](/vendors/google.md)                 |
+| `Leader`       | [Netcore Unbxd](/vendors/netcore-unbxd.md)   |
+| `Niche Player` | [Yext](/vendors/yext.md)                     |
+| `Niche Player` | [Zoovu](/vendors/zoovu.md)                   |
+| `Niche Player` | [Nosto](/vendors/nosto.md)                   |
+| `Niche Player` | [Algonomy](/vendors/algonomy.md)             |
+| `Niche Player` | [Athos Commerce](/vendors/athos-commerce.md) |
+| `Niche Player` | [FactFinder](/vendors/factfinder.md)         |
+| `Challenger`   | [Lucidworks](/vendors/lucidworks.md)         |
+| `Challenger`   | [HawkSearch](/vendors/hawksearch.md)         |
+| `Challenger`   | [Rezolve Ai](/vendors/rezolve-ai.md)         |
 
 ## Report 2024
 
@@ -69,22 +69,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/search-and-product-discovery.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Coveo](/vendors/coveo.md)                 |
-| `Leader`        | [Algolia](/vendors/algolia.md)             |
-| `Leader`        | [Bloomreach](/vendors/bloomreach.md)       |
-| `Leader`        | [Lucidworks](/vendors/lucidworks.md)       |
-| `Leader`        | [Netcore Unbxd](/vendors/netcore-unbxd.md) |
-| `Visionary`     | [Constructor](/vendors/constructor.md)     |
-| `Visionary`     | [Google](/vendors/google.md)               |
-| `Niche Player`  | [Klevu](/vendors/klevu.md)                 |
-| `Niche Player`  | [Algonomy](/vendors/algonomy.md)           |
-| `Niche Player`  | [Yext](/vendors/yext.md)                   |
-| `Niche Player`  | [Crownpeak](/vendors/crownpeak.md)         |
-| `Niche Player`  | [Nosto](/vendors/nosto.md)                 |
-| `Niche Player`  | [Zoovu](/vendors/zoovu.md)                 |
-| `Niche Player`  | [FactFinder](/vendors/factfinder.md)       |
-| `Challenger`    | [Sitecore](/vendors/sitecore.md)           |
-| `Challenger`    | [HawkSearch](/vendors/hawksearch.md)       |
-| `Challenger`    | [GroupBy](/vendors/groupby.md)             |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Coveo](/vendors/coveo.md)                 |
+| `Leader`       | [Algolia](/vendors/algolia.md)             |
+| `Leader`       | [Bloomreach](/vendors/bloomreach.md)       |
+| `Leader`       | [Lucidworks](/vendors/lucidworks.md)       |
+| `Leader`       | [Netcore Unbxd](/vendors/netcore-unbxd.md) |
+| `Visionary`    | [Constructor](/vendors/constructor.md)     |
+| `Visionary`    | [Google](/vendors/google.md)               |
+| `Niche Player` | [Klevu](/vendors/klevu.md)                 |
+| `Niche Player` | [Algonomy](/vendors/algonomy.md)           |
+| `Niche Player` | [Yext](/vendors/yext.md)                   |
+| `Niche Player` | [Crownpeak](/vendors/crownpeak.md)         |
+| `Niche Player` | [Nosto](/vendors/nosto.md)                 |
+| `Niche Player` | [Zoovu](/vendors/zoovu.md)                 |
+| `Niche Player` | [FactFinder](/vendors/factfinder.md)       |
+| `Challenger`   | [Sitecore](/vendors/sitecore.md)           |
+| `Challenger`   | [HawkSearch](/vendors/hawksearch.md)       |
+| `Challenger`   | [GroupBy](/vendors/groupby.md)             |

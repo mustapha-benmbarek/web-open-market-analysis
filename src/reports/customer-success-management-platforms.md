@@ -31,17 +31,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/customer-success-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Gainsight](/vendors/gainsight.md)         |
-| `Leader`        | [Planhat](/vendors/planhat.md)             |
-| `Leader`        | [ChurnZero](/vendors/churnzero.md)         |
-| `Leader`        | [Totango](/vendors/totango.md)             |
-| `Visionary`     | [Velaris](/vendors/velaris.md)             |
-| `Niche Player`  | [HubSpot](/vendors/hubspot.md)             |
-| `Niche Player`  | [Vitally](/vendors/vitally.md)             |
-| `Niche Player`  | [Custify](/vendors/custify.md)             |
-| `Niche Player`  | [ClientSuccess](/vendors/clientsuccess.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Gainsight](/vendors/gainsight.md)         |
+| `Leader`       | [Planhat](/vendors/planhat.md)             |
+| `Leader`       | [ChurnZero](/vendors/churnzero.md)         |
+| `Leader`       | [Totango](/vendors/totango.md)             |
+| `Visionary`    | [Velaris](/vendors/velaris.md)             |
+| `Niche Player` | [HubSpot](/vendors/hubspot.md)             |
+| `Niche Player` | [Vitally](/vendors/vitally.md)             |
+| `Niche Player` | [Custify](/vendors/custify.md)             |
+| `Niche Player` | [ClientSuccess](/vendors/clientsuccess.md) |
 
 ## Report 2024
 
@@ -50,13 +50,13 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/customer-success-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Gainsight](/vendors/gainsight.md)         |
-| `Leader`        | [Totango](/vendors/totango.md)             |
-| `Leader`        | [ChurnZero](/vendors/churnzero.md)         |
-| `Leader`        | [Planhat](/vendors/planhat.md)             |
-| `Niche Player`  | [ClientSuccess](/vendors/clientsuccess.md) |
-| `Niche Player`  | [Vitally](/vendors/vitally.md)             |
-| `Niche Player`  | [Velaris](/vendors/velaris.md)             |
-| `Niche Player`  | [Custify](/vendors/custify.md)             |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Gainsight](/vendors/gainsight.md)         |
+| `Leader`       | [Totango](/vendors/totango.md)             |
+| `Leader`       | [ChurnZero](/vendors/churnzero.md)         |
+| `Leader`       | [Planhat](/vendors/planhat.md)             |
+| `Niche Player` | [ClientSuccess](/vendors/clientsuccess.md) |
+| `Niche Player` | [Vitally](/vendors/vitally.md)             |
+| `Niche Player` | [Velaris](/vendors/velaris.md)             |
+| `Niche Player` | [Custify](/vendors/custify.md)             |

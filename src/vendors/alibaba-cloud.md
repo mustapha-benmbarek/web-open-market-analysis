@@ -10,50 +10,50 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| `Challenger`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
-| `Challenger`    | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
-| `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
-| `Leader`        | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
-| `Visionary`     | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026)                      |
-| `Leader`        | [Container Management](/reports/container-management.md#report-2026)                                                      |
-| `Leader`        | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2026)                                                      |
-| `Challenger`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
-| `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
-| `Challenger`    | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                |
-| `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |
+| MQ Position  | MQ Vendor                                                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| `Challenger` | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
+| `Challenger` | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
+| `Leader`     | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
+| `Leader`     | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
+| `Visionary`  | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2026)                      |
+| `Leader`     | [Container Management](/reports/container-management.md#report-2026)                                                      |
+| `Leader`     | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2026)                                                      |
+| `Challenger` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
+| `Challenger` | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
+| `Challenger` | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                |
+| `Leader`     | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Market Status   | Market Vendor                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [Access Management](/reports/access-management.md#report-2025)                                                         |
-| `Challenger`    | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                   |
-| `Challenger`    | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                                       |
-| `Challenger`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025) |
-| `Leader`        | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                         |
-| `Leader`        | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025)                       |
-| `Leader`        | [Container Management](/reports/container-management.md#report-2025)                                                   |
-| `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)     |
-| `Challenger`    | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2025)                                                   |
-| `Niche Player`  | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                         |
-| `Challenger`    | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                         |
+| MQ Position    | MQ Vendor                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Access Management](/reports/access-management.md#report-2025)                                                         |
+| `Challenger`   | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                   |
+| `Challenger`   | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                                       |
+| `Challenger`   | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025) |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                         |
+| `Leader`       | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025)                       |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2025)                                                   |
+| `Challenger`   | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)     |
+| `Challenger`   | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2025)                                                   |
+| `Niche Player` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                         |
+| `Challenger`   | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                         |
 
 ## Market 2024
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| Market Status   | Market Vendor                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `Challenger`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
-| `Challenger`    | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |
-| `Leader`        | [Container Management](/reports/container-management.md#report-2024)                                                   |
-| `Challenger`    | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
-| `Challenger`    | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                                       |
-| `Niche Player`  | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                   |
-| `Niche Player`  | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                         |
-| `Challenger`    | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |
-| `Leader`        | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |
+| MQ Position    | MQ Vendor                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Challenger`   | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
+| `Challenger`   | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2024)                                                   |
+| `Challenger`   | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
+| `Challenger`   | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                                       |
+| `Niche Player` | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                   |
+| `Niche Player` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                         |
+| `Challenger`   | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |

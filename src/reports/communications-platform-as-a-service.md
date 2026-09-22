@@ -27,22 +27,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/communications-platform-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Twilio](/vendors/twilio.md)                           |
-| `Leader`        | [Infobip](/vendors/infobip.md)                         |
-| `Leader`        | [Sinch](/vendors/sinch.md)                             |
-| `Leader`        | [Vonage](/vendors/vonage.md)                           |
-| `Leader`        | [Proximus Global](/vendors/proximus-global.md)         |
-| `Visionary`     | [Tanla](/vendors/tanla.md)                             |
-| `Visionary`     | [Tata Communications](/vendors/tata-communications.md) |
-| `Visionary`     | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
-| `Niche Player`  | [Telnyx](/vendors/telnyx.md)                           |
-| `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
-| `Niche Player`  | [GMS](/vendors/gms.md)                                 |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
-| `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Twilio](/vendors/twilio.md)                           |
+| `Leader`       | [Infobip](/vendors/infobip.md)                         |
+| `Leader`       | [Sinch](/vendors/sinch.md)                             |
+| `Leader`       | [Vonage](/vendors/vonage.md)                           |
+| `Leader`       | [Proximus Global](/vendors/proximus-global.md)         |
+| `Visionary`    | [Tanla](/vendors/tanla.md)                             |
+| `Visionary`    | [Tata Communications](/vendors/tata-communications.md) |
+| `Visionary`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)             |
+| `Niche Player` | [Telnyx](/vendors/telnyx.md)                           |
+| `Niche Player` | [Mitto](/vendors/mitto.md)                             |
+| `Niche Player` | [GMS](/vendors/gms.md)                                 |
+| `Challenger`   | [Cisco](/vendors/cisco.md)                             |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)                   |
+| `Challenger`   | [Bandwidth](/vendors/bandwidth.md)                     |
 
 ## Report 2025
 
@@ -51,19 +51,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/communications-platform-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Twilio](/vendors/twilio.md)                           |
-| `Leader`        | [Infobip](/vendors/infobip.md)                         |
-| `Leader`        | [Sinch](/vendors/sinch.md)                             |
-| `Visionary`     | [Tanla](/vendors/tanla.md)                             |
-| `Visionary`     | [Proximus Global](/vendors/proximus-global.md)         |
-| `Visionary`     | [Cisco](/vendors/cisco.md)                             |
-| `Visionary`     | [Vonage](/vendors/vonage.md)                           |
-| `Niche Player`  | [Tata Communications](/vendors/tata-communications.md) |
-| `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
-| `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Twilio](/vendors/twilio.md)                           |
+| `Leader`       | [Infobip](/vendors/infobip.md)                         |
+| `Leader`       | [Sinch](/vendors/sinch.md)                             |
+| `Visionary`    | [Tanla](/vendors/tanla.md)                             |
+| `Visionary`    | [Proximus Global](/vendors/proximus-global.md)         |
+| `Visionary`    | [Cisco](/vendors/cisco.md)                             |
+| `Visionary`    | [Vonage](/vendors/vonage.md)                           |
+| `Niche Player` | [Tata Communications](/vendors/tata-communications.md) |
+| `Niche Player` | [Mitto](/vendors/mitto.md)                             |
+| `Challenger`   | [Bandwidth](/vendors/bandwidth.md)                     |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)                   |
 
 ## Report 2024
 
@@ -72,16 +72,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/communications-platform-as-a-service.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Twilio](/vendors/twilio.md)                           |
-| `Leader`        | [Infobip](/vendors/infobip.md)                         |
-| `Leader`        | [Sinch](/vendors/sinch.md)                             |
-| `Leader`        | [Vonage](/vendors/vonage.md)                           |
-| `Visionary`     | [Tanla](/vendors/tanla.md)                             |
-| `Visionary`     | [Cisco](/vendors/cisco.md)                             |
-| `Niche Player`  | [Route Mobile](/vendors/route-mobile.md)               |
-| `Niche Player`  | [Tata Communications](/vendors/tata-communications.md) |
-| `Niche Player`  | [Mitto](/vendors/mitto.md)                             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)                   |
-| `Challenger`    | [Bandwidth](/vendors/bandwidth.md)                     |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Twilio](/vendors/twilio.md)                           |
+| `Leader`       | [Infobip](/vendors/infobip.md)                         |
+| `Leader`       | [Sinch](/vendors/sinch.md)                             |
+| `Leader`       | [Vonage](/vendors/vonage.md)                           |
+| `Visionary`    | [Tanla](/vendors/tanla.md)                             |
+| `Visionary`    | [Cisco](/vendors/cisco.md)                             |
+| `Niche Player` | [Route Mobile](/vendors/route-mobile.md)               |
+| `Niche Player` | [Tata Communications](/vendors/tata-communications.md) |
+| `Niche Player` | [Mitto](/vendors/mitto.md)                             |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)                   |
+| `Challenger`   | [Bandwidth](/vendors/bandwidth.md)                     |

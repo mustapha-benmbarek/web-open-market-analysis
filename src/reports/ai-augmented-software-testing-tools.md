@@ -25,15 +25,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/ai-augmented-software-testing-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Tricentis](/vendors/tricentis.md)       |
-| `Leader`        | [Keysight](/vendors/keysight.md)         |
-| `Leader`        | [UiPath](/vendors/uipath.md)             |
-| `Leader`        | [OpenText](/vendors/opentext.md)         |
-| `Visionary`     | [Katalon](/vendors/katalon.md)           |
-| `Niche Player`  | [Applitools](/vendors/applitools.md)     |
-| `Challenger`    | [ACCELQ](/vendors/accelq.md)             |
-| `Challenger`    | [SmartBear](/vendors/smartbear.md)       |
-| `Challenger`    | [LambdaTest](/vendors/lambdatest.md)     |
-| `Challenger`    | [BrowserStack](/vendors/browserstack.md) |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Tricentis](/vendors/tricentis.md)       |
+| `Leader`       | [Keysight](/vendors/keysight.md)         |
+| `Leader`       | [UiPath](/vendors/uipath.md)             |
+| `Leader`       | [OpenText](/vendors/opentext.md)         |
+| `Visionary`    | [Katalon](/vendors/katalon.md)           |
+| `Niche Player` | [Applitools](/vendors/applitools.md)     |
+| `Challenger`   | [ACCELQ](/vendors/accelq.md)             |
+| `Challenger`   | [SmartBear](/vendors/smartbear.md)       |
+| `Challenger`   | [LambdaTest](/vendors/lambdatest.md)     |
+| `Challenger`   | [BrowserStack](/vendors/browserstack.md) |

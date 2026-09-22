@@ -35,23 +35,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/digital-employee-experience-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [Nexthink](/vendors/nexthink.md)                           |
-| `Leader`        | [ControlUp](/vendors/controlup.md)                         |
-| `Leader`        | [Riverbed](/vendors/riverbed.md)                           |
-| `Leader`        | [TeamViewer](/vendors/teamviewer.md)                       |
-| `Leader`        | [Lakeside Software](/vendors/lakeside-software.md)         |
-| `Leader`        | [HP Inc.](/vendors/hewlett-packard.md)                     |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)                             |
-| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                       |
-| `Visionary`     | [Tanium](/vendors/tanium.md)                               |
-| `Visionary`     | [Ivanti](/vendors/ivanti.md)                               |
-| `Niche Player`  | [Nanoheal](/vendors/nanoheal.md)                           |
-| `Niche Player`  | [ManageEngine](/vendors/manageengine.md)                   |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)                         |
-| `Niche Player`  | [Progressive Techserve](/vendors/progressive-techserve.md) |
-| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                             |
+| MQ Position    | MQ Vendor                                                  |
+| -------------- | ---------------------------------------------------------- |
+| `Leader`       | [Nexthink](/vendors/nexthink.md)                           |
+| `Leader`       | [ControlUp](/vendors/controlup.md)                         |
+| `Leader`       | [Riverbed](/vendors/riverbed.md)                           |
+| `Leader`       | [TeamViewer](/vendors/teamviewer.md)                       |
+| `Leader`       | [Lakeside Software](/vendors/lakeside-software.md)         |
+| `Leader`       | [HP Inc.](/vendors/hewlett-packard.md)                     |
+| `Leader`       | [Omnissa](/vendors/omnissa.md)                             |
+| `Visionary`    | [ServiceNow](/vendors/servicenow.md)                       |
+| `Visionary`    | [Tanium](/vendors/tanium.md)                               |
+| `Visionary`    | [Ivanti](/vendors/ivanti.md)                               |
+| `Niche Player` | [Nanoheal](/vendors/nanoheal.md)                           |
+| `Niche Player` | [ManageEngine](/vendors/manageengine.md)                   |
+| `Niche Player` | [Flexxible](/vendors/flexxible.md)                         |
+| `Niche Player` | [Progressive Techserve](/vendors/progressive-techserve.md) |
+| `Niche Player` | [HCLSoftware](/vendors/hcl.md)                             |
 
 ## Report 2025
 
@@ -60,21 +60,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-employee-experience-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Nexthink](/vendors/nexthink.md)                         |
-| `Leader`        | [TeamViewer](/vendors/teamviewer.md)                     |
-| `Leader`        | [ControlUp](/vendors/controlup.md)                       |
-| `Leader`        | [Riverbed](/vendors/riverbed.md)                         |
-| `Leader`        | [Lakeside Software](/vendors/lakeside-software.md)       |
-| `Leader`        | [Omnissa](/vendors/omnissa.md)                           |
-| `Visionary`     | [HP Inc.](/vendors/hewlett-packard.md)                   |
-| `Visionary`     | [Tanium](/vendors/tanium.md)                             |
-| `Visionary`     | [Ivanti](/vendors/ivanti.md)                             |
-| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                     |
-| `Niche Player`  | [Nanoheal](/vendors/nanoheal.md)                         |
-| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                           |
-| `Niche Player`  | [Flexxible](/vendors/flexxible.md)                       |
-| `Niche Player`  | [Progressive Infotech](/vendors/progressive-infotech.md) |
-| `Niche Player`  | [Liquidware](/vendors/liquidware.md)                     |
-| `Niche Player`  | [Almaden](/vendors/almaden.md)                           |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Nexthink](/vendors/nexthink.md)                         |
+| `Leader`       | [TeamViewer](/vendors/teamviewer.md)                     |
+| `Leader`       | [ControlUp](/vendors/controlup.md)                       |
+| `Leader`       | [Riverbed](/vendors/riverbed.md)                         |
+| `Leader`       | [Lakeside Software](/vendors/lakeside-software.md)       |
+| `Leader`       | [Omnissa](/vendors/omnissa.md)                           |
+| `Visionary`    | [HP Inc.](/vendors/hewlett-packard.md)                   |
+| `Visionary`    | [Tanium](/vendors/tanium.md)                             |
+| `Visionary`    | [Ivanti](/vendors/ivanti.md)                             |
+| `Visionary`    | [ServiceNow](/vendors/servicenow.md)                     |
+| `Niche Player` | [Nanoheal](/vendors/nanoheal.md)                         |
+| `Niche Player` | [HCLSoftware](/vendors/hcl.md)                           |
+| `Niche Player` | [Flexxible](/vendors/flexxible.md)                       |
+| `Niche Player` | [Progressive Infotech](/vendors/progressive-infotech.md) |
+| `Niche Player` | [Liquidware](/vendors/liquidware.md)                     |
+| `Niche Player` | [Almaden](/vendors/almaden.md)                           |

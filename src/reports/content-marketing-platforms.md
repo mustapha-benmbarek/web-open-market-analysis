@@ -28,17 +28,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Storyteq](/vendors/storyteq.md)     |
-| `Leader`        | [Optimizely](/vendors/optimizely.md) |
-| `Leader`        | [Adobe](/vendors/adobe.md)           |
-| `Leader`        | [Sitecore](/vendors/sitecore.md)     |
-| `Leader`        | [Aprimo](/vendors/aprimo.md)         |
-| `Visionary`     | [Sprinklr](/vendors/sprinklr.md)     |
-| `Niche Player`  | [Contently](/vendors/contently.md)   |
-| `Niche Player`  | [CoSchedule](/vendors/coschedule.md) |
-| `Challenger`    | [HubSpot](/vendors/hubspot.md)       |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Storyteq](/vendors/storyteq.md)     |
+| `Leader`       | [Optimizely](/vendors/optimizely.md) |
+| `Leader`       | [Adobe](/vendors/adobe.md)           |
+| `Leader`       | [Sitecore](/vendors/sitecore.md)     |
+| `Leader`       | [Aprimo](/vendors/aprimo.md)         |
+| `Visionary`    | [Sprinklr](/vendors/sprinklr.md)     |
+| `Niche Player` | [Contently](/vendors/contently.md)   |
+| `Niche Player` | [CoSchedule](/vendors/coschedule.md) |
+| `Challenger`   | [HubSpot](/vendors/hubspot.md)       |
 
 ## Report 2025
 
@@ -47,19 +47,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Optimizely](/vendors/optimizely.md) |
-| `Leader`        | [Storyteq](/vendors/storyteq.md)     |
-| `Leader`        | [Sprinklr](/vendors/sprinklr.md)     |
-| `Leader`        | [Hubspot](/vendors/hubspot.md)       |
-| `Leader`        | [Adobe](/vendors/adobe.md)           |
-| `Visionary`     | [Sitecore](/vendors/sitecore.md)     |
-| `Niche Player`  | [CoSchedule](/vendors/coschedule.md) |
-| `Niche Player`  | [Contently](/vendors/contently.md)   |
-| `Niche Player`  | [Upland](/vendors/upland.md)         |
-| `Challenger`    | [Lytho](/vendors/lytho.md)           |
-| `Challenger`    | [Skyword](/vendors/skyword.md)       |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Optimizely](/vendors/optimizely.md) |
+| `Leader`       | [Storyteq](/vendors/storyteq.md)     |
+| `Leader`       | [Sprinklr](/vendors/sprinklr.md)     |
+| `Leader`       | [Hubspot](/vendors/hubspot.md)       |
+| `Leader`       | [Adobe](/vendors/adobe.md)           |
+| `Visionary`    | [Sitecore](/vendors/sitecore.md)     |
+| `Niche Player` | [CoSchedule](/vendors/coschedule.md) |
+| `Niche Player` | [Contently](/vendors/contently.md)   |
+| `Niche Player` | [Upland](/vendors/upland.md)         |
+| `Challenger`   | [Lytho](/vendors/lytho.md)           |
+| `Challenger`   | [Skyword](/vendors/skyword.md)       |
 
 ## Report 2024
 
@@ -68,15 +68,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/content-marketing-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Optimizely](/vendors/optimizely.md) |
-| `Leader`        | [Storyteq](/vendors/storyteq.md)     |
-| `Leader`        | [Sprinklr](/vendors/sprinklr.md)     |
-| `Leader`        | [Skyword](/vendors/skyword.md)       |
-| `Leader`        | [Sitecore](/vendors/sitecore.md)     |
-| `Niche Player`  | [Contently](/vendors/contently.md)   |
-| `Niche Player`  | [CoSchedule](/vendors/coschedule.md) |
-| `Niche Player`  | [Upland](/vendors/upland.md)         |
-| `Challenger`    | [Adobe](/vendors/adobe.md)           |
-| `Challenger`    | [Acquia](/vendors/acquia.md)         |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Optimizely](/vendors/optimizely.md) |
+| `Leader`       | [Storyteq](/vendors/storyteq.md)     |
+| `Leader`       | [Sprinklr](/vendors/sprinklr.md)     |
+| `Leader`       | [Skyword](/vendors/skyword.md)       |
+| `Leader`       | [Sitecore](/vendors/sitecore.md)     |
+| `Niche Player` | [Contently](/vendors/contently.md)   |
+| `Niche Player` | [CoSchedule](/vendors/coschedule.md) |
+| `Niche Player` | [Upland](/vendors/upland.md)         |
+| `Challenger`   | [Adobe](/vendors/adobe.md)           |
+| `Challenger`   | [Acquia](/vendors/acquia.md)         |

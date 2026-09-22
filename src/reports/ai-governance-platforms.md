@@ -25,18 +25,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/ai-governance-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [IBM](/vendors/ibm.md)                 |
-| `Leader`        | [Truyo](/vendors/truyo.md)             |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)   |
-| `Visionary`     | [Airia](/vendors/airia.md)             |
-| `Visionary`     | [OneTrust](/vendors/onetrust.md)       |
-| `Visionary`     | [ModelOp](/vendors/modelop.md)         |
-| `Visionary`     | [Credo AI](/vendors/credo-ai.md)       |
-| `Visionary`     | [Monitaur](/vendors/monitaur.md)       |
-| `Niche Player`  | [SAP](/vendors/sap.md)                 |
-| `Niche Player`  | [Relyance AI](/vendors/relyance-ai.md) |
-| `Niche Player`  | [Cranium AI](/vendors/cranium-ai.md)   |
-| `Niche Player`  | [Saidot](/vendors/saidot.md)           |
-| `Challenger`    | [Holistic AI](/vendors/holistic-ai.md) |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [IBM](/vendors/ibm.md)                 |
+| `Leader`       | [Truyo](/vendors/truyo.md)             |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)   |
+| `Visionary`    | [Airia](/vendors/airia.md)             |
+| `Visionary`    | [OneTrust](/vendors/onetrust.md)       |
+| `Visionary`    | [ModelOp](/vendors/modelop.md)         |
+| `Visionary`    | [Credo AI](/vendors/credo-ai.md)       |
+| `Visionary`    | [Monitaur](/vendors/monitaur.md)       |
+| `Niche Player` | [SAP](/vendors/sap.md)                 |
+| `Niche Player` | [Relyance AI](/vendors/relyance-ai.md) |
+| `Niche Player` | [Cranium AI](/vendors/cranium-ai.md)   |
+| `Niche Player` | [Saidot](/vendors/saidot.md)           |
+| `Challenger`   | [Holistic AI](/vendors/holistic-ai.md) |

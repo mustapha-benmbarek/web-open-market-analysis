@@ -25,16 +25,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026 *
 and view the magic quadrant graphic
 <a href="/docs/2026/enterprise-storage-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Everpure](/vendors/everpure.md)               |
-| `Leader`        | [Huawei](/vendors/huawei.md)                   |
-| `Leader`        | [HPE](/vendors/hewlett-packard.md)             |
-| `Leader`        | [NetApp](/vendors/netapp.md)                   |
-| `Leader`        | [Dell Technologies](/vendors/dell.md)          |
-| `Leader`        | [IBM](/vendors/ibm.md)                         |
-| `Visionary`     | [Hitachi Vantara](/vendors/hitachi-vantara.md) |
-| `Niche Player`  | [IEIT Systems](/vendors/ieit-systems.md)       |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Everpure](/vendors/everpure.md)               |
+| `Leader`       | [Huawei](/vendors/huawei.md)                   |
+| `Leader`       | [HPE](/vendors/hewlett-packard.md)             |
+| `Leader`       | [NetApp](/vendors/netapp.md)                   |
+| `Leader`       | [Dell Technologies](/vendors/dell.md)          |
+| `Leader`       | [IBM](/vendors/ibm.md)                         |
+| `Visionary`    | [Hitachi Vantara](/vendors/hitachi-vantara.md) |
+| `Niche Player` | [IEIT Systems](/vendors/ieit-systems.md)       |
 
 ## Report 2025
 
@@ -43,14 +43,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/enterprise-storage-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Pure Storage](/vendors/pure-storage.md)           |
-| `Leader`        | [NetApp](/vendors/netapp.md)                       |
-| `Leader`        | [Huawei](/vendors/huawei.md)                       |
-| `Leader`        | [HPE](/vendors/hpe.md)                             |
-| `Leader`        | [Dell Technologies](/vendors/dell-technologies.md) |
-| `Leader`        | [IBM](/vendors/ibm.md)                             |
-| `Visionary`     | [Hitachi Vantara](/vendors/hitachi-vantara.md)     |
-| `Niche Player`  | [DDN](/vendors/ddn.md)                             |
-| `Niche Player`  | [IEIT Systems](/vendors/ieit-systems.md)           |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Pure Storage](/vendors/pure-storage.md)           |
+| `Leader`       | [NetApp](/vendors/netapp.md)                       |
+| `Leader`       | [Huawei](/vendors/huawei.md)                       |
+| `Leader`       | [HPE](/vendors/hpe.md)                             |
+| `Leader`       | [Dell Technologies](/vendors/dell-technologies.md) |
+| `Leader`       | [IBM](/vendors/ibm.md)                             |
+| `Visionary`    | [Hitachi Vantara](/vendors/hitachi-vantara.md)     |
+| `Niche Player` | [DDN](/vendors/ddn.md)                             |
+| `Niche Player` | [IEIT Systems](/vendors/ieit-systems.md)           |

@@ -21,21 +21,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/higher-education-student-information-system-saas.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Ellucian](/vendors/ellucian.md)                         |
-| `Leader`        | [Workday](/vendors/workday.md)                           |
-| `Visionary`     | [RIO Education](/vendors/rio-education.md)               |
-| `Visionary`     | [MasterSoft](/vendors/mastersoft.md)                     |
-| `Niche Player`  | [TechnologyOne](/vendors/technologyone.md)               |
-| `Niche Player`  | [Jenzabar](/vendors/jenzabar.md)                         |
-| `Niche Player`  | [Octoze (Camu)](/vendors/octoze.md)                      |
-| `Niche Player`  | [Academia by Serosoft](/vendors/academia-by-serosoft.md) |
-| `Niche Player`  | [Thesis](/vendors/thesis.md)                             |
-| `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md)       |
-| `Niche Player`  | [Funidata](/vendors/funidata.md)                         |
-| `Niche Player`  | [Populi](/vendors/populi.md)                             |
-| `Niche Player`  | [SIS Global (Edu365)](/vendors/sis-global.md)            |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Ellucian](/vendors/ellucian.md)                         |
+| `Leader`       | [Workday](/vendors/workday.md)                           |
+| `Visionary`    | [RIO Education](/vendors/rio-education.md)               |
+| `Visionary`    | [MasterSoft](/vendors/mastersoft.md)                     |
+| `Niche Player` | [TechnologyOne](/vendors/technologyone.md)               |
+| `Niche Player` | [Jenzabar](/vendors/jenzabar.md)                         |
+| `Niche Player` | [Octoze (Camu)](/vendors/octoze.md)                      |
+| `Niche Player` | [Academia by Serosoft](/vendors/academia-by-serosoft.md) |
+| `Niche Player` | [Thesis](/vendors/thesis.md)                             |
+| `Niche Player` | [Apar Technologies](/vendors/apar-technologies.md)       |
+| `Niche Player` | [Funidata](/vendors/funidata.md)                         |
+| `Niche Player` | [Populi](/vendors/populi.md)                             |
+| `Niche Player` | [SIS Global (Edu365)](/vendors/sis-global.md)            |
 
 ## Report 2025
 
@@ -44,15 +44,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/higher-education-student-information-system-saas.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Ellucian (Banner)](/vendors/ellucian.md)          |
-| `Leader`        | [Ellucian (Colleague)](/vendors/ellucian.md)       |
-| `Leader`        | [Workday](/vendors/workday.md)                     |
-| `Visionary`     | [RIO Education](/vendors/rio-education.md)         |
-| `Niche Player`  | [Jenzabar (One)](</vendors/jenzabar-(one).md>)     |
-| `Niche Player`  | [Thesis](/vendors/thesis.md)                       |
-| `Niche Player`  | [Jenzabar (SONIS)](</vendors/jenzabar-(sonis).md>) |
-| `Niche Player`  | [Serosoft](/vendors/serosoft.md)                   |
-| `Niche Player`  | [Apar Technologies](/vendors/apar-technologies.md) |
-| `Challenger`    | [Anthology](/vendors/anthology.md)                 |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Ellucian (Banner)](/vendors/ellucian.md)          |
+| `Leader`       | [Ellucian (Colleague)](/vendors/ellucian.md)       |
+| `Leader`       | [Workday](/vendors/workday.md)                     |
+| `Visionary`    | [RIO Education](/vendors/rio-education.md)         |
+| `Niche Player` | [Jenzabar (One)](</vendors/jenzabar-(one).md>)     |
+| `Niche Player` | [Thesis](/vendors/thesis.md)                       |
+| `Niche Player` | [Jenzabar (SONIS)](</vendors/jenzabar-(sonis).md>) |
+| `Niche Player` | [Serosoft](/vendors/serosoft.md)                   |
+| `Niche Player` | [Apar Technologies](/vendors/apar-technologies.md) |
+| `Challenger`   | [Anthology](/vendors/anthology.md)                 |

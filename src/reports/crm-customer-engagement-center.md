@@ -29,19 +29,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/crm-customer-engagement-center.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)   |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)   |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [Zendesk](/vendors/zendesk.md)         |
-| `Visionary`     | [Pegasystems](/vendors/pegasystems.md) |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)   |
-| `Niche Player`  | [Zoho](/vendors/zoho.md)               |
-| `Niche Player`  | [eGain](/vendors/egain.md)             |
-| `Niche Player`  | [Creatio](/vendors/creatio.md)         |
-| `Niche Player`  | [SAP](/vendors/sap.md)                 |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)   |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [Zendesk](/vendors/zendesk.md)         |
+| `Visionary`    | [Pegasystems](/vendors/pegasystems.md) |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)   |
+| `Niche Player` | [Zoho](/vendors/zoho.md)               |
+| `Niche Player` | [eGain](/vendors/egain.md)             |
+| `Niche Player` | [Creatio](/vendors/creatio.md)         |
+| `Niche Player` | [SAP](/vendors/sap.md)                 |
 
 ## Report 2024
 
@@ -50,17 +50,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/crm-customer-engagement-center.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)   |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)     |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)   |
-| `Leader`        | [Pegasystems](/vendors/pegasystems.md) |
-| `Visionary`     | [Zendesk](/vendors/zendesk.md)         |
-| `Visionary`     | [eGain](/vendors/egain.md)             |
-| `Niche Player`  | [SAP](/vendors/sap.md)                 |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)   |
-| `Niche Player`  | [Zoho](/vendors/zoho.md)               |
-| `Niche Player`  | [Hubspot](/vendors/hubspot.md)         |
-| `Niche Player`  | [Creatio](/vendors/creatio.md)         |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)     |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)   |
+| `Leader`       | [Pegasystems](/vendors/pegasystems.md) |
+| `Visionary`    | [Zendesk](/vendors/zendesk.md)         |
+| `Visionary`    | [eGain](/vendors/egain.md)             |
+| `Niche Player` | [SAP](/vendors/sap.md)                 |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)   |
+| `Niche Player` | [Zoho](/vendors/zoho.md)               |
+| `Niche Player` | [Hubspot](/vendors/hubspot.md)         |
+| `Niche Player` | [Creatio](/vendors/creatio.md)         |

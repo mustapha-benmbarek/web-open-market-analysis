@@ -27,20 +27,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/b2b-marketing-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [HubSpot](/vendors/hubspot.md)                 |
-| `Leader`        | [Adobe](/vendors/adobe.md)                     |
-| `Leader`        | [Creatio](/vendors/creatio.md)                 |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Visionary`     | [Microsoft](/vendors/microsoft.md)             |
-| `Niche Player`  | [BUSINESSNEXT](/vendors/businessnext.md)       |
-| `Niche Player`  | [Act-On Software](/vendors/act-on-software.md) |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)           |
-| `Niche Player`  | [LeadSquared](/vendors/leadsquared.md)         |
-| `Niche Player`  | [SugaCRM](/vendors/sugacrm.md)                 |
-| `Challenger`    | [Zoho](/vendors/zoho.md)                       |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [HubSpot](/vendors/hubspot.md)                 |
+| `Leader`       | [Adobe](/vendors/adobe.md)                     |
+| `Leader`       | [Creatio](/vendors/creatio.md)                 |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Visionary`    | [Microsoft](/vendors/microsoft.md)             |
+| `Niche Player` | [BUSINESSNEXT](/vendors/businessnext.md)       |
+| `Niche Player` | [Act-On Software](/vendors/act-on-software.md) |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)           |
+| `Niche Player` | [LeadSquared](/vendors/leadsquared.md)         |
+| `Niche Player` | [SugaCRM](/vendors/sugacrm.md)                 |
+| `Challenger`   | [Zoho](/vendors/zoho.md)                       |
 
 ## Report 2024
 
@@ -49,17 +49,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/b2b-marketing-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [HubSpot](/vendors/hubspot.md)                 |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [Adobe](/vendors/adobe.md)                     |
-| `Leader`        | [Creatio](/vendors/creatio.md)                 |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
-| `Niche Player`  | [Act-On Software](/vendors/act-on-software.md) |
-| `Niche Player`  | [SugaCRM](/vendors/sugacrm.md)                 |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)           |
-| `Niche Player`  | [BUSINESSNEXT](/vendors/businessnext.md)       |
-| `Niche Player`  | [LeadSquared](/vendors/leadsquared.md)         |
-| `Challenger`    | [Zoho](/vendors/zoho.md)                       |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [HubSpot](/vendors/hubspot.md)                 |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`       | [Adobe](/vendors/adobe.md)                     |
+| `Leader`       | [Creatio](/vendors/creatio.md)                 |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)             |
+| `Niche Player` | [Act-On Software](/vendors/act-on-software.md) |
+| `Niche Player` | [SugaCRM](/vendors/sugacrm.md)                 |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)           |
+| `Niche Player` | [BUSINESSNEXT](/vendors/businessnext.md)       |
+| `Niche Player` | [LeadSquared](/vendors/leadsquared.md)         |
+| `Challenger`   | [Zoho](/vendors/zoho.md)                       |

@@ -29,23 +29,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/supply-chain-planning-solutions-process-industries.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [OMP](/vendors/omp.md)                                 |
-| `Leader`        | [Kinaxis](/vendors/kinaxis.md)                         |
-| `Leader`        | [Oracle](/vendors/oracle.md)                           |
-| `Leader`        | [o9 Solutions](/vendors/o9-solutions.md)               |
-| `Leader`        | [Aptean (Logility)](</vendors/aptean-(logility).md>)   |
-| `Visionary`     | [RELEX](/vendors/relex.md)                             |
-| `Visionary`     | [Blue Yonder](/vendors/blue-yonder.md)                 |
-| `Visionary`     | [Dassault Systemes](/vendors/dassault.md)              |
-| `Visionary`     | [John Galt Solutions](/vendors/john-galt-solutions.md) |
-| `Niche Player`  | [Infor](/vendors/infor.md)                             |
-| `Niche Player`  | [Coupa](/vendors/coupa.md)                             |
-| `Niche Player`  | [AIMMS ](/vendors/aimms-.md)                           |
-| `Niche Player`  | [QAD](/vendors/qad.md)                                 |
-| `Niche Player`  | [Aspen Technology](/vendors/aspen-technology.md)       |
-| `Challenger`    | [SAP](/vendors/sap.md)                                 |
-| `Challenger`    | [Sunstice](/vendors/sunstice.md)                       |
-| `Challenger`    | [Anaplan](/vendors/anaplan.md)                         |
-| `Challenger`    | [Arkieva](/vendors/arkieva.md)                         |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [OMP](/vendors/omp.md)                                 |
+| `Leader`       | [Kinaxis](/vendors/kinaxis.md)                         |
+| `Leader`       | [Oracle](/vendors/oracle.md)                           |
+| `Leader`       | [o9 Solutions](/vendors/o9-solutions.md)               |
+| `Leader`       | [Aptean (Logility)](</vendors/aptean-(logility).md>)   |
+| `Visionary`    | [RELEX](/vendors/relex.md)                             |
+| `Visionary`    | [Blue Yonder](/vendors/blue-yonder.md)                 |
+| `Visionary`    | [Dassault Systemes](/vendors/dassault.md)              |
+| `Visionary`    | [John Galt Solutions](/vendors/john-galt-solutions.md) |
+| `Niche Player` | [Infor](/vendors/infor.md)                             |
+| `Niche Player` | [Coupa](/vendors/coupa.md)                             |
+| `Niche Player` | [AIMMS ](/vendors/aimms-.md)                           |
+| `Niche Player` | [QAD](/vendors/qad.md)                                 |
+| `Niche Player` | [Aspen Technology](/vendors/aspen-technology.md)       |
+| `Challenger`   | [SAP](/vendors/sap.md)                                 |
+| `Challenger`   | [Sunstice](/vendors/sunstice.md)                       |
+| `Challenger`   | [Anaplan](/vendors/anaplan.md)                         |
+| `Challenger`   | [Arkieva](/vendors/arkieva.md)                         |

@@ -41,17 +41,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/revenue-action-orchestration.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Gong](/vendors/gong.md)                 |
-| `Leader`        | [Clari](/vendors/clari.md)               |
-| `Leader`        | [Outreach](/vendors/outreach.md)         |
-| `Visionary`     | [Salesforce](/vendors/salesforce.md)     |
-| `Visionary`     | [Salesloft](/vendors/salesloft.md)       |
-| `Visionary`     | [Oracle](/vendors/oracle.md)             |
-| `Visionary`     | [People.ai](/vendors/people.ai.md)       |
-| `Visionary`     | [ZoomInfo](/vendors/zoominfo.md)         |
-| `Niche Player`  | [HubSpot](/vendors/hubspot.md)           |
-| `Niche Player`  | [Revenue.io](/vendors/revenue.io.md)     |
-| `Niche Player`  | [Revenue Grid](/vendors/revenue-grid.md) |
-| `Challenger`    | [Aviso](/vendors/aviso.md)               |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Gong](/vendors/gong.md)                 |
+| `Leader`       | [Clari](/vendors/clari.md)               |
+| `Leader`       | [Outreach](/vendors/outreach.md)         |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)     |
+| `Visionary`    | [Salesloft](/vendors/salesloft.md)       |
+| `Visionary`    | [Oracle](/vendors/oracle.md)             |
+| `Visionary`    | [People.ai](/vendors/people.ai.md)       |
+| `Visionary`    | [ZoomInfo](/vendors/zoominfo.md)         |
+| `Niche Player` | [HubSpot](/vendors/hubspot.md)           |
+| `Niche Player` | [Revenue.io](/vendors/revenue.io.md)     |
+| `Niche Player` | [Revenue Grid](/vendors/revenue-grid.md) |
+| `Challenger`   | [Aviso](/vendors/aviso.md)               |

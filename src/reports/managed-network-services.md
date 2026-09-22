@@ -27,22 +27,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/managed-network-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                          |
-| --------------- | ---------------------------------------------------------------------- |
-| `Leader`        | [XTIUM](/vendors/xtium.md)                                             |
-| `Leader`        | [HCLTech](/vendors/hcl.md)                                             |
-| `Leader`        | [NTT DATA](/vendors/ntt.md)                                            |
-| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md)                           |
-| `Leader`        | [Hughes Network Systems](/vendors/hughes-network-systems.md)           |
-| `Leader`        | [Microland](/vendors/microland.md)                                     |
-| `Leader`        | [Systal Technology Solutions](/vendors/systal-technology-solutions.md) |
-| `Leader`        | [Accenture](/vendors/accenture.md)                                     |
-| `Leader`        | [Sify Technologies](/vendors/sify-technologies.md)                     |
-| `Visionary`     | [MetTel](/vendors/mettel.md)                                           |
-| `Visionary`     | [Wipro](/vendors/wipro.md)                                             |
-| `Niche Player`  | [Telefónica](/vendors/telefonica.md)                                   |
-| `Niche Player`  | [DXC Technology](/vendors/dxc.md)                                      |
-| `Niche Player`  | [AT&T](/vendors/at&t.md)                                               |
-| `Niche Player`  | [Lumen](/vendors/lumen.md)                                             |
-| `Niche Player`  | [Kyndryl](/vendors/kyndryl.md)                                         |
-| `Challenger`    | [Comcast Business](/vendors/comcast-business.md)                       |
+| MQ Position    | MQ Vendor                                                              |
+| -------------- | ---------------------------------------------------------------------- |
+| `Leader`       | [XTIUM](/vendors/xtium.md)                                             |
+| `Leader`       | [HCLTech](/vendors/hcl.md)                                             |
+| `Leader`       | [NTT DATA](/vendors/ntt.md)                                            |
+| `Leader`       | [Tata Consultancy Services](/vendors/tcs.md)                           |
+| `Leader`       | [Hughes Network Systems](/vendors/hughes-network-systems.md)           |
+| `Leader`       | [Microland](/vendors/microland.md)                                     |
+| `Leader`       | [Systal Technology Solutions](/vendors/systal-technology-solutions.md) |
+| `Leader`       | [Accenture](/vendors/accenture.md)                                     |
+| `Leader`       | [Sify Technologies](/vendors/sify-technologies.md)                     |
+| `Visionary`    | [MetTel](/vendors/mettel.md)                                           |
+| `Visionary`    | [Wipro](/vendors/wipro.md)                                             |
+| `Niche Player` | [Telefónica](/vendors/telefonica.md)                                   |
+| `Niche Player` | [DXC Technology](/vendors/dxc.md)                                      |
+| `Niche Player` | [AT&T](/vendors/at&t.md)                                               |
+| `Niche Player` | [Lumen](/vendors/lumen.md)                                             |
+| `Niche Player` | [Kyndryl](/vendors/kyndryl.md)                                         |
+| `Challenger`   | [Comcast Business](/vendors/comcast-business.md)                       |

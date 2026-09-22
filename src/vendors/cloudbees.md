@@ -10,57 +10,57 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                   |
-| --------------- | --------------------------------------------------------------- |
-| `Niche Player`  | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026) |
+| MQ Position    | MQ Vendor                                                       |
+| -------------- | --------------------------------------------------------------- |
+| `Niche Player` | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026) |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Niche Player`  | [DevOps Platforms](/reports/devops-platforms.md#report-2025) |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Niche Player` | [DevOps Platforms](/reports/devops-platforms.md#report-2025) |
 
 ## Market 2024
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
 
-| Market Status   | Market Vendor                                                                                                                      |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player`  | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2024)                                                     |
-| `Niche Player`  | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024)       |
-| `Niche Player`  | [Container Management](/reports/container-management.md#report-2024)                                                               |
-| `Visionary`     | [Digital Experience Services](/reports/digital-experience-services.md#report-2024)                                                 |
-| `Leader`        | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
-| `Leader`        | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2024)                 |
-| `Leader`        | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2024)                                             |
-| `Leader`        | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                             |
-| `Niche Player`  | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                                           |
-| `Niche Player`  | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024)                   |
-| `Visionary`     | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                                     |
-| `Niche Player`  | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)                     |
-| `Niche Player`  | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
-| `Leader`        | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2024)                                           |
-| `Leader`        | [Email Security](/reports/email-security.md#report-2024)                                                                           |
-| `Visionary`     | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                       |
-| `Leader`        | [Application Security Testing](/reports/application-security-testing.md#report-2024)                                               |
-| `Leader`        | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                                         |
-| `Leader`        | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024)                             |
-| `Niche Player`  | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2024)                                 |
-| `Niche Player`  | [Marketing Mix Modeling Solutions](/reports/marketing-mix-modeling-solutions.md#report-2024)                                       |
-| `Challenger`    | [DevOps Platforms](/reports/devops-platforms.md#report-2024)                                                                       |
-| `Visionary`     | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2024)                               |
-| `Challenger`    | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2024)                                                 |
-| `Challenger`    | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                             |
-| `Niche Player`  | [Email Security](/reports/email-security.md#report-2024)                                                                           |
-| `Visionary`     | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                       |
-| `Leader`        | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024)       |
-| `Leader`        | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024)                                 |
-| `Leader`        | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                               |
-| `Visionary`     | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2024)                                             |
-| `Challenger`    | [Marketing Work Management Platforms](/reports/marketing-work-management-platforms.md#report-2024)                                 |
-| `Niche Player`  | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024)                             |
+| MQ Position    | MQ Vendor                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2024)                                                     |
+| `Niche Player` | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024)       |
+| `Niche Player` | [Container Management](/reports/container-management.md#report-2024)                                                               |
+| `Visionary`    | [Digital Experience Services](/reports/digital-experience-services.md#report-2024)                                                 |
+| `Leader`       | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Leader`       | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2024)                 |
+| `Leader`       | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2024)                                             |
+| `Leader`       | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                             |
+| `Niche Player` | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                                           |
+| `Niche Player` | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024)                   |
+| `Visionary`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                                     |
+| `Niche Player` | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)                     |
+| `Niche Player` | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Leader`       | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2024)                                           |
+| `Leader`       | [Email Security](/reports/email-security.md#report-2024)                                                                           |
+| `Visionary`    | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                       |
+| `Leader`       | [Application Security Testing](/reports/application-security-testing.md#report-2024)                                               |
+| `Leader`       | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                                         |
+| `Leader`       | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024)                             |
+| `Niche Player` | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2024)                                 |
+| `Niche Player` | [Marketing Mix Modeling Solutions](/reports/marketing-mix-modeling-solutions.md#report-2024)                                       |
+| `Challenger`   | [DevOps Platforms](/reports/devops-platforms.md#report-2024)                                                                       |
+| `Visionary`    | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2024)                               |
+| `Challenger`   | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2024)                                                 |
+| `Challenger`   | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                             |
+| `Niche Player` | [Email Security](/reports/email-security.md#report-2024)                                                                           |
+| `Visionary`    | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                       |
+| `Leader`       | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024)       |
+| `Leader`       | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024)                                 |
+| `Leader`       | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                               |
+| `Visionary`    | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2024)                                             |
+| `Challenger`   | [Marketing Work Management Platforms](/reports/marketing-work-management-platforms.md#report-2024)                                 |
+| `Niche Player` | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024)                             |
 
 | `Challenger` | [DevOps Platforms](/reports/devops-platforms.md#report-2024) |
 | `Visionary` | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2024) |

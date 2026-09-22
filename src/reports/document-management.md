@@ -25,21 +25,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/document-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)   |
-| `Leader`        | [Box](/vendors/box.md)               |
-| `Leader`        | [Doxis](/vendors/doxis.md)           |
-| `Leader`        | [Laserfiche](/vendors/laserfiche.md) |
-| `Leader`        | [M‑Files](/vendors/m‑files.md)       |
-| `Leader`        | [Hyland](/vendors/hyland.md)         |
-| `Visionary`     | [OpenText](/vendors/opentext.md)     |
-| `Niche Player`  | [Intalio](/vendors/intalio.md)       |
-| `Niche Player`  | [Dropbox](/vendors/dropbox.md)       |
-| `Niche Player`  | [Zoho](/vendors/zoho.md)             |
-| `Niche Player`  | [Objective](/vendors/objective.md)   |
-| `Niche Player`  | [Newgen](/vendors/newgen.md)         |
-| `Niche Player`  | [IBM](/vendors/ibm.md)               |
-| `Challenger`    | [Google](/vendors/google.md)         |
-| `Challenger`    | [DocuWare](/vendors/docuware.md)     |
-| `Challenger`    | [d.velop](/vendors/d.velop.md)       |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)   |
+| `Leader`       | [Box](/vendors/box.md)               |
+| `Leader`       | [Doxis](/vendors/doxis.md)           |
+| `Leader`       | [Laserfiche](/vendors/laserfiche.md) |
+| `Leader`       | [M‑Files](/vendors/m‑files.md)       |
+| `Leader`       | [Hyland](/vendors/hyland.md)         |
+| `Visionary`    | [OpenText](/vendors/opentext.md)     |
+| `Niche Player` | [Intalio](/vendors/intalio.md)       |
+| `Niche Player` | [Dropbox](/vendors/dropbox.md)       |
+| `Niche Player` | [Zoho](/vendors/zoho.md)             |
+| `Niche Player` | [Objective](/vendors/objective.md)   |
+| `Niche Player` | [Newgen](/vendors/newgen.md)         |
+| `Niche Player` | [IBM](/vendors/ibm.md)               |
+| `Challenger`   | [Google](/vendors/google.md)         |
+| `Challenger`   | [DocuWare](/vendors/docuware.md)     |
+| `Challenger`   | [d.velop](/vendors/d.velop.md)       |

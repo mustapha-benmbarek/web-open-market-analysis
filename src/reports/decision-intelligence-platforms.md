@@ -33,22 +33,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/decision-intelligence-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [FICO](/vendors/fico.md)                           |
-| `Leader`        | [SAS](/vendors/sas.md)                             |
-| `Leader`        | [Aera Technology](/vendors/aera-technology.md)     |
-| `Leader`        | [IBM](/vendors/ibm.md)                             |
-| `Leader`        | [ACTICO](/vendors/actico.md)                       |
-| `Leader`        | [Quantexa](/vendors/quantexa.md)                   |
-| `Visionary`     | [Sapiens](/vendors/sapiens.md)                     |
-| `Visionary`     | [Faculty](/vendors/faculty.md)                     |
-| `Niche Player`  | [o9 Solutions](/vendors/o9-solutions.md)           |
-| `Niche Player`  | [Oracle](/vendors/oracle.md)                       |
-| `Niche Player`  | [InRule Technology](/vendors/inrule-technology.md) |
-| `Niche Player`  | [FlexRule](/vendors/flexrule.md)                   |
-| `Niche Player`  | [Rulex](/vendors/rulex.md)                         |
-| `Niche Player`  | [RelationalAI](/vendors/relationalai.md)           |
-| `Niche Player`  | [CRIF](/vendors/crif.md)                           |
-| `Challenger`    | [Decisions](/vendors/decisions.md)                 |
-| `Challenger`    | [Pegasystems](/vendors/pegasystems.md)             |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [FICO](/vendors/fico.md)                           |
+| `Leader`       | [SAS](/vendors/sas.md)                             |
+| `Leader`       | [Aera Technology](/vendors/aera-technology.md)     |
+| `Leader`       | [IBM](/vendors/ibm.md)                             |
+| `Leader`       | [ACTICO](/vendors/actico.md)                       |
+| `Leader`       | [Quantexa](/vendors/quantexa.md)                   |
+| `Visionary`    | [Sapiens](/vendors/sapiens.md)                     |
+| `Visionary`    | [Faculty](/vendors/faculty.md)                     |
+| `Niche Player` | [o9 Solutions](/vendors/o9-solutions.md)           |
+| `Niche Player` | [Oracle](/vendors/oracle.md)                       |
+| `Niche Player` | [InRule Technology](/vendors/inrule-technology.md) |
+| `Niche Player` | [FlexRule](/vendors/flexrule.md)                   |
+| `Niche Player` | [Rulex](/vendors/rulex.md)                         |
+| `Niche Player` | [RelationalAI](/vendors/relationalai.md)           |
+| `Niche Player` | [CRIF](/vendors/crif.md)                           |
+| `Challenger`   | [Decisions](/vendors/decisions.md)                 |
+| `Challenger`   | [Pegasystems](/vendors/pegasystems.md)             |

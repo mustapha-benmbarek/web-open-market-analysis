@@ -31,17 +31,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/event-marketing-and-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Cvent](/vendors/cvent.md)             |
-| `Leader`        | [RainFocus](/vendors/rainfocus.md)     |
-| `Leader`        | [vFairs](/vendors/vfairs.md)           |
-| `Visionary`     | [Bizzabo](/vendors/bizzabo.md)         |
-| `Visionary`     | [Swoogo](/vendors/swoogo.md)           |
-| `Niche Player`  | [SpotMe](/vendors/spotme.md)           |
-| `Niche Player`  | [Accelevents](/vendors/accelevents.md) |
-| `Niche Player`  | [EventMobi](/vendors/eventmobi.md)     |
-| `Niche Player`  | [Stova](/vendors/stova.md)             |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Cvent](/vendors/cvent.md)             |
+| `Leader`       | [RainFocus](/vendors/rainfocus.md)     |
+| `Leader`       | [vFairs](/vendors/vfairs.md)           |
+| `Visionary`    | [Bizzabo](/vendors/bizzabo.md)         |
+| `Visionary`    | [Swoogo](/vendors/swoogo.md)           |
+| `Niche Player` | [SpotMe](/vendors/spotme.md)           |
+| `Niche Player` | [Accelevents](/vendors/accelevents.md) |
+| `Niche Player` | [EventMobi](/vendors/eventmobi.md)     |
+| `Niche Player` | [Stova](/vendors/stova.md)             |
 
 ## Report 2025
 
@@ -50,13 +50,13 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/event-marketing-and-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                      |
-| --------------- | ---------------------------------- |
-| `Leader`        | [RainFocus](/vendors/rainfocus.md) |
-| `Leader`        | [Cvent](/vendors/cvent.md)         |
-| `Leader`        | [Bizzabo](/vendors/bizzabo.md)     |
-| `Leader`        | [vFairs](/vendors/vfairs.md)       |
-| `Niche Player`  | [Swoogo](/vendors/swoogo.md)       |
-| `Niche Player`  | [Stova](/vendors/stova.md)         |
-| `Niche Player`  | [EventMobi](/vendors/eventmobi.md) |
-| `Challenger`    | [SpotMe](/vendors/spotme.md)       |
+| MQ Position    | MQ Vendor                          |
+| -------------- | ---------------------------------- |
+| `Leader`       | [RainFocus](/vendors/rainfocus.md) |
+| `Leader`       | [Cvent](/vendors/cvent.md)         |
+| `Leader`       | [Bizzabo](/vendors/bizzabo.md)     |
+| `Leader`       | [vFairs](/vendors/vfairs.md)       |
+| `Niche Player` | [Swoogo](/vendors/swoogo.md)       |
+| `Niche Player` | [Stova](/vendors/stova.md)         |
+| `Niche Player` | [EventMobi](/vendors/eventmobi.md) |
+| `Challenger`   | [SpotMe](/vendors/spotme.md)       |

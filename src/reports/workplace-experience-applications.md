@@ -31,17 +31,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/workplace-experience-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Appspace](/vendors/appspace.md)                         |
-| `Leader`        | [Eptura](/vendors/eptura.md)                             |
-| `Leader`        | [Modo Labs](/vendors/modo-labs.md)                       |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)                     |
-| `Leader`        | [Robin Powered](/vendors/robin-powered.md)               |
-| `Visionary`     | [Envoy](/vendors/envoy.md)                               |
-| `Visionary`     | [CXAI](/vendors/cxai.md)                                 |
-| `Niche Player`  | [Zoom](/vendors/zoom.md)                                 |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                       |
-| `Challenger`    | [OfficeSpace Software](/vendors/officespace-software.md) |
-| `Challenger`    | [Tango](/vendors/tango.md)                               |
-| `Challenger`    | [Accruent](/vendors/accruent.md)                         |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Appspace](/vendors/appspace.md)                         |
+| `Leader`       | [Eptura](/vendors/eptura.md)                             |
+| `Leader`       | [Modo Labs](/vendors/modo-labs.md)                       |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)                     |
+| `Leader`       | [Robin Powered](/vendors/robin-powered.md)               |
+| `Visionary`    | [Envoy](/vendors/envoy.md)                               |
+| `Visionary`    | [CXAI](/vendors/cxai.md)                                 |
+| `Niche Player` | [Zoom](/vendors/zoom.md)                                 |
+| `Niche Player` | [Microsoft](/vendors/microsoft.md)                       |
+| `Challenger`   | [OfficeSpace Software](/vendors/officespace-software.md) |
+| `Challenger`   | [Tango](/vendors/tango.md)                               |
+| `Challenger`   | [Accruent](/vendors/accruent.md)                         |

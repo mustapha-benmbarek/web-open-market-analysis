@@ -33,14 +33,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/technical-debt-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                        |
-| --------------- | -------------------------------------------------------------------- |
-| `Leader`        | [Sonar](/vendors/sonar.md)                                           |
-| `Leader`        | [CAST](/vendors/cast.md)                                             |
-| `Leader`        | [Software Improvement Group](/vendors/software-improvement-group.md) |
-| `Visionary`     | [Moderne](/vendors/moderne.md)                                       |
-| `Niche Player`  | [vFunction](/vendors/vfunction.md)                                   |
-| `Niche Player`  | [CodeScene](/vendors/codescene.md)                                   |
-| `Niche Player`  | [Devsu](/vendors/devsu.md)                                           |
-| `Niche Player`  | [PKS Software](/vendors/pks-software.md)                             |
-| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)                       |
+| MQ Position    | MQ Vendor                                                            |
+| -------------- | -------------------------------------------------------------------- |
+| `Leader`       | [Sonar](/vendors/sonar.md)                                           |
+| `Leader`       | [CAST](/vendors/cast.md)                                             |
+| `Leader`       | [Software Improvement Group](/vendors/software-improvement-group.md) |
+| `Visionary`    | [Moderne](/vendors/moderne.md)                                       |
+| `Niche Player` | [vFunction](/vendors/vfunction.md)                                   |
+| `Niche Player` | [CodeScene](/vendors/codescene.md)                                   |
+| `Niche Player` | [Devsu](/vendors/devsu.md)                                           |
+| `Niche Player` | [PKS Software](/vendors/pks-software.md)                             |
+| `Challenger`   | [Rocket Software](/vendors/rocket-software.md)                       |

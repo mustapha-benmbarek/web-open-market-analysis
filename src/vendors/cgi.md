@@ -10,15 +10,15 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| Market Status   | Market Vendor                                                                          |
-| --------------- | -------------------------------------------------------------------------------------- |
-| `Leader`        | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026) |
+| MQ Position  | MQ Vendor                                                                              |
+| ------------ | -------------------------------------------------------------------------------------- |
+| `Leader`     | [Banking Payment Hub Platforms](/reports/banking-payment-hub-platforms.md#report-2026) |
 
 ## Market 2025
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| Market Status   | Market Vendor                                                                                                      |
-| --------------- | ------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2025) |
-| `Challenger`    | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-u.s.-local-government.md#report-2025)     |
+| MQ Position    | MQ Vendor                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2025) |
+| `Challenger`   | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-u.s.-local-government.md#report-2025)     |

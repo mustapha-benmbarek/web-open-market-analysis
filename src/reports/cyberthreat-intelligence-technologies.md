@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/cyberthreat-intelligence-technologies.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Recorded Future](/vendors/recorded-future.md) |
-| `Leader`        | [CrowdStrike](/vendors/crowdstrike.md)         |
-| `Leader`        | [Google](/vendors/google.md)                   |
-| `Leader`        | [ZeroFox](/vendors/zerofox.md)                 |
-| `Leader`        | [Group-IB](/vendors/group-ib.md)               |
-| `Visionary`     | [Bitsight](/vendors/bitsight.md)               |
-| `Visionary`     | [SOCRadar](/vendors/socradar.md)               |
-| `Visionary`     | [CYFIRMA](/vendors/cyfirma.md)                 |
-| `Visionary`     | [ReliaQuest](/vendors/reliaquest.md)           |
-| `Visionary`     | [NSFOCUS](/vendors/nsfocus.md)                 |
-| `Niche Player`  | [Intel 471](/vendors/intel-471.md)             |
-| `Niche Player`  | [CTM360](/vendors/ctm360.md)                   |
-| `Niche Player`  | [KELA](/vendors/kela.md)                       |
-| `Niche Player`  | [Flare](/vendors/flare.md)                     |
-| `Niche Player`  | [Axur](/vendors/axur.md)                       |
-| `Challenger`    | [Cyble](/vendors/cyble.md)                     |
-| `Challenger`    | [Flashpoint](/vendors/flashpoint.md)           |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Recorded Future](/vendors/recorded-future.md) |
+| `Leader`       | [CrowdStrike](/vendors/crowdstrike.md)         |
+| `Leader`       | [Google](/vendors/google.md)                   |
+| `Leader`       | [ZeroFox](/vendors/zerofox.md)                 |
+| `Leader`       | [Group-IB](/vendors/group-ib.md)               |
+| `Visionary`    | [Bitsight](/vendors/bitsight.md)               |
+| `Visionary`    | [SOCRadar](/vendors/socradar.md)               |
+| `Visionary`    | [CYFIRMA](/vendors/cyfirma.md)                 |
+| `Visionary`    | [ReliaQuest](/vendors/reliaquest.md)           |
+| `Visionary`    | [NSFOCUS](/vendors/nsfocus.md)                 |
+| `Niche Player` | [Intel 471](/vendors/intel-471.md)             |
+| `Niche Player` | [CTM360](/vendors/ctm360.md)                   |
+| `Niche Player` | [KELA](/vendors/kela.md)                       |
+| `Niche Player` | [Flare](/vendors/flare.md)                     |
+| `Niche Player` | [Axur](/vendors/axur.md)                       |
+| `Challenger`   | [Cyble](/vendors/cyble.md)                     |
+| `Challenger`   | [Flashpoint](/vendors/flashpoint.md)           |

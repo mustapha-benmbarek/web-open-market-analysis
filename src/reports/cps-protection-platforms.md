@@ -33,21 +33,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/cps-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Nozomi Networks](/vendors/nozomi-networks.md)               |
-| `Leader`        | [Claroty](/vendors/claroty.md)                               |
-| `Leader`        | [Armis](/vendors/armis.md)                                   |
-| `Leader`        | [Dragos](/vendors/dragos.md)                                 |
-| `Visionary`     | [Darktrace](/vendors/darktrace.md)                           |
-| `Niche Player`  | [TXOne Networks](/vendors/txone.md)                          |
-| `Niche Player`  | [Honeywell](/vendors/honeywell.md)                           |
-| `Niche Player`  | [Cisco](/vendors/cisco.md)                                   |
-| `Niche Player`  | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)                           |
-| `Challenger`    | [Forescout Technologies](/vendors/forescout-technologies.md) |
-| `Challenger`    | [Fortinet](/vendors/fortinet.md)                             |
-| `Challenger`    | [Tenable](/vendors/tenable.md)                               |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Nozomi Networks](/vendors/nozomi-networks.md)               |
+| `Leader`       | [Claroty](/vendors/claroty.md)                               |
+| `Leader`       | [Armis](/vendors/armis.md)                                   |
+| `Leader`       | [Dragos](/vendors/dragos.md)                                 |
+| `Visionary`    | [Darktrace](/vendors/darktrace.md)                           |
+| `Niche Player` | [TXOne Networks](/vendors/txone.md)                          |
+| `Niche Player` | [Honeywell](/vendors/honeywell.md)                           |
+| `Niche Player` | [Cisco](/vendors/cisco.md)                                   |
+| `Niche Player` | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
+| `Niche Player` | [Microsoft](/vendors/microsoft.md)                           |
+| `Challenger`   | [Forescout Technologies](/vendors/forescout-technologies.md) |
+| `Challenger`   | [Fortinet](/vendors/fortinet.md)                             |
+| `Challenger`   | [Tenable](/vendors/tenable.md)                               |
 
 ## Report 2025
 
@@ -56,22 +56,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cps-protection-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Claroty](/vendors/claroty.md)                               |
-| `Leader`        | [Nozomi Networks](/vendors/nozomi-networks.md)               |
-| `Leader`        | [Armis](/vendors/armis.md)                                   |
-| `Leader`        | [Dragos](/vendors/dragos.md)                                 |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                           |
-| `Visionary`     | [Darktrace](/vendors/darktrace.md)                           |
-| `Niche Player`  | [Fortinet](/vendors/fortinet.md)                             |
-| `Niche Player`  | [Sepio](/vendors/sepio.md)                                   |
-| `Niche Player`  | [Cisco](/vendors/cisco.md)                                   |
-| `Niche Player`  | [TXOne Networks](/vendors/txone.md)                          |
-| `Niche Player`  | [Honeywell](/vendors/honeywell.md)                           |
-| `Niche Player`  | [Radiflow](/vendors/radiflow.md)                             |
-| `Niche Player`  | [Tenable](/vendors/tenable.md)                               |
-| `Niche Player`  | [OPSWAT](/vendors/opswat.md)                                 |
-| `Challenger`    | [Forescout Technologies](/vendors/forescout-technologies.md) |
-| `Challenger`    | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
-| `Challenger`    | [OTORIO](/vendors/otorio.md)                                 |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Claroty](/vendors/claroty.md)                               |
+| `Leader`       | [Nozomi Networks](/vendors/nozomi-networks.md)               |
+| `Leader`       | [Armis](/vendors/armis.md)                                   |
+| `Leader`       | [Dragos](/vendors/dragos.md)                                 |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                           |
+| `Visionary`    | [Darktrace](/vendors/darktrace.md)                           |
+| `Niche Player` | [Fortinet](/vendors/fortinet.md)                             |
+| `Niche Player` | [Sepio](/vendors/sepio.md)                                   |
+| `Niche Player` | [Cisco](/vendors/cisco.md)                                   |
+| `Niche Player` | [TXOne Networks](/vendors/txone.md)                          |
+| `Niche Player` | [Honeywell](/vendors/honeywell.md)                           |
+| `Niche Player` | [Radiflow](/vendors/radiflow.md)                             |
+| `Niche Player` | [Tenable](/vendors/tenable.md)                               |
+| `Niche Player` | [OPSWAT](/vendors/opswat.md)                                 |
+| `Challenger`   | [Forescout Technologies](/vendors/forescout-technologies.md) |
+| `Challenger`   | [Palo Alto Networks](/vendors/palo-alto-networks.md)         |
+| `Challenger`   | [OTORIO](/vendors/otorio.md)                                 |

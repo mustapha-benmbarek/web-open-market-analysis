@@ -21,17 +21,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/ai-in-csp-customer-and-business-operations.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Amdocs](/vendors/amdocs.md)                                 |
-| `Leader`        | [AsiaInfo](/vendors/asiainfo.md)                             |
-| `Visionary`     | [Tecnotree](/vendors/tecnotree.md)                           |
-| `Visionary`     | [Whale Cloud Technology](/vendors/whale-cloud-technology.md) |
-| `Niche Player`  | [Comviva](/vendors/comviva.md)                               |
-| `Niche Player`  | [Etiya](/vendors/etiya.md)                                   |
-| `Niche Player`  | [Cerillion](/vendors/cerillion.md)                           |
-| `Niche Player`  | [Inspur](/vendors/inspur.md)                                 |
-| `Niche Player`  | [Beyond Now](/vendors/beyond-now.md)                         |
-| `Niche Player`  | [Flytxt](/vendors/flytxt.md)                                 |
-| `Niche Player`  | [Subex](/vendors/subex.md)                                   |
-| `Challenger`    | [Huawei](/vendors/huawei.md)                                 |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Amdocs](/vendors/amdocs.md)                                 |
+| `Leader`       | [AsiaInfo](/vendors/asiainfo.md)                             |
+| `Visionary`    | [Tecnotree](/vendors/tecnotree.md)                           |
+| `Visionary`    | [Whale Cloud Technology](/vendors/whale-cloud-technology.md) |
+| `Niche Player` | [Comviva](/vendors/comviva.md)                               |
+| `Niche Player` | [Etiya](/vendors/etiya.md)                                   |
+| `Niche Player` | [Cerillion](/vendors/cerillion.md)                           |
+| `Niche Player` | [Inspur](/vendors/inspur.md)                                 |
+| `Niche Player` | [Beyond Now](/vendors/beyond-now.md)                         |
+| `Niche Player` | [Flytxt](/vendors/flytxt.md)                                 |
+| `Niche Player` | [Subex](/vendors/subex.md)                                   |
+| `Challenger`   | [Huawei](/vendors/huawei.md)                                 |

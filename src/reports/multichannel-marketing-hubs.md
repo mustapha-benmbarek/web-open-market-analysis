@@ -29,19 +29,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/multichannel-marketing-hubs.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Adobe](/vendors/adobe.md)           |
-| `Leader`        | [Salesforce](/vendors/salesforce.md) |
-| `Leader`        | [Braze](/vendors/braze.md)           |
-| `Visionary`     | [Insider](/vendors/insider.md)       |
-| `Visionary`     | [Bloomreach](/vendors/bloomreach.md) |
-| `Visionary`     | [Optimove](/vendors/optimove.md)     |
-| `Niche Player`  | [MoEngage](/vendors/moengage.md)     |
-| `Niche Player`  | [Airship](/vendors/airship.md)       |
-| `Niche Player`  | [Cordial](/vendors/cordial.md)       |
-| `Challenger`    | [SAP](/vendors/sap.md)               |
-| `Challenger`    | [Iterable](/vendors/iterable.md)     |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Adobe](/vendors/adobe.md)           |
+| `Leader`       | [Salesforce](/vendors/salesforce.md) |
+| `Leader`       | [Braze](/vendors/braze.md)           |
+| `Visionary`    | [Insider](/vendors/insider.md)       |
+| `Visionary`    | [Bloomreach](/vendors/bloomreach.md) |
+| `Visionary`    | [Optimove](/vendors/optimove.md)     |
+| `Niche Player` | [MoEngage](/vendors/moengage.md)     |
+| `Niche Player` | [Airship](/vendors/airship.md)       |
+| `Niche Player` | [Cordial](/vendors/cordial.md)       |
+| `Challenger`   | [SAP](/vendors/sap.md)               |
+| `Challenger`   | [Iterable](/vendors/iterable.md)     |
 
 ## Report 2024
 
@@ -50,19 +50,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/multichannel-marketing-hubs.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)         |
-| `Leader`        | [Adobe](/vendors/adobe.md)                   |
-| `Leader`        | [Braze](/vendors/braze.md)                   |
-| `Visionary`     | [Bloomreach](/vendors/bloomreach.md)         |
-| `Visionary`     | [Insider](/vendors/insider.md)               |
-| `Visionary`     | [Optimove](/vendors/optimove.md)             |
-| `Niche Player`  | [Pegasystems](/vendors/pegasystems.md)       |
-| `Niche Player`  | [Cordial](/vendors/cordial.md)               |
-| `Niche Player`  | [Acquia](/vendors/acquia.md)                 |
-| `Niche Player`  | [MessageGears](/vendors/messagegears.md)     |
-| `Niche Player`  | [Acoustic](/vendors/acoustic.md)             |
-| `Challenger`    | [SAP (Emarsys)](</vendors/sap-(emarsys).md>) |
-| `Challenger`    | [Zeta Global](/vendors/zeta-global.md)       |
-| `Challenger`    | [Iterable](/vendors/iterable.md)             |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)         |
+| `Leader`       | [Adobe](/vendors/adobe.md)                   |
+| `Leader`       | [Braze](/vendors/braze.md)                   |
+| `Visionary`    | [Bloomreach](/vendors/bloomreach.md)         |
+| `Visionary`    | [Insider](/vendors/insider.md)               |
+| `Visionary`    | [Optimove](/vendors/optimove.md)             |
+| `Niche Player` | [Pegasystems](/vendors/pegasystems.md)       |
+| `Niche Player` | [Cordial](/vendors/cordial.md)               |
+| `Niche Player` | [Acquia](/vendors/acquia.md)                 |
+| `Niche Player` | [MessageGears](/vendors/messagegears.md)     |
+| `Niche Player` | [Acoustic](/vendors/acoustic.md)             |
+| `Challenger`   | [SAP (Emarsys)](</vendors/sap-(emarsys).md>) |
+| `Challenger`   | [Zeta Global](/vendors/zeta-global.md)       |
+| `Challenger`   | [Iterable](/vendors/iterable.md)             |

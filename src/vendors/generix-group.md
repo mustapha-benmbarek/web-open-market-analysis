@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                        |
-| --------------- | ------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026) |
+| MQ Position    | MQ Vendor                                                                            |
+| -------------- | ------------------------------------------------------------------------------------ |
+| `Niche Player` | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026) |

@@ -21,15 +21,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/revenue-enablement-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Highspot](/vendors/highspot.md)     |
-| `Leader`        | [Allego](/vendors/allego.md)         |
-| `Leader`        | [Seismic](/vendors/seismic.md)       |
-| `Leader`        | [Bigtincan](/vendors/bigtincan.md)   |
-| `Leader`        | [SalesHood](/vendors/saleshood.md)   |
-| `Leader`        | [Mindtickle](/vendors/mindtickle.md) |
-| `Leader`        | [Showpad](/vendors/showpad.md)       |
-| `Visionary`     | [Spekit](/vendors/spekit.md)         |
-| `Niche Player`  | [Mediafly](/vendors/mediafly.md)     |
-| `Challenger`    | [Pitcher](/vendors/pitcher.md)       |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Highspot](/vendors/highspot.md)     |
+| `Leader`       | [Allego](/vendors/allego.md)         |
+| `Leader`       | [Seismic](/vendors/seismic.md)       |
+| `Leader`       | [Bigtincan](/vendors/bigtincan.md)   |
+| `Leader`       | [SalesHood](/vendors/saleshood.md)   |
+| `Leader`       | [Mindtickle](/vendors/mindtickle.md) |
+| `Leader`       | [Showpad](/vendors/showpad.md)       |
+| `Visionary`    | [Spekit](/vendors/spekit.md)         |
+| `Niche Player` | [Mediafly](/vendors/mediafly.md)     |
+| `Challenger`   | [Pitcher](/vendors/pitcher.md)       |

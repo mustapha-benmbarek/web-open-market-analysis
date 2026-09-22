@@ -21,24 +21,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/contract-life-cycle-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Sirion](/vendors/sirion.md)                             |
-| `Leader`        | [Ironclad](/vendors/ironclad.md)                         |
-| `Leader`        | [Docusign](/vendors/docusign.md)                         |
-| `Leader`        | [Agiloft](/vendors/agiloft.md)                           |
-| `Leader`        | [Malbek](/vendors/malbek.md)                             |
-| `Visionary`     | [Icertis](/vendors/icertis.md)                           |
-| `Visionary`     | [ContractPodAi](/vendors/contractpodai.md)               |
-| `Visionary`     | [Workday](/vendors/workday.md)                           |
-| `Niche Player`  | [GEP](/vendors/gep.md)                                   |
-| `Niche Player`  | [Ivalua](/vendors/ivalua.md)                             |
-| `Niche Player`  | [Coupa](/vendors/coupa.md)                               |
-| `Niche Player`  | [LinkSquares](/vendors/linksquares.md)                   |
-| `Niche Player`  | [JAGGAER](/vendors/jaggaer.md)                           |
-| `Niche Player`  | [IntelAgree](/vendors/intelagree.md)                     |
-| `Challenger`    | [CobbleStone Software](/vendors/cobblestone-software.md) |
-| `Challenger`    | [Conga](/vendors/conga.md)                               |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Sirion](/vendors/sirion.md)                             |
+| `Leader`       | [Ironclad](/vendors/ironclad.md)                         |
+| `Leader`       | [Docusign](/vendors/docusign.md)                         |
+| `Leader`       | [Agiloft](/vendors/agiloft.md)                           |
+| `Leader`       | [Malbek](/vendors/malbek.md)                             |
+| `Visionary`    | [Icertis](/vendors/icertis.md)                           |
+| `Visionary`    | [ContractPodAi](/vendors/contractpodai.md)               |
+| `Visionary`    | [Workday](/vendors/workday.md)                           |
+| `Niche Player` | [GEP](/vendors/gep.md)                                   |
+| `Niche Player` | [Ivalua](/vendors/ivalua.md)                             |
+| `Niche Player` | [Coupa](/vendors/coupa.md)                               |
+| `Niche Player` | [LinkSquares](/vendors/linksquares.md)                   |
+| `Niche Player` | [JAGGAER](/vendors/jaggaer.md)                           |
+| `Niche Player` | [IntelAgree](/vendors/intelagree.md)                     |
+| `Challenger`   | [CobbleStone Software](/vendors/cobblestone-software.md) |
+| `Challenger`   | [Conga](/vendors/conga.md)                               |
 
 ## Report 2024
 
@@ -47,22 +47,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/contract-life-cycle-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Sirion](/vendors/sirion.md)                             |
-| `Leader`        | [Docusign](/vendors/docusign.md)                         |
-| `Leader`        | [Ironclad](/vendors/ironclad.md)                         |
-| `Leader`        | [Icertis](/vendors/icertis.md)                           |
-| `Leader`        | [Agiloft](/vendors/agiloft.md)                           |
-| `Visionary`     | [ContractPodAi](/vendors/contractpodai.md)               |
-| `Visionary`     | [Ivalua](/vendors/ivalua.md)                             |
-| `Visionary`     | [Evisort](/vendors/evisort.md)                           |
-| `Niche Player`  | [JAGGAER](/vendors/jaggaer.md)                           |
-| `Niche Player`  | [GEP](/vendors/gep.md)                                   |
-| `Niche Player`  | [Coupa](/vendors/coupa.md)                               |
-| `Niche Player`  | [LinkSquares](/vendors/linksquares.md)                   |
-| `Niche Player`  | [IntelAgree](/vendors/intelagree.md)                     |
-| `Niche Player`  | [Wolters Kluwer](/vendors/wolters-kluwer.md)             |
-| `Niche Player`  | [Gatekeeper](/vendors/gatekeeper.md)                     |
-| `Challenger`    | [CobbleStone Software](/vendors/cobblestone-software.md) |
-| `Challenger`    | [Conga](/vendors/conga.md)                               |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Sirion](/vendors/sirion.md)                             |
+| `Leader`       | [Docusign](/vendors/docusign.md)                         |
+| `Leader`       | [Ironclad](/vendors/ironclad.md)                         |
+| `Leader`       | [Icertis](/vendors/icertis.md)                           |
+| `Leader`       | [Agiloft](/vendors/agiloft.md)                           |
+| `Visionary`    | [ContractPodAi](/vendors/contractpodai.md)               |
+| `Visionary`    | [Ivalua](/vendors/ivalua.md)                             |
+| `Visionary`    | [Evisort](/vendors/evisort.md)                           |
+| `Niche Player` | [JAGGAER](/vendors/jaggaer.md)                           |
+| `Niche Player` | [GEP](/vendors/gep.md)                                   |
+| `Niche Player` | [Coupa](/vendors/coupa.md)                               |
+| `Niche Player` | [LinkSquares](/vendors/linksquares.md)                   |
+| `Niche Player` | [IntelAgree](/vendors/intelagree.md)                     |
+| `Niche Player` | [Wolters Kluwer](/vendors/wolters-kluwer.md)             |
+| `Niche Player` | [Gatekeeper](/vendors/gatekeeper.md)                     |
+| `Challenger`   | [CobbleStone Software](/vendors/cobblestone-software.md) |
+| `Challenger`   | [Conga](/vendors/conga.md)                               |

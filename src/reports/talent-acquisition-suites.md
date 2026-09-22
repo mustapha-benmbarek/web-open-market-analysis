@@ -27,20 +27,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2026/talent-acquisition-(recruiting)-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Workday](/vendors/workday.md)           |
-| `Leader`        | [Avature](/vendors/avature.md)           |
-| `Leader`        | [ICIMS](/vendors/icims.md)               |
-| `Leader`        | [Oracle](/vendors/oracle.md)             |
-| `Leader`        | [SAP](/vendors/sap.md)                   |
-| `Leader`        | [Darwinbox](/vendors/darwinbox.md)       |
-| `Visionary`     | [Phenom](/vendors/phenom.md)             |
-| `Visionary`     | [Eightfold AI](/vendors/eightfold-ai.md) |
-| `Niche Player`  | [Fountain](/vendors/fountain.md)         |
-| `Niche Player`  | [Workable](/vendors/workable.md)         |
-| `Niche Player`  | [Greenhouse](/vendors/greenhouse.md)     |
-| `Niche Player`  | [Cornerstone](/vendors/cornerstone.md)   |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Workday](/vendors/workday.md)           |
+| `Leader`       | [Avature](/vendors/avature.md)           |
+| `Leader`       | [ICIMS](/vendors/icims.md)               |
+| `Leader`       | [Oracle](/vendors/oracle.md)             |
+| `Leader`       | [SAP](/vendors/sap.md)                   |
+| `Leader`       | [Darwinbox](/vendors/darwinbox.md)       |
+| `Visionary`    | [Phenom](/vendors/phenom.md)             |
+| `Visionary`    | [Eightfold AI](/vendors/eightfold-ai.md) |
+| `Niche Player` | [Fountain](/vendors/fountain.md)         |
+| `Niche Player` | [Workable](/vendors/workable.md)         |
+| `Niche Player` | [Greenhouse](/vendors/greenhouse.md)     |
+| `Niche Player` | [Cornerstone](/vendors/cornerstone.md)   |
 
 ## Report 2025
 
@@ -49,16 +49,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/talent-acquisition-(recruiting)-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [SmartRecruiters](/vendors/smartrecruiters.md) |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [Workday](/vendors/workday.md)                 |
-| `Leader`        | [Avature](/vendors/avature.md)                 |
-| `Visionary`     | [Darwinbox](/vendors/darwinbox.md)             |
-| `Visionary`     | [Phenom](/vendors/phenom.md)                   |
-| `Visionary`     | [Greenhouse](/vendors/greenhouse.md)           |
-| `Niche Player`  | [Cornerstone](/vendors/cornerstone.md)         |
-| `Challenger`    | [PageUp](/vendors/pageup.md)                   |
-| `Challenger`    | [ICIMS](/vendors/icims.md)                     |
-| `Challenger`    | [SAP](/vendors/sap.md)                         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [SmartRecruiters](/vendors/smartrecruiters.md) |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [Workday](/vendors/workday.md)                 |
+| `Leader`       | [Avature](/vendors/avature.md)                 |
+| `Visionary`    | [Darwinbox](/vendors/darwinbox.md)             |
+| `Visionary`    | [Phenom](/vendors/phenom.md)                   |
+| `Visionary`    | [Greenhouse](/vendors/greenhouse.md)           |
+| `Niche Player` | [Cornerstone](/vendors/cornerstone.md)         |
+| `Challenger`   | [PageUp](/vendors/pageup.md)                   |
+| `Challenger`   | [ICIMS](/vendors/icims.md)                     |
+| `Challenger`   | [SAP](/vendors/sap.md)                         |

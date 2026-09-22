@@ -27,26 +27,26 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/ai-platforms-for-sata-science-and-machine-learning.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Databricks](/vendors/databricks.md)           |
-| `Leader`        | [Google](/vendors/google.md)                   |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)      |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
-| `Leader`        | [IBM](/vendors/ibm.md)                         |
-| `Leader`        | [Dataiku](/vendors/dataiku.md)                 |
-| `Leader`        | [DataRobot](/vendors/datarobot.md)             |
-| `Visionary`     | [Snowflake](/vendors/snowflake.md)             |
-| `Visionary`     | [SAS](/vendors/sas.md)                         |
-| `Visionary`     | [Cloudera](/vendors/cloudera.md)               |
-| `Visionary`     | [Teradata](/vendors/teradata.md)               |
-| `Visionary`     | [Siemens (Altair)](/vendors/siemens.md)        |
-| `Visionary`     | [Domino Data Lab](/vendors/domino-data-lab.md) |
-| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                   |
-| `Visionary`     | [Red Hat](/vendors/redhat.md)                  |
-| `Niche Player`  | [Posit](/vendors/posit.md)                     |
-| `Niche Player`  | [MathWorks](/vendors/mathworks.md)             |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Databricks](/vendors/databricks.md)           |
+| `Leader`       | [Google](/vendors/google.md)                   |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)      |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)             |
+| `Leader`       | [IBM](/vendors/ibm.md)                         |
+| `Leader`       | [Dataiku](/vendors/dataiku.md)                 |
+| `Leader`       | [DataRobot](/vendors/datarobot.md)             |
+| `Visionary`    | [Snowflake](/vendors/snowflake.md)             |
+| `Visionary`    | [SAS](/vendors/sas.md)                         |
+| `Visionary`    | [Cloudera](/vendors/cloudera.md)               |
+| `Visionary`    | [Teradata](/vendors/teradata.md)               |
+| `Visionary`    | [Siemens (Altair)](/vendors/siemens.md)        |
+| `Visionary`    | [Domino Data Lab](/vendors/domino-data-lab.md) |
+| `Visionary`    | [H2O.ai](/vendors/h2o.ai.md)                   |
+| `Visionary`    | [Red Hat](/vendors/redhat.md)                  |
+| `Niche Player` | [Posit](/vendors/posit.md)                     |
+| `Niche Player` | [MathWorks](/vendors/mathworks.md)             |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
 
 ## Report 2025
 
@@ -55,24 +55,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/data-science-and-machine-learning-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Databricks](/vendors/databricks.md)           |
-| `Leader`        | [Google](/vendors/google.md)                   |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)      |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
-| `Leader`        | [Dataiku](/vendors/dataiku.md)                 |
-| `Leader`        | [DataRobot](/vendors/datarobot.md)             |
-| `Leader`        | [IBM](/vendors/ibm.md)                         |
-| `Leader`        | [Altair](/vendors/altair.md)                   |
-| `Visionary`     | [SAS](/vendors/sas.md)                         |
-| `Visionary`     | [Snowflake](/vendors/snowflake.md)             |
-| `Visionary`     | [Domino Data Lab](/vendors/domino-data-lab.md) |
-| `Visionary`     | [Cloudera](/vendors/cloudera.md)               |
-| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                   |
-| `Niche Player`  | [Alteryx](/vendors/alteryx.md)                 |
-| `Niche Player`  | [MathWorks](/vendors/mathworks.md)             |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Databricks](/vendors/databricks.md)           |
+| `Leader`       | [Google](/vendors/google.md)                   |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)      |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)             |
+| `Leader`       | [Dataiku](/vendors/dataiku.md)                 |
+| `Leader`       | [DataRobot](/vendors/datarobot.md)             |
+| `Leader`       | [IBM](/vendors/ibm.md)                         |
+| `Leader`       | [Altair](/vendors/altair.md)                   |
+| `Visionary`    | [SAS](/vendors/sas.md)                         |
+| `Visionary`    | [Snowflake](/vendors/snowflake.md)             |
+| `Visionary`    | [Domino Data Lab](/vendors/domino-data-lab.md) |
+| `Visionary`    | [Cloudera](/vendors/cloudera.md)               |
+| `Visionary`    | [H2O.ai](/vendors/h2o.ai.md)                   |
+| `Niche Player` | [Alteryx](/vendors/alteryx.md)                 |
+| `Niche Player` | [MathWorks](/vendors/mathworks.md)             |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
 
 ## Report 2024
 
@@ -81,23 +81,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/data-science-and-machine-learning-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Databricks](/vendors/databricks.md)           |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
-| `Leader`        | [Google](/vendors/google.md)                   |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)      |
-| `Leader`        | [Dataiku](/vendors/dataiku.md)                 |
-| `Leader`        | [Altair](/vendors/altair.md)                   |
-| `Leader`        | [SAS](/vendors/sas.md)                         |
-| `Leader`        | [DataRobot](/vendors/datarobot.md)             |
-| `Visionary`     | [H2O.ai](/vendors/h2o.ai.md)                   |
-| `Visionary`     | [Cloudera](/vendors/cloudera.md)               |
-| `Visionary`     | [Domino Data Lab](/vendors/domino-data-lab.md) |
-| `Niche Player`  | [Alteryx](/vendors/alteryx.md)                 |
-| `Niche Player`  | [KNIME](/vendors/knime.md)                     |
-| `Niche Player`  | [MathWorks](/vendors/mathworks.md)             |
-| `Niche Player`  | [Posit](/vendors/posit.md)                     |
-| `Niche Player`  | [Anaconda](/vendors/anaconda.md)               |
-| `Challenger`    | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
-| `Challenger`    | [IBM](/vendors/ibm.md)                         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Databricks](/vendors/databricks.md)           |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)             |
+| `Leader`       | [Google](/vendors/google.md)                   |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)      |
+| `Leader`       | [Dataiku](/vendors/dataiku.md)                 |
+| `Leader`       | [Altair](/vendors/altair.md)                   |
+| `Leader`       | [SAS](/vendors/sas.md)                         |
+| `Leader`       | [DataRobot](/vendors/datarobot.md)             |
+| `Visionary`    | [H2O.ai](/vendors/h2o.ai.md)                   |
+| `Visionary`    | [Cloudera](/vendors/cloudera.md)               |
+| `Visionary`    | [Domino Data Lab](/vendors/domino-data-lab.md) |
+| `Niche Player` | [Alteryx](/vendors/alteryx.md)                 |
+| `Niche Player` | [KNIME](/vendors/knime.md)                     |
+| `Niche Player` | [MathWorks](/vendors/mathworks.md)             |
+| `Niche Player` | [Posit](/vendors/posit.md)                     |
+| `Niche Player` | [Anaconda](/vendors/anaconda.md)               |
+| `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)     |
+| `Challenger`   | [IBM](/vendors/ibm.md)                         |

@@ -25,14 +25,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/supply-chain-management-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                             |
-| --------------- | ----------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)              |
-| `Leader`        | [SAP](/vendors/sap.md)                    |
-| `Leader`        | [Blue Yonder](/vendors/blue-yonder.md)    |
-| `Visionary`     | [Aptean (Logility)](/vendors/aptean.md)   |
-| `Niche Player`  | [Infor](/vendors/infor.md)                |
-| `Niche Player`  | [Coupa](/vendors/coupa.md)                |
-| `Niche Player`  | [Dassault Systèmes](/vendors/dassault.md) |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)        |
-| `Challenger`    | [E2open](/vendors/e2open.md)              |
+| MQ Position    | MQ Vendor                                 |
+| -------------- | ----------------------------------------- |
+| `Leader`       | [Oracle](/vendors/oracle.md)              |
+| `Leader`       | [SAP](/vendors/sap.md)                    |
+| `Leader`       | [Blue Yonder](/vendors/blue-yonder.md)    |
+| `Visionary`    | [Aptean (Logility)](/vendors/aptean.md)   |
+| `Niche Player` | [Infor](/vendors/infor.md)                |
+| `Niche Player` | [Coupa](/vendors/coupa.md)                |
+| `Niche Player` | [Dassault Systèmes](/vendors/dassault.md) |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)        |
+| `Challenger`   | [E2open](/vendors/e2open.md)              |

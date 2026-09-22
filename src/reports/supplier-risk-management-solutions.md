@@ -23,18 +23,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/supplier-risk-management-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Exiger](/vendors/exiger.md)                             |
-| `Leader`        | [apexanalytix](/vendors/apexanalytix.md)                 |
-| `Leader`        | [Everstream Analytics](/vendors/everstream-analytics.md) |
-| `Leader`        | [Prewave](/vendors/prewave.md)                           |
-| `Leader`        | [Resilinc](/vendors/resilinc.md)                         |
-| `Visionary`     | [Sphera](/vendors/sphera.md)                             |
-| `Visionary`     | [Altana](/vendors/altana.md)                             |
-| `Niche Player`  | [Moody’s](/vendors/moodys.md)                            |
-| `Challenger`    | [interos.ai](/vendors/interos.ai.md)                     |
-| `Challenger`    | [Z2Data](/vendors/z2data.md)                             |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Exiger](/vendors/exiger.md)                             |
+| `Leader`       | [apexanalytix](/vendors/apexanalytix.md)                 |
+| `Leader`       | [Everstream Analytics](/vendors/everstream-analytics.md) |
+| `Leader`       | [Prewave](/vendors/prewave.md)                           |
+| `Leader`       | [Resilinc](/vendors/resilinc.md)                         |
+| `Visionary`    | [Sphera](/vendors/sphera.md)                             |
+| `Visionary`    | [Altana](/vendors/altana.md)                             |
+| `Niche Player` | [Moody’s](/vendors/moodys.md)                            |
+| `Challenger`   | [interos.ai](/vendors/interos.ai.md)                     |
+| `Challenger`   | [Z2Data](/vendors/z2data.md)                             |
 
 ## Report 2025
 
@@ -43,14 +43,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/supplier-risk-management-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                            |
-| --------------- | -------------------------------------------------------- |
-| `Leader`        | [Exiger](/vendors/exiger.md)                             |
-| `Leader`        | [Everstream Analytics](/vendors/everstream-analytics.md) |
-| `Leader`        | [Prewave](/vendors/prewave.md)                           |
-| `Leader`        | [Resilinc](/vendors/resilinc.md)                         |
-| `Visionary`     | [Sphera](/vendors/sphera.md)                             |
-| `Niche Player`  | [Moody's](/vendors/moodys.md)                            |
-| `Niche Player`  | [Aravo](/vendors/aravo.md)                               |
-| `Challenger`    | [apexanalytix](/vendors/apexanalytix.md)                 |
-| `Challenger`    | [interos.ai](/vendors/interos.ai.md)                     |
+| MQ Position    | MQ Vendor                                                |
+| -------------- | -------------------------------------------------------- |
+| `Leader`       | [Exiger](/vendors/exiger.md)                             |
+| `Leader`       | [Everstream Analytics](/vendors/everstream-analytics.md) |
+| `Leader`       | [Prewave](/vendors/prewave.md)                           |
+| `Leader`       | [Resilinc](/vendors/resilinc.md)                         |
+| `Visionary`    | [Sphera](/vendors/sphera.md)                             |
+| `Niche Player` | [Moody's](/vendors/moodys.md)                            |
+| `Niche Player` | [Aravo](/vendors/aravo.md)                               |
+| `Challenger`   | [apexanalytix](/vendors/apexanalytix.md)                 |
+| `Challenger`   | [interos.ai](/vendors/interos.ai.md)                     |

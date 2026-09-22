@@ -23,21 +23,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/global-industrial-aiot-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)             |
-| `Leader`        | [Siemens](/vendors/siemens.md)                 |
-| `Leader`        | [Litmus](/vendors/litmus.md)                   |
-| `Leader`        | [ABB](/vendors/abb.md)                         |
-| `Visionary`     | [Univers](/vendors/univers.md)                 |
-| `Visionary`     | [Cumulocity](/vendors/cumulocity.md)           |
-| `Visionary`     | [AVEVA](/vendors/aveva.md)                     |
-| `Visionary`     | [Velotic](/vendors/velotic.md)                 |
-| `Visionary`     | [IROOTECH](/vendors/irootech.md)               |
-| `Niche Player`  | [Infinite Uptime](/vendors/infinite-uptime.md) |
-| `Niche Player`  | [Braincube](/vendors/braincube.md)             |
-| `Niche Player`  | [SUSE](/vendors/suse.md)                       |
-| `Niche Player`  | [Davra](/vendors/davra.md)                     |
-| `Niche Player`  | [Exosite](/vendors/exosite.md)                 |
-| `Challenger`    | [Bosch](/vendors/bosch.md)                     |
-| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)      |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)             |
+| `Leader`       | [Siemens](/vendors/siemens.md)                 |
+| `Leader`       | [Litmus](/vendors/litmus.md)                   |
+| `Leader`       | [ABB](/vendors/abb.md)                         |
+| `Visionary`    | [Univers](/vendors/univers.md)                 |
+| `Visionary`    | [Cumulocity](/vendors/cumulocity.md)           |
+| `Visionary`    | [AVEVA](/vendors/aveva.md)                     |
+| `Visionary`    | [Velotic](/vendors/velotic.md)                 |
+| `Visionary`    | [IROOTECH](/vendors/irootech.md)               |
+| `Niche Player` | [Infinite Uptime](/vendors/infinite-uptime.md) |
+| `Niche Player` | [Braincube](/vendors/braincube.md)             |
+| `Niche Player` | [SUSE](/vendors/suse.md)                       |
+| `Niche Player` | [Davra](/vendors/davra.md)                     |
+| `Niche Player` | [Exosite](/vendors/exosite.md)                 |
+| `Challenger`   | [Bosch](/vendors/bosch.md)                     |
+| `Challenger`   | [Amazon Web Services](/vendors/amazon.md)      |

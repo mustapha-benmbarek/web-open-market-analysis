@@ -31,20 +31,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/accounts-payable-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                        |
-| --------------- | ------------------------------------ |
-| `Leader`        | [Basware](/vendors/basware.md)       |
-| `Leader`        | [Coupa](/vendors/coupa.md)           |
-| `Leader`        | [Esker](/vendors/esker.md)           |
-| `Leader`        | [Medius](/vendors/medius.md)         |
-| `Visionary`     | [Bottomline](/vendors/bottomline.md) |
-| `Niche Player`  | [Tradeshift](/vendors/tradeshift.md) |
-| `Niche Player`  | [Serrala](/vendors/serrala.md)       |
-| `Niche Player`  | [Quadient](/vendors/quadient.md)     |
-| `Challenger`    | [HighRadius](/vendors/highradius.md) |
-| `Challenger`    | [GEP](/vendors/gep.md)               |
-| `Challenger`    | [Tipalti](/vendors/tipalti.md)       |
-| `Challenger`    | [Ivalua](/vendors/ivalua.md)         |
+| MQ Position    | MQ Vendor                            |
+| -------------- | ------------------------------------ |
+| `Leader`       | [Basware](/vendors/basware.md)       |
+| `Leader`       | [Coupa](/vendors/coupa.md)           |
+| `Leader`       | [Esker](/vendors/esker.md)           |
+| `Leader`       | [Medius](/vendors/medius.md)         |
+| `Visionary`    | [Bottomline](/vendors/bottomline.md) |
+| `Niche Player` | [Tradeshift](/vendors/tradeshift.md) |
+| `Niche Player` | [Serrala](/vendors/serrala.md)       |
+| `Niche Player` | [Quadient](/vendors/quadient.md)     |
+| `Challenger`   | [HighRadius](/vendors/highradius.md) |
+| `Challenger`   | [GEP](/vendors/gep.md)               |
+| `Challenger`   | [Tipalti](/vendors/tipalti.md)       |
+| `Challenger`   | [Ivalua](/vendors/ivalua.md)         |
 
 ## Report 2025
 
@@ -53,17 +53,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/accounts-payable-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Coupa](/vendors/coupa.md)             |
-| `Leader`        | [Basware](/vendors/basware.md)         |
-| `Leader`        | [Medius](/vendors/medius.md)           |
-| `Visionary`     | [Airbase](/vendors/airbase.md)         |
-| `Niche Player`  | [Serrala](/vendors/serrala.md)         |
-| `Niche Player`  | [Pagero](/vendors/pagero.md)           |
-| `Niche Player`  | [Zycus](/vendors/zycus.md)             |
-| `Niche Player`  | [SoftCo](/vendors/softco.md)           |
-| `Niche Player`  | [JAGGAER](/vendors/jaggaer.md)         |
-| `Niche Player`  | [AvidXchange](/vendors/avidxchange.md) |
-| `Challenger`    | [GEP](/vendors/gep.md)                 |
-| `Challenger`    | [Ivalua](/vendors/ivalua.md)           |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Coupa](/vendors/coupa.md)             |
+| `Leader`       | [Basware](/vendors/basware.md)         |
+| `Leader`       | [Medius](/vendors/medius.md)           |
+| `Visionary`    | [Airbase](/vendors/airbase.md)         |
+| `Niche Player` | [Serrala](/vendors/serrala.md)         |
+| `Niche Player` | [Pagero](/vendors/pagero.md)           |
+| `Niche Player` | [Zycus](/vendors/zycus.md)             |
+| `Niche Player` | [SoftCo](/vendors/softco.md)           |
+| `Niche Player` | [JAGGAER](/vendors/jaggaer.md)         |
+| `Niche Player` | [AvidXchange](/vendors/avidxchange.md) |
+| `Challenger`   | [GEP](/vendors/gep.md)                 |
+| `Challenger`   | [Ivalua](/vendors/ivalua.md)           |

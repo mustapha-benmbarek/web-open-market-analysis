@@ -21,21 +21,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/software-asset-management-managed-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Livingstone Group](/vendors/livingstone-group.md) |
-| `Leader`        | [Anglepoint](/vendors/anglepoint.md)               |
-| `Leader`        | [Crayon](/vendors/crayon.md)                       |
-| `Leader`        | [SoftwareOne](/vendors/softwareone.md)             |
-| `Niche Player`  | [EY](/vendors/ey.md)                               |
-| `Niche Player`  | [Insight](/vendors/insight.md)                     |
-| `Niche Player`  | [ITAM solutions](/vendors/itam-solutions.md)       |
-| `Niche Player`  | [Noventiq](/vendors/noventiq.md)                   |
-| `Niche Player`  | [SHI](/vendors/shi.md)                             |
-| `Niche Player`  | [Bytes](/vendors/bytes.md)                         |
-| `Challenger`    | [Deloitte](/vendors/deloitte.md)                   |
-| `Challenger`    | [KPMG](/vendors/kpmg.md)                           |
-| `Challenger`    | [Accenture](/vendors/accenture.md)                 |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Livingstone Group](/vendors/livingstone-group.md) |
+| `Leader`       | [Anglepoint](/vendors/anglepoint.md)               |
+| `Leader`       | [Crayon](/vendors/crayon.md)                       |
+| `Leader`       | [SoftwareOne](/vendors/softwareone.md)             |
+| `Niche Player` | [EY](/vendors/ey.md)                               |
+| `Niche Player` | [Insight](/vendors/insight.md)                     |
+| `Niche Player` | [ITAM solutions](/vendors/itam-solutions.md)       |
+| `Niche Player` | [Noventiq](/vendors/noventiq.md)                   |
+| `Niche Player` | [SHI](/vendors/shi.md)                             |
+| `Niche Player` | [Bytes](/vendors/bytes.md)                         |
+| `Challenger`   | [Deloitte](/vendors/deloitte.md)                   |
+| `Challenger`   | [KPMG](/vendors/kpmg.md)                           |
+| `Challenger`   | [Accenture](/vendors/accenture.md)                 |
 
 ## Report 2024
 
@@ -44,17 +44,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/software-asset-management-managed-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                      |
-| --------------- | -------------------------------------------------- |
-| `Leader`        | [Anglepoint](/vendors/anglepoint.md)               |
-| `Leader`        | [Livingstone Group](/vendors/livingstone-group.md) |
-| `Leader`        | [Crayon](/vendors/crayon.md)                       |
-| `Leader`        | [SoftwareOne](/vendors/softwareone.md)             |
-| `Niche Player`  | [Accenture](/vendors/accenture.md)                 |
-| `Niche Player`  | [Noventiq](/vendors/noventiq.md)                   |
-| `Niche Player`  | [Insight](/vendors/insight.md)                     |
-| `Niche Player`  | [SHI](/vendors/shi.md)                             |
-| `Niche Player`  | [EY](/vendors/ey.md)                               |
-| `Niche Player`  | [ITAM solutions](/vendors/itam-solutions.md)       |
-| `Challenger`    | [KPMG](/vendors/kpmg.md)                           |
-| `Challenger`    | [Deloitte](/vendors/deloitte.md)                   |
+| MQ Position    | MQ Vendor                                          |
+| -------------- | -------------------------------------------------- |
+| `Leader`       | [Anglepoint](/vendors/anglepoint.md)               |
+| `Leader`       | [Livingstone Group](/vendors/livingstone-group.md) |
+| `Leader`       | [Crayon](/vendors/crayon.md)                       |
+| `Leader`       | [SoftwareOne](/vendors/softwareone.md)             |
+| `Niche Player` | [Accenture](/vendors/accenture.md)                 |
+| `Niche Player` | [Noventiq](/vendors/noventiq.md)                   |
+| `Niche Player` | [Insight](/vendors/insight.md)                     |
+| `Niche Player` | [SHI](/vendors/shi.md)                             |
+| `Niche Player` | [EY](/vendors/ey.md)                               |
+| `Niche Player` | [ITAM solutions](/vendors/itam-solutions.md)       |
+| `Challenger`   | [KPMG](/vendors/kpmg.md)                           |
+| `Challenger`   | [Deloitte](/vendors/deloitte.md)                   |

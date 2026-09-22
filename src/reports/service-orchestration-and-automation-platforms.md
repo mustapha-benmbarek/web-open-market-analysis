@@ -21,20 +21,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/service-orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [BMC](/vendors/bmc.md)                                     |
-| `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
-| `Leader`        | [Stonebranch](/vendors/stonebranch.md)                     |
-| `Leader`        | [IBM](/vendors/ibm.md)                                     |
-| `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
-| `Leader`        | [HCLSoftware](/vendors/hcl.md)                             |
-| `Leader`        | [Beta Systems Software](/vendors/beta-systems-software.md) |
-| `Visionary`     | [Resolve](/vendors/resolve.md)                             |
-| `Niche Player`  | [Decisions](/vendors/decisions.md)                         |
-| `Niche Player`  | [Absyss](/vendors/absyss.md)                               |
-| `Niche Player`  | [JAMS](/vendors/jams.md)                                   |
-| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)             |
+| MQ Position    | MQ Vendor                                                  |
+| -------------- | ---------------------------------------------------------- |
+| `Leader`       | [BMC](/vendors/bmc.md)                                     |
+| `Leader`       | [Redwood Software](/vendors/redwood-software.md)           |
+| `Leader`       | [Stonebranch](/vendors/stonebranch.md)                     |
+| `Leader`       | [IBM](/vendors/ibm.md)                                     |
+| `Leader`       | [Broadcom](/vendors/broadcom.md)                           |
+| `Leader`       | [HCLSoftware](/vendors/hcl.md)                             |
+| `Leader`       | [Beta Systems Software](/vendors/beta-systems-software.md) |
+| `Visionary`    | [Resolve](/vendors/resolve.md)                             |
+| `Niche Player` | [Decisions](/vendors/decisions.md)                         |
+| `Niche Player` | [Absyss](/vendors/absyss.md)                               |
+| `Niche Player` | [JAMS](/vendors/jams.md)                                   |
+| `Challenger`   | [Rocket Software](/vendors/rocket-software.md)             |
 
 ## Report 2025
 
@@ -43,20 +43,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/service orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
-| `Leader`        | [BMC](/vendors/bmc.md)                                     |
-| `Leader`        | [Stonebranch](/vendors/stonebranch.md)                     |
-| `Leader`        | [IBM](/vendors/ibm.md)                                     |
-| `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
-| `Leader`        | [HCLSoftware ](/vendors/hclsoftware-.md)                   |
-| `Leader`        | [Beta Systems Software](/vendors/beta-systems-software.md) |
-| `Visionary`     | [Resolve](/vendors/resolve.md)                             |
-| `Niche Player`  | [Absyss](/vendors/absyss.md)                               |
-| `Niche Player`  | [JAMS](/vendors/jams.md)                                   |
-| `Niche Player`  | [Honico Systems](/vendors/honico-systems.md)               |
-| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)             |
+| MQ Position    | MQ Vendor                                                  |
+| -------------- | ---------------------------------------------------------- |
+| `Leader`       | [Redwood Software](/vendors/redwood-software.md)           |
+| `Leader`       | [BMC](/vendors/bmc.md)                                     |
+| `Leader`       | [Stonebranch](/vendors/stonebranch.md)                     |
+| `Leader`       | [IBM](/vendors/ibm.md)                                     |
+| `Leader`       | [Broadcom](/vendors/broadcom.md)                           |
+| `Leader`       | [HCLSoftware ](/vendors/hclsoftware-.md)                   |
+| `Leader`       | [Beta Systems Software](/vendors/beta-systems-software.md) |
+| `Visionary`    | [Resolve](/vendors/resolve.md)                             |
+| `Niche Player` | [Absyss](/vendors/absyss.md)                               |
+| `Niche Player` | [JAMS](/vendors/jams.md)                                   |
+| `Niche Player` | [Honico Systems](/vendors/honico-systems.md)               |
+| `Challenger`   | [Rocket Software](/vendors/rocket-software.md)             |
 
 ## Report 2024
 
@@ -65,18 +65,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/service orchestration-and-automation-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                              |
-| --------------- | ---------------------------------------------------------- |
-| `Leader`        | [BMC Software](/vendors/bmc.md)                            |
-| `Leader`        | [Redwood Software](/vendors/redwood-software.md)           |
-| `Leader`        | [IBM](/vendors/ibm.md)                                     |
-| `Leader`        | [HCLSoftware](/vendors/hcl.md)                             |
-| `Leader`        | [Stonebranch](/vendors/stonebranch.md)                     |
-| `Leader`        | [Broadcom](/vendors/broadcom.md)                           |
-| `Visionary`     | [Beta Systems Software](/vendors/beta-systems-software.md) |
-| `Visionary`     | [Resolve Systems](/vendors/resolve-systems.md)             |
-| `Niche Player`  | [SMA Technologies](/vendors/sma-technologies.md)           |
-| `Niche Player`  | [Absyss](/vendors/absyss.md)                               |
-| `Niche Player`  | [Fortra](/vendors/fortra.md)                               |
-| `Niche Player`  | [Honico Systems](/vendors/honico-systems.md)               |
-| `Challenger`    | [Rocket Software](/vendors/rocket-software.md)             |
+| MQ Position    | MQ Vendor                                                  |
+| -------------- | ---------------------------------------------------------- |
+| `Leader`       | [BMC Software](/vendors/bmc.md)                            |
+| `Leader`       | [Redwood Software](/vendors/redwood-software.md)           |
+| `Leader`       | [IBM](/vendors/ibm.md)                                     |
+| `Leader`       | [HCLSoftware](/vendors/hcl.md)                             |
+| `Leader`       | [Stonebranch](/vendors/stonebranch.md)                     |
+| `Leader`       | [Broadcom](/vendors/broadcom.md)                           |
+| `Visionary`    | [Beta Systems Software](/vendors/beta-systems-software.md) |
+| `Visionary`    | [Resolve Systems](/vendors/resolve-systems.md)             |
+| `Niche Player` | [SMA Technologies](/vendors/sma-technologies.md)           |
+| `Niche Player` | [Absyss](/vendors/absyss.md)                               |
+| `Niche Player` | [Fortra](/vendors/fortra.md)                               |
+| `Niche Player` | [Honico Systems](/vendors/honico-systems.md)               |
+| `Challenger`   | [Rocket Software](/vendors/rocket-software.md)             |

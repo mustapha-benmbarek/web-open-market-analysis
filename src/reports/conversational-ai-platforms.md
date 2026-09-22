@@ -23,22 +23,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/conversational-ai-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Kore.ai](/vendors/kore.ai.md)             |
-| `Leader`        | [SoundHound AI](/vendors/soundhound-ai.md) |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)       |
-| `Visionary`     | [NICE Cognigy](/vendors/nice-cognigy.md)   |
-| `Visionary`     | [Omilia](/vendors/omilia.md)               |
-| `Visionary`     | [IBM](/vendors/ibm.md)                     |
-| `Niche Player`  | [PolyAI](/vendors/polyai.md)               |
-| `Niche Player`  | [Sprinklr](/vendors/sprinklr.md)           |
-| `Niche Player`  | [Avaamo](/vendors/avaamo.md)               |
-| `Niche Player`  | [Druid AI](/vendors/druid-ai.md)           |
-| `Niche Player`  | [Yellow.ai](/vendors/yellow.ai.md)         |
-| `Challenger`    | [Netomi](/vendors/netomi.md)               |
-| `Challenger`    | [Boost.ai](/vendors/boost.ai.md)           |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Kore.ai](/vendors/kore.ai.md)             |
+| `Leader`       | [SoundHound AI](/vendors/soundhound-ai.md) |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)       |
+| `Visionary`    | [NICE Cognigy](/vendors/nice-cognigy.md)   |
+| `Visionary`    | [Omilia](/vendors/omilia.md)               |
+| `Visionary`    | [IBM](/vendors/ibm.md)                     |
+| `Niche Player` | [PolyAI](/vendors/polyai.md)               |
+| `Niche Player` | [Sprinklr](/vendors/sprinklr.md)           |
+| `Niche Player` | [Avaamo](/vendors/avaamo.md)               |
+| `Niche Player` | [Druid AI](/vendors/druid-ai.md)           |
+| `Niche Player` | [Yellow.ai](/vendors/yellow.ai.md)         |
+| `Challenger`   | [Netomi](/vendors/netomi.md)               |
+| `Challenger`   | [Boost.ai](/vendors/boost.ai.md)           |
 
 ## Report 2025
 
@@ -47,18 +47,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/conversational-ai-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Kore.ai](/vendors/kore.ai.md)             |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Cognigy](/vendors/cognigy.md)             |
-| `Leader`        | [Boost.ai](/vendors/boost.ai.md)           |
-| `Visionary`     | [SoundHound AI](/vendors/soundhound-ai.md) |
-| `Visionary`     | [Omilia](/vendors/omilia.md)               |
-| `Niche Player`  | [Avaamo](/vendors/avaamo.md)               |
-| `Niche Player`  | [LivePerson](/vendors/liveperson.md)       |
-| `Niche Player`  | [PolyAI](/vendors/polyai.md)               |
-| `Niche Player`  | [Sprinklr](/vendors/sprinklr.md)           |
-| `Challenger`    | [Yellow.ai](/vendors/yellow.ai.md)         |
-| `Challenger`    | [DRUID AI](/vendors/druid-ai.md)           |
-| `Challenger`    | [IBM](/vendors/ibm.md)                     |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Kore.ai](/vendors/kore.ai.md)             |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Cognigy](/vendors/cognigy.md)             |
+| `Leader`       | [Boost.ai](/vendors/boost.ai.md)           |
+| `Visionary`    | [SoundHound AI](/vendors/soundhound-ai.md) |
+| `Visionary`    | [Omilia](/vendors/omilia.md)               |
+| `Niche Player` | [Avaamo](/vendors/avaamo.md)               |
+| `Niche Player` | [LivePerson](/vendors/liveperson.md)       |
+| `Niche Player` | [PolyAI](/vendors/polyai.md)               |
+| `Niche Player` | [Sprinklr](/vendors/sprinklr.md)           |
+| `Challenger`   | [Yellow.ai](/vendors/yellow.ai.md)         |
+| `Challenger`   | [DRUID AI](/vendors/druid-ai.md)           |
+| `Challenger`   | [IBM](/vendors/ibm.md)                     |

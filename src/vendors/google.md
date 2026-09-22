@@ -10,21 +10,21 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| `Leader`        | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
-| `Leader`        | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
-| `Leader`        | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
-| `Leader`        | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
-| `Leader`        | [Container Management](/reports/container-management.md#report-2026)                                                      |
-| `Leader`        | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                        |
-| `Leader`        | [Cyberthreat Intelligence Technologies](/reports/cyberthreat-intelligence-technologies.md#report-2026)                    |
-| `Challenger`    | [Document Management](/reports/document-management.md#report-2026)                                                        |
-| `Niche Player`  | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                           |
-| `Visionary`     | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
-| `Niche Player`  | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                            |
-| `Challenger`    | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
-| `Challenger`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                            |
-| `Challenger`    | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)      |
-| `Leader`        | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                                      |
-| `Leader`        | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |
+| MQ Position    | MQ Vendor                                                                                                                 |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)    |
+| `Leader`       | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026) |
+| `Leader`       | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                |
+| `Leader`       | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                          |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2026)                                                      |
+| `Leader`       | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                        |
+| `Leader`       | [Cyberthreat Intelligence Technologies](/reports/cyberthreat-intelligence-technologies.md#report-2026)                    |
+| `Challenger`   | [Document Management](/reports/document-management.md#report-2026)                                                        |
+| `Niche Player` | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                           |
+| `Visionary`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                            |
+| `Niche Player` | [Endpoint Management Tools](/reports/endpoint-management-tools.md#report-2026)                                            |
+| `Challenger`   | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                        |
+| `Challenger`   | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                            |
+| `Challenger`   | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)      |
+| `Leader`       | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                                      |
+| `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |

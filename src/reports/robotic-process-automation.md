@@ -19,18 +19,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/robotic-process-automation.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [UiPath](/vendors/uipath.md)                           |
-| `Leader`        | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Visionary`     | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
-| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
-| `Niche Player`  | [EvoluteIQ](/vendors/evoluteiq.md)                     |
-| `Niche Player`  | [Laiye](/vendors/laiye.md)                             |
-| `Niche Player`  | [Samsung SDS](/vendors/samsung.md)                     |
-| `Challenger`    | [Appian](/vendors/appian.md)                           |
-| `Challenger`    | [Pegasystems](/vendors/pegasystems.md)                 |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [UiPath](/vendors/uipath.md)                           |
+| `Leader`       | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                     |
+| `Visionary`    | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Visionary`    | [ServiceNow](/vendors/servicenow.md)                   |
+| `Niche Player` | [EvoluteIQ](/vendors/evoluteiq.md)                     |
+| `Niche Player` | [Laiye](/vendors/laiye.md)                             |
+| `Niche Player` | [Samsung SDS](/vendors/samsung.md)                     |
+| `Challenger`   | [Appian](/vendors/appian.md)                           |
+| `Challenger`   | [Pegasystems](/vendors/pegasystems.md)                 |
 
 ## Report 2025
 
@@ -39,21 +39,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/robotic-process-automation.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [UiPath](/vendors/uipath.md)                           |
-| `Leader`        | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
-| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
-| `Visionary`     | [Salesforce](/vendors/salesforce.md)                   |
-| `Niche Player`  | [Samsung SDS](/vendors/samsung-sds.md)                 |
-| `Niche Player`  | [Laiye](/vendors/laiye.md)                             |
-| `Niche Player`  | [IBM](/vendors/ibm.md)                                 |
-| `Niche Player`  | [EvoluteIQ](/vendors/evoluteiq.md)                     |
-| `Challenger`    | [Pegasystems](/vendors/pegasystems.md)                 |
-| `Challenger`    | [Appian](/vendors/appian.md)                           |
-| `Challenger`    | [SAP](/vendors/sap.md)                                 |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [UiPath](/vendors/uipath.md)                           |
+| `Leader`       | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`       | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Visionary`    | [ServiceNow](/vendors/servicenow.md)                   |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)                   |
+| `Niche Player` | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Niche Player` | [Laiye](/vendors/laiye.md)                             |
+| `Niche Player` | [IBM](/vendors/ibm.md)                                 |
+| `Niche Player` | [EvoluteIQ](/vendors/evoluteiq.md)                     |
+| `Challenger`   | [Pegasystems](/vendors/pegasystems.md)                 |
+| `Challenger`   | [Appian](/vendors/appian.md)                           |
+| `Challenger`   | [SAP](/vendors/sap.md)                                 |
 
 ## Report 2024
 
@@ -62,18 +62,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/robotic-process-automation.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [UiPath](/vendors/uipath.md)                           |
-| `Leader`        | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)                     |
-| `Leader`        | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
-| `Visionary`     | [Pegasystems](/vendors/pegasystems.md)                 |
-| `Visionary`     | [Salesforce](/vendors/salesforce.md)                   |
-| `Visionary`     | [Appian](/vendors/appian.md)                           |
-| `Visionary`     | [ServiceNow](/vendors/servicenow.md)                   |
-| `Niche Player`  | [Samsung SDS](/vendors/samsung-sds.md)                 |
-| `Niche Player`  | [Nintex](/vendors/nintex.md)                           |
-| `Niche Player`  | [Laiye](/vendors/laiye.md)                             |
-| `Niche Player`  | [IBM](/vendors/ibm.md)                                 |
-| `Challenger`    | [SAP](/vendors/sap.md)                                 |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [UiPath](/vendors/uipath.md)                           |
+| `Leader`       | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                     |
+| `Leader`       | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
+| `Visionary`    | [Pegasystems](/vendors/pegasystems.md)                 |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)                   |
+| `Visionary`    | [Appian](/vendors/appian.md)                           |
+| `Visionary`    | [ServiceNow](/vendors/servicenow.md)                   |
+| `Niche Player` | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Niche Player` | [Nintex](/vendors/nintex.md)                           |
+| `Niche Player` | [Laiye](/vendors/laiye.md)                             |
+| `Niche Player` | [IBM](/vendors/ibm.md)                                 |
+| `Challenger`   | [SAP](/vendors/sap.md)                                 |

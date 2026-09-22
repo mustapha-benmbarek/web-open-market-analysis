@@ -19,19 +19,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/hcm-suites-for-1,000+-employee-enterprises.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Workday](/vendors/workday.md)         |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [Dayforce](/vendors/dayforce.md)       |
-| `Leader`        | [SAP](/vendors/sap.md)                 |
-| `Leader`        | [UKG](/vendors/ukg.md)                 |
-| `Niche Player`  | [Infor](/vendors/infor.md)             |
-| `Niche Player`  | [Cornerstone](/vendors/cornerstone.md) |
-| `Niche Player`  | [Kingdee](/vendors/kingdee.md)         |
-| `Niche Player`  | [Yonyou](/vendors/yonyou.md)           |
-| `Niche Player`  | [Cegid](/vendors/cegid.md)             |
-| `Challenger`    | [Darwinbox](/vendors/darwinbox.md)     |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Workday](/vendors/workday.md)         |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [Dayforce](/vendors/dayforce.md)       |
+| `Leader`       | [SAP](/vendors/sap.md)                 |
+| `Leader`       | [UKG](/vendors/ukg.md)                 |
+| `Niche Player` | [Infor](/vendors/infor.md)             |
+| `Niche Player` | [Cornerstone](/vendors/cornerstone.md) |
+| `Niche Player` | [Kingdee](/vendors/kingdee.md)         |
+| `Niche Player` | [Yonyou](/vendors/yonyou.md)           |
+| `Niche Player` | [Cegid](/vendors/cegid.md)             |
+| `Challenger`   | [Darwinbox](/vendors/darwinbox.md)     |
 
 ## Report 2025
 
@@ -40,20 +40,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/hcm-suites-for-1,000+-employee-enterprises.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Workday](/vendors/workday.md)         |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [Dayforce](/vendors/dayforce.md)       |
-| `Leader`        | [SAP](/vendors/sap.md)                 |
-| `Leader`        | [UKG](/vendors/ukg.md)                 |
-| `Niche Player`  | [Infor](/vendors/infor.md)             |
-| `Niche Player`  | [Cornerstone](/vendors/cornerstone.md) |
-| `Niche Player`  | [Kingdee](/vendors/kingdee.md)         |
-| `Niche Player`  | [Cegid](/vendors/cegid.md)             |
-| `Niche Player`  | [Yonyou](/vendors/yonyou.md)           |
-| `Challenger`    | [ADP](/vendors/adp.md)                 |
-| `Challenger`    | [Darwinbox](/vendors/darwinbox.md)     |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Workday](/vendors/workday.md)         |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [Dayforce](/vendors/dayforce.md)       |
+| `Leader`       | [SAP](/vendors/sap.md)                 |
+| `Leader`       | [UKG](/vendors/ukg.md)                 |
+| `Niche Player` | [Infor](/vendors/infor.md)             |
+| `Niche Player` | [Cornerstone](/vendors/cornerstone.md) |
+| `Niche Player` | [Kingdee](/vendors/kingdee.md)         |
+| `Niche Player` | [Cegid](/vendors/cegid.md)             |
+| `Niche Player` | [Yonyou](/vendors/yonyou.md)           |
+| `Challenger`   | [ADP](/vendors/adp.md)                 |
+| `Challenger`   | [Darwinbox](/vendors/darwinbox.md)     |
 
 ## Report 2024
 
@@ -62,16 +62,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/hcm-suites-for-1,000+-employee-enterprises.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                          |
-| --------------- | -------------------------------------- |
-| `Leader`        | [Workday](/vendors/workday.md)         |
-| `Leader`        | [Oracle](/vendors/oracle.md)           |
-| `Leader`        | [Dayforce](/vendors/dayforce.md)       |
-| `Leader`        | [SAP](/vendors/sap.md)                 |
-| `Leader`        | [UKG](/vendors/ukg.md)                 |
-| `Niche Player`  | [Infor](/vendors/infor.md)             |
-| `Niche Player`  | [Cornerstone](/vendors/cornerstone.md) |
-| `Niche Player`  | [Cegid](/vendors/cegid.md)             |
-| `Niche Player`  | [Yonyou](/vendors/yonyou.md)           |
-| `Challenger`    | [ADP](/vendors/adp.md)                 |
-| `Challenger`    | [Darwinbox](/vendors/darwinbox.md)     |
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Workday](/vendors/workday.md)         |
+| `Leader`       | [Oracle](/vendors/oracle.md)           |
+| `Leader`       | [Dayforce](/vendors/dayforce.md)       |
+| `Leader`       | [SAP](/vendors/sap.md)                 |
+| `Leader`       | [UKG](/vendors/ukg.md)                 |
+| `Niche Player` | [Infor](/vendors/infor.md)             |
+| `Niche Player` | [Cornerstone](/vendors/cornerstone.md) |
+| `Niche Player` | [Cegid](/vendors/cegid.md)             |
+| `Niche Player` | [Yonyou](/vendors/yonyou.md)           |
+| `Challenger`   | [ADP](/vendors/adp.md)                 |
+| `Challenger`   | [Darwinbox](/vendors/darwinbox.md)     |

@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/financial-planning-software.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [OneStream](/vendors/onestream.md)             |
-| `Leader`        | [Anaplan](/vendors/anaplan.md)                 |
-| `Leader`        | [Workday](/vendors/workday.md)                 |
-| `Leader`        | [SAP](/vendors/sap.md)                         |
-| `Leader`        | [Board](/vendors/board.md)                     |
-| `Leader`        | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
-| `Visionary`     | [Jedox](/vendors/jedox.md)                     |
-| `Visionary`     | [Planful](/vendors/planful.md)                 |
-| `Visionary`     | [Pigment](/vendors/pigment.md)                 |
-| `Niche Player`  | [Prophix](/vendors/prophix.md)                 |
-| `Niche Player`  | [insightsoftware](/vendors/insightsoftware.md) |
-| `Challenger`    | [IBM](/vendors/ibm.md)                         |
-| `Challenger`    | [Vena](/vendors/vena.md)                       |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [OneStream](/vendors/onestream.md)             |
+| `Leader`       | [Anaplan](/vendors/anaplan.md)                 |
+| `Leader`       | [Workday](/vendors/workday.md)                 |
+| `Leader`       | [SAP](/vendors/sap.md)                         |
+| `Leader`       | [Board](/vendors/board.md)                     |
+| `Leader`       | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
+| `Visionary`    | [Jedox](/vendors/jedox.md)                     |
+| `Visionary`    | [Planful](/vendors/planful.md)                 |
+| `Visionary`    | [Pigment](/vendors/pigment.md)                 |
+| `Niche Player` | [Prophix](/vendors/prophix.md)                 |
+| `Niche Player` | [insightsoftware](/vendors/insightsoftware.md) |
+| `Challenger`   | [IBM](/vendors/ibm.md)                         |
+| `Challenger`   | [Vena](/vendors/vena.md)                       |
 
 ## Report 2024
 
@@ -45,21 +45,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/financial-planning-software.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Oracle](/vendors/oracle.md)                   |
-| `Leader`        | [OneStream](/vendors/onestream.md)             |
-| `Leader`        | [Anaplan](/vendors/anaplan.md)                 |
-| `Leader`        | [Workday](/vendors/workday.md)                 |
-| `Leader`        | [SAP](/vendors/sap.md)                         |
-| `Leader`        | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
-| `Leader`        | [Board](/vendors/board.md)                     |
-| `Leader`        | [Jedox](/vendors/jedox.md)                     |
-| `Visionary`     | [Planful](/vendors/planful.md)                 |
-| `Visionary`     | [Pigment](/vendors/pigment.md)                 |
-| `Niche Player`  | [Prophix](/vendors/prophix.md)                 |
-| `Niche Player`  | [Kepion](/vendors/kepion.md)                   |
-| `Niche Player`  | [insightsoftware](/vendors/insightsoftware.md) |
-| `Niche Player`  | [Strata](/vendors/strata.md)                   |
-| `Challenger`    | [Vena](/vendors/vena.md)                       |
-| `Challenger`    | [IBM](/vendors/ibm.md)                         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Oracle](/vendors/oracle.md)                   |
+| `Leader`       | [OneStream](/vendors/onestream.md)             |
+| `Leader`       | [Anaplan](/vendors/anaplan.md)                 |
+| `Leader`       | [Workday](/vendors/workday.md)                 |
+| `Leader`       | [SAP](/vendors/sap.md)                         |
+| `Leader`       | [Wolters Kluwer](/vendors/wolters-kluwer.md)   |
+| `Leader`       | [Board](/vendors/board.md)                     |
+| `Leader`       | [Jedox](/vendors/jedox.md)                     |
+| `Visionary`    | [Planful](/vendors/planful.md)                 |
+| `Visionary`    | [Pigment](/vendors/pigment.md)                 |
+| `Niche Player` | [Prophix](/vendors/prophix.md)                 |
+| `Niche Player` | [Kepion](/vendors/kepion.md)                   |
+| `Niche Player` | [insightsoftware](/vendors/insightsoftware.md) |
+| `Niche Player` | [Strata](/vendors/strata.md)                   |
+| `Challenger`   | [Vena](/vendors/vena.md)                       |
+| `Challenger`   | [IBM](/vendors/ibm.md)                         |

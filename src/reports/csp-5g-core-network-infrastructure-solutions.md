@@ -29,17 +29,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/csp-5g-core-network-infrastructure-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Huawei](/vendors/huawei.md)               |
-| `Leader`        | [Ericsson](/vendors/ericsson.md)           |
-| `Leader`        | [Nokia](/vendors/nokia.md)                 |
-| `Leader`        | [ZTE](/vendors/zte.md)                     |
-| `Visionary`     | [Mavenir](/vendors/mavenir.md)             |
-| `Niche Player`  | [Samsung](/vendors/samsung.md)             |
-| `Niche Player`  | [Jio Platforms](/vendors/jio-platforms.md) |
-| `Niche Player`  | [NEC](/vendors/nec.md)                     |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)         |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Huawei](/vendors/huawei.md)               |
+| `Leader`       | [Ericsson](/vendors/ericsson.md)           |
+| `Leader`       | [Nokia](/vendors/nokia.md)                 |
+| `Leader`       | [ZTE](/vendors/zte.md)                     |
+| `Visionary`    | [Mavenir](/vendors/mavenir.md)             |
+| `Niche Player` | [Samsung](/vendors/samsung.md)             |
+| `Niche Player` | [Jio Platforms](/vendors/jio-platforms.md) |
+| `Niche Player` | [NEC](/vendors/nec.md)                     |
+| `Niche Player` | [Microsoft](/vendors/microsoft.md)         |
 
 ## Report 2024
 
@@ -48,14 +48,14 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2024/csp-5g-core-network-infrastructure-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Huawei](/vendors/huawei.md)               |
-| `Leader`        | [Ericsson](/vendors/ericsson.md)           |
-| `Leader`        | [Nokia](/vendors/nokia.md)                 |
-| `Leader`        | [ZTE](/vendors/zte.md)                     |
-| `Visionary`     | [Mavenir](/vendors/mavenir.md)             |
-| `Niche Player`  | [Samsung](/vendors/samsung.md)             |
-| `Niche Player`  | [NEC](/vendors/nec.md)                     |
-| `Niche Player`  | [Microsoft](/vendors/microsoft.md)         |
-| `Niche Player`  | [Jio Platforms](/vendors/jio-platforms.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Huawei](/vendors/huawei.md)               |
+| `Leader`       | [Ericsson](/vendors/ericsson.md)           |
+| `Leader`       | [Nokia](/vendors/nokia.md)                 |
+| `Leader`       | [ZTE](/vendors/zte.md)                     |
+| `Visionary`    | [Mavenir](/vendors/mavenir.md)             |
+| `Niche Player` | [Samsung](/vendors/samsung.md)             |
+| `Niche Player` | [NEC](/vendors/nec.md)                     |
+| `Niche Player` | [Microsoft](/vendors/microsoft.md)         |
+| `Niche Player` | [Jio Platforms](/vendors/jio-platforms.md) |

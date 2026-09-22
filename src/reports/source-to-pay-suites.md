@@ -21,21 +21,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/source-to-pay-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Coupa](/vendors/coupa.md)                           |
-| `Leader`        | [SAP](/vendors/sap.md)                               |
-| `Leader`        | [Ivalua](/vendors/ivalua.md)                         |
-| `Leader`        | [Oracle](/vendors/oracle.md)                         |
-| `Leader`        | [Zycus](/vendors/zycus.md)                           |
-| `Leader`        | [GEP](/vendors/gep.md)                               |
-| `Visionary`     | [JAGGAER](/vendors/jaggaer.md)                       |
-| `Visionary`     | [Zip](/vendors/zip.md)                               |
-| `Niche Player`  | [Esker](/vendors/esker.md)                           |
-| `Niche Player`  | [ebidtopay](/vendors/ebidtopay.md)                   |
-| `Niche Player`  | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
-| `Niche Player`  | [ZHENYUN Technology](/vendors/zhenyun.md)            |
-| `Niche Player`  | [Synertrade](/vendors/synertrade.md)                 |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Coupa](/vendors/coupa.md)                           |
+| `Leader`       | [SAP](/vendors/sap.md)                               |
+| `Leader`       | [Ivalua](/vendors/ivalua.md)                         |
+| `Leader`       | [Oracle](/vendors/oracle.md)                         |
+| `Leader`       | [Zycus](/vendors/zycus.md)                           |
+| `Leader`       | [GEP](/vendors/gep.md)                               |
+| `Visionary`    | [JAGGAER](/vendors/jaggaer.md)                       |
+| `Visionary`    | [Zip](/vendors/zip.md)                               |
+| `Niche Player` | [Esker](/vendors/esker.md)                           |
+| `Niche Player` | [ebidtopay](/vendors/ebidtopay.md)                   |
+| `Niche Player` | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
+| `Niche Player` | [ZHENYUN Technology](/vendors/zhenyun.md)            |
+| `Niche Player` | [Synertrade](/vendors/synertrade.md)                 |
 
 ## Report 2025
 
@@ -44,17 +44,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/source-to-pay-suites.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [Coupa](/vendors/coupa.md)                           |
-| `Leader`        | [GEP](/vendors/gep.md)                               |
-| `Leader`        | [Ivalua](/vendors/ivalua.md)                         |
-| `Leader`        | [SAP](/vendors/sap.md)                               |
-| `Leader`        | [Oracle](/vendors/oracle.md)                         |
-| `Visionary`     | [Zycus](/vendors/zycus.md)                           |
-| `Visionary`     | [JAGGAER](/vendors/jaggaer.md)                       |
-| `Niche Player`  | [Zhenyun Technology](/vendors/zhenyun.md)            |
-| `Niche Player`  | [ebidtopay](/vendors/ebidtopay.md)                   |
-| `Niche Player`  | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
-| `Niche Player`  | [Synertrade](/vendors/synertrade.md)                 |
-| `Challenger`    | [Esker](/vendors/esker.md)                           |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Coupa](/vendors/coupa.md)                           |
+| `Leader`       | [GEP](/vendors/gep.md)                               |
+| `Leader`       | [Ivalua](/vendors/ivalua.md)                         |
+| `Leader`       | [SAP](/vendors/sap.md)                               |
+| `Leader`       | [Oracle](/vendors/oracle.md)                         |
+| `Visionary`    | [Zycus](/vendors/zycus.md)                           |
+| `Visionary`    | [JAGGAER](/vendors/jaggaer.md)                       |
+| `Niche Player` | [Zhenyun Technology](/vendors/zhenyun.md)            |
+| `Niche Player` | [ebidtopay](/vendors/ebidtopay.md)                   |
+| `Niche Player` | [Mercado Eletronico](/vendors/mercado-eletronico.md) |
+| `Niche Player` | [Synertrade](/vendors/synertrade.md)                 |
+| `Challenger`   | [Esker](/vendors/esker.md)                           |

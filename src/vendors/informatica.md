@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                              |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
-| `Leader`        | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026) |
+| MQ Position  | MQ Vendor                                                                                                  |
+| ------------ | ---------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2026) |

@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                                      |
-| --------------- | ------------------------------------------------------------------------------------------------------------------ |
-| `Niche Player`  | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026) |
+| MQ Position    | MQ Vendor                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026) |

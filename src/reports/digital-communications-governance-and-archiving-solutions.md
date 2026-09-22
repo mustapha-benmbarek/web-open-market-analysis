@@ -29,19 +29,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-communications-governance-and-archiving-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Global Relay](/vendors/global-relay.md) |
-| `Leader`        | [Smarsh](/vendors/smarsh.md)             |
-| `Leader`        | [Proofpoint](/vendors/proofpoint.md)     |
-| `Leader`        | [Archive360](/vendors/archive360.md)     |
-| `Leader`        | [Arctera](/vendors/arctera.md)           |
-| `Leader`        | [Mimecast](/vendors/mimecast.md)         |
-| `Visionary`     | [Theta Lake](/vendors/theta-lake.md)     |
-| `Visionary`     | [Shield](/vendors/shield.md)             |
-| `Visionary`     | [Behavox](/vendors/behavox.md)           |
-| `Visionary`     | [LeapXpert](/vendors/leapxpert.md)       |
-| `Niche Player`  | [Bloomberg](/vendors/bloomberg.md)       |
-| `Niche Player`  | [SteelEye](/vendors/steeleye.md)         |
-| `Challenger`    | [Microsoft](/vendors/microsoft.md)       |
-| `Challenger`    | [NICE](/vendors/nice.md)                 |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Global Relay](/vendors/global-relay.md) |
+| `Leader`       | [Smarsh](/vendors/smarsh.md)             |
+| `Leader`       | [Proofpoint](/vendors/proofpoint.md)     |
+| `Leader`       | [Archive360](/vendors/archive360.md)     |
+| `Leader`       | [Arctera](/vendors/arctera.md)           |
+| `Leader`       | [Mimecast](/vendors/mimecast.md)         |
+| `Visionary`    | [Theta Lake](/vendors/theta-lake.md)     |
+| `Visionary`    | [Shield](/vendors/shield.md)             |
+| `Visionary`    | [Behavox](/vendors/behavox.md)           |
+| `Visionary`    | [LeapXpert](/vendors/leapxpert.md)       |
+| `Niche Player` | [Bloomberg](/vendors/bloomberg.md)       |
+| `Niche Player` | [SteelEye](/vendors/steeleye.md)         |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)       |
+| `Challenger`   | [NICE](/vendors/nice.md)                 |

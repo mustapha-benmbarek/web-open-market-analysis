@@ -21,20 +21,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/identity-verification.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                      |
-| --------------- | ------------------------------------------------------------------ |
-| `Leader`        | [Persona](/vendors/persona.md)                                     |
-| `Leader`        | [Incode](/vendors/incode.md)                                       |
-| `Leader`        | [1Kosmos](/vendors/1kosmos.md)                                     |
-| `Leader`        | [Socure](/vendors/socure.md)                                       |
-| `Visionary`     | [Veridas](/vendors/veridas.md)                                     |
-| `Visionary`     | [Veriff](/vendors/veriff.md)                                       |
-| `Visionary`     | [Nametag](/vendors/nametag.md)                                     |
-| `Niche Player`  | [ZOLOZ](/vendors/zoloz.md)                                         |
-| `Niche Player`  | [TrustDecision](/vendors/trustdecision.md)                         |
-| `Niche Player`  | [Regula](/vendors/regula-forensics.md)                             |
-| `Niche Player`  | [LexisNexis Risk Solutions](/vendors/lexisnexis-risk-solutions.md) |
-| `Challenger`    | [Daon](/vendors/daon.md)                                           |
+| MQ Position    | MQ Vendor                                                          |
+| -------------- | ------------------------------------------------------------------ |
+| `Leader`       | [Persona](/vendors/persona.md)                                     |
+| `Leader`       | [Incode](/vendors/incode.md)                                       |
+| `Leader`       | [1Kosmos](/vendors/1kosmos.md)                                     |
+| `Leader`       | [Socure](/vendors/socure.md)                                       |
+| `Visionary`    | [Veridas](/vendors/veridas.md)                                     |
+| `Visionary`    | [Veriff](/vendors/veriff.md)                                       |
+| `Visionary`    | [Nametag](/vendors/nametag.md)                                     |
+| `Niche Player` | [ZOLOZ](/vendors/zoloz.md)                                         |
+| `Niche Player` | [TrustDecision](/vendors/trustdecision.md)                         |
+| `Niche Player` | [Regula](/vendors/regula-forensics.md)                             |
+| `Niche Player` | [LexisNexis Risk Solutions](/vendors/lexisnexis-risk-solutions.md) |
+| `Challenger`   | [Daon](/vendors/daon.md)                                           |
 
 ## Report 2025
 
@@ -43,19 +43,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/identity-verification.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [Persona](/vendors/persona.md)                   |
-| `Leader`        | [Incode](/vendors/incode.md)                     |
-| `Leader`        | [Sumsub](/vendors/sumsub.md)                     |
-| `Leader`        | [Daon](/vendors/daon.md)                         |
-| `Leader`        | [Socure](/vendors/socure.md)                     |
-| `Visionary`     | [Entrust](/vendors/entrust.md)                   |
-| `Visionary`     | [Veridas](/vendors/veridas.md)                   |
-| `Niche Player`  | [TrustDecision](/vendors/trustdecision.md)       |
-| `Niche Player`  | [ZOLOZ](/vendors/zoloz.md)                       |
-| `Niche Player`  | [Regula Forensics](/vendors/regula-forensics.md) |
-| `Challenger`    | [1Kosmos](/vendors/1kosmos.md)                   |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [Persona](/vendors/persona.md)                   |
+| `Leader`       | [Incode](/vendors/incode.md)                     |
+| `Leader`       | [Sumsub](/vendors/sumsub.md)                     |
+| `Leader`       | [Daon](/vendors/daon.md)                         |
+| `Leader`       | [Socure](/vendors/socure.md)                     |
+| `Visionary`    | [Entrust](/vendors/entrust.md)                   |
+| `Visionary`    | [Veridas](/vendors/veridas.md)                   |
+| `Niche Player` | [TrustDecision](/vendors/trustdecision.md)       |
+| `Niche Player` | [ZOLOZ](/vendors/zoloz.md)                       |
+| `Niche Player` | [Regula Forensics](/vendors/regula-forensics.md) |
+| `Challenger`   | [1Kosmos](/vendors/1kosmos.md)                   |
 
 ## Report 2024
 
@@ -64,16 +64,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/identity-verification.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [Sumsub](/vendors/sumsub.md)                           |
-| `Leader`        | [Socure](/vendors/socure.md)                           |
-| `Leader`        | [Entrust](/vendors/entrust.md)                         |
-| `Leader`        | [Jumio](/vendors/jumio.md)                             |
-| `Leader`        | [Incode Technologies](/vendors/incode-technologies.md) |
-| `Visionary`     | [Mitek Systems](/vendors/mitek-systems.md)             |
-| `Visionary`     | [AU10TIX](/vendors/au10tix.md)                         |
-| `Niche Player`  | [1Kosmos](/vendors/1kosmos.md)                         |
-| `Niche Player`  | [GB Group](/vendors/gb-group.md)                       |
-| `Niche Player`  | [ZOLOZ](/vendors/zoloz.md)                             |
-| `Challenger`    | [Persona](/vendors/persona.md)                         |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [Sumsub](/vendors/sumsub.md)                           |
+| `Leader`       | [Socure](/vendors/socure.md)                           |
+| `Leader`       | [Entrust](/vendors/entrust.md)                         |
+| `Leader`       | [Jumio](/vendors/jumio.md)                             |
+| `Leader`       | [Incode Technologies](/vendors/incode-technologies.md) |
+| `Visionary`    | [Mitek Systems](/vendors/mitek-systems.md)             |
+| `Visionary`    | [AU10TIX](/vendors/au10tix.md)                         |
+| `Niche Player` | [1Kosmos](/vendors/1kosmos.md)                         |
+| `Niche Player` | [GB Group](/vendors/gb-group.md)                       |
+| `Niche Player` | [ZOLOZ](/vendors/zoloz.md)                             |
+| `Challenger`   | [Persona](/vendors/persona.md)                         |

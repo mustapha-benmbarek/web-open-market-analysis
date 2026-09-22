@@ -21,27 +21,27 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-commerce.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Shopify](/vendors/shopify.md)                 |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [commercetools](/vendors/commercetools.md)     |
-| `Leader`        | [SAP](/vendors/sap.md)                         |
-| `Leader`        | [Adobe](/vendors/adobe.md)                     |
-| `Visionary`     | [Spryker](/vendors/spryker.md)                 |
-| `Visionary`     | [Shopware](/vendors/shopware.md)               |
-| `Niche Player`  | [Infosys Equinox](/vendors/infosys-equinox.md) |
-| `Niche Player`  | [Intershop](/vendors/intershop.md)             |
-| `Niche Player`  | [HCLSoftware](/vendors/hcl.md)                 |
-| `Niche Player`  | [Oro](/vendors/oro.md)                         |
-| `Niche Player`  | [Optimizely](/vendors/optimizely.md)           |
-| `Niche Player`  | [Elastic Path](/vendors/elastic-path.md)       |
-| `Niche Player`  | [Virto Commerce](/vendors/virto-commerce.md)   |
-| `Niche Player`  | [Sana Commerce](/vendors/sana-commerce.md)     |
-| `Challenger`    | [VTEX](/vendors/vtex.md)                       |
-| `Challenger`    | [BigCommerce](/vendors/bigcommerce.md)         |
-| `Challenger`    | [Kibo](/vendors/kibo.md)                       |
-| `Challenger`    | [SCAYLE](/vendors/scayle.md)                   |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Shopify](/vendors/shopify.md)                 |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`       | [commercetools](/vendors/commercetools.md)     |
+| `Leader`       | [SAP](/vendors/sap.md)                         |
+| `Leader`       | [Adobe](/vendors/adobe.md)                     |
+| `Visionary`    | [Spryker](/vendors/spryker.md)                 |
+| `Visionary`    | [Shopware](/vendors/shopware.md)               |
+| `Niche Player` | [Infosys Equinox](/vendors/infosys-equinox.md) |
+| `Niche Player` | [Intershop](/vendors/intershop.md)             |
+| `Niche Player` | [HCLSoftware](/vendors/hcl.md)                 |
+| `Niche Player` | [Oro](/vendors/oro.md)                         |
+| `Niche Player` | [Optimizely](/vendors/optimizely.md)           |
+| `Niche Player` | [Elastic Path](/vendors/elastic-path.md)       |
+| `Niche Player` | [Virto Commerce](/vendors/virto-commerce.md)   |
+| `Niche Player` | [Sana Commerce](/vendors/sana-commerce.md)     |
+| `Challenger`   | [VTEX](/vendors/vtex.md)                       |
+| `Challenger`   | [BigCommerce](/vendors/bigcommerce.md)         |
+| `Challenger`   | [Kibo](/vendors/kibo.md)                       |
+| `Challenger`   | [SCAYLE](/vendors/scayle.md)                   |
 
 ## Report 2024
 
@@ -50,24 +50,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/digital-commerce.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [Shopify](/vendors/shopify.md)                 |
-| `Leader`        | [commercetools](/vendors/commercetools.md)     |
-| `Leader`        | [SAP](/vendors/sap.md)                         |
-| `Leader`        | [Adobe](/vendors/adobe.md)                     |
-| `Leader`        | [Spryker](/vendors/spryker.md)                 |
-| `Visionary`     | [HCLSoftware](/vendors/hcl.md)                 |
-| `Visionary`     | [Oro](/vendors/oro.md)                         |
-| `Niche Player`  | [Infosys Equinox](/vendors/infosys-equinox.md) |
-| `Niche Player`  | [Optimizely](/vendors/optimizely.md)           |
-| `Niche Player`  | [SCAYLE](/vendors/scayle.md)                   |
-| `Niche Player`  | [Elastic Path](/vendors/elastic-path.md)       |
-| `Niche Player`  | [Liferay](/vendors/liferay.md)                 |
-| `Niche Player`  | [Shopware](/vendors/shopware.md)               |
-| `Niche Player`  | [Sana Commerce](/vendors/sana-commerce.md)     |
-| `Niche Player`  | [Virto Commerce](/vendors/virto-commerce.md)   |
-| `Challenger`    | [VTEX](/vendors/vtex.md)                       |
-| `Challenger`    | [BigCommerce](/vendors/bigcommerce.md)         |
-| `Challenger`    | [Kibo](/vendors/kibo.md)                       |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`       | [Shopify](/vendors/shopify.md)                 |
+| `Leader`       | [commercetools](/vendors/commercetools.md)     |
+| `Leader`       | [SAP](/vendors/sap.md)                         |
+| `Leader`       | [Adobe](/vendors/adobe.md)                     |
+| `Leader`       | [Spryker](/vendors/spryker.md)                 |
+| `Visionary`    | [HCLSoftware](/vendors/hcl.md)                 |
+| `Visionary`    | [Oro](/vendors/oro.md)                         |
+| `Niche Player` | [Infosys Equinox](/vendors/infosys-equinox.md) |
+| `Niche Player` | [Optimizely](/vendors/optimizely.md)           |
+| `Niche Player` | [SCAYLE](/vendors/scayle.md)                   |
+| `Niche Player` | [Elastic Path](/vendors/elastic-path.md)       |
+| `Niche Player` | [Liferay](/vendors/liferay.md)                 |
+| `Niche Player` | [Shopware](/vendors/shopware.md)               |
+| `Niche Player` | [Sana Commerce](/vendors/sana-commerce.md)     |
+| `Niche Player` | [Virto Commerce](/vendors/virto-commerce.md)   |
+| `Challenger`   | [VTEX](/vendors/vtex.md)                       |
+| `Challenger`   | [BigCommerce](/vendors/bigcommerce.md)         |
+| `Challenger`   | [Kibo](/vendors/kibo.md)                       |

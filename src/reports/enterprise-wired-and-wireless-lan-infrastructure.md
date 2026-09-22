@@ -27,21 +27,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/enterprise-wired-and-wireless-lan-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                    |
-| --------------- | ------------------------------------------------ |
-| `Leader`        | [HPE](/vendors/hewlett-packard.md)               |
-| `Leader`        | [Huawei](/vendors/huawei.md)                     |
-| `Leader`        | [Cisco](/vendors/cisco.md)                       |
-| `Leader`        | [Arista Networks](/vendors/arista-networks.md)   |
-| `Visionary`     | [Extreme Networks](/vendors/extreme-networks.md) |
-| `Visionary`     | [Fortinet](/vendors/fortinet.md)                 |
-| `Visionary`     | [Meter](/vendors/meter.md)                       |
-| `Visionary`     | [Nile](/vendors/nile.md)                         |
-| `Niche Player`  | [H3C](/vendors/h3c.md)                           |
-| `Niche Player`  | [ALE](/vendors/ale.md)                           |
-| `Niche Player`  | [RUCKUS Networks](/vendors/ruckus-networks.md)   |
-| `Niche Player`  | [Join Digital](/vendors/join-digital.md)         |
-| `Niche Player`  | [Allied Telesis](/vendors/allied-telesis.md)     |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [HPE](/vendors/hewlett-packard.md)               |
+| `Leader`       | [Huawei](/vendors/huawei.md)                     |
+| `Leader`       | [Cisco](/vendors/cisco.md)                       |
+| `Leader`       | [Arista Networks](/vendors/arista-networks.md)   |
+| `Visionary`    | [Extreme Networks](/vendors/extreme-networks.md) |
+| `Visionary`    | [Fortinet](/vendors/fortinet.md)                 |
+| `Visionary`    | [Meter](/vendors/meter.md)                       |
+| `Visionary`    | [Nile](/vendors/nile.md)                         |
+| `Niche Player` | [H3C](/vendors/h3c.md)                           |
+| `Niche Player` | [ALE](/vendors/ale.md)                           |
+| `Niche Player` | [RUCKUS Networks](/vendors/ruckus-networks.md)   |
+| `Niche Player` | [Join Digital](/vendors/join-digital.md)         |
+| `Niche Player` | [Allied Telesis](/vendors/allied-telesis.md)     |
 
 ## Report 2025
 
@@ -50,23 +50,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/enterprise-wired-and-wireless-lan-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                 |
-| --------------- | ------------------------------------------------------------- |
-| `Leader`        | [Juniper Networks](/vendors/juniper-networks.md)              |
-| `Leader`        | [Huawei](/vendors/huawei.md)                                  |
-| `Leader`        | [HPE (Aruba)](</vendors/hpe-(aruba).md>)                      |
-| `Leader`        | [Fortinet](/vendors/fortinet.md)                              |
-| `Visionary`     | [Arista Networks](/vendors/arista-networks.md)                |
-| `Visionary`     | [Extreme Networks](/vendors/extreme-networks.md)              |
-| `Visionary`     | [Nile](/vendors/nile.md)                                      |
-| `Visionary`     | [Meter](/vendors/meter.md)                                    |
-| `Niche Player`  | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
-| `Niche Player`  | [H3C](/vendors/h3c.md)                                        |
-| `Niche Player`  | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
-| `Niche Player`  | [Join Digital](/vendors/join-digital.md)                      |
-| `Niche Player`  | [Allied Telesis](/vendors/allied-telesis.md)                  |
-| `Niche Player`  | [TP-Link](/vendors/tp-link.md)                                |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                                    |
+| MQ Position    | MQ Vendor                                                     |
+| -------------- | ------------------------------------------------------------- |
+| `Leader`       | [Juniper Networks](/vendors/juniper-networks.md)              |
+| `Leader`       | [Huawei](/vendors/huawei.md)                                  |
+| `Leader`       | [HPE (Aruba)](</vendors/hpe-(aruba).md>)                      |
+| `Leader`       | [Fortinet](/vendors/fortinet.md)                              |
+| `Visionary`    | [Arista Networks](/vendors/arista-networks.md)                |
+| `Visionary`    | [Extreme Networks](/vendors/extreme-networks.md)              |
+| `Visionary`    | [Nile](/vendors/nile.md)                                      |
+| `Visionary`    | [Meter](/vendors/meter.md)                                    |
+| `Niche Player` | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
+| `Niche Player` | [H3C](/vendors/h3c.md)                                        |
+| `Niche Player` | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
+| `Niche Player` | [Join Digital](/vendors/join-digital.md)                      |
+| `Niche Player` | [Allied Telesis](/vendors/allied-telesis.md)                  |
+| `Niche Player` | [TP-Link](/vendors/tp-link.md)                                |
+| `Challenger`   | [Cisco](/vendors/cisco.md)                                    |
 
 ## Report 2024
 
@@ -75,17 +75,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/enterprise-wired-and-wireless-lan-infrastructure.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                 |
-| --------------- | ------------------------------------------------------------- |
-| `Leader`        | [Juniper](/vendors/juniper.md)                                |
-| `Leader`        | [HPE (Aruba)](</vendors/hpe-(aruba).md>)                      |
-| `Leader`        | [Extreme Networks](/vendors/extreme-networks.md)              |
-| `Leader`        | [Huawei](/vendors/huawei.md)                                  |
-| `Leader`        | [Cisco](/vendors/cisco.md)                                    |
-| `Leader`        | [Fortinet](/vendors/fortinet.md)                              |
-| `Visionary`     | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
-| `Visionary`     | [Arista Networks](/vendors/arista-networks.md)                |
-| `Niche Player`  | [Cambium Networks](/vendors/cambium-networks.md)              |
-| `Niche Player`  | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
-| `Niche Player`  | [Allied Telesis](/vendors/allied-telesis.md)                  |
-| `Niche Player`  | [TP-Link](/vendors/tp-link.md)                                |
+| MQ Position    | MQ Vendor                                                     |
+| -------------- | ------------------------------------------------------------- |
+| `Leader`       | [Juniper](/vendors/juniper.md)                                |
+| `Leader`       | [HPE (Aruba)](</vendors/hpe-(aruba).md>)                      |
+| `Leader`       | [Extreme Networks](/vendors/extreme-networks.md)              |
+| `Leader`       | [Huawei](/vendors/huawei.md)                                  |
+| `Leader`       | [Cisco](/vendors/cisco.md)                                    |
+| `Leader`       | [Fortinet](/vendors/fortinet.md)                              |
+| `Visionary`    | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
+| `Visionary`    | [Arista Networks](/vendors/arista-networks.md)                |
+| `Niche Player` | [Cambium Networks](/vendors/cambium-networks.md)              |
+| `Niche Player` | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
+| `Niche Player` | [Allied Telesis](/vendors/allied-telesis.md)                  |
+| `Niche Player` | [TP-Link](/vendors/tp-link.md)                                |

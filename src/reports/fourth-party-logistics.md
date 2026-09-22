@@ -21,22 +21,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/fourth-party-logistics.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                                |
-| --------------- | ---------------------------------------------------------------------------- |
-| `Leader`        | [Kuehne + Nagel](/vendors/kuehne-+-nagel.md)                                 |
-| `Leader`        | [4flow](/vendors/4flow.md)                                                   |
-| `Leader`        | [GEODIS](/vendors/geodis.md)                                                 |
-| `Leader`        | [DHL Supply Chain](/vendors/dhl-supply-chain.md)                             |
-| `Leader`        | [C.H. Robinson](/vendors/ch-robinson.md)                                     |
-| `Leader`        | [RXO](/vendors/rxo.md)                                                       |
-| `Leader`        | [Arvato](/vendors/arvato.md)                                                 |
-| `Visionary`     | [Uber Freight](/vendors/uber.md)                                             |
-| `Visionary`     | [Redwood Logistics](/vendors/redwood-logistics.md)                           |
-| `Niche Player`  | [Odyssey Logistics & Technology](/vendors/odyssey-logistics-&-technology.md) |
-| `Niche Player`  | [DSV](/vendors/dsv.md)                                                       |
-| `Niche Player`  | [Argus Logistics](/vendors/argus-logistics.md)                               |
-| `Challenger`    | [Martin-Brower](/vendors/martin-brower.md)                                   |
-| `Challenger`    | [A.P. Moller-Maersk](/vendors/maersk.md)                                     |
-| `Challenger`    | [Unilog](/vendors/unilog.md)                                                 |
-| `Challenger`    | [UPS Supply Chain Solutions](/vendors/ups.md)                                |
-| `Challenger`    | [HAVI](/vendors/havi.md)                                                     |
+| MQ Position    | MQ Vendor                                                                    |
+| -------------- | ---------------------------------------------------------------------------- |
+| `Leader`       | [Kuehne + Nagel](/vendors/kuehne-+-nagel.md)                                 |
+| `Leader`       | [4flow](/vendors/4flow.md)                                                   |
+| `Leader`       | [GEODIS](/vendors/geodis.md)                                                 |
+| `Leader`       | [DHL Supply Chain](/vendors/dhl-supply-chain.md)                             |
+| `Leader`       | [C.H. Robinson](/vendors/ch-robinson.md)                                     |
+| `Leader`       | [RXO](/vendors/rxo.md)                                                       |
+| `Leader`       | [Arvato](/vendors/arvato.md)                                                 |
+| `Visionary`    | [Uber Freight](/vendors/uber.md)                                             |
+| `Visionary`    | [Redwood Logistics](/vendors/redwood-logistics.md)                           |
+| `Niche Player` | [Odyssey Logistics & Technology](/vendors/odyssey-logistics-&-technology.md) |
+| `Niche Player` | [DSV](/vendors/dsv.md)                                                       |
+| `Niche Player` | [Argus Logistics](/vendors/argus-logistics.md)                               |
+| `Challenger`   | [Martin-Brower](/vendors/martin-brower.md)                                   |
+| `Challenger`   | [A.P. Moller-Maersk](/vendors/maersk.md)                                     |
+| `Challenger`   | [Unilog](/vendors/unilog.md)                                                 |
+| `Challenger`   | [UPS Supply Chain Solutions](/vendors/ups.md)                                |
+| `Challenger`   | [HAVI](/vendors/havi.md)                                                     |

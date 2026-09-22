@@ -47,22 +47,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-experience-monitoring.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Datadog](/vendors/datadog.md)             |
-| `Leader`        | [Dynatrace](/vendors/dynatrace.md)         |
-| `Leader`        | [New Relic](/vendors/new-relic.md)         |
-| `Leader`        | [Catchpoint](/vendors/catchpoint.md)       |
-| `Visionary`     | [Splunk](/vendors/splunk.md)               |
-| `Visionary`     | [Riverbed](/vendors/riverbed.md)           |
-| `Visionary`     | [ITRS Group](/vendors/itrs-group.md)       |
-| `Visionary`     | [IBM](/vendors/ibm.md)                     |
-| `Visionary`     | [Conviva](/vendors/conviva.md)             |
-| `Niche Player`  | [Checkly](/vendors/checkly.md)             |
-| `Niche Player`  | [ManageEngine](/vendors/manageengine.md)   |
-| `Niche Player`  | [Solarwinds](/vendors/solarwinds.md)       |
-| `Niche Player`  | [ip-label](/vendors/ip-label.md)           |
-| `Niche Player`  | [Blue Triangle](/vendors/blue-triangle.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Datadog](/vendors/datadog.md)             |
+| `Leader`       | [Dynatrace](/vendors/dynatrace.md)         |
+| `Leader`       | [New Relic](/vendors/new-relic.md)         |
+| `Leader`       | [Catchpoint](/vendors/catchpoint.md)       |
+| `Visionary`    | [Splunk](/vendors/splunk.md)               |
+| `Visionary`    | [Riverbed](/vendors/riverbed.md)           |
+| `Visionary`    | [ITRS Group](/vendors/itrs-group.md)       |
+| `Visionary`    | [IBM](/vendors/ibm.md)                     |
+| `Visionary`    | [Conviva](/vendors/conviva.md)             |
+| `Niche Player` | [Checkly](/vendors/checkly.md)             |
+| `Niche Player` | [ManageEngine](/vendors/manageengine.md)   |
+| `Niche Player` | [Solarwinds](/vendors/solarwinds.md)       |
+| `Niche Player` | [ip-label](/vendors/ip-label.md)           |
+| `Niche Player` | [Blue Triangle](/vendors/blue-triangle.md) |
 
 ## Report 2024
 
@@ -71,17 +71,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/digital-experience-monitoring.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Datadog](/vendors/datadog.md)             |
-| `Leader`        | [Dynatrace](/vendors/dynatrace.md)         |
-| `Leader`        | [New Relic](/vendors/new-relic.md)         |
-| `Leader`        | [Catchpoint](/vendors/catchpoint.md)       |
-| `Visionary`     | [Riverbed](/vendors/riverbed.md)           |
-| `Visionary`     | [IBM](/vendors/ibm.md)                     |
-| `Visionary`     | [ITRS](/vendors/itrs.md)                   |
-| `Niche Player`  | [Blue Triangle](/vendors/blue-triangle.md) |
-| `Niche Player`  | [Solarwinds](/vendors/solarwinds.md)       |
-| `Niche Player`  | [ManageEngine](/vendors/manageengine.md)   |
-| `Niche Player`  | [ip-label](/vendors/ip-label.md)           |
-| `Challenger`    | [Cisco](/vendors/cisco.md)                 |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Datadog](/vendors/datadog.md)             |
+| `Leader`       | [Dynatrace](/vendors/dynatrace.md)         |
+| `Leader`       | [New Relic](/vendors/new-relic.md)         |
+| `Leader`       | [Catchpoint](/vendors/catchpoint.md)       |
+| `Visionary`    | [Riverbed](/vendors/riverbed.md)           |
+| `Visionary`    | [IBM](/vendors/ibm.md)                     |
+| `Visionary`    | [ITRS](/vendors/itrs.md)                   |
+| `Niche Player` | [Blue Triangle](/vendors/blue-triangle.md) |
+| `Niche Player` | [Solarwinds](/vendors/solarwinds.md)       |
+| `Niche Player` | [ManageEngine](/vendors/manageengine.md)   |
+| `Niche Player` | [ip-label](/vendors/ip-label.md)           |
+| `Challenger`   | [Cisco](/vendors/cisco.md)                 |

@@ -35,21 +35,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/service-integration-and-management-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [HCLTech](/vendors/hcl.md)                   |
-| `Leader`        | [Capgemini](/vendors/capgemini.md)           |
-| `Leader`        | [Wipro](/vendors/wipro.md)                   |
-| `Leader`        | [Tata Consultancy Services](/vendors/tcs.md) |
-| `Leader`        | [Accenture](/vendors/accenture.md)           |
-| `Visionary`     | [Cognizant](/vendors/cognizant.md)           |
-| `Visionary`     | [LTIMindtree](/vendors/ltimindtree.md)       |
-| `Visionary`     | [Kyndryl](/vendors/kyndryl.md)               |
-| `Niche Player`  | [CGI](/vendors/cgi.md)                       |
-| `Niche Player`  | [Microland](/vendors/microland.md)           |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md)   |
-| `Challenger`    | [Infosys](/vendors/infosys.md)               |
-| `Challenger`    | [DXC Technology](/vendors/dxc.md)            |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [HCLTech](/vendors/hcl.md)                   |
+| `Leader`       | [Capgemini](/vendors/capgemini.md)           |
+| `Leader`       | [Wipro](/vendors/wipro.md)                   |
+| `Leader`       | [Tata Consultancy Services](/vendors/tcs.md) |
+| `Leader`       | [Accenture](/vendors/accenture.md)           |
+| `Visionary`    | [Cognizant](/vendors/cognizant.md)           |
+| `Visionary`    | [LTIMindtree](/vendors/ltimindtree.md)       |
+| `Visionary`    | [Kyndryl](/vendors/kyndryl.md)               |
+| `Niche Player` | [CGI](/vendors/cgi.md)                       |
+| `Niche Player` | [Microland](/vendors/microland.md)           |
+| `Niche Player` | [Tech Mahindra](/vendors/tech-mahindra.md)   |
+| `Challenger`   | [Infosys](/vendors/infosys.md)               |
+| `Challenger`   | [DXC Technology](/vendors/dxc.md)            |
 
 ## Report 2024
 
@@ -58,17 +58,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/service-integration-and-management-services.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Wipro](/vendors/wipro.md)                 |
-| `Leader`        | [HCLTech](/vendors/hcl.md)                 |
-| `Leader`        | [Capgemini](/vendors/capgemini.md)         |
-| `Leader`        | [TCS](/vendors/tcs.md)                     |
-| `Leader`        | [Accenture](/vendors/accenture.md)         |
-| `Visionary`     | [Cognizant](/vendors/cognizant.md)         |
-| `Visionary`     | [LTIMindtree](/vendors/ltimindtree.md)     |
-| `Niche Player`  | [Tech Mahindra](/vendors/tech-mahindra.md) |
-| `Niche Player`  | [Unisys](/vendors/unisys.md)               |
-| `Niche Player`  | [Kyndryl](/vendors/kyndryl.md)             |
-| `Niche Player`  | [Stefanini](/vendors/stefanini.md)         |
-| `Challenger`    | [Infosys](/vendors/infosys.md)             |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Wipro](/vendors/wipro.md)                 |
+| `Leader`       | [HCLTech](/vendors/hcl.md)                 |
+| `Leader`       | [Capgemini](/vendors/capgemini.md)         |
+| `Leader`       | [TCS](/vendors/tcs.md)                     |
+| `Leader`       | [Accenture](/vendors/accenture.md)         |
+| `Visionary`    | [Cognizant](/vendors/cognizant.md)         |
+| `Visionary`    | [LTIMindtree](/vendors/ltimindtree.md)     |
+| `Niche Player` | [Tech Mahindra](/vendors/tech-mahindra.md) |
+| `Niche Player` | [Unisys](/vendors/unisys.md)               |
+| `Niche Player` | [Kyndryl](/vendors/kyndryl.md)             |
+| `Niche Player` | [Stefanini](/vendors/stefanini.md)         |
+| `Challenger`   | [Infosys](/vendors/infosys.md)             |

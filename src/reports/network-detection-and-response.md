@@ -23,20 +23,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/network-detection-and-response.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Vectra AI](/vendors/vectra-ai.md)             |
-| `Leader`        | [Darktrace](/vendors/darktrace.md)             |
-| `Leader`        | [ExtraHop](/vendors/extrahop.md)               |
-| `Visionary`     | [LinkShadow](/vendors/linkshadow.md)           |
-| `Visionary`     | [NetWitness](/vendors/netwitness.md)           |
-| `Visionary`     | [Corelight](/vendors/corelight.md)             |
-| `Visionary`     | [Trellix](/vendors/trellix.md)                 |
-| `Niche Player`  | [Stellar Cyber](/vendors/stellar-cyber.md)     |
-| `Niche Player`  | [Gatewatcher](/vendors/gatewatcher.md)         |
-| `Niche Player`  | [Jizō AI](/vendors/jizo-ai.md)                 |
-| `Niche Player`  | [Arista Networks](/vendors/arista-networks.md) |
-| `Niche Player`  | [Fortinet](/vendors/fortinet.md)               |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Vectra AI](/vendors/vectra-ai.md)             |
+| `Leader`       | [Darktrace](/vendors/darktrace.md)             |
+| `Leader`       | [ExtraHop](/vendors/extrahop.md)               |
+| `Visionary`    | [LinkShadow](/vendors/linkshadow.md)           |
+| `Visionary`    | [NetWitness](/vendors/netwitness.md)           |
+| `Visionary`    | [Corelight](/vendors/corelight.md)             |
+| `Visionary`    | [Trellix](/vendors/trellix.md)                 |
+| `Niche Player` | [Stellar Cyber](/vendors/stellar-cyber.md)     |
+| `Niche Player` | [Gatewatcher](/vendors/gatewatcher.md)         |
+| `Niche Player` | [Jizō AI](/vendors/jizo-ai.md)                 |
+| `Niche Player` | [Arista Networks](/vendors/arista-networks.md) |
+| `Niche Player` | [Fortinet](/vendors/fortinet.md)               |
 
 ## Report 2025
 
@@ -45,16 +45,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/network-detection-and-response.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Vectra AI](/vendors/vectra-ai.md)             |
-| `Leader`        | [Darktrace](/vendors/darktrace.md)             |
-| `Leader`        | [ExtraHop](/vendors/extrahop.md)               |
-| `Leader`        | [Corelight](/vendors/corelight.md)             |
-| `Visionary`     | [Gatewatcher](/vendors/gatewatcher.md)         |
-| `Niche Player`  | [NetWitness](/vendors/netwitness.md)           |
-| `Niche Player`  | [Trend Micro](/vendors/trend-micro.md)         |
-| `Niche Player`  | [ThreatBook](/vendors/threatbook.md)           |
-| `Niche Player`  | [Arista Networks](/vendors/arista-networks.md) |
-| `Niche Player`  | [Trellix](/vendors/trellix.md)                 |
-| `Challenger`    | [Stellar Cyber](/vendors/stellar-cyber.md)     |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Vectra AI](/vendors/vectra-ai.md)             |
+| `Leader`       | [Darktrace](/vendors/darktrace.md)             |
+| `Leader`       | [ExtraHop](/vendors/extrahop.md)               |
+| `Leader`       | [Corelight](/vendors/corelight.md)             |
+| `Visionary`    | [Gatewatcher](/vendors/gatewatcher.md)         |
+| `Niche Player` | [NetWitness](/vendors/netwitness.md)           |
+| `Niche Player` | [Trend Micro](/vendors/trend-micro.md)         |
+| `Niche Player` | [ThreatBook](/vendors/threatbook.md)           |
+| `Niche Player` | [Arista Networks](/vendors/arista-networks.md) |
+| `Niche Player` | [Trellix](/vendors/trellix.md)                 |
+| `Challenger`   | [Stellar Cyber](/vendors/stellar-cyber.md)     |

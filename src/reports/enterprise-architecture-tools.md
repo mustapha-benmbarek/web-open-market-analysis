@@ -27,22 +27,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/enterprise-architecture-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [SAP LeanIX](/vendors/sap-leanix.md)         |
-| `Leader`        | [Orbus Software](/vendors/orbus-software.md) |
-| `Leader`        | [Ardoq](/vendors/ardoq.md)                   |
-| `Leader`        | [Bizzdesign](/vendors/bizzdesign.md)         |
-| `Leader`        | [BOC Group](/vendors/boc-group.md)           |
-| `Leader`        | [Avolution](/vendors/avolution.md)           |
-| `Visionary`     | [ValueBlue](/vendors/valueblue.md)           |
-| `Visionary`     | [QualiWare](/vendors/qualiware.md)           |
-| `Visionary`     | [ins-pi](/vendors/ins-pi.md)                 |
-| `Niche Player`  | [Bee360](/vendors/bee360.md)                 |
-| `Niche Player`  | [UNICOM Systems](/vendors/unicom-systems.md) |
-| `Niche Player`  | [Sparx Systems](/vendors/sparx-systems.md)   |
-| `Challenger`    | [ServiceNow](/vendors/servicenow.md)         |
-| `Challenger`    | [GBTEC](/vendors/gbtec.md)                   |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [SAP LeanIX](/vendors/sap-leanix.md)         |
+| `Leader`       | [Orbus Software](/vendors/orbus-software.md) |
+| `Leader`       | [Ardoq](/vendors/ardoq.md)                   |
+| `Leader`       | [Bizzdesign](/vendors/bizzdesign.md)         |
+| `Leader`       | [BOC Group](/vendors/boc-group.md)           |
+| `Leader`       | [Avolution](/vendors/avolution.md)           |
+| `Visionary`    | [ValueBlue](/vendors/valueblue.md)           |
+| `Visionary`    | [QualiWare](/vendors/qualiware.md)           |
+| `Visionary`    | [ins-pi](/vendors/ins-pi.md)                 |
+| `Niche Player` | [Bee360](/vendors/bee360.md)                 |
+| `Niche Player` | [UNICOM Systems](/vendors/unicom-systems.md) |
+| `Niche Player` | [Sparx Systems](/vendors/sparx-systems.md)   |
+| `Challenger`   | [ServiceNow](/vendors/servicenow.md)         |
+| `Challenger`   | [GBTEC](/vendors/gbtec.md)                   |
 
 ## Report 2024
 
@@ -51,21 +51,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/enterprise-architecture-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                |
-| --------------- | -------------------------------------------- |
-| `Leader`        | [Orbus Software](/vendors/orbus-software.md) |
-| `Leader`        | [SAP LeanIX](/vendors/sap-leanix.md)         |
-| `Leader`        | [Ardoq](/vendors/ardoq.md)                   |
-| `Leader`        | [MEGA](/vendors/mega.md)                     |
-| `Leader`        | [Bizzdesign](/vendors/bizzdesign.md)         |
-| `Leader`        | [Capsifi](/vendors/capsifi.md)               |
-| `Leader`        | [BOC Group](/vendors/boc-group.md)           |
-| `Leader`        | [Software AG](/vendors/software-ag.md)       |
-| `Leader`        | [QualiWare](/vendors/qualiware.md)           |
-| `Leader`        | [Avolution](/vendors/avolution.md)           |
-| `Visionary`     | [ins-pi](/vendors/ins-pi.md)                 |
-| `Visionary`     | [EAS](/vendors/eas.md)                       |
-| `Niche Player`  | [Bee360](/vendors/bee360.md)                 |
-| `Niche Player`  | [North Highland](/vendors/north-highland.md) |
-| `Niche Player`  | [UNICOM Systems](/vendors/unicom-systems.md) |
-| `Challenger`    | [ValueBlue](/vendors/valueblue.md)           |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [Orbus Software](/vendors/orbus-software.md) |
+| `Leader`       | [SAP LeanIX](/vendors/sap-leanix.md)         |
+| `Leader`       | [Ardoq](/vendors/ardoq.md)                   |
+| `Leader`       | [MEGA](/vendors/mega.md)                     |
+| `Leader`       | [Bizzdesign](/vendors/bizzdesign.md)         |
+| `Leader`       | [Capsifi](/vendors/capsifi.md)               |
+| `Leader`       | [BOC Group](/vendors/boc-group.md)           |
+| `Leader`       | [Software AG](/vendors/software-ag.md)       |
+| `Leader`       | [QualiWare](/vendors/qualiware.md)           |
+| `Leader`       | [Avolution](/vendors/avolution.md)           |
+| `Visionary`    | [ins-pi](/vendors/ins-pi.md)                 |
+| `Visionary`    | [EAS](/vendors/eas.md)                       |
+| `Niche Player` | [Bee360](/vendors/bee360.md)                 |
+| `Niche Player` | [North Highland](/vendors/north-highland.md) |
+| `Niche Player` | [UNICOM Systems](/vendors/unicom-systems.md) |
+| `Challenger`   | [ValueBlue](/vendors/valueblue.md)           |

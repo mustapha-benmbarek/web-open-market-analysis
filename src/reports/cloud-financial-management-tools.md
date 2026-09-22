@@ -21,21 +21,21 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-financial-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                        |
-| --------------- | ---------------------------------------------------- |
-| `Leader`        | [IBM](/vendors/ibm.md)                               |
-| `Leader`        | [Flexera](/vendors/flexera.md)                       |
-| `Leader`        | [Broadcom (CloudHealth)](/vendors/broadcom.md)       |
-| `Visionary`     | [DoiT International](/vendors/doit-international.md) |
-| `Visionary`     | [Anodot (Umbrella)](/vendors/anodot.md)              |
-| `Visionary`     | [CloudZero](/vendors/cloudzero.md)                   |
-| `Visionary`     | [CloudBolt](/vendors/cloudbolt.md)                   |
-| `Niche Player`  | [ServiceNow](/vendors/servicenow.md)                 |
-| `Niche Player`  | [CoreStack](/vendors/corestack.md)                   |
-| `Niche Player`  | [Finout](/vendors/finout.md)                         |
-| `Niche Player`  | [Zesty](/vendors/zesty.md)                           |
-| `Challenger`    | [Datadog](/vendors/datadog.md)                       |
-| `Challenger`    | [Harness](/vendors/harness.md)                       |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [IBM](/vendors/ibm.md)                               |
+| `Leader`       | [Flexera](/vendors/flexera.md)                       |
+| `Leader`       | [Broadcom (CloudHealth)](/vendors/broadcom.md)       |
+| `Visionary`    | [DoiT International](/vendors/doit-international.md) |
+| `Visionary`    | [Anodot (Umbrella)](/vendors/anodot.md)              |
+| `Visionary`    | [CloudZero](/vendors/cloudzero.md)                   |
+| `Visionary`    | [CloudBolt](/vendors/cloudbolt.md)                   |
+| `Niche Player` | [ServiceNow](/vendors/servicenow.md)                 |
+| `Niche Player` | [CoreStack](/vendors/corestack.md)                   |
+| `Niche Player` | [Finout](/vendors/finout.md)                         |
+| `Niche Player` | [Zesty](/vendors/zesty.md)                           |
+| `Challenger`   | [Datadog](/vendors/datadog.md)                       |
+| `Challenger`   | [Harness](/vendors/harness.md)                       |
 
 ## Report 2024
 
@@ -44,16 +44,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/cloud-financial-management-tools.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                             |
-| --------------- | ----------------------------------------- |
-| `Leader`        | [IBM](/vendors/ibm.md)                    |
-| `Leader`        | [Flexera](/vendors/flexera.md)            |
-| `Leader`        | [Broadcom (VMWare)](/vendors/broadcom.md) |
-| `Visionary`     | [Anodot](/vendors/anodot.md)              |
-| `Visionary`     | [CloudZero](/vendors/cloudzero.md)        |
-| `Visionary`     | [CloudBolt](/vendors/cloudbolt.md)        |
-| `Niche Player`  | [ServiceNow](/vendors/servicenow.md)      |
-| `Niche Player`  | [Harness](/vendors/harness.md)            |
-| `Niche Player`  | [NetApp](/vendors/netapp.md)              |
-| `Niche Player`  | [CoreStack](/vendors/corestack.md)        |
-| `Challenger`    | [Datadog](/vendors/datadog.md)            |
+| MQ Position    | MQ Vendor                                 |
+| -------------- | ----------------------------------------- |
+| `Leader`       | [IBM](/vendors/ibm.md)                    |
+| `Leader`       | [Flexera](/vendors/flexera.md)            |
+| `Leader`       | [Broadcom (VMWare)](/vendors/broadcom.md) |
+| `Visionary`    | [Anodot](/vendors/anodot.md)              |
+| `Visionary`    | [CloudZero](/vendors/cloudzero.md)        |
+| `Visionary`    | [CloudBolt](/vendors/cloudbolt.md)        |
+| `Niche Player` | [ServiceNow](/vendors/servicenow.md)      |
+| `Niche Player` | [Harness](/vendors/harness.md)            |
+| `Niche Player` | [NetApp](/vendors/netapp.md)              |
+| `Niche Player` | [CoreStack](/vendors/corestack.md)        |
+| `Challenger`   | [Datadog](/vendors/datadog.md)            |

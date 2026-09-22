@@ -27,17 +27,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/ai-applications-in-it-service-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                          |
-| --------------- | ------------------------------------------------------ |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)                   |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)                   |
-| `Visionary`     | [Atlassian](/vendors/atlassian.md)                     |
-| `Niche Player`  | [Rezolve.AI](/vendors/rezolve-ai.md)                   |
-| `Niche Player`  | [Automation Anywhere](/vendors/automation-anywhere.md) |
-| `Niche Player`  | [BigPanda](/vendors/bigpanda.md)                       |
-| `Niche Player`  | [Resolve](/vendors/resolve.md)                         |
-| `Niche Player`  | [BMC Helix](/vendors/bmc.md)                           |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)                   |
+| MQ Position    | MQ Vendor                                              |
+| -------------- | ------------------------------------------------------ |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)                   |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)                   |
+| `Visionary`    | [Atlassian](/vendors/atlassian.md)                     |
+| `Niche Player` | [Rezolve.AI](/vendors/rezolve-ai.md)                   |
+| `Niche Player` | [Automation Anywhere](/vendors/automation-anywhere.md) |
+| `Niche Player` | [BigPanda](/vendors/bigpanda.md)                       |
+| `Niche Player` | [Resolve](/vendors/resolve.md)                         |
+| `Niche Player` | [BMC Helix](/vendors/bmc.md)                           |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)                   |
 
 ## Report 2025
 
@@ -46,15 +46,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/ai-applications-in-it-service-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                                |
-| --------------- | ------------------------------------------------------------ |
-| `Leader`        | [Aisera](/vendors/aisera.md)                                 |
-| `Leader`        | [ServiceNow](/vendors/servicenow.md)                         |
-| `Niche Player`  | [Espressive](/vendors/espressive.md)                         |
-| `Niche Player`  | [Freshworks](/vendors/freshworks.md)                         |
-| `Niche Player`  | [BMC](/vendors/bmc.md)                                       |
-| `Niche Player`  | [OpenText](/vendors/opentext.md)                             |
-| `Niche Player`  | [SymphonyAI](/vendors/symphonyai.md)                         |
-| `Niche Player`  | [Halo Service Solutions](/vendors/halo-service-solutions.md) |
-| `Niche Player`  | [Serviceaide](/vendors/serviceaide.md)                       |
-| `Challenger`    | [Moveworks](/vendors/moveworks.md)                           |
+| MQ Position    | MQ Vendor                                                    |
+| -------------- | ------------------------------------------------------------ |
+| `Leader`       | [Aisera](/vendors/aisera.md)                                 |
+| `Leader`       | [ServiceNow](/vendors/servicenow.md)                         |
+| `Niche Player` | [Espressive](/vendors/espressive.md)                         |
+| `Niche Player` | [Freshworks](/vendors/freshworks.md)                         |
+| `Niche Player` | [BMC](/vendors/bmc.md)                                       |
+| `Niche Player` | [OpenText](/vendors/opentext.md)                             |
+| `Niche Player` | [SymphonyAI](/vendors/symphonyai.md)                         |
+| `Niche Player` | [Halo Service Solutions](/vendors/halo-service-solutions.md) |
+| `Niche Player` | [Serviceaide](/vendors/serviceaide.md)                       |
+| `Challenger`   | [Moveworks](/vendors/moveworks.md)                           |

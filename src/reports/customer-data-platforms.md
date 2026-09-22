@@ -27,18 +27,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/customer-data-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)       |
-| `Leader`        | [Uniphore](/vendors/uniphore.md)           |
-| `Leader`        | [Oracle](/vendors/oracle.md)               |
-| `Leader`        | [Hightouch](/vendors/hightouch.md)         |
-| `Visionary`     | [Adobe](/vendors/adobe.md)                 |
-| `Niche Player`  | [Amperity](/vendors/amperity.md)           |
-| `Niche Player`  | [Twilio](/vendors/twilio.md)               |
-| `Niche Player`  | [BlueConic](/vendors/blueconic.md)         |
-| `Challenger`    | [Tealium](/vendors/tealium.md)             |
-| `Challenger`    | [Treasure Data](/vendors/treasure-data.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)       |
+| `Leader`       | [Uniphore](/vendors/uniphore.md)           |
+| `Leader`       | [Oracle](/vendors/oracle.md)               |
+| `Leader`       | [Hightouch](/vendors/hightouch.md)         |
+| `Visionary`    | [Adobe](/vendors/adobe.md)                 |
+| `Niche Player` | [Amperity](/vendors/amperity.md)           |
+| `Niche Player` | [Twilio](/vendors/twilio.md)               |
+| `Niche Player` | [BlueConic](/vendors/blueconic.md)         |
+| `Challenger`   | [Tealium](/vendors/tealium.md)             |
+| `Challenger`   | [Treasure Data](/vendors/treasure-data.md) |
 
 ## Report 2025
 
@@ -47,17 +47,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/customer-data-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                                  |
-| --------------- | ---------------------------------------------- |
-| `Leader`        | [Salesforce](/vendors/salesforce.md)           |
-| `Leader`        | [Tealium](/vendors/tealium.md)                 |
-| `Visionary`     | [Adobe](/vendors/adobe.md)                     |
-| `Niche Player`  | [ActionIQ](/vendors/actioniq.md)               |
-| `Niche Player`  | [Twilio](/vendors/twilio.md)                   |
-| `Niche Player`  | [Redpoint Global](/vendors/redpoint-global.md) |
-| `Niche Player`  | [BlueConic](/vendors/blueconic.md)             |
-| `Niche Player`  | [mParticle](/vendors/mparticle.md)             |
-| `Niche Player`  | [Amperity](/vendors/amperity.md)               |
-| `Niche Player`  | [Zeta Global](/vendors/zeta-global.md)         |
-| `Challenger`    | [Treasure Data](/vendors/treasure-data.md)     |
-| `Challenger`    | [Oracle](/vendors/oracle.md)                   |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)           |
+| `Leader`       | [Tealium](/vendors/tealium.md)                 |
+| `Visionary`    | [Adobe](/vendors/adobe.md)                     |
+| `Niche Player` | [ActionIQ](/vendors/actioniq.md)               |
+| `Niche Player` | [Twilio](/vendors/twilio.md)                   |
+| `Niche Player` | [Redpoint Global](/vendors/redpoint-global.md) |
+| `Niche Player` | [BlueConic](/vendors/blueconic.md)             |
+| `Niche Player` | [mParticle](/vendors/mparticle.md)             |
+| `Niche Player` | [Amperity](/vendors/amperity.md)               |
+| `Niche Player` | [Zeta Global](/vendors/zeta-global.md)         |
+| `Challenger`   | [Treasure Data](/vendors/treasure-data.md)     |
+| `Challenger`   | [Oracle](/vendors/oracle.md)                   |

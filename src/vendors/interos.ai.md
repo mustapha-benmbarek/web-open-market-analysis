@@ -8,6 +8,6 @@ hide_menu: true
 
 ## Market 2026
 
-| Market Status   | Market Vendor                                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------------ |
-| `Challenger`    | [Supplier Risk Management Solutions](/reports/supplier-risk-management-solutions.md#report-2026) |
+| MQ Position  | MQ Vendor                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| `Challenger` | [Supplier Risk Management Solutions](/reports/supplier-risk-management-solutions.md#report-2026) |

@@ -25,20 +25,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/digital-asset-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                            |
-| --------------- | ---------------------------------------- |
-| `Leader`        | [Aprimo](/vendors/aprimo.md)             |
-| `Leader`        | [Bynder](/vendors/bynder.md)             |
-| `Leader`        | [Storyteq](/vendors/storyteq.md)         |
-| `Visionary`     | [OpenText](/vendors/opentext.md)         |
-| `Visionary`     | [Sitecore](/vendors/sitecore.md)         |
-| `Visionary`     | [Cloudinary](/vendors/cloudinary.md)     |
-| `Niche Player`  | [CELUM](/vendors/celum.md)               |
-| `Niche Player`  | [Fotoware](/vendors/fotoware.md)         |
-| `Niche Player`  | [MediaValet](/vendors/mediavalet.md)     |
-| `Niche Player`  | [Canto](/vendors/canto.md)               |
-| `Challenger`    | [Orange Logic](/vendors/orange-logic.md) |
-| `Challenger`    | [Smartsheet](/vendors/smartsheet.md)     |
-| `Challenger`    | [Hyland](/vendors/hyland.md)             |
-| `Challenger`    | [Acquia](/vendors/acquia.md)             |
-| `Challenger`    | [Adobe](/vendors/adobe.md)               |
+| MQ Position    | MQ Vendor                                |
+| -------------- | ---------------------------------------- |
+| `Leader`       | [Aprimo](/vendors/aprimo.md)             |
+| `Leader`       | [Bynder](/vendors/bynder.md)             |
+| `Leader`       | [Storyteq](/vendors/storyteq.md)         |
+| `Visionary`    | [OpenText](/vendors/opentext.md)         |
+| `Visionary`    | [Sitecore](/vendors/sitecore.md)         |
+| `Visionary`    | [Cloudinary](/vendors/cloudinary.md)     |
+| `Niche Player` | [CELUM](/vendors/celum.md)               |
+| `Niche Player` | [Fotoware](/vendors/fotoware.md)         |
+| `Niche Player` | [MediaValet](/vendors/mediavalet.md)     |
+| `Niche Player` | [Canto](/vendors/canto.md)               |
+| `Challenger`   | [Orange Logic](/vendors/orange-logic.md) |
+| `Challenger`   | [Smartsheet](/vendors/smartsheet.md)     |
+| `Challenger`   | [Hyland](/vendors/hyland.md)             |
+| `Challenger`   | [Acquia](/vendors/acquia.md)             |
+| `Challenger`   | [Adobe](/vendors/adobe.md)               |

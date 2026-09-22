@@ -21,24 +21,24 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2026**
 and view the magic quadrant graphic
 <a href="/docs/2026/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Red Hat](/vendors/redhat.md)              |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Leader`        | [SUSE](/vendors/suse.md)                   |
-| `Leader`        | [Huawei](/vendors/huawei.md)               |
-| `Niche Player`  | [Kubermatic](/vendors/kubermatic.md)       |
-| `Niche Player`  | [Portainer](/vendors/portainer.md)         |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
-| `Challenger`    | [Nutanix](/vendors/nutanix.md)             |
-| `Challenger`    | [Mirantis](/vendors/mirantis.md)           |
-| `Challenger`    | [Broadcom (VMware)](/vendors/broadcom.md)  |
-| `Challenger`    | [Spectro Cloud](/vendors/spectro-cloud.md) |
-| `Challenger`    | [Oracle](/vendors/oracle.md)               |
-| `Challenger`    | [Canonical](/vendors/canonical.md)         |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Red Hat](/vendors/redhat.md)              |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`       | [SUSE](/vendors/suse.md)                   |
+| `Leader`       | [Huawei](/vendors/huawei.md)               |
+| `Niche Player` | [Kubermatic](/vendors/kubermatic.md)       |
+| `Niche Player` | [Portainer](/vendors/portainer.md)         |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)       |
+| `Challenger`   | [Nutanix](/vendors/nutanix.md)             |
+| `Challenger`   | [Mirantis](/vendors/mirantis.md)           |
+| `Challenger`   | [Broadcom (VMware)](/vendors/broadcom.md)  |
+| `Challenger`   | [Spectro Cloud](/vendors/spectro-cloud.md) |
+| `Challenger`   | [Oracle](/vendors/oracle.md)               |
+| `Challenger`   | [Canonical](/vendors/canonical.md)         |
 
 ## Report 2025
 
@@ -47,23 +47,23 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Red Hat](/vendors/redhat.md)              |
-| `Leader`        | [SUSE](/vendors/suse.md)                   |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Leader`        | [Huawei](/vendors/huawei.md)               |
-| `Niche Player`  | [Kubermatic](/vendors/kubermatic.md)       |
-| `Challenger`    | [Mirantis](/vendors/mirantis.md)           |
-| `Challenger`    | [Nutanix](/vendors/nutanix.md)             |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
-| `Challenger`    | [Oracle](/vendors/oracle.md)               |
-| `Challenger`    | [Broadcom (VMWare)](/vendors/broadcom.md)  |
-| `Challenger`    | [Canonical](/vendors/canonical.md)         |
-| `Challenger`    | [Spectro Cloud](/vendors/spectro-cloud.md) |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Red Hat](/vendors/redhat.md)              |
+| `Leader`       | [SUSE](/vendors/suse.md)                   |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`       | [Huawei](/vendors/huawei.md)               |
+| `Niche Player` | [Kubermatic](/vendors/kubermatic.md)       |
+| `Challenger`   | [Mirantis](/vendors/mirantis.md)           |
+| `Challenger`   | [Nutanix](/vendors/nutanix.md)             |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)       |
+| `Challenger`   | [Oracle](/vendors/oracle.md)               |
+| `Challenger`   | [Broadcom (VMWare)](/vendors/broadcom.md)  |
+| `Challenger`   | [Canonical](/vendors/canonical.md)         |
+| `Challenger`   | [Spectro Cloud](/vendors/spectro-cloud.md) |
 
 ## Report 2024
 
@@ -72,17 +72,17 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/container-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| Market Status   | Market Vendor                              |
-| --------------- | ------------------------------------------ |
-| `Leader`        | [Google](/vendors/google.md)               |
-| `Leader`        | [Microsoft](/vendors/microsoft.md)         |
-| `Leader`        | [Amazon Web Services](/vendors/amazon.md)  |
-| `Leader`        | [Red Hat](/vendors/redhat.md)              |
-| `Leader`        | [SUSE](/vendors/suse.md)                   |
-| `Leader`        | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
-| `Leader`        | [Broadcom (VMWare)](/vendors/broadcom.md)  |
-| `Niche Player`  | [Canonical](/vendors/canonical.md)         |
-| `Challenger`    | [Huawei](/vendors/huawei.md)               |
-| `Challenger`    | [Tencent Cloud](/vendors/tencent.md)       |
-| `Challenger`    | [Oracle](/vendors/oracle.md)               |
-| `Challenger`    | [Mirantis](/vendors/mirantis.md)           |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Google](/vendors/google.md)               |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)         |
+| `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
+| `Leader`       | [Red Hat](/vendors/redhat.md)              |
+| `Leader`       | [SUSE](/vendors/suse.md)                   |
+| `Leader`       | [Alibaba Cloud](/vendors/alibaba-cloud.md) |
+| `Leader`       | [Broadcom (VMWare)](/vendors/broadcom.md)  |
+| `Niche Player` | [Canonical](/vendors/canonical.md)         |
+| `Challenger`   | [Huawei](/vendors/huawei.md)               |
+| `Challenger`   | [Tencent Cloud](/vendors/tencent.md)       |
+| `Challenger`   | [Oracle](/vendors/oracle.md)               |
+| `Challenger`   | [Mirantis](/vendors/mirantis.md)           |
