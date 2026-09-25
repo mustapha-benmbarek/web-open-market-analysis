@@ -6,21 +6,37 @@ hide_menu: true
 
 # Multichannel Marketing Hubs
 
-In 2025, AI and unified data are fuelling significant change in multichannel marketing hubs. CMOs must weigh new opportunities for impact against ongoing uncertainty and risks. Use this research to inform profitable, competitive strategies and guide martech investment decisions.
+AI assistants and agents are commonplace in multichannel marketing hubs in 2026. What separates platforms now is control: advanced decision-making algorithms that optimize journey, offer and consent state at the moment of action, governing what both humans and AI can do in service of engagement.
 
 ## Market Definition
 
-Gartner defines multichannel marketing hubs (MMHs) as software applications, primarily delivered as SaaS, that orchestrate personalized campaigns and event-driven customer journeys across marketing channels. These applications leverage customer data, predictive models and real-time insights to optimize the timing, channel and content of interactions. MMHs apply advanced analytics, AI and prescriptive intelligence to help marketing and technical teams manage the end-to-end life cycle of customer journeys. Although MMHs overlap with customer data platforms (CDPs) and personalization engines, their primary focus is enabling marketing users to manage large-scale consumer interactions, particularly in owned media channels such as email and app push.
+Gartner defines multichannel marketing hubs (MMH) as platforms that enable marketing teams to design, orchestrate and optimize multistep customer journeys across multiple channels. This is done by unifying customer attributes, identity and interaction history, then applying decision logic and analytics in order to activate messaging through native execution or integrated channel services with governed measurement, consent and operational controls.
 
-Multichannel marketing hubs empower marketers to deliver personalized media and orchestrate customer journeys, thus driving revenue, engagement and loyalty. These SaaS applications unify customer data, predictive insights and real-time decision making to optimize interactions across digital channels. MMHs enable multidisciplinary teams to manage campaigns and event-driven journeys via advanced analytics, artificial intelligence/machine learning (AI/ML) and prescriptive intelligence.
+MMHs help marketing and marketing operations teams plan, build, launch and improve multichannel campaigns and event-driven journeys at scale. They solve the need to coordinate sequences of customer interactions that span channels, time and contexts, while governing eligibility and incremental impact, enforcing consent and preference controls as well as consistently measuring outcomes across those channels.
 
-As AI and generative AI (GenAI) technologies evolve, MMHs are helping teams dramatically expand the number, variety and quality of customer journeys, enabling greater personalization at scale. Advanced capabilities, such as campaign ideation, allow marketers to collaborate with AI agents to quickly produce near-complete journeys, including: Campaign briefs, Audience segmentation, Multistep journey design, Media channels, Personalized content coded for individual channels
+MMHs typically integrate upstream data sources for profile and event context, and integrate downstream channel execution services when native execution is not available, but the MMH remains the control plane for journey state, sequencing and operational governance. MMHs are distinct from adjacent categories, such as customer data platforms (CDPs), email service providers and personalization engines. This is because the MMH serves as the system of record for multistep journey design, durable journey state, cross-channel activation, governance and journey-level measurement, while those adjacent systems primarily provide data and single-channel execution, or offer decision making.
 
-By automating these traditionally human-bound tasks and pairing them with prescriptive journey optimization, MMHs enable marketers to focus on strategy, creativity, efficient production, and innovative practices or experiences.
+## Report 2026
 
-Buyers value MMHs for their ability to orchestrate multichannel experiences and accelerate time to market. Organizations increasingly favor MMHs that: ease journey maintenance by optimizing underperforming journeys and speed journey development by identifying audience segments or designing and coding media.
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/multichannel-marketing-hubs.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/multichannel-marketing-hubs.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-These emerging capabilities enhance agility and performance, helping marketers stay competitive and increasing the tool’s value to the organization.
+| MQ Position    | MQ Vendor                              |
+| -------------- | -------------------------------------- |
+| `Leader`       | [Braze](/vendors/braze.md)             |
+| `Leader`       | [Salesforce](/vendors/salesforce.md)   |
+| `Leader`       | [Adobe](/vendors/adobe.md)             |
+| `Visionary`    | [Optimove](/vendors/optimove.md)       |
+| `Visionary`    | [Bloomreach](/vendors/bloomreach.md)   |
+| `Niche Player` | [MoEngage](/vendors/moengage.md)       |
+| `Niche Player` | [Airship](/vendors/airship.md)         |
+| `Niche Player` | [Iterable](/vendors/iterable.md)       |
+| `Niche Player` | [CleverTap](/vendors/clevertap.md)     |
+| `Challenger`   | [SAP](/vendors/sap.md)                 |
+| `Challenger`   | [Klaviyo](/vendors/klaviyo.md)         |
+| `Challenger`   | [Insider One](/vendors/insider-one.md) |
 
 ## Report 2025
 

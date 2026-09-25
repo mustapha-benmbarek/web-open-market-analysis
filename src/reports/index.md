@@ -143,6 +143,7 @@ The reports are organized alphabetically, and you can also use the search bar to
 
 - [Identity Verification](identity-verification.md)
 - [Indoor Location Services](indoor-location-services.md)
+- [Infrastructure Platform Consumption Services](infrastructure-platform-consumption-services.md)
 - [Integration Platform as a Service](integration-platform-as-a-service.md)
 - [Intelligent Document Processing](intelligent-document-processing.md)
 - [Intranet Packaged Solutions](intranet-packaged-solutions.md)

@@ -31,7 +31,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Tata Communications](/vendors/tata-communications.md) |
 | `Leader`       | [Verizon](/vendors/verizon.md)                         |
 | `Leader`       | [Orange Business](/vendors/orange-business.md)         |
-| `Leader`       | [BT ](/vendors/bt.md)                                  |
+| `Leader`       | [BT](/vendors/bt.md)                                   |
 | `Leader`       | [Vodafone](/vendors/vodafone.md)                       |
 | `Visionary`    | [Colt](/vendors/colt.md)                               |
 | `Niche Player` | [GTT Communications](/vendors/gtt-communications.md)   |
