@@ -15,6 +15,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2026)                     |
 | `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)           |
 | `Leader`       | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2026)                                     |
+| `Leader`       | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2026)                                 |
 | `Visionary`    | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Leader`       | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2026)                        |
 | `Leader`       | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2026)                                               |
@@ -25,6 +26,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                   |
 | `Niche Player` | [IT Service Management Platforms](/reports/it-service-management-platforms.md#report-2026)                                       |
 | `Leader`       | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                     |
+| `Leader`       | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2026)                                               |
 | `Leader`       | [Personalization Engines](/reports/personalization-engines.md#report-2026)                                                       |
 | `Visionary`    | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |
 | `Niche Player` | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2026)                                         |

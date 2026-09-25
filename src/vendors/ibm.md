@@ -33,6 +33,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                                                   |
 | `Leader`       | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2026)     |
 | `Challenger`   | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2026)                     |
+| `Challenger`   | [Infrastructure Platform Consumption Services](/reports/infrastructure-platform-consumption-services.md#report-2026)                   |
 | `Challenger`   | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                         |
 | `Challenger`   | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                           |
 | `Leader`       | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                                             |

@@ -17,6 +17,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                                 |
 | `Leader`       | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026)        |
 | `Challenger`   | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2026)                                                 |
+| `Leader`       | [Infrastructure Platform Consumption Services](/reports/infrastructure-platform-consumption-services.md#report-2026) |
 | `Niche Player` | [Observability Platforms](/reports/observability-platforms.md#report-2026)                                           |
 | `Niche Player` | [SASE Platforms](/reports/sase-platforms.md#report-2026)                                                             |
 | `Challenger`   | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                           |

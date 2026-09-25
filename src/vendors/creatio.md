@@ -10,9 +10,10 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Report                                                          |
-| ------------ | ------------------------------------------------------------------ |
-| `Visionary`  | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026) |
+| MQ Position  | MQ Report                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| `Leader`     | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2026) |
+| `Visionary`  | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                               |
 
 ## Market 2025
 

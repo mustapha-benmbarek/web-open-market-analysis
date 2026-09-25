@@ -34,7 +34,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Adobe](/vendors/adobe.md)                     |
 | `Leader`       | [Oracle](/vendors/oracle.md)                   |
 | `Leader`       | [Creatio](/vendors/creatio.md)                 |
-| `Niche Player` | [HCLSoftware](/vendors/hclsoftware.md)         |
+| `Niche Player` | [HCLSoftware](/vendors/hcl.md)                 |
 | `Niche Player` | [Act-On Software](/vendors/act-on-software.md) |
 | `Niche Player` | [LeadSquared](/vendors/leadsquared.md)         |
 | `Challenger`   | [BUSINESSNEXT](/vendors/businessnext.md)       |

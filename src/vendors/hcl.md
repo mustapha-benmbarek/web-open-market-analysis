@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | MQ Position    | MQ Report                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2026)                                       |
 | `Challenger`   | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                                       |
 | `Visionary`    | [DevSecOps Platforms](/reports/devops-platforms.md#report-2026)                                                                        |
 | `Niche Player` | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2026)                   |

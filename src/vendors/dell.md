@@ -10,7 +10,8 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2026**.
 
-| MQ Position  | MQ Report                                                                                            |
-| ------------ | ---------------------------------------------------------------------------------------------------- |
-| `Leader`     | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026) |
-| `Leader`     | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                 |
+| MQ Position  | MQ Report                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2026)                 |
+| `Leader`     | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2026)                                 |
+| `Challenger` | [Infrastructure Platform Consumption Services](/reports/infrastructure-platform-consumption-services.md#report-2026) |

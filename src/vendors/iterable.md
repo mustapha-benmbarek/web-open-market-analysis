@@ -1,10 +1,10 @@
 ---
-title: MoEngage
-description: Market Vendor | MoEngage
+title: Iterable
+description: Market Vendor | Iterable
 hide_menu: true
 ---
 
-# MoEngage
+# Iterable
 
 ## Market 2026
 
@@ -13,4 +13,3 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | MQ Position    | MQ Report                                                                          |
 | -------------- | ---------------------------------------------------------------------------------- |
 | `Niche Player` | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2026) |
-| `Visionary`    | [Personalization Engines](/reports/personalization-engines.md#report-2026)         |

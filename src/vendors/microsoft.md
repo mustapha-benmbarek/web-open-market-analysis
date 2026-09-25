@@ -15,6 +15,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026)           |
 | `Leader`       | [AI-Augmented Code Modernization Tools](/reports/ai-augmented-code-modernization-tools.md#report-2026)                           |
 | `Leader`       | [AI Platforms for Data Science and Machine Learning](/reports/data-science-and-machine-learning-platforms.md#report-2026)        |
+| `Challenger`   | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2026)                                 |
 | `Challenger`   | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2026) |
 | `Leader`       | [Cloud AI Infrastructure](/reports/cloud-ai-infrastructure.md#report-2026)                                                       |
 | `Leader`       | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2026)                                 |

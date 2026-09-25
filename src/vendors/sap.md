@@ -21,6 +21,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2026)                     |
 | `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2026)                                       |
 | `Challenger`   | [Master Data Management Solutions](/reports/master-data-management-solutions.md#report-2026)                                         |
+| `Challenger`   | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2026)                                                   |
 | `Leader`       | [Personalization Engines](/reports/personalization-engines.md#report-2026)                                                           |
 | `Leader`       | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                             |
 | `Challenger`   | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2026)                                             |

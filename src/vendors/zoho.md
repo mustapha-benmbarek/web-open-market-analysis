@@ -13,6 +13,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | MQ Position    | MQ Report                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2026) |
+| `Challenger`   | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2026)                       |
 | `Challenger`   | [CRM Sales Platforms](/reports/crm-sales-platforms.md#report-2026)                                                     |
 | `Niche Player` | [Document Management](/reports/document-management.md#report-2026)                                                     |
 
