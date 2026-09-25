@@ -225,6 +225,7 @@ This section provides an organized index of product or service based providers c
 
 ### C
 
+- [C5i](/vendors/c5i.md)
 - [C.H. Robinson](/vendors/ch-robinson.md)
 - [Calero](/vendors/calero.md)
 - [CallMiner](/vendors/callminer.md)
@@ -246,6 +247,7 @@ This section provides an organized index of product or service based providers c
 - [CEVA Logistics](/vendors/ceva.md)
 - [CGI](/vendors/cgi.md)
 - [Chainguard](/vendors/chainguard.md)
+- [Chargebee](/vendors/chargebee.md)
 - [Check Point Software Technologies](/vendors/check-point.md)
 - [Checkmarx](/vendors/checkmarx.md)
 - [Chronosphere](/vendors/chronosphere.md)

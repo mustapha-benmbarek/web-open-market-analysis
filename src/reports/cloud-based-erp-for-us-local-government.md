@@ -44,4 +44,4 @@ and view the magic quadrant graphic
 | `Niche Player` | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                               |
 | `Niche Player` | [Springbrook (Cirrus ERP)](</vendors/springbrook-(cirrus-erp).md>)                     |
 | `Niche Player` | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>) |
-| `Challenger`   | [CGI (Advantage)](</vendors/cgi-(advantage).md>)                                       |
+| `Challenger`   | [CGI (Advantage)](/vendors/cgi.md)                                                     |
