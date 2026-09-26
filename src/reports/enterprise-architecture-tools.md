@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 
 | MQ Position    | MQ Vendor                                    |
 | -------------- | -------------------------------------------- |
-| `Leader`       | [SAP LeanIX](/vendors/sap-leanix.md)         |
+| `Leader`       | [SAP LeanIX](/vendors/sap.md)                |
 | `Leader`       | [Orbus Software](/vendors/orbus-software.md) |
 | `Leader`       | [Ardoq](/vendors/ardoq.md)                   |
 | `Leader`       | [Bizzdesign](/vendors/bizzdesign.md)         |
@@ -54,7 +54,7 @@ and view the magic quadrant graphic
 | MQ Position    | MQ Vendor                                    |
 | -------------- | -------------------------------------------- |
 | `Leader`       | [Orbus Software](/vendors/orbus-software.md) |
-| `Leader`       | [SAP LeanIX](/vendors/sap-leanix.md)         |
+| `Leader`       | [SAP LeanIX](/vendors/sap.md)                |
 | `Leader`       | [Ardoq](/vendors/ardoq.md)                   |
 | `Leader`       | [MEGA](/vendors/mega.md)                     |
 | `Leader`       | [Bizzdesign](/vendors/bizzdesign.md)         |

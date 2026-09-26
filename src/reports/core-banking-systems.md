@@ -31,7 +31,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Finastra Essence](/vendors/finastra.md)                     |
 | `Leader`       | [Oracle FLEXCUBE](/vendors/oracle-flexcube.md)               |
 | `Visionary`    | [Temenos](/vendors/temenos.md)                               |
-| `Visionary`    | [SAP Fioneer](/vendors/sap-fioneer.md)                       |
+| `Visionary`    | [SAP Fioneer](/vendors/sap.md)                               |
 | `Niche Player` | [Ohpen](/vendors/ohpen.md)                                   |
 | `Niche Player` | [Vilja Solutions](/vendors/vilja-solutions.md)               |
 | `Niche Player` | [Profile Software](/vendors/profile-software.md)             |

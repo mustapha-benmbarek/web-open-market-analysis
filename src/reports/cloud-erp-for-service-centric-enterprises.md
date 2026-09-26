@@ -35,12 +35,12 @@ and view the magic quadrant graphic
 | -------------- | -------------------------------------------------------------------------- |
 | `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)       |
 | `Leader`       | [Workday](/vendors/workday.md)                                             |
-| `Leader`       | [SAP (Cloud ERP)](</vendors/sap-(cloud-erp).md>)                           |
+| `Leader`       | [SAP (Cloud ERP)](/vendors/sap.md)                                         |
 | `Leader`       | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)         |
 | `Leader`       | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                       |
 | `Niche Player` | [Microsoft (Business Central)](</vendors/microsoft-(business-central).md>) |
 | `Niche Player` | [Sage](/vendors/sage.md)                                                   |
-| `Niche Player` | [SAP (Business ByDesign)](</vendors/sap-(business-bydesign).md>)           |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                                 |
 | `Niche Player` | [Certinia](/vendors/certinia.md)                                           |
 
 ## Report 2024
@@ -54,10 +54,10 @@ and view the magic quadrant graphic
 | -------------- | -------------------------------------------------------------------------- |
 | `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)       |
 | `Leader`       | [Workday](/vendors/workday.md)                                             |
-| `Leader`       | [SAP (S/4HANA Cloud)](</vendors/sap-(s/4hana-cloud).md>)                   |
+| `Leader`       | [SAP (S/4HANA Cloud)](/vendors/sap.md)                                     |
 | `Leader`       | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)         |
 | `Niche Player` | [Microsoft (Business Central)](</vendors/microsoft-(business-central).md>) |
 | `Niche Player` | [Sage](/vendors/sage.md)                                                   |
-| `Niche Player` | [SAP (Business ByDesign)](</vendors/sap-(business-bydesign).md>)           |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                                 |
 | `Niche Player` | [Certinia](/vendors/certinia.md)                                           |
 | `Challenger`   | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                       |

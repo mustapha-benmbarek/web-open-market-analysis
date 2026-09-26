@@ -35,12 +35,12 @@ and view the magic quadrant graphic
 | -------------- | -------------------------------------------------------------------------- |
 | `Leader`       | [Workday](/vendors/workday.md)                                             |
 | `Leader`       | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)         |
-| `Leader`       | [SAP (SAP Cloud ERP)](</vendors/sap-(sap-cloud-erp).md>)                   |
+| `Leader`       | [SAP (SAP Cloud ERP)](/vendors/sap.md)                                     |
 | `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)       |
 | `Visionary`    | [Epicor Software](/vendors/epicor-software.md)                             |
 | `Visionary`    | [Infor](/vendors/infor.md)                                                 |
 | `Niche Player` | [Microsoft (Business Central)](</vendors/microsoft-(business-central).md>) |
-| `Niche Player` | [SAP (Business ByDesign)](</vendors/sap-(business-bydesign).md>)           |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                                 |
 | `Niche Player` | [Priority Software](/vendors/priority-software.md)                         |
 | `Challenger`   | [Sage](/vendors/sage.md)                                                   |
 | `Challenger`   | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                       |
