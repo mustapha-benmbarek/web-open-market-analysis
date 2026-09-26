@@ -23,3 +23,23 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`  | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026)                                                 |
 | `Leader`     | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2026)                                                   |
 | `Leader`     | [Workplace Experience Applications](/reports/workplace-experience-applications.md#report-2026)                                   |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position    | MQ Report                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2025)                     |
+| `Leader`       | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |
+| `Niche Player` | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2025)                                     |
+| `Leader`       | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2025)                                         |
+| `Visionary`    | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2025)             |
+| `Challenger`   | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2025)                                           |
+| `Leader`       | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2025)                   |
+| `Niche Player` | [Exposure Assessment Platforms](/reports/exposure-assessment-platforms.md#report-2025)                                           |
+| `Challenger`   | [Intranet Packaged Solutions](/reports/intranet-packaged-solutions.md#report-2025)                                               |
+| `Challenger`   | [Process Mining Platforms](/reports/process-mining-platforms.md#report-2025)                                                     |
+| `Visionary`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                 |
+| `Niche Player` | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2025)                                                   |
+| `Visionary`    | [Metadata Management Solutions](/reports/metadata-management-solutions.md#report-2025)                                           |

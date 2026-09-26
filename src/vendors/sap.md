@@ -34,3 +34,41 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2026)                                       |
 | `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2026)                                                 |
 | `Leader`       | [Workforce Management (WFM) Technology](</reports/workforce-management-(wfm)-technology.md#report-2026>)                             |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position    | MQ Report                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `Visionary`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025)           |
+| `Challenger`   | [API Management](/reports/api-management.md#report-2025)                                                                         |
+| `Niche Player` | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |
+| `Visionary`    | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                                   |
+| `Leader`       | [Configure, Price and Quote Applications](/reports/configure,-price-and-quote-applications.md#report-2025)                       |
+| `Niche Player` | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2025)                                         |
+| `Visionary`    | [Data Integration Tools](/reports/data-integration-tools.md#report-2025)                                                         |
+| `Leader`       | [Digital Commerce](/reports/digital-commerce.md#report-2025)                                                                     |
+| `Visionary`    | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2025)                   |
+| `Leader`       | [Financial Planning Software](/reports/financial-planning-software.md#report-2025)                                               |
+| `Leader`       | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2025)                 |
+| `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)                                   |
+| `Challenger`   | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2025)                                               |
+| `Leader`       | [Personalization Engines](/reports/personalization-engines.md#report-2025)                                                       |
+| `Challenger`   | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2025)                                         |
+| `Challenger`   | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                 |
+| `Leader`       | [Source-to-Pay Suites](/reports/source-to-pay-suites.md#report-2025)                                                             |
+| `Challenger`   | [Supply Chain Planning Solutions](/reports/supply-chain-planning-solutions.md#report-2025)                                       |
+| `Challenger`   | [Talent Acquisition (Recruiting) Suites](</reports/talent-acquisition-(recruiting)-suites.md#report-2025>)                       |
+| `Leader`       | [Transportation Management Systems](/reports/transportation-management-systems.md#report-2025)                                   |
+| `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2025)                                             |
+| `Niche Player` | [Cloud ERP Finance](/reports/cloud-erp-finance.md#report-2025)                                                                   |
+| `Niche Player` | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2025)                   |
+| `Niche Player` | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2025)                   |
+| `Leader`       | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2025)                   |
+| `Leader`       | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2025)                   |
+| `Leader`       | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-u.s.-local-government.md#report-2025)                   |
+| `Leader`       | [Cloud ERP Finance](/reports/cloud-erp-finance.md#report-2025)                                                                   |
+| `Visionary`    | [Core Banking Systems](/reports/core-banking-systems.md#report-2025)                                                             |
+| `Leader`       | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2025)                                           |
+| `Leader`       | [Process Mining Platforms](/reports/process-mining-platforms.md#report-2025)                                                     |
