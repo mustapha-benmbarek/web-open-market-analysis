@@ -18,6 +18,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position    | MQ Report                                                                                                                                                      |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player` | [Higher Education Student Information System Software as a Service](/reports/higher-education-student-information-system-software-as-a-service.md#report-2025) |
+| MQ Position    | MQ Report                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Higher Education Student Information System Software as a Service](/reports/higher-education-student-information-system-saas.md#report-2025) |
