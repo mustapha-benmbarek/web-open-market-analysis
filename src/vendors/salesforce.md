@@ -48,10 +48,10 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Personalization Engines](/reports/personalization-engines.md#report-2025)                                                       |
 | `Visionary`    | [Revenue Action Orchestration](/reports/revenue-action-orchestration.md#report-2025)                                             |
 | `Visionary`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                 |
-| `Visionary`    | [SaaS P&C Insurance Core Platforms, North America](/reports/saas-p&c-insurance-core-platforms,-north-america.md#report-2025)     |
+| `Visionary`    | [SaaS P&C Insurance Core Platforms, North America](/reports/saas-p&c-insurance-core-platforms-north-america.md#report-2025)      |
 | `Leader`       | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2025)                                     |
 | `Leader`       | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025)                                 |
 | `Leader`       | [API Management](/reports/api-management.md#report-2025)                                                                         |
 | `Challenger`   | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)                                   |
-| `Leader`       | [Configure, Price and Quote Applications](/reports/configure,-price-and-quote-applications.md#report-2025)                       |
+| `Leader`       | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2025)                        |
 | `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025)           |

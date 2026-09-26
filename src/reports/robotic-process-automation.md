@@ -47,7 +47,7 @@ and view the magic quadrant graphic
 | `Leader`       | [SS&C Blue Prism](/vendors/ss&c-blue-prism.md)         |
 | `Visionary`    | [ServiceNow](/vendors/servicenow.md)                   |
 | `Visionary`    | [Salesforce](/vendors/salesforce.md)                   |
-| `Niche Player` | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Niche Player` | [Samsung SDS](/vendors/samsung.md)                     |
 | `Niche Player` | [Laiye](/vendors/laiye.md)                             |
 | `Niche Player` | [IBM](/vendors/ibm.md)                                 |
 | `Niche Player` | [EvoluteIQ](/vendors/evoluteiq.md)                     |
@@ -72,7 +72,7 @@ and view the magic quadrant graphic
 | `Visionary`    | [Salesforce](/vendors/salesforce.md)                   |
 | `Visionary`    | [Appian](/vendors/appian.md)                           |
 | `Visionary`    | [ServiceNow](/vendors/servicenow.md)                   |
-| `Niche Player` | [Samsung SDS](/vendors/samsung-sds.md)                 |
+| `Niche Player` | [Samsung SDS](/vendors/samsung.md)                     |
 | `Niche Player` | [Nintex](/vendors/nintex.md)                           |
 | `Niche Player` | [Laiye](/vendors/laiye.md)                             |
 | `Niche Player` | [IBM](/vendors/ibm.md)                                 |
