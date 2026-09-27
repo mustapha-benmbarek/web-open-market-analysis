@@ -10,5 +10,7 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position    | MQ Report                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2025) |
+| `Niche Player` | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2025)     |

@@ -10,5 +10,6 @@ hide_menu: true
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position    | MQ Report                                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Digital Communications Governance and Archiving Solutions](/reports/digital-communications-governance-and-archiving-solutions.md#report-2025) |

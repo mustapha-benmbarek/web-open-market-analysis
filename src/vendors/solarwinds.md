@@ -18,5 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position    | MQ Report                                                                              |
+| -------------- | -------------------------------------------------------------------------------------- |
+| `Niche Player` | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2025) |
+| `Niche Player` | [Observability Platforms](/reports/observability-platforms.md#report-2025)             |
