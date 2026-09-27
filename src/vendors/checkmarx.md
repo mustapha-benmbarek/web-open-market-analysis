@@ -115,4 +115,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Customer Success Management Platforms](/reports/customer-success-management-platforms.md#report-2024)                             |
 | `Challenger`   | [Access Management](/reports/access-management.md#report-2024)                                                                     |
 | `Leader`       | [Privileged Access Management](/reports/privileged-access-management.md#report-2024)                                               |
-| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024)                                             |
+| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                       |
