@@ -42,6 +42,6 @@ and view the magic quadrant graphic
 | `Visionary`    | [Tyler Technologies (ERP Pro)](/vendors/tyler-technologies.md)                         |
 | `Visionary`    | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                                   |
 | `Niche Player` | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                               |
-| `Niche Player` | [Springbrook (Cirrus ERP)](</vendors/springbrook-(cirrus-erp).md>)                     |
+| `Niche Player` | [Springbrook (Cirrus ERP)](/vendors/springbrook.md)                                    |
 | `Niche Player` | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>) |
 | `Challenger`   | [CGI (Advantage)](/vendors/cgi.md)                                                     |
