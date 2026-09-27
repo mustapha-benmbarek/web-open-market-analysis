@@ -476,7 +476,7 @@ This section provides an organized index of product or service based providers c
 - [Ideagen](/vendors/ideagen.md)
 - [IDT SYSTEM](/vendors/idt-system.md)
 - [IEIT Systems](/vendors/ieit-systems.md)
-- [IFS Softeon](/vendors/ifs-softeon.md)
+- [Softeon](/vendors/softeon.md)
 - [iGrafx](/vendors/igrafx.md)
 - [Incode](/vendors/incode.md)
 - [Incorta](/vendors/incorta.md)

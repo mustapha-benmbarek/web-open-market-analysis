@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 | `Leader`       | [SAP](/vendors/sap.md)                                   |
 | `Leader`       | [Oracle](/vendors/oracle.md)                             |
 | `Leader`       | [Infor](/vendors/infor.md)                               |
-| `Visionary`    | [IFS Softeon](/vendors/ifs-softeon.md)                   |
+| `Visionary`    | [IFS Softeon](/vendors/softeon.md)                       |
 | `Visionary`    | [Logistics Reply](/vendors/logistics-reply.md)           |
 | `Niche Player` | [Made4net](/vendors/made4net.md)                         |
 | `Niche Player` | [Generix Group](/vendors/generix-group.md)               |
