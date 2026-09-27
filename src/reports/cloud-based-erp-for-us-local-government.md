@@ -34,13 +34,13 @@ and view the magic quadrant graphic
 | MQ Position    | MQ Vendor                                                                              |
 | -------------- | -------------------------------------------------------------------------------------- |
 | `Leader`       | [Workday](/vendors/workday.md)                                                         |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)                   |
-| `Leader`       | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)                     |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                                        |
+| `Leader`       | [Microsoft (Dynamics 365)](/vendors/microsoft.md)                                      |
 | `Leader`       | [Tyler Technologies (Enterprise ERP)](/vendors/tyler-technologies.md)                  |
 | `Leader`       | [Infor (CloudSuite Public Sector)](</vendors/infor-(cloudsuite-public-sector).md>)     |
 | `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md)                                  |
 | `Visionary`    | [Tyler Technologies (ERP Pro)](/vendors/tyler-technologies.md)                         |
-| `Visionary`    | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                                   |
+| `Visionary`    | [Oracle (NetSuite)](/vendors/oracle.md)                                                |
 | `Niche Player` | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                               |
 | `Niche Player` | [Springbrook (Cirrus ERP)](/vendors/springbrook.md)                                    |
 | `Niche Player` | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>) |

@@ -24,10 +24,10 @@ and view the magic quadrant graphic
 
 | MQ Position    | MQ Vendor                                                                |
 | -------------- | ------------------------------------------------------------------------ |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)     |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                          |
 | `Leader`       | [Microsoft](/vendors/microsoft.md)                                       |
 | `Leader`       | [SAP (Cloud ERP)](/vendors/sap.md)                                       |
-| `Leader`       | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                     |
+| `Leader`       | [Oracle (NetSuite)](/vendors/oracle.md)                                  |
 | `Leader`       | [IFS](/vendors/ifs.md)                                                   |
 | `Leader`       | [Infor](/vendors/infor.md)                                               |
 | `Leader`       | [Epicor](/vendors/epicor.md)                                             |
@@ -44,7 +44,7 @@ and view the magic quadrant graphic
 
 | MQ Position    | MQ Vendor                                                                |
 | -------------- | ------------------------------------------------------------------------ |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](</vendors/oracle-(fusion-cloud-erp).md>)     |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                          |
 | `Leader`       | [Microsoft](/vendors/microsoft.md)                                       |
 | `Leader`       | [Infor](/vendors/infor.md)                                               |
 | `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md)                    |
@@ -53,4 +53,4 @@ and view the magic quadrant graphic
 | `Niche Player` | [Plex, By Rockwell Automation](/vendors/plex,-by-rockwell-automation.md) |
 | `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                               |
 | `Niche Player` | [Priority Software](/vendors/priority-software.md)                       |
-| `Challenger`   | [Oracle (NetSuite)](</vendors/oracle-(netsuite).md>)                     |
+| `Challenger`   | [Oracle (NetSuite)](/vendors/oracle.md)                                  |

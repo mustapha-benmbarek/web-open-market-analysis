@@ -29,7 +29,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Mambu](/vendors/mambu.md)                                   |
 | `Leader`       | [Intellect Design Arena](/vendors/intellect-design-arena.md) |
 | `Leader`       | [Finastra Essence](/vendors/finastra.md)                     |
-| `Leader`       | [Oracle FLEXCUBE](/vendors/oracle-flexcube.md)               |
+| `Leader`       | [Oracle FLEXCUBE](/vendors/oracle.md)                        |
 | `Visionary`    | [Temenos](/vendors/temenos.md)                               |
 | `Visionary`    | [SAP Fioneer](/vendors/sap.md)                               |
 | `Niche Player` | [Ohpen](/vendors/ohpen.md)                                   |
