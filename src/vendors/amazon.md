@@ -21,6 +21,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Container Management](/reports/container-management.md#report-2026)                                                             |
 | `Leader`       | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2026)                                                             |
 | `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2026)                                   |
+| `Challenger`   | [Enterprise AI Assistants](/reports/enterprise-ai-assistants.md#report-2026)                                                     |
 | `Challenger`   | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026)                                               |
 | `Challenger`   | [Global Industrial AIoT Platforms](/reports/global-industrial-aiot-platforms.md#report-2026)                                     |
 | `Leader`       | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)             |

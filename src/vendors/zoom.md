@@ -12,6 +12,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | MQ Position    | MQ Report                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Enterprise AI Assistants](/reports/enterprise-ai-assistants.md#report-2026)                       |
 | `Leader`       | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2026) |
 | `Niche Player` | [Workplace Experience Applications](/reports/workplace-experience-applications.md#report-2026)     |
 

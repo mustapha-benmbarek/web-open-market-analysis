@@ -12,4 +12,5 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | MQ Position  | MQ Report                                                                          |
 | ------------ | ---------------------------------------------------------------------------------- |
+| `Leader`     | [Enterprise AI Assistants](/reports/enterprise-ai-assistants.md#report-2026)       |
 | `Leader`     | [Enterprise AI Coding Agents](/reports/enterprise-ai-coding-agents.md#report-2026) |
