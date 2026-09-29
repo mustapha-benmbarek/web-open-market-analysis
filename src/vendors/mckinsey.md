@@ -13,3 +13,11 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | MQ Position  | MQ Report                                                                                                                          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | `Leader`     | [Digital Technology and Business Consulting Services](/reports/digital-technology-and-business-consulting-services.md#report-2026) |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position  | MQ Report                                                                                                        |
+| ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Finance Transformation Strategy Consulting](/reports/finance-transformation-strategy-consulting.md#report-2025) |
