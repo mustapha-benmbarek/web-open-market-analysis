@@ -576,12 +576,21 @@ This section provides an organized index of product or service based providers c
 - [Losant](/vendors/losant.md)
 - [LTM](/vendors/ltm.md)
 - [LTIMindtree](/vendors/ltimindtree.md)
+- [Lucanet](/vendors/lucanet.md)
 - [Lucidworks](/vendors/lucidworks.md)
+- [LumApps](/vendors/lumapps.md)
 - [Lumen](/vendors/lumen.md)
+- [Lumos](/vendors/lumos.md)
+- [Lytho](/vendors/lytho.md)
 
 ### M
 
 - [Made4net](/vendors/made4net.md)
+- [Madison Logic](/vendors/madison-logic.md)
+- [Magnolia](/vendors/magnolia.md)
+- [Majesco](/vendors/majesco.md)
+- [Malbek](/vendors/malbek.md)
+- [Mambu](/vendors/mambu.md)
 - [ManageEngine](/vendors/manageengine.md)
 - [Manhattan Associates](/vendors/manhattan-associates.md)
 - [Mantis](/vendors/mantis.md)
