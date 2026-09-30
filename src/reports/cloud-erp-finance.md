@@ -31,16 +31,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-erp-finance.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                                  |
-| -------------- | -------------------------------------------------------------------------- |
-| `Leader`       | [Workday](/vendors/workday.md)                                             |
-| `Leader`       | [Microsoft (Dynamics 365)](</vendors/microsoft-(dynamics-365).md>)         |
-| `Leader`       | [SAP (SAP Cloud ERP)](/vendors/sap.md)                                     |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                            |
-| `Visionary`    | [Epicor Software](/vendors/epicor-software.md)                             |
-| `Visionary`    | [Infor](/vendors/infor.md)                                                 |
-| `Niche Player` | [Microsoft (Business Central)](</vendors/microsoft-(business-central).md>) |
-| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                                 |
-| `Niche Player` | [Priority Software](/vendors/priority-software.md)                         |
-| `Challenger`   | [Sage](/vendors/sage.md)                                                   |
-| `Challenger`   | [Oracle (NetSuite)](/vendors/oracle.md)                                    |
+| MQ Position    | MQ Vendor                                             |
+| -------------- | ----------------------------------------------------- |
+| `Leader`       | [Workday](/vendors/workday.md)                        |
+| `Leader`       | [Microsoft (Dynamics 365)](/vendors/microsoft.md)     |
+| `Leader`       | [SAP (SAP Cloud ERP)](/vendors/sap.md)                |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)       |
+| `Visionary`    | [Epicor Software](/vendors/epicor-software.md)        |
+| `Visionary`    | [Infor](/vendors/infor.md)                            |
+| `Niche Player` | [Microsoft (Business Central)](/vendors/microsoft.md) |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)            |
+| `Niche Player` | [Priority Software](/vendors/priority-software.md)    |
+| `Challenger`   | [Sage](/vendors/sage.md)                              |
+| `Challenger`   | [Oracle (NetSuite)](/vendors/oracle.md)               |
