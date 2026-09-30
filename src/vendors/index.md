@@ -596,6 +596,7 @@ This section provides an organized index of product or service based providers c
 - [Manhattan Associates](/vendors/manhattan-associates.md)
 - [Mantis](/vendors/mantis.md)
 - [Martin-Brower](/vendors/martin-brower.md)
+- [Mastercard](/vendors/mastercard.md)
 - [Mastercard Dynamic Yield](/vendors/mastercard.md)
 - [MasterControl](/vendors/mastercontrol.md)
 - [MasterSoft](/vendors/mastersoft.md)
