@@ -17,9 +17,8 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2026)                                   |
 | `Leader`     | [Workforce Management (WFM) Technology](</reports/workforce-management-(wfm)-technology.md#report-2026>)                      |
 
-## Market 202
+## Market 2025
 
-5
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
 | MQ Position  | MQ Report                                                                                                                                     |
