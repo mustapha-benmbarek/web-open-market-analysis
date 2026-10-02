@@ -17,3 +17,15 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger` | [Decision Intelligence Platforms](/reports/decision-intelligence-platforms.md#report-2026)                                       |
 | `Leader`     | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                         |
 | `Challenger` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2026)                                                 |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position  | MQ Report                                                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025) |
+| `Visionary`  | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2025)                                         |
+| `Visionary`  | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2025)                   |
+| `Leader`     | [Process Mining Platforms](/reports/process-mining-platforms.md#report-2025)                                                     |
+| `Challenger` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                 |
