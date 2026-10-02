@@ -42,18 +42,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/adaptive-project-management-and-reporting.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                        |
-| -------------- | ---------------------------------------------------------------- |
-| `Leader`       | [monday.com](/vendors/monday.com.md)                             |
-| `Leader`       | [Planview (AdaptiveWork)](</vendors/planview-(adaptivework).md>) |
-| `Leader`       | [Asana](/vendors/asana.md)                                       |
-| `Leader`       | [Planisware](/vendors/planisware.md)                             |
-| `Visionary`    | [Smartsheet](/vendors/smartsheet.md)                             |
-| `Visionary`    | [Planview (Sciforma)](</vendors/planview-(sciforma).md>)         |
-| `Visionary`    | [Wrike](/vendors/wrike.md)                                       |
-| `Niche Player` | [Prism PPM](/vendors/prism-ppm.md)                               |
-| `Niche Player` | [Planforge](/vendors/planforge.md)                               |
-| `Challenger`   | [ProSymmetry](/vendors/prosymmetry.md)                           |
+| MQ Position    | MQ Vendor                                       |
+| -------------- | ----------------------------------------------- |
+| `Leader`       | [monday.com](/vendors/monday.com.md)            |
+| `Leader`       | [Planview (AdaptiveWork)](/vendors/planview.md) |
+| `Leader`       | [Asana](/vendors/asana.md)                      |
+| `Leader`       | [Planisware](/vendors/planisware.md)            |
+| `Visionary`    | [Smartsheet](/vendors/smartsheet.md)            |
+| `Visionary`    | [Planview (Sciforma)](/vendors/planview.md)     |
+| `Visionary`    | [Wrike](/vendors/wrike.md)                      |
+| `Niche Player` | [Prism PPM](/vendors/prism-ppm.md)              |
+| `Niche Player` | [Planforge](/vendors/planforge.md)              |
+| `Challenger`   | [ProSymmetry](/vendors/prosymmetry.md)          |
 
 ## Report 2024
 

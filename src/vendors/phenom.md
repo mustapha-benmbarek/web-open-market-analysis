@@ -18,6 +18,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                                                                                                  |
-| ------------ | ---------------------------------------------------------------------------------------------------------- |
-| `Visionary`  | [Talent Acquisition (Recruiting) Suites](</reports/talent-acquisition-(recruiting)-suites.md#report-2025>) |
+| MQ Position  | MQ Report                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| `Visionary`  | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2025) |

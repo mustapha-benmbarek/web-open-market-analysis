@@ -22,18 +22,18 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/cloud-erp-for-product-centric-enterprises.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                                |
-| -------------- | ------------------------------------------------------------------------ |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                          |
-| `Leader`       | [Microsoft](/vendors/microsoft.md)                                       |
-| `Leader`       | [SAP (Cloud ERP)](/vendors/sap.md)                                       |
-| `Leader`       | [Oracle (NetSuite)](/vendors/oracle.md)                                  |
-| `Leader`       | [IFS](/vendors/ifs.md)                                                   |
-| `Leader`       | [Infor](/vendors/infor.md)                                               |
-| `Leader`       | [Epicor](/vendors/epicor.md)                                             |
-| `Niche Player` | [Plex, by Rockwell Automation](/vendors/plex,-by-rockwell-automation.md) |
-| `Niche Player` | [Priority](/vendors/priority.md)                                         |
-| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                               |
+| MQ Position    | MQ Vendor                                            |
+| -------------- | ---------------------------------------------------- |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)      |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                   |
+| `Leader`       | [SAP (Cloud ERP)](/vendors/sap.md)                   |
+| `Leader`       | [Oracle (NetSuite)](/vendors/oracle.md)              |
+| `Leader`       | [IFS](/vendors/ifs.md)                               |
+| `Leader`       | [Infor](/vendors/infor.md)                           |
+| `Leader`       | [Epicor](/vendors/epicor.md)                         |
+| `Niche Player` | [Plex, by Rockwell Automation](/vendors/rockwell.md) |
+| `Niche Player` | [Priority](/vendors/priority.md)                     |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)           |
 
 ## Report 2024
 

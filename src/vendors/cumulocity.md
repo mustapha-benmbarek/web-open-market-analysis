@@ -136,7 +136,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                               |
 | `Niche Player` | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2025)                                                     |
 | `Niche Player` | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2025)                   |
-| `Niche Player` | [Talent Acquisition (Recruiting) Suites](</reports/talent-acquisition-(recruiting)-suites.md#report-2025>)                         |
+| `Niche Player` | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2025)                                        |
 | `Niche Player` | [Content Marketing Platforms](/reports/content-marketing-platforms.md#report-2025)                                                 |
 | `Niche Player` | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                                     |
 | `Leader`       | [Accounts Payable Applications](/reports/accounts-payable-applications.md#report-2025)                                             |
