@@ -40,3 +40,41 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Process Intelligence Platforms](/reports/process-intelligence-platforms.md#report-2026)                                               |
 | `Visionary`    | [Public Cloud Optimization and Transformation Services](/reports/public-cloud-optimization-and-transformation-services.md#report-2026) |
 | `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2026)               |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position    | MQ Report                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Access Management](/reports/access-management.md#report-2025)                                                                     |
+| `Leader`       | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                               |
+| `Niche Player` | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                                                   |
+| `Visionary`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025)             |
+| `Leader`       | [API Management](/reports/api-management.md#report-2025)                                                                           |
+| `Challenger`   | [Augmented Data Quality Solutions](/reports/augmented-data-quality-solutions.md#report-2025)                                       |
+| `Visionary`    | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2025)                               |
+| `Challenger`   | [Business Orchestration and Automation Technologies](/reports/business-orchestration-and-automation-technologies.md#report-2025)   |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                                     |
+| `Leader`       | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2025)                                       |
+| `Challenger`   | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2025)                                                 |
+| `Leader`       | [Custom Software Development Services](/reports/custom-software-development-services.md#report-2025)                               |
+| `Leader`       | [Data and Analytics Governance Platforms](/reports/data-and-analytics-governance-platforms.md#report-2025)                         |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2025)                                                           |
+| `Leader`       | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)                 |
+| `Visionary`    | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2025)                                             |
+| `Challenger`   | [Digital Experience Services](/reports/digital-experience-services.md#report-2025)                                                 |
+| `Challenger`   | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                                     |
+| `Leader`       | [Enterprise Storage Platforms](/reports/enterprise-storage-platforms.md#report-2025)                                               |
+| `Leader`       | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2025) |
+| `Leader`       | [Finance Transformation Strategy Consulting](/reports/finance-transformation-strategy-consulting.md#report-2025)                   |
+| `Challenger`   | [Financial Close and Consolidation Solutions](/reports/financial-close-and-consolidation-solutions.md#report-2025)                 |
+| `Challenger`   | [Financial Planning Software](/reports/financial-planning-software.md#report-2025)                                                 |
+| `Challenger`   | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)                                     |
+| `Leader`       | [Metadata Management Solutions](/reports/metadata-management-solutions.md#report-2025)                                             |
+| `Leader`       | [Observability Platforms](/reports/observability-platforms.md#report-2025)                                                         |
+| `Leader`       | [Process Mining Platforms](/reports/process-mining-platforms.md#report-2025)                                                       |
+| `Leader`       | [Public Cloud IT Transformation Services](/reports/public-cloud-it-transformation-services.md#report-2025)                         |
+| `Niche Player` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                   |
+| `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025)           |
+| `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                                     |
