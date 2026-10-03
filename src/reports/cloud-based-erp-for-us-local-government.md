@@ -41,7 +41,7 @@ and view the magic quadrant graphic
 | `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md)                                  |
 | `Visionary`    | [Tyler Technologies (ERP Pro)](/vendors/tyler-technologies.md)                         |
 | `Visionary`    | [Oracle (NetSuite)](/vendors/oracle.md)                                                |
-| `Niche Player` | [OpenGov (ERP Cloud)](</vendors/opengov-(erp-cloud).md>)                               |
+| `Niche Player` | [OpenGov (ERP Cloud)](/vendors/opengov.md)                                             |
 | `Niche Player` | [Springbrook (Cirrus ERP)](/vendors/springbrook.md)                                    |
 | `Niche Player` | [CentralSquare (Finance Enterprise)](</vendors/centralsquare-(finance-enterprise).md>) |
 | `Challenger`   | [CGI (Advantage)](/vendors/cgi.md)                                                     |
