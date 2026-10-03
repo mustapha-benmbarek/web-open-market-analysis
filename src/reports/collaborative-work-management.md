@@ -33,7 +33,7 @@ and view the magic quadrant graphic
 
 | MQ Position  | MQ Vendor                            |
 | ------------ | ------------------------------------ |
-| `Leader`     | [Monday.com](/vendors/monday.com.md) |
+| `Leader`     | [monday.com](/vendors/monday.com.md) |
 | `Leader`     | [Smartsheet](/vendors/smartsheet.md) |
 | `Leader`     | [Asana](/vendors/asana.md)           |
 | `Leader`     | [Airtable](/vendors/airtable.md)     |
