@@ -23,7 +23,7 @@ and view the magic quadrant graphic
 
 | MQ Position    | MQ Vendor                                                                    |
 | -------------- | ---------------------------------------------------------------------------- |
-| `Leader`       | [Kuehne + Nagel](/vendors/kuehne-+-nagel.md)                                 |
+| `Leader`       | [Kuehne + Nagel](/vendors/kuehne-nagel.md)                                   |
 | `Leader`       | [4flow](/vendors/4flow.md)                                                   |
 | `Leader`       | [GEODIS](/vendors/geodis.md)                                                 |
 | `Leader`       | [DHL Supply Chain](/vendors/dhl-supply-chain.md)                             |

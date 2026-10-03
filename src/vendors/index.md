@@ -540,8 +540,10 @@ This section provides an organized index of product or service based providers c
 - [KORE](/vendors/kore.md)
 - [Kore.ai](/vendors/kore.ai.md)
 - [KPMG](/vendors/kpmg.md)
+- [Kubermatic](/vendors/kubermatic.md)
 - [Kuehne+Nagel](/vendors/kuehne-nagel.md)
 - [Kyndryl](/vendors/kyndryl.md)
+
 
 ### L
 
