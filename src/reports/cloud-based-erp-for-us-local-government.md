@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                                        |
 | `Leader`       | [Microsoft (Dynamics 365)](/vendors/microsoft.md)                                      |
 | `Leader`       | [Tyler Technologies (Enterprise ERP)](/vendors/tyler-technologies.md)                  |
-| `Leader`       | [Infor (CloudSuite Public Sector)](</vendors/infor-(cloudsuite-public-sector).md>)     |
+| `Leader`       | [Infor (CloudSuite Public Sector)](/vendors/infor.md)                                  |
 | `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md)                                  |
 | `Visionary`    | [Tyler Technologies (ERP Pro)](/vendors/tyler-technologies.md)                         |
 | `Visionary`    | [Oracle (NetSuite)](/vendors/oracle.md)                                                |
