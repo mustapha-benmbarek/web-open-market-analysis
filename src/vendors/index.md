@@ -472,7 +472,9 @@ This section provides an organized index of product or service based providers c
 
 ### I
 
+- [iboss](/vendors/iboss.md)
 - [IBM](/vendors/ibm.md)
+- [Icertis](/vendors/icertis.md)
 - [ICIMS](/vendors/icims.md)
 - [ICRON](/vendors/icron.md)
 - [Ideagen](/vendors/ideagen.md)
@@ -481,11 +483,13 @@ This section provides an organized index of product or service based providers c
 - [iGrafx](/vendors/igrafx.md)
 - [Incode](/vendors/incode.md)
 - [Incorta](/vendors/incorta.md)
+- [Infios](/vendors/infios.md)
+- [Infios (Korber)](/vendors/infios.md)
+- [Infios (MercuryGate)](/vendors/infios.md)
+- [Infinite Uptime](/vendors/infinite-uptime.md)
 - [Infobip](/vendors/infobip.md)
 - [Infor](/vendors/infor.md)
 - [Informatica](/vendors/informatica.md)
-- [Infios](/vendors/infios.md)
-- [Infinite Uptime](/vendors/infinite-uptime.md)
 - [Infosys](/vendors/infosys.md)
 - [Infrrd](/vendors/infrrd.md)
 - [Innovaccer](/vendors/innovaccer.md)
