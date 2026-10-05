@@ -50,9 +50,9 @@ and view the magic quadrant graphic
 | `Leader`       | [Ellucian (Colleague)](/vendors/ellucian.md)       |
 | `Leader`       | [Workday](/vendors/workday.md)                     |
 | `Visionary`    | [RIO Education](/vendors/rio-education.md)         |
-| `Niche Player` | [Jenzabar (One)](</vendors/jenzabar-(one).md>)     |
+| `Niche Player` | [Jenzabar (One)](/vendors/jenzabar.md)             |
 | `Niche Player` | [Thesis](/vendors/thesis.md)                       |
-| `Niche Player` | [Jenzabar (SONIS)](</vendors/jenzabar-(sonis).md>) |
+| `Niche Player` | [Jenzabar (SONIS)](/vendors/jenzabar.md)           |
 | `Niche Player` | [Serosoft](/vendors/serosoft.md)                   |
 | `Niche Player` | [Apar Technologies](/vendors/apar-technologies.md) |
 | `Challenger`   | [Anthology](/vendors/anthology.md)                 |

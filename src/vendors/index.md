@@ -513,17 +513,20 @@ This section provides an organized index of product or service based providers c
 
 - [JAGGAER](/vendors/jaggaer.md)
 - [Jamf](/vendors/jamf.md)
+- [JAMS](/vendors/jams.md)
 - [Jedox](/vendors/jedox.md)
 - [Jellyfish](/vendors/jellyfish.md)
 - [Jenzabar](/vendors/jenzabar.md)
 - [JetBrains](/vendors/jetbrains.md)
 - [JFrog](/vendors/jfrog.md)
+- [Jio Platforms](/vendors/jio-platforms.md)
 - [Jitterbit](/vendors/jitterbit.md)
 - [Jizō AI](/vendors/jizo-ai.md)
 - [John Galt Solutions](/vendors/john-galt-solutions.md)
 - [Join Digital](/vendors/join-digital.md)
 - [Josys](/vendors/josys.md)
 - [Joulica](/vendors/joulica.md)
+- [Juniper Networks](/vendors/juniper-networks.md)
 
 ### K
 
