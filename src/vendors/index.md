@@ -493,6 +493,7 @@ This section provides an organized index of product or service based providers c
 - [inQuba](/vendors/inquba.md)
 - [InRule Technology](/vendors/inrule-technology.md)
 - [Insider One](/vendors/insider-one.md)
+- [Insight](/vendors/insight.md)
 - [insightsoftware](/vendors/insightsoftware.md)
 - [Intalio](/vendors/intalio.md)
 - [Intel 471](/vendors/intel-471.md)
