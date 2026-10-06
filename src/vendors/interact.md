@@ -1,0 +1,15 @@
+---
+title: Interact
+description: Market Vendor | Interact
+hide_menu: true
+---
+
+# Interact
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position  | MQ Report                                                                          |
+| ------------ | ---------------------------------------------------------------------------------- |
+| `Leader`     | [Intranet Packaged Solutions](/reports/intranet-packaged-solutions.md#report-2025) |

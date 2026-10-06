@@ -30,7 +30,7 @@ and view the magic quadrant graphic
 | MQ Position    | MQ Vendor                                                  |
 | -------------- | ---------------------------------------------------------- |
 | `Leader`       | [Analytic Partners](/vendors/analytic-partners.md)         |
-| `Leader`       | [Ipsos MMA](/vendors/ipsos-mma.md)                         |
+| `Leader`       | [Ipsos MMA](/vendors/ipsos.md)                             |
 | `Leader`       | [TransUnion](/vendors/transunion.md)                       |
 | `Visionary`    | [Ekimetrics](/vendors/ekimetrics.md)                       |
 | `Visionary`    | [Kantar](/vendors/kantar.md)                               |
@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | MQ Position    | MQ Vendor                                                  |
 | -------------- | ---------------------------------------------------------- |
 | `Leader`       | [Analytic Partners](/vendors/analytic-partners.md)         |
-| `Leader`       | [Ipsos MMA](/vendors/ipsos-mma.md)                         |
+| `Leader`       | [Ipsos MMA](/vendors/ipsos.md)                             |
 | `Leader`       | [OptiMine](/vendors/optimine.md)                           |
 | `Leader`       | [TransUnion](/vendors/transunion.md)                       |
 | `Visionary`    | [Ekimetrics](/vendors/ekimetrics.md)                       |

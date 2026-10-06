@@ -55,7 +55,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Catchpoint](/vendors/catchpoint.md)       |
 | `Visionary`    | [Splunk](/vendors/splunk.md)               |
 | `Visionary`    | [Riverbed](/vendors/riverbed.md)           |
-| `Visionary`    | [ITRS Group](/vendors/itrs-group.md)       |
+| `Visionary`    | [ITRS Group](/vendors/itrs.md)             |
 | `Visionary`    | [IBM](/vendors/ibm.md)                     |
 | `Visionary`    | [Conviva](/vendors/conviva.md)             |
 | `Niche Player` | [Checkly](/vendors/checkly.md)             |
