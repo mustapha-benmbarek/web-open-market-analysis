@@ -15,3 +15,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Enterprise Wired and Wireless LAN](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2026) |
 | `Niche Player` | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2026)                                          |
 | `Visionary`    | [Server Virtualization Platforms](/reports/server-virtualization-platforms.md#report-2026)                    |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position    | MQ Report                                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Data Center Switching](/reports/data-center-switching.md#report-2025)                                                       |
+| `Niche Player` | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2025) |
+| `Niche Player` | [Hybrid Mesh Firewall](/reports/hybrid-mesh-firewall.md#report-2025)                                                         |
