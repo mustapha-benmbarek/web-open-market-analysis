@@ -23,22 +23,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2025**
 and view the magic quadrant graphic
 <a href="/docs/2025/saas-p&c-insurance-core-platforms-north-america.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                              |
-| -------------- | ---------------------------------------------------------------------- |
-| `Leader`       | [Guidewire (InsuranceSuite)](</vendors/guidewire-(insurancesuite).md>) |
-| `Leader`       | [Majesco (P&C Intelligent Core Suite)](/vendors/majesco.md)            |
-| `Leader`       | [Duck Creek Technologies](/vendors/duck-creek-technologies.md)         |
-| `Visionary`    | [Salesforce](/vendors/salesforce.md)                                   |
-| `Niche Player` | [Socotra](/vendors/socotra.md)                                         |
-| `Niche Player` | [OneShield Market Solutions (OMS)](/vendors/oneshield.md)              |
-| `Niche Player` | [Sapiens](/vendors/sapiens.md)                                         |
-| `Niche Player` | [Insuresoft](/vendors/insuresoft.md)                                   |
-| `Niche Player` | [OneShield (Enterprise)](/vendors/oneshield.md)                        |
-| `Niche Player` | [Majesco (P&C CoreConnect)](/vendors/majesco.md)                       |
-| `Niche Player` | [DXC Technology](/vendors/dxc.md)                                      |
-| `Challenger`   | [Guidewire (InsuranceNow)](</vendors/guidewire-(insurancenow).md>)     |
-| `Challenger`   | [Origami Risk](/vendors/origami-risk.md)                               |
-| `Challenger`   | [BriteCore](/vendors/britecore.md)                                     |
+| MQ Position    | MQ Vendor                                                      |
+| -------------- | -------------------------------------------------------------- |
+| `Leader`       | [Guidewire (InsuranceSuite)](/vendors/guidewire.md)            |
+| `Leader`       | [Majesco (P&C Intelligent Core Suite)](/vendors/majesco.md)    |
+| `Leader`       | [Duck Creek Technologies](/vendors/duck-creek-technologies.md) |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)                           |
+| `Niche Player` | [Socotra](/vendors/socotra.md)                                 |
+| `Niche Player` | [OneShield Market Solutions (OMS)](/vendors/oneshield.md)      |
+| `Niche Player` | [Sapiens](/vendors/sapiens.md)                                 |
+| `Niche Player` | [Insuresoft](/vendors/insuresoft.md)                           |
+| `Niche Player` | [OneShield (Enterprise)](/vendors/oneshield.md)                |
+| `Niche Player` | [Majesco (P&C CoreConnect)](/vendors/majesco.md)               |
+| `Niche Player` | [DXC Technology](/vendors/dxc.md)                              |
+| `Challenger`   | [Guidewire (InsuranceNow)](/vendors/guidewire.md)              |
+| `Challenger`   | [Origami Risk](/vendors/origami-risk.md)                       |
+| `Challenger`   | [BriteCore](/vendors/britecore.md)                             |
 
 ## Report 2024
 
@@ -47,19 +47,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/saas-p&c-insurance-core-platforms-north-america.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                              |
-| -------------- | ---------------------------------------------------------------------- |
-| `Leader`       | [Guidewire (InsuranceSuite)](</vendors/guidewire-(insurancesuite).md>) |
-| `Leader`       | [Duck Creek Technologies](/vendors/duck-creek-technologies.md)         |
-| `Leader`       | [Majesco (P&C Intelligent Core Suite)](/vendors/majesco.md)            |
-| `Visionary`    | [Salesforce](/vendors/salesforce.md)                                   |
-| `Niche Player` | [Origami Risk](/vendors/origami-risk.md)                               |
-| `Niche Player` | [Sapiens](/vendors/sapiens.md)                                         |
-| `Niche Player` | [Insuresoft](/vendors/insuresoft.md)                                   |
-| `Niche Player` | [OneShield (OMS)](/vendors/oneshield.md)                               |
-| `Niche Player` | [OneShield (Enterprise)](/vendors/oneshield.md)                        |
-| `Niche Player` | [DXC Technology](/vendors/dxc.md)                                      |
-| `Niche Player` | [Majesco (P&C CoreConnect)](/vendors/majesco.md)                       |
-| `Challenger`   | [Guidewire (InsuranceNow)](</vendors/guidewire-(insurancenow).md>)     |
-| `Challenger`   | [BriteCore](/vendors/britecore.md)                                     |
-| `Challenger`   | [Socotra](/vendors/socotra.md)                                         |
+| MQ Position    | MQ Vendor                                                      |
+| -------------- | -------------------------------------------------------------- |
+| `Leader`       | [Guidewire (InsuranceSuite)](/vendors/guidewire.md)            |
+| `Leader`       | [Duck Creek Technologies](/vendors/duck-creek-technologies.md) |
+| `Leader`       | [Majesco (P&C Intelligent Core Suite)](/vendors/majesco.md)    |
+| `Visionary`    | [Salesforce](/vendors/salesforce.md)                           |
+| `Niche Player` | [Origami Risk](/vendors/origami-risk.md)                       |
+| `Niche Player` | [Sapiens](/vendors/sapiens.md)                                 |
+| `Niche Player` | [Insuresoft](/vendors/insuresoft.md)                           |
+| `Niche Player` | [OneShield (OMS)](/vendors/oneshield.md)                       |
+| `Niche Player` | [OneShield (Enterprise)](/vendors/oneshield.md)                |
+| `Niche Player` | [DXC Technology](/vendors/dxc.md)                              |
+| `Niche Player` | [Majesco (P&C CoreConnect)](/vendors/majesco.md)               |
+| `Challenger`   | [Guidewire (InsuranceNow)](/vendors/guidewire.md)              |
+| `Challenger`   | [BriteCore](/vendors/britecore.md)                             |
+| `Challenger`   | [Socotra](/vendors/socotra.md)                                 |

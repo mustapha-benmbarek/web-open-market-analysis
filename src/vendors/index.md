@@ -460,6 +460,33 @@ This section provides an organized index of product or service based providers c
 
 ### G
 
+- [Gainsight](/vendors/gainsight.md)
+- [Gatewatcher](/vendors/gatewatcher.md)
+- [GBTEC](/vendors/gbtec.md)
+- [Generix Group](/vendors/generix-group.md)
+- [Genesys](/vendors/genesys.md)
+- [Genpact](/vendors/genpact.md)
+- [GEODIS](/vendors/geodis.md)
+- [GEP](/vendors/gep.md)
+- [Getronics](/vendors/getronics.md)
+- [Global Data Excellence](/vendors/global-data-excellence.md)
+- [Global Relay](/vendors/global-relay.md)
+- [GlobalLogic](/vendors/globallogic.md)
+- [Globant](/vendors/globant.md)
+- [Gong](/vendors/gong.md)
+- [GoTo](/vendors/goto.md)
+- [Gotransverse](/vendors/gotransverse.md)
+- [Grafana Labs](/vendors/grafana-labs.md)
+- [Grant Thornton Advisors](/vendors/grant-thornton-advisors.md)
+- [Gravitee](/vendors/gravitee.md)
+- [Graylog](/vendors/graylog.md)
+- [Greenhouse](/vendors/greenhouse.md)
+- [GTT Communications](/vendors/gtt-communications.md)
+- [Guidewire](/vendors/guidewire.md)
+- [Gurucul](/vendors/gurucul.md)
+
+### G (intial)
+
 - [Gaine Technology](/vendors/gaine-technology.md)
 - [GAINS](/vendors/gains.md)
 - [GAN Integrity](/vendors/gan-integrity.md)
