@@ -27,7 +27,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Amazon](/vendors/amazon.md)                 |
 | `Leader`       | [Cognition (Windsurf)](vendors/cognition.md) |
 | `Leader`       | [GitLab](/vendors/gitlab.md)                 |
-| `Leader`       | [Google Cloud](/vendors/google-cloud.md)     |
+| `Leader`       | [Google Cloud](/vendors/google.md)           |
 | `Visionary`    | [Harness](/vendors/harness.md)               |
 | `Visionary`    | [Qodo](/vendors/qodo.md)                     |
 | `Visionary`    | [Tabnine](/vendors/tabnine.md)               |

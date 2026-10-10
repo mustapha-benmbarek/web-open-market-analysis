@@ -29,3 +29,25 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Healthcare Provider Industry Cloud Platforms](/reports/healthcare-provider-industry-cloud-platforms.md#report-2026)      |
 | `Leader`       | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2026)                                      |
 | `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2026)                            |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position    | MQ Report                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [AI Application Development Platforms](/reports/ai-application-development-platforms.md#report-2025)                   |
+| `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025) |
+| `Leader`       | [API Management](/reports/api-management.md#report-2025)                                                               |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                         |
+| `Leader`       | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025)                       |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2025)                                                   |
+| `Leader`       | [Conversational AI Platforms](/reports/conversational-ai-platforms.md#report-2025)                                     |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2025)                                               |
+| `Leader`       | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2025)     |
+| `Visionary`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)                         |
+| `Leader`       | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2025)                                   |
+| `Leader`       | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2025)         |
+| `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                         |
+| `Niche Player` | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2025)                     |
+| `Leader`       | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                                       |

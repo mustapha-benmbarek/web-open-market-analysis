@@ -19,5 +19,8 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position    | MQ Report                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------ |
+| `Niche Player` | [AI Applications in IT Service Management](/reports/ai-applications-in-it-service-management.md#report-2025) |
+| `Niche Player` | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2025)             |
+| `Niche Player` | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2025)                     |
