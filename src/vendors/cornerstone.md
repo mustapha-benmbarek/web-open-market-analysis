@@ -22,4 +22,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | MQ Position    | MQ Report                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2025) |
-| `Niche Player` | [Talent Acquisition (Recruiting) Suites](</reports/talent-acquisition-(recruiting)-suites.md#report-2025>)       |
+| `Niche Player` | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2025)                      |

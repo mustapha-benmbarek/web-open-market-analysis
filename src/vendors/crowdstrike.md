@@ -21,6 +21,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | MQ Position  | MQ Report                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
-| `Leader`     | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2025)                         |
+| `Leader`     | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2025)                                   |
 | `Challenger` | [Exposure Assessment Platforms](/reports/exposure-assessment-platforms.md#report-2025)                         |
 | `Visionary`  | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2025) |

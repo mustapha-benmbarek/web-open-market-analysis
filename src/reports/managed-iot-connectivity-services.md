@@ -67,4 +67,4 @@ and view the magic quadrant graphic
 | `Visionary`    | [KORE](/vendors/kore.md)                               |
 | `Niche Player` | [Tele2 IoT](/vendors/tele2.md)                         |
 | `Challenger`   | [Itron](/vendors/itron.md)                             |
-| `Challenger`   | [Cubic Telecom](/vendors/cubic-telecom.md)             |
+| `Challenger`   | [Cubic Telecom](/vendors/cubic.md)                     |
