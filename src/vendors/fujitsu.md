@@ -14,3 +14,10 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Cloud ERP Services](/reports/cloud-erp-services.md#report-2026)                                                     |
 | `Niche Player` | [Infrastructure Platform Consumption Services](/reports/infrastructure-platform-consumption-services.md#report-2026) |
+
+## Market 2025
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
+
+| MQ Position  | MQ Report                   |
+| ------------ | --------------------------- |

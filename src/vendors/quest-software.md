@@ -13,3 +13,4 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | MQ Position  | MQ Report                                                                              |
 | ------------ | -------------------------------------------------------------------------------------- |
 | `Challenger` | [Metadata Management Solutions](/reports/metadata-management-solutions.md#report-2025) |
+
