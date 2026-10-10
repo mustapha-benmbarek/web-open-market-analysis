@@ -48,7 +48,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Pure Storage](/vendors/pure-storage.md)       |
 | `Leader`       | [NetApp](/vendors/netapp.md)                   |
 | `Leader`       | [Huawei](/vendors/huawei.md)                   |
-| `Leader`       | [HPE](/vendors/hpe.md)                         |
+| `Leader`       | [HPE](/vendors/hewlett-packard.md)             |
 | `Leader`       | [Dell Technologies](/vendors/dell.md)          |
 | `Leader`       | [IBM](/vendors/ibm.md)                         |
 | `Visionary`    | [Hitachi Vantara](/vendors/hitachi-vantara.md) |

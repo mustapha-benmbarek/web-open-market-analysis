@@ -50,7 +50,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Stonebranch](/vendors/stonebranch.md)                     |
 | `Leader`       | [IBM](/vendors/ibm.md)                                     |
 | `Leader`       | [Broadcom](/vendors/broadcom.md)                           |
-| `Leader`       | [HCLSoftware ](/vendors/hclsoftware-.md)                   |
+| `Leader`       | [HCLSoftware ](/vendors/hcl.md)                            |
 | `Leader`       | [Beta Systems Software](/vendors/beta-systems-software.md) |
 | `Visionary`    | [Resolve](/vendors/resolve.md)                             |
 | `Niche Player` | [Absyss](/vendors/absyss.md)                               |

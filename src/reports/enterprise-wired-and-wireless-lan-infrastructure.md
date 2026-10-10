@@ -54,7 +54,7 @@ and view the magic quadrant graphic
 | -------------- | ------------------------------------------------------------- |
 | `Leader`       | [Juniper Networks](/vendors/juniper-networks.md)              |
 | `Leader`       | [Huawei](/vendors/huawei.md)                                  |
-| `Leader`       | [HPE (Aruba)](</vendors/hpe-(aruba).md>)                      |
+| `Leader`       | [HPE (Aruba)](/vendors/hewlett-packard.md)                    |
 | `Leader`       | [Fortinet](/vendors/fortinet.md)                              |
 | `Visionary`    | [Arista Networks](/vendors/arista-networks.md)                |
 | `Visionary`    | [Extreme Networks](/vendors/extreme-networks.md)              |
