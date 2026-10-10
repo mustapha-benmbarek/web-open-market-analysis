@@ -18,5 +18,8 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position  | MQ Report                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| `Challenger` | [4G and 5G Private Mobile Network Services](/reports/4g-and-5g-private-mobile-network-services.md#report-2025)       |
+| `Leader`     | [CSP 5G Core Network Infrastructure Solutions](/reports/csp-5g-core-network-infrastructure-solutions.md#report-2025) |
+| `Leader`     | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2025)                   |

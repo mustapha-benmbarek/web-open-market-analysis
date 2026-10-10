@@ -59,7 +59,7 @@ and view the magic quadrant graphic
 | `Niche Player` | [Alex Solutions](/vendors/alex-solutions.md)                 |
 | `Niche Player` | [Ataccama](/vendors/ataccama.md)                             |
 | `Niche Player` | [DataGalaxy](/vendors/datagalaxy.md)                         |
-| `Niche Player` | [erwin by Quest](/vendors/erwin-by-quest.md)                 |
+| `Niche Player` | [erwin by Quest](/vendors/quest-software.md)                 |
 | `Niche Player` | [OvalEdge](/vendors/ovaledge.md)                             |
 | `Niche Player` | [Ab Initio Software](/vendors/ab-initio.md)                  |
 | `Niche Player` | [Solidatus](/vendors/solidatus.md)                           |

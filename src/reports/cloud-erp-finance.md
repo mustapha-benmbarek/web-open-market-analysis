@@ -37,7 +37,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Microsoft (Dynamics 365)](/vendors/microsoft.md)     |
 | `Leader`       | [SAP (SAP Cloud ERP)](/vendors/sap.md)                |
 | `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)       |
-| `Visionary`    | [Epicor Software](/vendors/epicor-software.md)        |
+| `Visionary`    | [Epicor Software](/vendors/epicor.md)                 |
 | `Visionary`    | [Infor](/vendors/infor.md)                            |
 | `Niche Player` | [Microsoft (Business Central)](/vendors/microsoft.md) |
 | `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)            |

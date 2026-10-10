@@ -18,5 +18,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position  | MQ Report                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Observability Platforms](/reports/observability-platforms.md#report-2025)                                     |
+| `Visionary`  | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2025) |

@@ -19,5 +19,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2025**.
 
-| MQ Position  | MQ Report                   |
-| ------------ | --------------------------- |
+| MQ Position    | MQ Report                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Finance Transformation Strategy Consulting](/reports/finance-transformation-strategy-consulting.md#report-2025) |
+| `Niche Player` | [Software Asset Management Managed Services](/reports/software-asset-management-managed-services.md#report-2025) |
