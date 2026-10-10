@@ -62,7 +62,7 @@ and view the magic quadrant graphic
 | `Visionary`    | [Meter](/vendors/meter.md)                                    |
 | `Niche Player` | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
 | `Niche Player` | [H3C](/vendors/h3c.md)                                        |
-| `Niche Player` | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
+| `Niche Player` | [CommScope (RUCKUS)](/vendors/ruckus-networks.md)             |
 | `Niche Player` | [Join Digital](/vendors/join-digital.md)                      |
 | `Niche Player` | [Allied Telesis](/vendors/allied-telesis.md)                  |
 | `Niche Player` | [TP-Link](/vendors/tp-link.md)                                |
@@ -83,7 +83,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Huawei](/vendors/huawei.md)                                  |
 | `Leader`       | [Cisco](/vendors/cisco.md)                                    |
 | `Leader`       | [Fortinet](/vendors/fortinet.md)                              |
-| `Visionary`    | [CommScope (RUCKUS)](</vendors/commscope-(ruckus).md>)        |
+| `Visionary`    | [CommScope (RUCKUS)](/vendors/ruckus-networks.md)             |
 | `Visionary`    | [Arista Networks](/vendors/arista-networks.md)                |
 | `Niche Player` | [Cambium Networks](/vendors/cambium-networks.md)              |
 | `Niche Player` | [Alcatel-Lucent Enterprise (ALE)](/vendors/alcatel-lucent.md) |
