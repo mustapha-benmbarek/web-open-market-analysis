@@ -4,7 +4,7 @@ description: Market Vendor | Boston Consulting Group
 hide_menu: true
 ---
 
-# Boston Consulting Group
+# Boston Consulting Group (BCG)
 
 ## Market 2026
 
