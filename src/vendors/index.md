@@ -203,7 +203,7 @@ This section provides an organized index of product or service based providers c
 - [Bottomline](/vendors/bottomline.md)
 - [Boost.ai](/vendors/boost.ai.md)
 - [Bosch](/vendors/bosch.md)
-- [Boston Consulting Group](/vendors/boston-consulting-group.md)
+- [Boston Consulting Group (BCG)](/vendors/boston-consulting-group.md)
 - [Box](/vendors/box.md)
 - [Braincube](/vendors/braincube.md)
 - [Braze](/vendors/braze.md)
