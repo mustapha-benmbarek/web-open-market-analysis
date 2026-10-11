@@ -46,6 +46,6 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Contact Center as a Service](/reports/contact-center-as-a-service.md#report-2024)                                           |
 | `Challenger`   | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                       |
 | `Niche Player` | [Email Security](/reports/email-security.md#report-2024)                                                                     |
-| `Visionary`    | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024)                                       |
+| `Visionary`    | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                 |
 | `Leader`       | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024) |
 | `Leader`       | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024)                           |

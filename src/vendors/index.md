@@ -253,6 +253,15 @@ This section provides an organized index of product or service based providers c
 - [Cisco](/vendors/cisco.md)
 - [Cisco](/vendors/cisco.md)
 - [Cisco](/vendors/cisco.md)
+- [Citrix](/vendors/citrix.md)
+- [ClickUp](/vendors/clickup.md)
+- [ClickUp](/vendors/clickup.md)
+- [ClientSuccess](/vendors/clientsuccess.md)
+- [CloudBees](/vendors/cloudbees.md)
+- [CloudBolt](/vendors/cloudbolt.md)
+- [CloudEagle.ai](/vendors/cloudeagle.ai.md)
+- [Cloudera](/vendors/cloudera.md)
+- [Cloudera](/vendors/cloudera.md)
 
 ### C (initial)
 

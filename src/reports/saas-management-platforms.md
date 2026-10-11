@@ -87,7 +87,7 @@ and view the magic quadrant graphic
 | `Niche Player` | [USU](/vendors/usu.md)                                           |
 | `Niche Player` | [Oomnitza](/vendors/oomnitza.md)                                 |
 | `Niche Player` | [Josys](/vendors/josys.md)                                       |
-| `Niche Player` | [CloudEagle](/vendors/cloudeagle.md)                             |
+| `Niche Player` | [CloudEagle](/vendors/cloudeagle.ai.md)                          |
 | `Niche Player` | [FinQuery](/vendors/finquery.md)                                 |
 | `Challenger`   | [Flexera (Snow Software)](</vendors/flexera-(snow-software).md>) |
 | `Challenger`   | [ServiceNow](/vendors/servicenow.md)                             |
