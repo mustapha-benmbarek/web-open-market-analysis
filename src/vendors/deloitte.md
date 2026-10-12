@@ -31,3 +31,15 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [Finance Transformation Strategy Consulting](/reports/finance-transformation-strategy-consulting.md#report-2025)                   |
 | `Leader`     | [Public Cloud IT Transformation Services](/reports/public-cloud-it-transformation-services.md#report-2025)                         |
 | `Challenger` | [Software Asset Management Managed Services](/reports/software-asset-management-managed-services.md#report-2025)                   |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Custom Software Development Services](/reports/custom-software-development-services.md#report-2024)                               |
+| `Leader`     | [Digital Experience Services](/reports/digital-experience-services.md#report-2024)                                                 |
+| `Leader`     | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Leader`     | [Finance Transformation Strategy Consulting](/reports/finance-transformation-strategy-consulting.md#report-2024)                   |
+| `Challenger` | [Software Asset Management Managed Services](/reports/software-asset-management-managed-services.md#report-2024)                   |

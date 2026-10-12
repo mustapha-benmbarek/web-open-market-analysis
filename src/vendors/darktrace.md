@@ -24,3 +24,11 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`  | [CPS Protection Platforms](/reports/cps-protection-platforms.md#report-2025)             |
 | `Leader`     | [Email Security](/reports/email-security.md#report-2025)                                 |
 | `Leader`     | [Network Detection and Response](/reports/network-detection-and-response.md#report-2025) |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                |
+| ------------ | -------------------------------------------------------- |
+| `Challenger` | [Email Security](/reports/email-security.md#report-2024) |

@@ -28,3 +28,12 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Outsourced Digital Workplace Services](/reports/outsourced-digital-workplace-services.md#report-2025)                      |
 | `Niche Player` | [SaaS P&C Insurance Core Platforms, North America](/reports/saas-p&c-insurance-core-platforms-north-america.md#report-2025) |
 | `Challenger`   | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2025)          |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Custom Software Development Services](/reports/custom-software-development-services.md#report-2024)                        |
+| `Niche Player` | [SaaS P&C Insurance Core Platforms, North America](/reports/saas-p&c-insurance-core-platforms-north-america.md#report-2024) |
