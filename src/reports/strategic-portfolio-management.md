@@ -71,7 +71,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Planview](/vendors/planview.md)                                 |
 | `Leader`       | [Broadcom](/vendors/broadcom.md)                                 |
 | `Niche Player` | [Shibumi](/vendors/shibumi.md)                                   |
-| `Niche Player` | [Wellspring (Sopheon)](</vendors/wellspring-(sopheon).md>)       |
+| `Niche Player` | [Wellspring (Sopheon)](/vendors/wellspring.md)                   |
 | `Niche Player` | [Uppwise](/vendors/uppwise.md)                                   |
 | `Niche Player` | [Cora Systems](/vendors/cora-systems.md)                         |
 | `Challenger`   | [North Highland (UMT360)](</vendors/north-highland-(umt360).md>) |

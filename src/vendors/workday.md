@@ -31,3 +31,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2025)                              |
 | `Leader`     | [Higher Education Student Information System Software as a Service](/reports/higher-education-student-information-system-saas.md#report-2025) |
 | `Leader`     | [Talent Acquisition (Recruiting) Suites](/reports/talent-acquisition-suites.md#report-2025)                                                   |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                                                                        |
+| ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)   |
+| `Leader`     | [Financial Planning Software](/reports/financial-planning-software.md#report-2024)                               |
+| `Leader`     | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024) |
