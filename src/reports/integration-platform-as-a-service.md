@@ -98,6 +98,6 @@ and view the magic quadrant graphic
 | `Visionary`    | [Jitterbit](/vendors/jitterbit.md)              |
 | `Niche Player` | [IBM](/vendors/ibm.md)                          |
 | `Niche Player` | [Huawei](/vendors/huawei.md)                    |
-| `Niche Player` | [TIBCO Software](/vendors/tibco-software.md)    |
+| `Niche Player` | [TIBCO Software](/vendors/tibco.md)             |
 | `Niche Player` | [Frends](/vendors/frends.md)                    |
 | `Challenger`   | [Amazon Web Services](/vendors/amazon.md)       |

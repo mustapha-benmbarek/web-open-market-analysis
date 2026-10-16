@@ -28,3 +28,12 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Outsourced Digital Workplace Services](/reports/outsourced-digital-workplace-services.md#report-2025)                             |
 | `Niche Player` | [Public Cloud IT Transformation Services](/reports/public-cloud-it-transformation-services.md#report-2025)                         |
 | `Niche Player` | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2025)                 |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Niche Player` | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2024)                 |

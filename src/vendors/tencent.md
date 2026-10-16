@@ -31,3 +31,16 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Container Management](/reports/container-management.md#report-2025)                                 |
 | `Niche Player` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2025)       |
 | `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)       |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                            |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                     |
+| `Niche Player` | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                   |
+| `Challenger`   | [Communications Platform as a Service](/reports/communications-platform-as-a-service.md#report-2024) |
+| `Challenger`   | [Container Management](/reports/container-management.md#report-2024)                                 |
+| `Niche Player` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)       |
+| `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)       |

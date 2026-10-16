@@ -33,3 +33,14 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`    | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2025) |
 | `Leader`       | [Data Center Outsourcing Services](/reports/data-center-outsourcing-services.md#report-2025)                                       |
 | `Leader`       | [Core Banking Systems](/reports/core-banking-systems.md#report-2025)                                                               |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Custom Software Development Services](/reports/custom-software-development-services.md#report-2024)                               |
+| `Niche Player` | [Digital Experience Services](/reports/digital-experience-services.md#report-2024)                                                 |
+| `Leader`       | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Leader`       | [Service Integration and Management Services](/reports/service-integration-and-management-services.md#report-2024)                 |
