@@ -83,7 +83,7 @@ and view the magic quadrant graphic
 | `Niche Player` | [Zoho](/vendors/zoho.md)                           |
 | `Niche Player` | [Sisense](/vendors/sisense.md)                     |
 | `Niche Player` | [Incorta](/vendors/incorta.md)                     |
-| `Niche Player` | [GoodData](/vendors/gooddata.md)                   |
+| `Niche Player` | [GoodData](/vendors/gooddata.ai.md)                |
 | `Challenger`   | [Domo](/vendors/domo.md)                           |
 | `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)         |
 | `Challenger`   | [Amazon Web Services](/vendors/amazon.md)          |
@@ -112,7 +112,7 @@ and view the magic quadrant graphic
 | `Niche Player` | [Incorta](/vendors/incorta.md)                     |
 | `Niche Player` | [Zoho](/vendors/zoho.md)                           |
 | `Niche Player` | [Sisense](/vendors/sisense.md)                     |
-| `Niche Player` | [GoodData](/vendors/gooddata.md)                   |
+| `Niche Player` | [GoodData](/vendors/gooddata.ai.md)                |
 | `Challenger`   | [Amazon Web Services](/vendors/amazon.md)          |
 | `Challenger`   | [Domo](/vendors/domo.md)                           |
 | `Challenger`   | [MicroStrategy](/vendors/microstrategy.md)         |

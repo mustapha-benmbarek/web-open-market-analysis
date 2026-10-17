@@ -58,4 +58,4 @@ and view the magic quadrant graphic
 | `Niche Player` | [Nielsen](/vendors/nielsen.md)                             |
 | `Niche Player` | [Kantar](/vendors/kantar.md)                               |
 | `Niche Player` | [Keen Decision Systems](/vendors/keen-decision-systems.md) |
-| `Niche Player` | [Fractal Analytics](/vendors/fractal-analytics.md)         |
+| `Niche Player` | [Fractal Analytics](/vendors/fractal.md)                   |

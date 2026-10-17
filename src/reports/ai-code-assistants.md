@@ -49,7 +49,7 @@ and view the magic quadrant graphic
 | -------------- | ------------------------------------------ |
 | `Leader`       | [GitHub](/vendors/github.md)               |
 | `Leader`       | [GitLab](/vendors/gitlab.md)               |
-| `Leader`       | [Google Cloud](/vendors/google-cloud.md)   |
+| `Leader`       | [Google Cloud](/vendors/google.md)         |
 | `Leader`       | [Amazon Web Services](/vendors/amazon.md)  |
 | `Visionary`    | [Sourcegraph](/vendors/sourcegraph.md)     |
 | `Niche Player` | [Tabnine](/vendors/tabnine.md)             |

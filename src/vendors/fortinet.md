@@ -40,7 +40,7 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 
 | MQ Position    | MQ Report                                                                                                                    |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection-platforms.md#report-2024)                                       |
+| `Niche Player` | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                                 |
 | `Leader`       | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024) |
 | `Challenger`   | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024)               |
 | `Challenger`   | [Security Service Edge](/reports/security-service-edge.md#report-2024)                                                       |

@@ -48,22 +48,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/api-management.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                    |
-| -------------- | ------------------------------------------------------------ |
-| `Leader`       | [Google Cloud (Apigee)](</vendors/google-cloud-(apigee).md>) |
-| `Leader`       | [IBM](/vendors/ibm.md)                                       |
-| `Leader`       | [Axway](/vendors/axway.md)                                   |
-| `Leader`       | [Salesforce (MuleSoft)](/vendors/salesforce.md)              |
-| `Leader`       | [Kong](/vendors/kong.md)                                     |
-| `Leader`       | [Gravitee.io](/vendors/gravitee.io.md)                       |
-| `Leader`       | [SmartBear](/vendors/smartbear.md)                           |
-| `Visionary`    | [WSO2](/vendors/wso2.md)                                     |
-| `Visionary`    | [Solo.io](/vendors/solo.io.md)                               |
-| `Visionary`    | [Postman](/vendors/postman.md)                               |
-| `Niche Player` | [Software AG](/vendors/software-ag.md)                       |
-| `Niche Player` | [Boomi](/vendors/boomi.md)                                   |
-| `Niche Player` | [Sensedia](/vendors/sensedia.md)                             |
-| `Challenger`   | [Microsoft](/vendors/microsoft.md)                           |
-| `Challenger`   | [Amazon Web Services](/vendors/amazon.md)                    |
-| `Challenger`   | [SAP](/vendors/sap.md)                                       |
-| `Challenger`   | [Tyk](/vendors/tyk.md)                                       |
+| MQ Position    | MQ Vendor                                       |
+| -------------- | ----------------------------------------------- |
+| `Leader`       | [Google Cloud (Apigee)](/vendors/google.md)     |
+| `Leader`       | [IBM](/vendors/ibm.md)                          |
+| `Leader`       | [Axway](/vendors/axway.md)                      |
+| `Leader`       | [Salesforce (MuleSoft)](/vendors/salesforce.md) |
+| `Leader`       | [Kong](/vendors/kong.md)                        |
+| `Leader`       | [Gravitee.io](/vendors/gravitee.md)             |
+| `Leader`       | [SmartBear](/vendors/smartbear.md)              |
+| `Visionary`    | [WSO2](/vendors/wso2.md)                        |
+| `Visionary`    | [Solo.io](/vendors/solo.io.md)                  |
+| `Visionary`    | [Postman](/vendors/postman.md)                  |
+| `Niche Player` | [Software AG](/vendors/software-ag.md)          |
+| `Niche Player` | [Boomi](/vendors/boomi.md)                      |
+| `Niche Player` | [Sensedia](/vendors/sensedia.md)                |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)              |
+| `Challenger`   | [Amazon Web Services](/vendors/amazon.md)       |
+| `Challenger`   | [SAP](/vendors/sap.md)                          |
+| `Challenger`   | [Tyk](/vendors/tyk.md)                          |
