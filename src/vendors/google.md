@@ -51,3 +51,22 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                         |
 | `Niche Player` | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2025)                     |
 | `Leader`       | [AI Code Assistants](/reports/ai-code-assistants.md#report-2025)                                                       |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                                                                              |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
+| `Leader`     | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |
+| `Leader`     | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |
+| `Leader`     | [Container Management](/reports/container-management.md#report-2024)                                                   |
+| `Leader`     | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                               |
+| `Leader`     | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
+| `Visionary`  | [Search and Product Discovery](/reports/search-and-product-discovery.md#report-2024)                                   |
+| `Visionary`  | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024)         |
+| `Leader`     | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |
+| `Challenger` | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024)                     |
+| `Leader`     | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                                       |
+| `Leader`     | [API Management](/reports/api-management.md#report-2024)                                                               |

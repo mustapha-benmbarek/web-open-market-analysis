@@ -46,3 +46,20 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2025)                               |
 | `Visionary`    | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)                               |
 | `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                               |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `Challenger`   | [Container Management](/reports/container-management.md#report-2024)                                                         |
+| `Leader`       | [CSP 5G Core Network Infrastructure Solutions](/reports/csp-5g-core-network-infrastructure-solutions.md#report-2024)         |
+| `Leader`       | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2024)                           |
+| `Niche Player` | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                               |
+| `Leader`       | [Enterprise Wired and Wireless LAN Infrastructure](/reports/enterprise-wired-and-wireless-lan-infrastructure.md#report-2024) |
+| `Niche Player` | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                               |
+| `Niche Player` | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024)               |
+| `Niche Player` | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                           |
+| `Challenger`   | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                               |
+| `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                               |

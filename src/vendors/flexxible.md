@@ -23,3 +23,11 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2025)                                                 |
 | `Niche Player` | [Digital Employee Experience Management Tools](/reports/digital-employee-experience-management-tools.md#report-2025) |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                            |
+| -------------- | -------------------------------------------------------------------- |
+| `Niche Player` | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024) |

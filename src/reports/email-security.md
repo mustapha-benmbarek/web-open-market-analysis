@@ -45,19 +45,19 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/email-security.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                          |
-| -------------- | ------------------------------------------------------------------ |
-| `Leader`       | [Proofpoint](/vendors/proofpoint.md)                               |
-| `Leader`       | [Trend Micro](/vendors/trend-micro.md)                             |
-| `Leader`       | [Check Point](/vendors/check-point.md)                             |
-| `Leader`       | [Abnormal](/vendors/abnormal-ai.md)                                |
-| `Leader`       | [Mimecast](/vendors/mimecast.md)                                   |
-| `Leader`       | [Egress, a KnowBe4 company](/vendors/egress,-a-knowbe4-company.md) |
-| `Visionary`    | [IRONSCALES](/vendors/ironscales.md)                               |
-| `Visionary`    | [Perception Point](/vendors/perception-point.md)                   |
-| `Visionary`    | [Barracuda](/vendors/barracuda.md)                                 |
-| `Niche Player` | [Cisco](/vendors/cisco.md)                                         |
-| `Niche Player` | [Cloudflare](/vendors/cloudflare.md)                               |
-| `Niche Player` | [Hornetsecurity](/vendors/hornetsecurity.md)                       |
-| `Challenger`   | [Microsoft](/vendors/microsoft.md)                                 |
-| `Challenger`   | [Darktrace](/vendors/darktrace.md)                                 |
+| MQ Position    | MQ Vendor                                        |
+| -------------- | ------------------------------------------------ |
+| `Leader`       | [Proofpoint](/vendors/proofpoint.md)             |
+| `Leader`       | [Trend Micro](/vendors/trend-micro.md)           |
+| `Leader`       | [Check Point](/vendors/check-point.md)           |
+| `Leader`       | [Abnormal](/vendors/abnormal-ai.md)              |
+| `Leader`       | [Mimecast](/vendors/mimecast.md)                 |
+| `Leader`       | [Egress (KnowBe4)](/vendors/knowbe4.md)          |
+| `Visionary`    | [IRONSCALES](/vendors/ironscales.md)             |
+| `Visionary`    | [Perception Point](/vendors/perception-point.md) |
+| `Visionary`    | [Barracuda](/vendors/barracuda.md)               |
+| `Niche Player` | [Cisco](/vendors/cisco.md)                       |
+| `Niche Player` | [Cloudflare](/vendors/cloudflare.md)             |
+| `Niche Player` | [Hornetsecurity](/vendors/hornetsecurity.md)     |
+| `Challenger`   | [Microsoft](/vendors/microsoft.md)               |
+| `Challenger`   | [Darktrace](/vendors/darktrace.md)               |

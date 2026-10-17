@@ -1,10 +1,10 @@
 ---
 title: xxxxxxxxxxxxxx
-description: Market Vendor | xxxxxxxxxxxxxx
+description: Market Vendor | xxxxxxxxxxx
 hide_menu: true
 ---
 
-# xxxxxxxxxxxxxx
+# xxxxxxxxxxxx
 
 ## Market 2024
 
