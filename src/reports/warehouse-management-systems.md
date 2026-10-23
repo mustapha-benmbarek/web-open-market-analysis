@@ -79,7 +79,7 @@ and view the magic quadrant graphic
 | MQ Position    | MQ Vendor                                                |
 | -------------- | -------------------------------------------------------- |
 | `Leader`       | [Manhattan Associates](/vendors/manhattan-associates.md) |
-| `Leader`       | [Korber](/vendors/korber.md)                             |
+| `Leader`       | [Korber](/vendors/infios.md)                             |
 | `Leader`       | [Blue Yonder](/vendors/blue-yonder.md)                   |
 | `Leader`       | [SAP](/vendors/sap.md)                                   |
 | `Leader`       | [Oracle](/vendors/oracle.md)                             |
