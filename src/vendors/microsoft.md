@@ -85,6 +85,43 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2025)                                                           |
 | `Niche Player` | [Cloud ERP Finance](/reports/cloud-erp-finance.md#report-2025)                                                                                 |
 | `Niche Player` | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2025)                                 |
-| `Leader`       | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-us-local-government.md#report-2025)                                 |
+| `Leader`       | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-us-local-government.md#report-2025)                                   |
 | `Leader`       | [Cloud ERP Finance](/reports/cloud-erp-finance.md#report-2025)                                                                                 |
 | `Leader`       | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2025)                                 |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Access Management](/reports/access-management.md#report-2024)                                                         |
+| `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
+| `Challenger`   | [API Management](/reports/api-management.md#report-2024)                                                               |
+| `Leader`       | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2024)                       |
+| `Niche Player` | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2024)                   |
+| `Leader`       | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |
+| `Leader`       | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)         |
+| `Leader`       | [Container Management](/reports/container-management.md#report-2024)                                                   |
+| `Leader`       | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024)                               |
+| `Niche Player` | [CSP 5G Core Network Infrastructure Solutions](/reports/csp-5g-core-network-infrastructure-solutions.md#report-2024)   |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                               |
+| `Leader`       | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)     |
+| `Leader`       | [Desktop as a Service](/reports/desktop-as-a-service.md#report-2024)                                                   |
+| `Leader`       | [DevOps Platforms](/reports/devops-platforms.md#report-2024)                                                           |
+| `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                         |
+| `Challenger`   | [Email Security](/reports/email-security.md#report-2024)                                                               |
+| `Leader`       | [Endpoint Protection Platforms](/reports/endpoint-protection.md#report-2024)                                           |
+| `Leader`       | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024)         |
+| `Leader`       | [Global Industrial IoT Platforms](/reports/global-industrial-iot-platforms.md#report-2024)                             |
+| `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                         |
+| `Challenger`   | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                             |
+| `Leader`       | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                                       |
+| `Leader`       | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2024)                           |
+| `Leader`       | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024)         |
+| `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |
+| `Leader`       | [Unified Communications as a Service](/reports/unified-communications-as-a-service.md#report-2024)                     |
+| `Challenger`   | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2024)                                   |
+| `Niche Player` | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |
+| `Leader`       | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |

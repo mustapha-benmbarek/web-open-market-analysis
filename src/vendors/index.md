@@ -667,6 +667,7 @@ This section provides an organized index of product or service based providers c
 - [Join Digital](/vendors/join-digital.md)
 - [Josys](/vendors/josys.md)
 - [Joulica](/vendors/joulica.md)
+- [Jumio](/vendors/jumio.md)
 - [Juniper Networks](/vendors/juniper-networks.md)
 
 ### K

@@ -77,7 +77,7 @@ and view the magic quadrant graphic
 
 | MQ Position    | MQ Vendor                                                     |
 | -------------- | ------------------------------------------------------------- |
-| `Leader`       | [Juniper](/vendors/juniper.md)                                |
+| `Leader`       | [Juniper](/vendors/juniper-networks.md)                       |
 | `Leader`       | [HPE (Aruba)](/vendors/hewlett-packard.md)                    |
 | `Leader`       | [Extreme Networks](/vendors/extreme-networks.md)              |
 | `Leader`       | [Huawei](/vendors/huawei.md)                                  |
