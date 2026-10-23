@@ -81,3 +81,31 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2025)         |
 | `Leader`     | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2025)         |
 | `Leader`     | [Core Banking Systems](/reports/core-banking-systems.md#report-2025)                                                   |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
+| `Leader`       | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2024)                       |
+| `Niche Player` | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                     |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |
+| `Challenger`   | [Container Management](/reports/container-management.md#report-2024)                                                   |
+| `Leader`       | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024)                               |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                               |
+| `Leader`       | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                         |
+| `Challenger`   | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024)         |
+| `Leader`       | [Financial Planning Software](/reports/financial-planning-software.md#report-2024)                                     |
+| `Leader`       | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024)       |
+| `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                         |
+| `Niche Player` | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                             |
+| `Leader`       | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2024)                           |
+| `Leader`       | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                         |
+| `Leader`       | [Supply Chain Planning Solutions](/reports/supply-chain-planning-solutions.md#report-2024)                             |
+| `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2024)                                   |
+| `Leader`       | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)         |
+| `Leader`       | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |
+| `Challenger`   | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)         |
+| `Challenger`   | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |
