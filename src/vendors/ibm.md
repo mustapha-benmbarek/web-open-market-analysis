@@ -78,3 +78,32 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                   |
 | `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2025)           |
 | `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2025)                                     |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Access Management](/reports/access-management.md#report-2024)                                                                     |
+| `Challenger`   | [AI Code Assistants](/reports/ai-code-assistants.md#report-2024)                                                                   |
+| `Visionary`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024)             |
+| `Leader`       | [API Management](/reports/api-management.md#report-2024)                                                                           |
+| `Visionary`    | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2024)                               |
+| `Leader`       | [Cloud AI Developer Services](/reports/cloud-ai-developer-services.md#report-2024)                                                 |
+| `Leader`       | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                                     |
+| `Leader`       | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2024)                                       |
+| `Leader`       | [Custom Software Development Services](/reports/custom-software-development-services.md#report-2024)                               |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                                           |
+| `Challenger`   | [Data Science and Machine Learning Platforms](/reports/data-science-and-machine-learning-platforms.md#report-2024)                 |
+| `Visionary`    | [Digital Experience Monitoring](/reports/digital-experience-monitoring.md#report-2024)                                             |
+| `Challenger`   | [Digital Experience Services](/reports/digital-experience-services.md#report-2024)                                                 |
+| `Visionary`    | [Distributed Hybrid Infrastructure](/reports/distributed-hybrid-infrastructure.md#report-2024)                                     |
+| `Leader`       | [Finance and Accounting Business Process Outsourcing](/reports/finance-and-accounting-business-process-outsourcing.md#report-2024) |
+| `Challenger`   | [Financial Planning Software](/reports/financial-planning-software.md#report-2024)                                                 |
+| `Niche Player` | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                                     |
+| `Visionary`    | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                                         |
+| `Niche Player` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                                                   |
+| `Leader`       | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024)                     |
+| `Leader`       | [Service Orchestration and Automation Platforms](/reports/service-orchestration-and-automation-platforms.md#report-2024)           |
+| `Niche Player` | [Strategic Cloud Platform Services](/reports/strategic-cloud-platform-services.md#report-2024)                                     |

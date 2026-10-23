@@ -22,3 +22,11 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | -------------- | ---------------------------------------------------------------------------------------------------------------- |
 | `Niche Player` | [Public Cloud IT Transformation Services](/reports/public-cloud-it-transformation-services.md#report-2025)       |
 | `Niche Player` | [Software Asset Management Managed Services](/reports/software-asset-management-managed-services.md#report-2025) |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Software Asset Management Managed Services](/reports/software-asset-management-managed-services.md#report-2024) |

@@ -31,3 +31,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2025) |
 | `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2025)                             |
 | `Leader`       | [Cloud Based ERP for U.S. Local Government](/reports/cloud-based-erp-for-us-local-government.md#report-2025)     |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)   |
+| `Niche Player` | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024) |
+| `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2024)                             |

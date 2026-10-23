@@ -64,16 +64,16 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/identity-verification.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                              |
-| -------------- | ------------------------------------------------------ |
-| `Leader`       | [Sumsub](/vendors/sumsub.md)                           |
-| `Leader`       | [Socure](/vendors/socure.md)                           |
-| `Leader`       | [Entrust](/vendors/entrust.md)                         |
-| `Leader`       | [Jumio](/vendors/jumio.md)                             |
-| `Leader`       | [Incode Technologies](/vendors/incode-technologies.md) |
-| `Visionary`    | [Mitek Systems](/vendors/mitek-systems.md)             |
-| `Visionary`    | [AU10TIX](/vendors/au10tix.md)                         |
-| `Niche Player` | [1Kosmos](/vendors/1kosmos.md)                         |
-| `Niche Player` | [GB Group](/vendors/gb-group.md)                       |
-| `Niche Player` | [ZOLOZ](/vendors/zoloz.md)                             |
-| `Challenger`   | [Persona](/vendors/persona.md)                         |
+| MQ Position    | MQ Vendor                                  |
+| -------------- | ------------------------------------------ |
+| `Leader`       | [Sumsub](/vendors/sumsub.md)               |
+| `Leader`       | [Socure](/vendors/socure.md)               |
+| `Leader`       | [Entrust](/vendors/entrust.md)             |
+| `Leader`       | [Jumio](/vendors/jumio.md)                 |
+| `Leader`       | [Incode Technologies](/vendors/incode.md)  |
+| `Visionary`    | [Mitek Systems](/vendors/mitek-systems.md) |
+| `Visionary`    | [AU10TIX](/vendors/au10tix.md)             |
+| `Niche Player` | [1Kosmos](/vendors/1kosmos.md)             |
+| `Niche Player` | [GB Group](/vendors/gb-group.md)           |
+| `Niche Player` | [ZOLOZ](/vendors/zoloz.md)                 |
+| `Challenger`   | [Persona](/vendors/persona.md)             |

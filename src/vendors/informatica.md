@@ -25,3 +25,12 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [Data Integration Tools](/reports/data-integration-tools.md#report-2025)                                   |
 | `Leader`     | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)             |
 | `Leader`     | [Metadata Management Solutions](/reports/metadata-management-solutions.md#report-2025)                     |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                                                      |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| `Leader`     | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                       |
+| `Leader`     | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024) |
