@@ -75,22 +75,22 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/recurring-billing-applications.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                        |
-| -------------- | ------------------------------------------------ |
-| `Leader`       | [BillingPlatform](/vendors/billingplatform.md)   |
-| `Leader`       | [Stripe](/vendors/stripe.md)                     |
-| `Leader`       | [SAP](/vendors/sap.md)                           |
-| `Leader`       | [Zuora](/vendors/zuora.md)                       |
-| `Leader`       | [Chargebee](/vendors/chargebee.md)               |
-| `Visionary`    | [keylight](/vendors/keylight.md)                 |
-| `Visionary`    | [OneBill Software](/vendors/onebill-software.md) |
-| `Niche Player` | [Recurly](/vendors/recurly.md)                   |
-| `Niche Player` | [CSG](/vendors/csg.md)                           |
-| `Niche Player` | [Salesforce](/vendors/salesforce.md)             |
-| `Niche Player` | [RecVue](/vendors/recvue.md)                     |
-| `Niche Player` | [Billwerk+](/vendors/billwerk+.md)               |
-| `Niche Player` | [Gotransverse](/vendors/gotransverse.md)         |
-| `Niche Player` | [AppDirect](/vendors/appdirect.md)               |
-| `Niche Player` | [LogiSense](/vendors/logisense.md)               |
-| `Niche Player` | [Maxio](/vendors/maxio.md)                       |
-| `Challenger`   | [Aria Systems](/vendors/aria-systems.md)         |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [BillingPlatform](/vendors/billingplatform.md) |
+| `Leader`       | [Stripe](/vendors/stripe.md)                   |
+| `Leader`       | [SAP](/vendors/sap.md)                         |
+| `Leader`       | [Zuora](/vendors/zuora.md)                     |
+| `Leader`       | [Chargebee](/vendors/chargebee.md)             |
+| `Visionary`    | [keylight](/vendors/keylight.md)               |
+| `Visionary`    | [OneBill Software](/vendors/onebill.md)        |
+| `Niche Player` | [Recurly](/vendors/recurly.md)                 |
+| `Niche Player` | [CSG](/vendors/csg.md)                         |
+| `Niche Player` | [Salesforce](/vendors/salesforce.md)           |
+| `Niche Player` | [RecVue](/vendors/recvue.md)                   |
+| `Niche Player` | [Billwerk+](/vendors/billwerk+.md)             |
+| `Niche Player` | [Gotransverse](/vendors/gotransverse.md)       |
+| `Niche Player` | [AppDirect](/vendors/appdirect.md)             |
+| `Niche Player` | [LogiSense](/vendors/logisense.md)             |
+| `Niche Player` | [Maxio](/vendors/maxio.md)                     |
+| `Challenger`   | [Aria Systems](/vendors/aria-systems.md)       |

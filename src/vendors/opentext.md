@@ -31,3 +31,15 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2025)         |
 | `Visionary`    | [Digital Asset Management Platforms](/reports/digital-asset-management-platforms.md#report-2025)             |
 | `Challenger`   | [Digital Experience Platforms](/reports/digital-experience-platforms.md#report-2025)                         |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Access Management](/reports/access-management.md#report-2024)                                                 |
+| `Leader`       | [Application Security Testing](/reports/application-security-testing.md#report-2024)                           |
+| `Niche Player` | [Backup and Data Protection Platforms](/reports/backup-and-data-protection-platforms.md#report-2024)           |
+| `Challenger`   | [Digital Experience Platforms](/reports/digital-experience-platforms.md#report-2024)                           |
+| `Visionary`    | [Security Information and Event Management](/reports/security-information-and-event-management.md#report-2024) |

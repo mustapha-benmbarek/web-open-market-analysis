@@ -25,3 +25,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [Digital Commerce](/reports/digital-commerce.md#report-2025)                         |
 | `Leader`       | [Digital Experience Platforms](/reports/digital-experience-platforms.md#report-2025) |
 | `Leader`       | [Personalization Engines](/reports/personalization-engines.md#report-2025)           |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                            |
+| -------------- | ------------------------------------------------------------------------------------ |
+| `Leader`       | [Content Marketing Platforms](/reports/content-marketing-platforms.md#report-2024)   |
+| `Niche Player` | [Digital Commerce](/reports/digital-commerce.md#report-2024)                         |
+| `Leader`       | [Digital Experience Platforms](/reports/digital-experience-platforms.md#report-2024) |
