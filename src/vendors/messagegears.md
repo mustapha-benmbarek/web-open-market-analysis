@@ -1,0 +1,15 @@
+---
+title: MessageGears
+description: Market Vendor | MessageGears
+hide_menu: true
+---
+
+# MessageGears
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                          |
+| -------------- | ---------------------------------------------------------------------------------- |
+| `Niche Player` | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2024) |
