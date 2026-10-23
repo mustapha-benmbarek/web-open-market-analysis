@@ -415,6 +415,7 @@ This section provides an organized index of product or service based providers c
 ### E
 
 - [E2open](/vendors/e2open.md)
+- [EAS](/vendors/eas.md)
 - [EasyVista](/vendors/easyvista.md)
 - [ebidtopay](/vendors/ebidtopay.md)
 - [ECS Fin](/vendors/ecs-fin.md)
@@ -423,6 +424,7 @@ This section provides an organized index of product or service based providers c
 - [EdgeVerve](/vendors/edgeverve.md)
 - [EFESO Management Consultants](/vendors/efeso.md)
 - [eGain](/vendors/egain.md)
+- [Egress (KnowBe4)](/vendors/knowbe4.md)
 - [Ehrhardt Partner Group (EPG)](/vendors/epg.md)
 - [Eightfold AI](/vendors/eightfold-ai.md)
 - [Ekimetrics](/vendors/ekimetrics.md)
@@ -430,6 +432,7 @@ This section provides an organized index of product or service based providers c
 - [Elastic](/vendors/elastic.md)
 - [Ellucian](/vendors/ellucian.md)
 - [emnify](/vendors/emnify.md)
+- [Encora](/vendors/encora.md)
 - [Endava](/vendors/endava.md)
 - [Endor Labs](/vendors/endor-labs.md)
 - [Engage Hub](/vendors/engage-hub.md)
@@ -449,12 +452,15 @@ This section provides an organized index of product or service based providers c
 - [Esker](/vendors/esker.md)
 - [Espressive](/vendors/espressive.md)
 - [Etiya](/vendors/etiya.md)
+- [Eurotech](/vendors/eurotech.md)
 - [EventMobi](/vendors/eventmobi.md)
 - [Everpure](/vendors/everpure.md)
 - [Everstream Analytics](/vendors/everstream-analytics.md)
+- [Evisort](/vendors/evisort.md)
 - [EvoluteIQ](/vendors/evoluteiq.md)
 - [EvolveWare](/vendors/evolveware.md)
 - [Exabeam](/vendors/exabeam.md)
+- [Exela Technologies](/vendors/exela.md)
 - [Exiger](/vendors/exiger.md)
 - [EXL](/vendors/exl.md)
 - [Exosite](/vendors/exosite.md)
@@ -463,6 +469,7 @@ This section provides an organized index of product or service based providers c
 - [Experian](/vendors/experian.md)
 - [ExtraHop](/vendors/extrahop.md)
 - [Extreme Networks](/vendors/extreme-networks.md)
+- [EY](/vendors/ey.md)
 - [Eyelit Technologies](/vendors/eyelit-technologies.md)
 
 ### F
