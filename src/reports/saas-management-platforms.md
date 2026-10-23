@@ -74,20 +74,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/saas-management-platforms.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                        |
-| -------------- | ---------------------------------------------------------------- |
-| `Leader`       | [Zylo](/vendors/zylo.md)                                         |
-| `Leader`       | [Torii](/vendors/torii.md)                                       |
-| `Leader`       | [Zluri](/vendors/zluri.md)                                       |
-| `Visionary`    | [Lumos](/vendors/lumos.md)                                       |
-| `Visionary`    | [BetterCloud](/vendors/bettercloud.md)                           |
-| `Niche Player` | [Productiv](/vendors/productiv.md)                               |
-| `Niche Player` | [Trelica](/vendors/trelica.md)                                   |
-| `Niche Player` | [Calero](/vendors/calero.md)                                     |
-| `Niche Player` | [USU](/vendors/usu.md)                                           |
-| `Niche Player` | [Oomnitza](/vendors/oomnitza.md)                                 |
-| `Niche Player` | [Josys](/vendors/josys.md)                                       |
-| `Niche Player` | [CloudEagle](/vendors/cloudeagle.ai.md)                          |
-| `Niche Player` | [FinQuery](/vendors/finquery.md)                                 |
-| `Challenger`   | [Flexera (Snow Software)](</vendors/flexera-(snow-software).md>) |
-| `Challenger`   | [ServiceNow](/vendors/servicenow.md)                             |
+| MQ Position    | MQ Vendor                                      |
+| -------------- | ---------------------------------------------- |
+| `Leader`       | [Zylo](/vendors/zylo.md)                       |
+| `Leader`       | [Torii](/vendors/torii.md)                     |
+| `Leader`       | [Zluri](/vendors/zluri.md)                     |
+| `Visionary`    | [Lumos](/vendors/lumos.md)                     |
+| `Visionary`    | [BetterCloud](/vendors/bettercloud.md)         |
+| `Niche Player` | [Productiv](/vendors/productiv.md)             |
+| `Niche Player` | [Trelica](/vendors/trelica.md)                 |
+| `Niche Player` | [Calero](/vendors/calero.md)                   |
+| `Niche Player` | [USU](/vendors/usu.md)                         |
+| `Niche Player` | [Oomnitza](/vendors/oomnitza.md)               |
+| `Niche Player` | [Josys](/vendors/josys.md)                     |
+| `Niche Player` | [CloudEagle](/vendors/cloudeagle.ai.md)        |
+| `Niche Player` | [FinQuery](/vendors/finquery.md)               |
+| `Challenger`   | [Flexera (Snow Software)](/vendors/flexera.md) |
+| `Challenger`   | [ServiceNow](/vendors/servicenow.md)           |
