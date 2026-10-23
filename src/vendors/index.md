@@ -837,6 +837,7 @@ This section provides an organized index of product or service based providers c
 - [Nile](/vendors/nile.md)
 - [NiCE](/vendors/nice.md)
 - [NICE Cognigy](/vendors/nice-cognigy.md)
+- [Nielsen](/vendors/nielsen.md)
 - [NinjaOne](/vendors/ninjaone.md)
 - [Nintex](/vendors/nintex.md)
 - [NopSec](/vendors/nopsec.md)
