@@ -115,5 +115,5 @@ and view the magic quadrant graphic
 | `Niche Player` | [GoodData](/vendors/gooddata.ai.md)                |
 | `Challenger`   | [Amazon Web Services](/vendors/amazon.md)          |
 | `Challenger`   | [Domo](/vendors/domo.md)                           |
-| `Challenger`   | [MicroStrategy](/vendors/microstrategy.md)         |
+| `Challenger`   | [MicroStrategy](/vendors/strategy.md)              |
 | `Challenger`   | [Alibaba Cloud](/vendors/alibaba-cloud.md)         |
