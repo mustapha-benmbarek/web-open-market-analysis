@@ -54,6 +54,6 @@ and view the magic quadrant graphic
 | `Niche Player` | [HubSpot](/vendors/hubspot.md)           |
 | `Niche Player` | [Freshworks](/vendors/freshworks.md)     |
 | `Niche Player` | [Vtiger](/vendors/vtiger.md)             |
-| `Challenger`   | [Pega](/vendors/pega.md)                 |
+| `Challenger`   | [Pega](/vendors/pegasystems.md)          |
 | `Challenger`   | [SAP](/vendors/sap.md)                   |
 | `Challenger`   | [SugaCRM](/vendors/sugacrm.md)           |

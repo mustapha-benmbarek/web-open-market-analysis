@@ -67,20 +67,20 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/intranet-packaged-solutions.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                      |
-| -------------- | ---------------------------------------------- |
-| `Leader`       | [Simpplr](/vendors/simpplr.md)                 |
-| `Leader`       | [Unily](/vendors/unily.md)                     |
-| `Leader`       | [Staffbase](/vendors/staffbase.md)             |
-| `Leader`       | [LumApps](/vendors/lumapps.md)                 |
-| `Leader`       | [Workvivo by Zoom](/vendors/workvivo.md)       |
-| `Leader`       | [Firstup](/vendors/firstup.md)                 |
-| `Leader`       | [Interact](/vendors/interact.md)               |
-| `Visionary`    | [Akumina](/vendors/akumina.md)                 |
-| `Visionary`    | [MangoApps](/vendors/mangoapps.md)             |
-| `Visionary`    | [Powell Software](/vendors/powell-software.md) |
-| `Niche Player` | [Appspace](/vendors/appspace.md)               |
-| `Niche Player` | [Axero](/vendors/axero.md)                     |
-| `Niche Player` | [Haiilo](/vendors/haiilo.md)                   |
-| `Niche Player` | [Igloo Software](/vendors/igloo-software.md)   |
-| `Challenger`   | [ServiceNow](/vendors/servicenow.md)           |
+| MQ Position    | MQ Vendor                                    |
+| -------------- | -------------------------------------------- |
+| `Leader`       | [Simpplr](/vendors/simpplr.md)               |
+| `Leader`       | [Unily](/vendors/unily.md)                   |
+| `Leader`       | [Staffbase](/vendors/staffbase.md)           |
+| `Leader`       | [LumApps](/vendors/lumapps.md)               |
+| `Leader`       | [Workvivo by Zoom](/vendors/workvivo.md)     |
+| `Leader`       | [Firstup](/vendors/firstup.md)               |
+| `Leader`       | [Interact](/vendors/interact.md)             |
+| `Visionary`    | [Akumina](/vendors/akumina.md)               |
+| `Visionary`    | [MangoApps](/vendors/mangoapps.md)           |
+| `Visionary`    | [Powell Software](/vendors/powell.md)        |
+| `Niche Player` | [Appspace](/vendors/appspace.md)             |
+| `Niche Player` | [Axero](/vendors/axero.md)                   |
+| `Niche Player` | [Haiilo](/vendors/haiilo.md)                 |
+| `Niche Player` | [Igloo Software](/vendors/igloo-software.md) |
+| `Challenger`   | [ServiceNow](/vendors/servicenow.md)         |

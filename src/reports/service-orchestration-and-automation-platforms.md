@@ -74,7 +74,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Stonebranch](/vendors/stonebranch.md)                     |
 | `Leader`       | [Broadcom](/vendors/broadcom.md)                           |
 | `Visionary`    | [Beta Systems Software](/vendors/beta-systems-software.md) |
-| `Visionary`    | [Resolve Systems](/vendors/resolve-systems.md)             |
+| `Visionary`    | [Resolve Systems](/vendors/resolve.md)                     |
 | `Niche Player` | [SMA Technologies](/vendors/sma-technologies.md)           |
 | `Niche Player` | [Absyss](/vendors/absyss.md)                               |
 | `Niche Player` | [Fortra](/vendors/fortra.md)                               |

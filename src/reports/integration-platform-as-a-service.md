@@ -91,7 +91,7 @@ and view the magic quadrant graphic
 | `Leader`       | [Salesforce (MuleSoft)](/vendors/salesforce.md) |
 | `Leader`       | [Informatica](/vendors/informatica.md)          |
 | `Leader`       | [Microsoft](/vendors/microsoft.md)              |
-| `Visionary`    | [SoftwareAG](/vendors/softwareag.md)            |
+| `Visionary`    | [SoftwareAG](/vendors/software-ag.md)           |
 | `Visionary`    | [Celigo](/vendors/celigo.md)                    |
 | `Visionary`    | [Tray.ai](/vendors/tray.ai.md)                  |
 | `Visionary`    | [SnapLogic](/vendors/snaplogic.md)              |

@@ -42,15 +42,15 @@ Here is a summary of the vendors featured in the Gartner magic quadrant **2024**
 and view the magic quadrant graphic
 <a href="/docs/2024/cloud-erp-for-product-centric-enterprises.png" target="_blank" rel="noopener noreferrer">here</a>.
 
-| MQ Position    | MQ Vendor                                                                |
-| -------------- | ------------------------------------------------------------------------ |
-| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)                          |
-| `Leader`       | [Microsoft](/vendors/microsoft.md)                                       |
-| `Leader`       | [Infor](/vendors/infor.md)                                               |
-| `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md)                    |
-| `Leader`       | [Epicor Software](/vendors/epicor-software.md)                           |
-| `Visionary`    | [IFS](/vendors/ifs.md)                                                   |
-| `Niche Player` | [Plex, By Rockwell Automation](/vendors/plex,-by-rockwell-automation.md) |
-| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)                               |
-| `Niche Player` | [Priority Software](/vendors/priority-software.md)                       |
-| `Challenger`   | [Oracle (NetSuite)](/vendors/oracle.md)                                  |
+| MQ Position    | MQ Vendor                                             |
+| -------------- | ----------------------------------------------------- |
+| `Leader`       | [Oracle (Fusion Cloud ERP)](/vendors/oracle.md)       |
+| `Leader`       | [Microsoft](/vendors/microsoft.md)                    |
+| `Leader`       | [Infor](/vendors/infor.md)                            |
+| `Leader`       | [SAP (S/4HANA Cloud Public Edition)](/vendors/sap.md) |
+| `Leader`       | [Epicor Software](/vendors/epicor-software.md)        |
+| `Visionary`    | [IFS](/vendors/ifs.md)                                |
+| `Niche Player` | [Plex, By Rockwell Automation](/vendors/rockwell.md)  |
+| `Niche Player` | [SAP (Business ByDesign)](/vendors/sap.md)            |
+| `Niche Player` | [Priority Software](/vendors/priority-software.md)    |
+| `Challenger`   | [Oracle (NetSuite)](/vendors/oracle.md)               |
