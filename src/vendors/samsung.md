@@ -24,3 +24,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Niche Player` | [CSP 5G Core Network Infrastructure Solutions](/reports/csp-5g-core-network-infrastructure-solutions.md#report-2025) |
 | `Visionary`    | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2025)                   |
 | `Niche Player` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                     |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [CSP 5G Core Network Infrastructure Solutions](/reports/csp-5g-core-network-infrastructure-solutions.md#report-2024) |
+| `Visionary`    | [CSP 5G RAN Infrastructure Solutions](/reports/csp-5g-ran-infrastructure-solutions.md#report-2024)                   |
+| `Niche Player` | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                                     |

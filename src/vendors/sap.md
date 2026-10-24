@@ -72,3 +72,31 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`    | [Core Banking Systems](/reports/core-banking-systems.md#report-2025)                                                             |
 | `Leader`       | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2025)                                           |
 | `Leader`       | [Process Mining Platforms](/reports/process-mining-platforms.md#report-2025)                                                     |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Visionary`    | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024) |
+| `Challenger`   | [API Management](/reports/api-management.md#report-2024)                                                               |
+| `Visionary`    | [Cloud Database Management Systems](/reports/cloud-database-management-systems.md#report-2024)                         |
+| `Niche Player` | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024)                               |
+| `Leader`       | [Data Integration Tools](/reports/data-integration-tools.md#report-2024)                                               |
+| `Leader`       | [Digital Commerce](/reports/digital-commerce.md#report-2024)                                                           |
+| `Visionary`    | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024)         |
+| `Leader`       | [Financial Planning Software](/reports/financial-planning-software.md#report-2024)                                     |
+| `Leader`       | [HCM Suites for 1,000+ Employee Enterprises](/reports/hcm-suites-for-1,000+-employee-enterprises.md#report-2024)       |
+| `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                         |
+| `Leader`       | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2024)                               |
+| `Challenger`   | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                                       |
+| `Challenger`   | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2024)                           |
+| `Challenger`   | [Supply Chain Planning Solutions](/reports/supply-chain-planning-solutions.md#report-2024)                             |
+| `Leader`       | [Warehouse Management Systems](/reports/warehouse-management-systems.md#report-2024)                                   |
+| `Niche Player` | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)         |
+| `Niche Player` | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |
+| `Challenger`   | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2024)                                     |
+| `Leader`       | [Cloud ERP for Product-Centric Enterprises](/reports/cloud-erp-for-product-centric-enterprises.md#report-2024)         |
+| `Leader`       | [Cloud ERP for Service-Centric Enterprises](/reports/cloud-erp-for-service-centric-enterprises.md#report-2024)         |
+| `Leader`       | [Enterprise Architecture Tools](/reports/enterprise-architecture-tools.md#report-2024)                                 |

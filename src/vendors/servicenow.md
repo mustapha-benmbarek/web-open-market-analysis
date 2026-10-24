@@ -44,3 +44,17 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Visionary`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2025)                                                 |
 | `Niche Player` | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2025)                                                   |
 | `Visionary`    | [Metadata Management Solutions](/reports/metadata-management-solutions.md#report-2025)                                           |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------------- |
+| `Niche Player` | [Cloud Financial Management Tools](/reports/cloud-financial-management-tools.md#report-2024)                   |
+| `Leader`       | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024)                       |
+| `Leader`       | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024) |
+| `Challenger`   | [Intranet Packaged Solutions](/reports/intranet-packaged-solutions.md#report-2024)                             |
+| `Visionary`    | [Observability Platforms](/reports/observability-platforms.md#report-2024)                                     |
+| `Visionary`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                               |
+| `Challenger`   | [SaaS Management Platforms](/reports/saas-management-platforms.md#report-2024)                                 |

@@ -24,3 +24,13 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`       | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2025)                         |
 | `Challenger`   | [Digital Asset Management Platforms](/reports/digital-asset-management-platforms.md#report-2025)               |
 | `Niche Player` | [Marketing Work Management Platforms](/reports/marketing-work-management-platforms.md#report-2025)             |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------------- |
+| `Challenger`   | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2024) |
+| `Leader`       | [Collaborative Work Management](/reports/collaborative-work-management.md#report-2024)                         |
+| `Niche Player` | [Marketing Work Management Platforms](/reports/marketing-work-management-platforms.md#report-2024)             |

@@ -26,3 +26,12 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | ------------ | ------------------------------------------------------------------------------------------------ |
 | `Leader`     | [Cloud-Native Application Platforms](/reports/cloud-native-application-platforms.md#report-2025) |
 | `Leader`     | [Container Management](/reports/container-management.md#report-2025)                             |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                            |
+| ------------ | -------------------------------------------------------------------- |
+| `Leader`     | [Container Management](/reports/container-management.md#report-2024) |
+| `Challenger` | [DevOps Platforms](/reports/devops-platforms.md#report-2024)         |

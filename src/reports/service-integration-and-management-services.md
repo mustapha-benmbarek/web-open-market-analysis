@@ -70,5 +70,5 @@ and view the magic quadrant graphic
 | `Niche Player` | [Tech Mahindra](/vendors/tech-mahindra.md) |
 | `Niche Player` | [Unisys](/vendors/unisys.md)               |
 | `Niche Player` | [Kyndryl](/vendors/kyndryl.md)             |
-| `Niche Player` | [Stefanini](/vendors/stefanini.md)         |
+| `Niche Player` | [Stefanini](/vendors/stefanini-group.md)   |
 | `Challenger`   | [Infosys](/vendors/infosys.md)             |

@@ -55,3 +55,22 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Challenger`   | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2025)                                   |
 | `Leader`       | [Configure, Price and Quote Applications](/reports/configure-price-and-quote-applications.md#report-2025)                        |
 | `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2025)           |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position    | MQ Report                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `Leader`       | [B2B Marketing Automation Platforms](/reports/b2b-marketing-automation-platforms.md#report-2024)                            |
+| `Leader`       | [CRM Customer Engagement Center](/reports/crm-customer-engagement-center.md#report-2024)                                    |
+| `Leader`       | [Digital Commerce](/reports/digital-commerce.md#report-2024)                                                                |
+| `Challenger`   | [Enterprise Low-Code Application Platforms](/reports/enterprise-low-code-application-platforms.md#report-2024)              |
+| `Leader`       | [Multichannel Marketing Hubs](/reports/multichannel-marketing-hubs.md#report-2024)                                          |
+| `Niche Player` | [Recurring Billing Applications](/reports/recurring-billing-applications.md#report-2024)                                    |
+| `Visionary`    | [Robotic Process Automation](/reports/robotic-process-automation.md#report-2024)                                            |
+| `Visionary`    | [SaaS P&C Insurance Core Platforms, North America](/reports/saas-p&c-insurance-core-platforms-north-america.md#report-2024) |
+| `Leader`       | [Sales Force Automation Platforms](/reports/sales-force-automation-platforms.md#report-2024)                                |
+| `Leader`       | [API Management](/reports/api-management.md#report-2024)                                                                    |
+| `Leader`       | [Integration Platform as a Service](/reports/integration-platform-as-a-service.md#report-2024)                              |
+| `Leader`       | [Analytics and Business Intelligence Platforms](/reports/analytics-and-business-intelligence-platforms.md#report-2024)      |

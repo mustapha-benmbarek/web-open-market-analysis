@@ -24,3 +24,12 @@ Below is a summary of the product and service markets, as defined by Gartner, in
 | `Leader`     | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2025)                       |
 | `Leader`     | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2025) |
 | `Visionary`  | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2025) |
+
+## Market 2024
+
+Below is a summary of the product and service markets, as defined by Gartner, in which this vendor was evaluated and positioned in **2024**.
+
+| MQ Position  | MQ Report                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------- |
+| `Leader`     | [Adaptive Project Management and Reporting](/reports/adaptive-project-management-and-reporting.md#report-2024) |
+| `Leader`     | [Strategic Portfolio Management](/reports/strategic-portfolio-management.md#report-2024)                       |
