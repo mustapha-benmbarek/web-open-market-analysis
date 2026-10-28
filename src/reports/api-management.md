@@ -6,13 +6,40 @@ hide_menu: true
 
 # API Management
 
-AI is transforming API management, fuelling innovation and new security and governance demands. This Magic Quadrant evaluates 17 vendors, providing software engineering leaders with a guide to adopting advanced solutions for agile, resilient API ecosystems.
+APIs provide the foundation for AI initiatives, headless architectures, modernization and digital product monetization. However, their widespread use introduces significant challenges. This Magic Quadrant assesses 17 API management vendors to help software engineering leaders select the most suitable ones.
 
 ## Market Definition
 
-Gartner defines the application programming interface (API) management market as the market for software to manage, govern and secure APIs.
+Gartner defines API management as the process of creating, securing, monitoring and maintaining application programming interfaces (APIs) in a controlled and scalable way. It ensures that APIs are usable, reliable and aligned with organizational policies and business goals.
 
-APIs modernize IT architectures. They provide context, tools and resources to generative and agentic AI programs and provide access to systems, services, partners and data services. API management tools enable organizations to plan, deploy, secure, operate, version control and retire APIs, regardless of their size, region or industry.
+APIs modernize IT architectures. They provide context, tools and resources to generative and agentic AI programs and provide access to systems, services, partners and data services. APImanagement tools enable organizations to plan, deploy, secure, operate, version control and retire APIs, regardless of their size, region or industry.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/api-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/api-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                                   |
+| --------------- | ----------------------------------------------- |
+| `Leader`        | [IBM](/vendors/ibm.md)                          |
+| `Leader`        | [Kong](/vendors/kong.md)                        |
+| `Leader`        | [Salesforce (MuleSoft)](/vendors/salesforce.md) |
+| `Leader`        | [Gravitee](/vendors/gravitee.md)                |
+| `Leader`        | [Google](/vendors/google.md)                    |
+| `Leader`        | [WSO2](/vendors/wso2.md)                        |
+| `Leader`        | [Boomi](/vendors/boomi.md)                      |
+| `Leader`        | [Sensedia](/vendors/sensedia.md)                |
+| `Visionary`     | [Tyk](/vendors/tyk.md)                          |
+| `Visionary`     | [Postman](/vendors/postman.md)                  |
+| `Niche Player`  | [SmartBear](/vendors/smartbear.md)              |
+| `Niche Player`  | [Traefik Labs](/vendors/traefik-labs.md)        |
+| `Challenger`    | [Microsoft](/vendors/microsoft.md)              |
+| `Challenger`    | [Axway](/vendors/axway.md)                      |
+| `Challenger`    | [SAP](/vendors/sap.md)                          |
+| `Challenger`    | [Amazon Web Services](/vendors/amazon.md)       |
+| `Challenger`    | [Workato](/vendors/workato.md)                  |
 
 ## Report 2025
 
