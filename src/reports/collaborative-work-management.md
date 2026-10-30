@@ -6,11 +6,11 @@ hide_menu: true
 
 # Collaborative Work Management
 
-Collaborative work management platforms improve planning, resource management, and teamwork, driving operational efficiency, strategic alignment, and governance in today’s digital workplace. This Magic Quadrant evaluates vendors in this space and highlights key market trends, including AI-powered automation, contextual collaboration, and real-time insights.
+Collaborative work management platforms increasingly connect team productivity with operational work and AI-supported execution. Use this Magic Quadrant to compare providers’ current capabilities and strategies for automation, governance and specialized work.
 
 ## Market Definition
 
-Gartner defines the collaborative work management (CWM) market as the market for stand-alone software tools that provide task-driven workspaces to enable end users to plan, coordinate and automate their work. These tools provide an integrated assembly of user-friendly capabilities for work planning, in-context collaboration, content collaboration, workflow and automation, reporting, analysis and dashboarding, intelligent assistance, anduse-case acceleration on a platform that handles data management and administrative operations. Tools are defined by their purpose (work planning and execution), target users and breadth of functionality.
+Gartner defines the collaborative work management (CWM) market as the market for stand-alone software tools that provide task-driven workspaces to enable end users to plan, coordinate and automate their work. These tools provide an integrated assembly of user-friendly capabilities for work planning, in-context collaboration, content collaboration, workflow and automation, reporting, analysis and dashboarding, intelligent assistance, and use-case acceleration on a platform that handles data management and administrative operations. Tools are defined by their purpose (work planning and execution), target users and breadth of functionality.
 
 CWM tools empower business users to:
 
@@ -23,6 +23,27 @@ CWM tools empower business users to:
 - **Observe work activity continuously** by means of dynamic, customizable, operational and management-level reports, and dashboards.
 
 - **Operate at scale** by means of template management, batch operations to provide preconfigured team hubs with appropriate permissions, data management controls, and integration with other workplace and business applications.
+
+## Report 2026
+
+Here is a summary of the vendors featured in the Gartner magic quadrant **2026** report. <br/>For the full analysis and detailed insights, you can read the report
+<a href="/docs/2026/collaborative-work-management.pdf" target="_blank" rel="noopener noreferrer">here</a>
+and view the magic quadrant graphic
+<a href="/docs/2026/collaborative-work-management.png" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Market Status   | Market Vendor                            |
+| --------------- | ---------------------------------------- |
+| `Leader`        | [monday.com](/vendors/monday.com.md)     |
+| `Leader`        | [Asana](/vendors/asana.md)               |
+| `Leader`        | [Smartsheet](/vendors/smartsheet.md)     |
+| `Leader`        | [Atlassian](/vendors/atlassian.md)       |
+| `Leader`        | [Wrike](/vendors/wrike.md)               |
+| `Leader`        | [ClickUp](/vendors/clickup.md)           |
+| `Visionary`     | [Quickbase](/vendors/quickbase.md)       |
+| `Visionary`     | [Superhuman](/vendors/superhuman.md)     |
+| `Niche Player`  | [Teamwork.com](/vendors/teamwork.com.md) |
+| `Niche Player`  | [Meister](/vendors/meister.md)           |
+| `Challenger`    | [Adobe](/vendors/adobe.md)               |
 
 ## Report 2025
 
